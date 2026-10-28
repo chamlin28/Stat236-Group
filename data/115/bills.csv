@@ -1,0 +1,430 @@
+congress,chamber,rollnumber,date,session,clerk_rollnumber,majority_requirement,yea_count,nay_count,bill_number,vote_result,vote_desc,vote_question,dtl_desc,law,outcome,text_version
+115,House,7,2017-01-04,1,8,1/2,238,184,HR21,Passed,Midnight Rules Relief Act of 2017,On Passage,,,passed_house_not_enacted,Engrossed in House
+115,House,22,2017-01-05,1,23,1/2,237,187,HR26,Passed,Regulations from the Executive in Need of Scrutiny Act of 2017,On Passage,,,passed_house_not_enacted,Engrossed in House
+115,House,23,2017-01-09,1,24,2/3,405,0,HR315,Passed,Improving Access to Maternity Care Act,On Motion to Suspend the Rules and Pass,,115-320,enacted,Enrolled Bill
+115,House,24,2017-01-09,1,25,2/3,404,0,HR304,Passed,Protecting Patient Access to Emergency Medications Act of 2017,On Motion to Suspend the Rules and Pass,,115-83,enacted,Enrolled Bill
+115,House,30,2017-01-10,1,31,1/2,344,73,HR79,Passed,Helping Angels Lead Our Startups (HALOS) Act,On Passage,,,passed_house_not_enacted,Engrossed in House
+115,House,33,2017-01-11,1,34,2/3,386,17,HR39,Passed,Tested Ability to Leverage Exceptional National Talent Act,On Motion to Suspend the Rules and Pass,,115-1,enacted,Enrolled Bill
+115,House,44,2017-01-11,1,45,1/2,238,183,HR5,Passed,Regulatory Accountability Act of 2017,On Passage,,,passed_house_not_enacted,Engrossed in House
+115,House,50,2017-01-12,1,51,1/2,243,184,HR78,Passed,SEC Regulatory Accountability Act,On Passage,,,passed_house_not_enacted,Engrossed in House
+115,House,53,2017-01-12,1,54,1/2,239,182,HR238,Passed,Commodity End-User Relief Act,On Passage,,,passed_house_not_enacted,Engrossed in House
+115,House,58,2017-01-13,1,59,1/2,268,151,S84,Passed,To provide for an exception to a limitation against appointment of persons as Secretary of Defense within seven years of relief from active duty as a regular commissioned officer of the Armed Forces,On Passage,,115-2,enacted,Enrolled Bill
+115,House,59,2017-01-23,1,60,2/3,398,5,HR423,Passed,Anti-Spoofing Act,On Motion to Suspend the Rules and Pass,,,passed_house_not_enacted,Engrossed in House
+115,House,60,2017-01-23,1,61,2/3,408,0,HR582,Passed,Kari’s Law Act,On Motion to Suspend the Rules and Pass,,115-127,enacted,Enrolled Bill
+115,House,64,2017-01-24,1,65,1/2,238,183,HR7,Passed,To prohibit taxpayer funded abortions,On Passage,,,passed_house_not_enacted,Engrossed in House
+115,House,65,2017-01-30,1,66,2/3,388,0,HR374,Passed,To remove the sunset provision of section 203 of Public Law 105-384 and for other purposes,On Motion to Suspend the Rules and Pass,,115-49,enacted,Enrolled Bill
+115,House,66,2017-01-30,1,67,2/3,396,8,HR538,Passed,Ocmulgee Mounds National Historical Park Boundary Revision Act of 2017,"On Motion to Suspend the Rules and Pass, as Amended",,,passed_house_not_enacted,Engrossed in House
+115,House,71,2017-02-01,1,72,1/2,235,187,HJRES41,Passed,"Providing for congressional disapproval under chapter 8 of title 5, United States Code, of a rule submitted by the Securities and Exchange Commission relating to “Disclosure of Payments by Resource Extraction Issuers”",On Passage,,115-4,enacted,Enrolled Bill
+115,House,72,2017-02-01,1,73,1/2,228,194,HJRES38,Passed,Disapproving the rule submitted by the Department of the Interior known as the Stream Protection Rule,On Passage,,115-5,enacted,Enrolled Bill
+115,House,75,2017-02-02,1,76,1/2,236,187,HJRES37,Passed,"Disapproving the rule submitted by the Department of Defense, the General Services Administration, and the National Aeronautics and Space Administration relating to the Federal Acquisition Regulation",On Passage,,115-11,enacted,Enrolled Bill
+115,House,76,2017-02-02,1,77,1/2,235,180,HJRES40,Passed,"Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Social Security Administration relating to Implementation of the NICS Improvement Amendments Act of 2007",On Passage,,115-8,enacted,Enrolled Bill
+115,House,77,2017-02-03,1,78,1/2,221,191,HJRES36,Passed,"Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the final rule of the Bureau of Land Management relating to “Waste Prevention, Production Subject to Royalties, and Resource Conservation”",On Passage,,,passed_house_not_enacted,Engrossed in House
+115,House,78,2017-02-06,1,79,2/3,409,1,HR689,Passed,Bolts Ditch Access and Use Act,On Motion to Suspend the Rules and Pass,,,passed_house_not_enacted,Engrossed in House
+115,House,79,2017-02-06,1,80,2/3,407,0,HR337,Passed,Black Hills National Cemetery Boundary Expansion Act,On Motion to Suspend the Rules and Pass,,,passed_house_not_enacted,Engrossed in House
+115,House,82,2017-02-07,1,83,1/2,234,186,HJRES44,Passed,"Disapproving the rule submitted by the Department of the Interior relating to Bureau of Land Management regulations that establish the procedures used to prepare, revise, or amend land use plans pursuant to the Federal Land Policy and Management Act of 1976",On Passage,,115-12,enacted,Enrolled Bill
+115,House,83,2017-02-07,1,84,1/2,234,190,HJRES57,Passed,"Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Department of Education relating to accountability and State plans under the Elementary and Secondary Education Act of 1965",On Passage,,115-13,enacted,Enrolled Bill
+115,House,84,2017-02-07,1,85,1/2,240,181,HJRES58,Passed,"Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Department of Education relating to teacher preparation issues",On Passage,,115-14,enacted,Enrolled Bill
+115,House,85,2017-02-13,1,86,2/3,409,1,HR244,Passed,HIRE Vets Act,"On Motion to Suspend the Rules and Pass, as Amended",,115-31,enacted,Enrolled Bill
+115,House,86,2017-02-13,1,87,2/3,407,0,HR974,Passed,BRAVE Act,On Motion to Suspend the Rules and Pass,,,passed_house_not_enacted,Engrossed in House
+115,House,91,2017-02-14,1,92,1/2,250,171,HR428,Passed,Red River Gradient Boundary Survey Act,On Passage,,,passed_house_not_enacted,Engrossed in House
+115,House,94,2017-02-15,1,95,1/2,234,191,HJRES67,Passed,Disapproving the rule submitted by the Department of Labor relating to savings arrangements established by qualified State political subdivisions for non-governmental employees.,On Passage,,115-24,enacted,Enrolled Bill
+115,House,95,2017-02-15,1,96,1/2,231,193,HJRES66,Passed,Disapproving the rule submitted by the Department of Labor relating to savings arrangements established by States for non-governmental employees.,On Passage,,115-35,enacted,Enrolled Bill
+115,House,96,2017-02-15,1,97,1/2,236,189,HJRES42,Passed,Disapproving the rule submitted by the Department of Labor relating to drug testing of unemployment compensation applicants,On Passage,,115-17,enacted,Enrolled Bill
+115,House,97,2017-02-16,1,98,1/2,225,193,HJRES69,Passed,"Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the final rule of the Department of the Interior relating to “Non-Subsistence Take of Wildlife, and Public Participation and Closure Procedures, on National Wildlife Refuges in Alaska”",On Passage,,115-20,enacted,Enrolled Bill
+115,House,98,2017-02-16,1,99,1/2,230,188,HJRES43,Passed,"Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the final rule submitted by Secretary of Health and Human Services relating to compliance with title X requirements by project recipients in selecting subrecipients",On Passage,,115-23,enacted,Enrolled Bill
+115,House,99,2017-02-27,1,100,2/3,415,1,HR699,Passed,Mount Hood Cooper Spur Land Exchange Clarification Act,On Motion to Suspend the Rules and Pass,,115-110,enacted,Enrolled Bill
+115,House,101,2017-02-27,1,102,2/3,369,42,HR863,Passed,"To facilitate the addition of park administration at the Coltsville National Historical Park, and for other purposes",On Motion to Suspend the Rules and Pass,,115-111,enacted,Enrolled Bill
+115,House,113,2017-03-01,1,114,1/2,240,185,HR998,Passed,SCRUB Act,On Passage,,,passed_house_not_enacted,Engrossed in House
+115,House,119,2017-03-01,1,120,1/2,241,184,HR1009,Passed,"OIRA Insight, Reform, and Accountability Act",On Passage,,,passed_house_not_enacted,Engrossed in House
+115,House,120,2017-03-01,1,121,1/2,231,191,HJRES83,Passed,Disapproving the rule submitted by the Department of Labor relating to “Clarification of Employer’s Continuing Obligation to Make and Maintain an Accurate Record of Each Recordable Injury and Illness”,On Passage,,115-21,enacted,Enrolled Bill
+115,House,125,2017-03-02,1,126,1/2,246,176,HR1004,Passed,Regulatory Integrity Act,On Passage,,,passed_house_not_enacted,Engrossed in House
+115,House,126,2017-03-07,1,127,2/3,411,2,HR1362,Passed,"To name the Department of Veterans Affairs community-based outpatient clinic in Pago Pago, American Samoa, the Faleomavaega Eni Fa’aua’a Hunkin VA Clinic",On Motion to Suspend the Rules and Pass,,115-16,enacted,Enrolled Bill
+115,House,135,2017-03-08,1,136,1/2,371,48,HR1301,Passed,"Making appropriations for the Department of Defense for the fiscal year ending September 30, 2017, and for other purposes",On Passage,,115-124,enacted,Enrolled Bill
+115,House,147,2017-03-09,1,148,1/2,220,201,HR985,Passed,Fairness in Class Action Litigation Act,On Passage,,,passed_house_not_enacted,Engrossed in House
+115,House,151,2017-03-09,1,152,1/2,224,194,HR725,Passed,Innocent Party Protection Act,On Passage,,,passed_house_not_enacted,Engrossed in House
+115,House,157,2017-03-10,1,158,1/2,230,188,HR720,Passed,Lawsuit Abuse Reduction Act,On Passage,,,passed_house_not_enacted,Engrossed in House
+115,House,158,2017-03-15,1,159,2/3,407,1,HR132,Passed,Arbuckle Project Maintenance Complex and District Office Conveyance Act of 2017,On Motion to Suspend the Rules and Pass,,,passed_house_not_enacted,Engrossed in House
+115,House,159,2017-03-15,1,160,2/3,408,0,HR648,Passed,To authorize the Secretary of the Interior to amend the Definite Plan Report for the Seedskadee Project to enable the use of the active capacity of the Fontenelle Reservoir,On Motion to Suspend the Rules and Pass,,,passed_house_not_enacted,Engrossed in House
+115,House,167,2017-03-16,1,168,1/2,237,178,HR1259,Passed,VA Accountability First Act,On Passage,,,passed_house_not_enacted,Engrossed in House
+115,House,168,2017-03-16,1,169,1/2,240,175,HR1181,Passed,Veterans 2nd Amendment Protection Act,On Passage,,,passed_house_not_enacted,Engrossed in House
+115,House,170,2017-03-17,1,171,1/2,412,0,HR1367,Passed,"To improve the authority of the Secretary of Veterans Affairs to hire and retain physicians and other employees of the Department of Veterans Affairs, and for other purposes",On Passage,,,passed_house_not_enacted,Engrossed in House
+115,House,172,2017-03-20,1,173,2/3,408,0,HR1294,Passed,Reducing DHS Acquisition Cost Growth Act,On Motion to Suspend the Rules and Pass,,,passed_house_not_enacted,Engrossed in House
+115,House,173,2017-03-20,1,174,2/3,409,0,HR1249,Passed,DHS Multiyear Acquisition Strategy Act of 2017,"On Motion to Suspend the Rules and Pass, as Amended",,,passed_house_not_enacted,Engrossed in House
+115,House,174,2017-03-20,1,175,2/3,407,1,HR1252,Passed,DHS Acquisition Authorities Act of 2017,"On Motion to Suspend the Rules and Pass, as Amended",,,passed_house_not_enacted,Engrossed in House
+115,House,177,2017-03-21,1,178,2/3,414,2,HR1353,Passed,Transparency in Technological Acquisitions Act of 2017,On Motion to Suspend the Rules and Pass,,,passed_house_not_enacted,Engrossed in House
+115,House,180,2017-03-21,1,181,2/3,415,0,HR1297,Passed,Quadrennial Homeland Security Review Technical Corrections Act of 2017,On Motion to Suspend the Rules and Pass,,,passed_house_not_enacted,Engrossed in House
+115,House,183,2017-03-22,1,184,1/2,416,7,HR372,Passed,Competitive Health Insurance Reform Act of 2017,On Passage,,,passed_house_not_enacted,Engrossed in House
+115,House,185,2017-03-22,1,186,1/2,236,175,HR1101,Passed,Small Business Health Fairness Act,On Passage,,,passed_house_not_enacted,Engrossed in House
+115,House,186,2017-03-22,1,187,2/3,406,6,HR1238,Passed,Securing our Agriculture and Food Act,On Motion to Suspend the Rules and Pass,,115-43,enacted,Enrolled Bill
+115,House,192,2017-03-24,1,193,2/3,424,0,HR1365,Passed,Department of Homeland Security Acquisition Innovation Act,"On Motion to Suspend the Rules and Pass, as Amended",,,passed_house_not_enacted,Engrossed in House
+115,House,194,2017-03-27,1,195,2/3,408,0,HR1117,Passed,To require the Administrator of the Federal Emergency Management Agency to submit a report regarding certain plans regarding assistance to applicants and grantees during the response to an emergency or disaster,"On Motion to Suspend the Rules and Pass, as Amended",,115-69,enacted,Enrolled Bill
+115,House,195,2017-03-27,1,196,2/3,395,11,HR654,Passed,Pacific Northwest Earthquake Preparedness Act,"On Motion to Suspend the Rules and Pass, as Amended",,,passed_house_not_enacted,Engrossed in House
+115,House,201,2017-03-28,1,202,1/2,215,205,SJRES34,Passed,"Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Federal Communications Commission relating to “Protecting the Privacy of Customers of Broadband and Other Telecommunications Services”",On Passage,,115-22,enacted,Enrolled Bill
+115,House,205,2017-03-29,1,206,1/2,228,194,HR1430,Passed,Honest and Open New EPA Science Treatment Act,On Passage,,,passed_house_not_enacted,Engrossed in House
+115,House,207,2017-03-30,1,208,1/2,229,193,HR1431,Passed,EPA Science Advisory Board Reform Act of 2017,On Passage,,,passed_house_not_enacted,Engrossed in House
+115,House,209,2017-04-03,1,210,2/3,394,1,HR479,Passed,North Korea State Sponsor of Terrorism Designation Act of 2017,"On Motion to Suspend the Rules and Pass, as Amended",,,passed_house_not_enacted,Engrossed in House
+115,House,215,2017-04-04,1,216,1/2,331,87,HR1343,Passed,Encouraging Employee Ownership Act,On Passage,,,passed_house_not_enacted,Engrossed in House
+115,House,219,2017-04-05,1,220,1/2,400,16,HR1304,Passed,Self-Insurance Protection Act,On Passage,,,passed_house_not_enacted,Engrossed in House
+115,House,220,2017-04-06,1,221,1/2,417,3,HR1219,Passed,Supporting America’s Innovators Act,On Passage,,,passed_house_not_enacted,Engrossed in House
+115,House,222,2017-04-25,1,223,2/3,409,0,HR876,Passed,Aviation Employee Screening and Security Enhancement Act of 2017,"On Motion to Suspend the Rules and Pass, as Amended",,,passed_house_not_enacted,Engrossed in House
+115,House,226,2017-04-26,1,227,1/2,378,48,HR1695,Passed,Register of Copyrights Selection and Accountability Act,On Passage,,,passed_house_not_enacted,Engrossed in House
+115,House,230,2017-04-27,1,231,2/3,417,3,S496,Passed,To repeal the rule issued by the Federal Highway Administration and the Federal Transit Administration entitled “Metropolitan Planning Organization Coordination and Planning Area Reform”,On Motion to Suspend the Rules and Pass,,115-33,enacted,Enrolled Bill
+115,House,232,2017-04-27,1,233,1/2,425,0,HR1694,Passed,Fannie and Freddie Open Records Act of 2017,On Passage,,,passed_house_not_enacted,Engrossed in House
+115,House,235,2017-04-28,1,236,1/2,382,30,HJRES99,Passed,"Making further continuing appropriations for fiscal year 2017, and for other purposes",On Passage,,115-30,enacted,Enrolled Bill
+115,House,236,2017-05-01,1,237,2/3,405,2,HR910,Passed,Fair Access to Investment Research Act of 2017,"On Motion to Suspend the Rules and Pass, as Amended",,,passed_house_not_enacted,Engrossed in House
+115,House,237,2017-05-01,1,238,2/3,406,0,HR1312,Passed,Small Business Capital Formation Enhancement Act,"On Motion to Suspend the Rules and Pass, as Amended",,,passed_house_not_enacted,Engrossed in House
+115,House,238,2017-05-01,1,239,2/3,407,0,HR657,Passed,Follow the Rules Act,"On Motion to Suspend the Rules and Pass, as Amended",,115-40,enacted,Enrolled Bill
+115,House,241,2017-05-02,1,242,2/3,419,0,HR1679,Passed,"FEMA Accountability, Modernization and Transparency Act of 2017",On Motion to Suspend the Rules and Pass,,115-87,enacted,Enrolled Bill
+115,House,243,2017-05-02,1,244,1/2,229,197,HR1180,Passed,Working Families Flexibility Act of 2017,On Passage,,,passed_house_not_enacted,Engrossed in House
+115,House,247,2017-05-03,1,248,2/3,425,0,HR1665,Passed,Disaster Declaration Improvement Act,"On Motion to Suspend the Rules and Pass, as Amended",,,passed_house_not_enacted,Engrossed in House
+115,House,249,2017-05-03,1,250,2/3,423,0,HR1678,Passed,"To amend the Robert T. Stafford Disaster Relief and Emergency Assistance Act concerning the statute of limitations for actions to recover disaster or emergency assistance payments, and for other purposes","On Motion to Suspend the Rules and Pass, as Amended",,,passed_house_not_enacted,Engrossed in House
+115,House,254,2017-05-04,1,255,1/2,429,0,HR2192,Passed,To amend the Public Health Service Act to eliminate the non-application of certain State waiver provisions to Members of Congress and congressional staff,On Passage,,,passed_house_not_enacted,Engrossed in House
+115,House,255,2017-05-04,1,256,1/2,217,213,HR1628,Passed,American Health Care Act,On Passage,,,passed_house_not_enacted,Engrossed in House
+115,House,256,2017-05-04,1,257,2/3,419,1,HR1644,Passed,Korean Interdiction and Modernization of Sanctions Act,"On Motion to Suspend the Rules and Pass, as Amended",,,passed_house_not_enacted,Engrossed in House
+115,House,257,2017-05-16,1,258,2/3,408,3,HR1616,Passed,Strengthening State and Local Cyber Crime Fighting Act of 2017,"On Motion to Suspend the Rules and Pass, as Amended",,115-76,enacted,Enrolled Bill
+115,House,261,2017-05-17,1,262,2/3,418,1,HR1177,Passed,Removing Outdated Restrictions to Allow for Job Growth Act,On Motion to Suspend the Rules and Pass,,115-156,enacted,Enrolled Bill
+115,House,264,2017-05-18,1,265,1/2,271,143,HR115,Passed,Thin Blue Line Act,On Passage,,,passed_house_not_enacted,Engrossed in House
+115,House,267,2017-05-19,1,268,1/2,229,177,HR1039,Passed,Probation Officer Protection Act of 2017,On Passage,,,passed_house_not_enacted,Engrossed in House
+115,House,268,2017-05-22,1,269,2/3,372,30,HR1862,Passed,Global Child Protection Act of 2017,On Motion to Suspend the Rules and Pass,,,passed_house_not_enacted,Engrossed in House
+115,House,269,2017-05-22,1,270,2/3,371,30,HR1842,Passed,Strengthening Children’s Safety Act of 2017,On Motion to Suspend the Rules and Pass,,,passed_house_not_enacted,Engrossed in House
+115,House,272,2017-05-23,1,273,2/3,418,0,HR2288,Passed,Veterans Appeals Improvement and Modernization Act of 2017,"On Motion to Suspend the Rules and Pass, as Amended",,115-55,enacted,Enrolled Bill
+115,House,276,2017-05-24,1,277,2/3,418,0,HR2052,Passed,PRIVATE Act,On Motion to Suspend the Rules and Pass,,,passed_house_not_enacted,Engrossed in House
+115,House,277,2017-05-24,1,278,2/3,419,0,HR467,Passed,VA Scheduling Accountability Act,On Motion to Suspend the Rules and Pass,,,passed_house_not_enacted,Engrossed in House
+115,House,281,2017-05-24,1,282,1/2,256,165,HR953,Passed,Reducing Regulatory Burdens Act,On Passage,,,passed_house_not_enacted,Engrossed in House
+115,House,283,2017-05-25,1,284,1/2,368,51,HR1761,Passed,Protecting Against Child Exploitation Act of 2017,On Passage,,,passed_house_not_enacted,Engrossed in House
+115,House,284,2017-05-25,1,285,1/2,415,3,HR1973,Passed,Protecting Young Victims from Sexual Abuse Act of 2017,On Passage,,,passed_house_not_enacted,Engrossed in House
+115,House,293,2017-06-07,1,294,1/2,282,137,HR2213,Passed,Anti-Border Corruption Reauthorization Act,On Passage,,,passed_house_not_enacted,Engrossed in House
+115,House,298,2017-06-08,1,299,1/2,233,186,HR10,Passed,Financial CHOICE Act of 2017,On Passage,,,passed_house_not_enacted,Engrossed in House
+115,House,299,2017-06-12,1,300,2/3,400,1,HR2292,Passed,To extend a project of the Federal Energy Regulatory Commission involving the Cannonsville Dam,On Motion to Suspend the Rules and Pass,,115-206,enacted,Enrolled Bill
+115,House,300,2017-06-12,1,301,2/3,402,1,HR2457,Passed,J. Bennett Johnston Waterway Hydropower Extension Act,"On Motion to Suspend the Rules and Pass, as Amended",,,passed_house_not_enacted,Engrossed in House
+115,House,305,2017-06-13,1,306,1/2,238,184,HR2581,Passed,Verify First Act,On Passage,,,passed_house_not_enacted,Engrossed in House
+115,House,306,2017-06-13,1,307,1/2,368,55,S1094,Passed,Department of Veterans Affairs Accountability and Whistleblower Protection Act,On Passage,,115-41,enacted,Enrolled Bill
+115,House,307,2017-06-15,1,308,1/2,267,144,HR2579,Passed,Broader Options for Americans Act,On Passage,,,passed_house_not_enacted,Engrossed in House
+115,House,308,2017-06-20,1,309,2/3,391,8,HR2847,Passed,Improving Services for Older Youth in Foster Care Act,On Motion to Suspend the Rules and Pass,,,passed_house_not_enacted,Engrossed in House
+115,House,309,2017-06-20,1,310,2/3,382,19,HR2866,Passed,Reducing Unnecessary Barriers for Relative Foster Parents Act,"On Motion to Suspend the Rules and Pass, as Amended",,,passed_house_not_enacted,Engrossed in House
+115,House,314,2017-06-21,1,315,1/2,300,118,HR1873,Passed,Electricity Reliability and Forest Protection Act,On Passage,,,passed_house_not_enacted,Engrossed in House
+115,House,318,2017-06-22,1,319,1/2,233,180,HR1654,Passed,Water Supply Permitting Coordination Act,On Passage,,,passed_house_not_enacted,Engrossed in House
+115,House,321,2017-06-23,1,322,1/2,377,34,HR2842,Passed,Accelerating Individuals into the Workforce Act,On Passage,,,passed_house_not_enacted,Engrossed in House
+115,House,322,2017-06-26,1,323,2/3,409,0,HR2547,Passed,Veterans Expanded Trucking Opportunities Act of 2017,"On Motion to Suspend the Rules and Pass, as Amended",,,passed_house_not_enacted,Engrossed in House
+115,House,323,2017-06-26,1,324,2/3,409,0,HR2258,Passed,Active Duty Voluntary Acquisition of Necessary Credentials for Employment (ADVANCE) Act,"On Motion to Suspend the Rules and Pass, as Amended",,,passed_house_not_enacted,Engrossed in House
+115,House,328,2017-06-27,1,329,2/3,424,0,HR497,Passed,Santa Ana River Wash Plan Land Exchange Act,"On Motion to Suspend the Rules and Pass, as Amended",,,passed_house_not_enacted,Engrossed in House
+115,House,329,2017-06-27,1,330,2/3,424,1,HR220,Passed,"To authorize the expansion of an existing hydroelectric project, and for other purposes","On Motion to Suspend the Rules and Pass, as Amended",,115-201,enacted,Enrolled Bill
+115,House,336,2017-06-28,1,337,1/2,218,210,HR1215,Passed,Protecting Access to Care Act,On Passage,,,passed_house_not_enacted,Engrossed in House
+115,House,337,2017-06-28,1,338,2/3,423,0,HR1500,Passed,Robert Emmet Park Act,On Motion to Suspend the Rules and Pass,,,passed_house_not_enacted,Engrossed in House
+115,House,341,2017-06-29,1,342,1/2,228,195,HR3003,Passed,No Sanctuary for Criminals Act,On Passage,,,passed_house_not_enacted,Engrossed in House
+115,House,343,2017-06-29,1,344,1/2,257,167,HR3004,Passed,Kate’s Law,On Passage,,,passed_house_not_enacted,Engrossed in House
+115,House,344,2017-07-11,1,345,2/3,406,0,HR1397,Passed,"To authorize, direct, facilitate, and expedite the transfer of administrative jurisdiction of certain Federal land, and for other purposes",On Motion to Suspend the Rules and Pass,,115-190,enacted,Enrolled Bill
+115,House,345,2017-07-11,1,346,2/3,401,15,HR1719,Passed,"To authorize the Secretary of the Interior to acquire approximately 44 acres of land in Martinez, California, and for other purposes","On Motion to Suspend the Rules and Pass, as Amended",,115-191,enacted,Enrolled Bill
+115,House,348,2017-07-12,1,349,2/3,416,2,HR1492,Passed,Medical Controlled Substances Transportation Act,On Motion to Suspend the Rules and Pass,,,passed_house_not_enacted,Engrossed in House
+115,House,351,2017-07-12,1,352,1/2,230,190,HR23,Passed,Gaining Responsibility on Water Act,On Passage,,,passed_house_not_enacted,Engrossed in House
+115,House,378,2017-07-17,1,379,2/3,401,0,HR2210,Passed,Sergeant Joseph George Kusick VA Community Living Center,On Motion to Suspend the Rules and Pass,,115-47,enacted,Enrolled Bill
+115,House,379,2017-07-17,1,380,2/3,402,0,HJRES92,Passed,"Granting the consent and approval of Congress for the Commonwealth of Virginia, the State of Maryland, and the District of Columbia to amend the Washington Area Transit Regulation Compact",On Motion to Suspend the Rules and Pass,,,passed_house_not_enacted,Engrossed in House
+115,House,380,2017-07-17,1,381,2/3,399,5,HJRES76,Passed,"Granting the consent and approval of Congress for the Commonwealth of Virginia, the State of Maryland, and the District of Columbia to a enter into a compact relating to the establishment of the Washington Metrorail Satefy Commission","On Motion to Suspend the Rules and Pass, as Amended",,115-54,enacted,Enrolled Bill
+115,House,383,2017-07-18,1,384,2/3,420,2,HR2786,Passed,To amend the Federal Power Act with respect to the criteria and process to qualify as a qualifying conduit hydropower facility,"On Motion to Suspend the Rules and Pass, as Amended",,,passed_house_not_enacted,Engrossed in House
+115,House,390,2017-07-18,1,391,1/2,229,199,HR806,Passed,Ozone Standards Implementation Act of 2017,On Passage,,,passed_house_not_enacted,Engrossed in House
+115,House,397,2017-07-19,1,398,1/2,254,175,HR2883,Passed,Promoting Cross-Border Energy Infrastructure Act,On Passage,,,passed_house_not_enacted,Engrossed in House
+115,House,401,2017-07-19,1,402,1/2,248,179,HR2910,Passed,Promoting Interagency Coordination for Review of Natural Gas Pipelines Act,On Passage,,,passed_house_not_enacted,Engrossed in House
+115,House,402,2017-07-20,1,403,2/3,386,41,HR2825,Passed,DHS Authorization Act,"On Motion to Suspend the Rules and Pass, as Amended",,,passed_house_not_enacted,Engrossed in House
+115,House,405,2017-07-20,1,406,1/2,248,179,HR218,Passed,King Cove Road Land Exchange Act,On Passage,,,passed_house_not_enacted,Engrossed in House
+115,House,408,2017-07-24,1,409,2/3,405,0,HR3218,Passed,Harry W. Colmery Veterans Educational Assistance Act,"On Motion to Suspend the Rules and Pass, as Amended",,115-48,enacted,Enrolled Bill
+115,House,411,2017-07-25,1,412,1/2,231,190,HJRES111,Passed,"Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by Bureau of Consumer Financial Protection relating to “Arbitration Agreements”",On Passage,,115-74,enacted,Enrolled Bill
+115,House,412,2017-07-25,1,413,2/3,419,3,HR3364,Passed,Countering America’s Adversaries Through Sanctions Act,On Motion to Suspend the Rules and Pass,,115-44,enacted,Enrolled Bill
+115,House,434,2017-07-27,1,435,1/2,235,192,HR3219,Passed,"Making appropriations for the Department of Defense for the fiscal year ending September 30, 2018, and for other purposes",On Passage,,,passed_house_not_enacted,Engrossed in House
+115,House,436,2017-07-28,1,437,1/2,380,35,HR3180,Passed,Intelligence Authorization Act for Fiscal Year 2018,On Passage,,,passed_house_not_enacted,Engrossed in House
+115,House,437,2017-07-28,1,438,1/2,414,0,S114,Passed,Department of Veterans Affairs Bonus Transparency Act,On Passage,,115-46,enacted,Enrolled Bill
+115,House,438,2017-09-05,1,439,2/3,407,1,HR3110,Passed,Financial Stability Oversight Council Insurance Member Continuity Act,On Motion to Suspend the Rules and Pass,,115-61,enacted,Enrolled Bill
+115,House,439,2017-09-05,1,440,2/3,403,3,HR2864,Passed,"To direct the Securities and Exchange Commission to allow certain issuers to be exempt from registration requirements, and for other purposes","On Motion to Suspend the Rules and Pass, as Amended",,,passed_house_not_enacted,Engrossed in House
+115,House,484,2017-09-12,1,485,2/3,390,0,HR2611,Passed,Little Rock Central High School National Historic Site Boundary Modification Act,On Motion to Suspend the Rules and Pass,,115-117,enacted,Enrolled Bill
+115,House,516,2017-09-14,1,517,1/2,233,175,HR3697,Passed,Criminal Alien Gang Member Removal Act,On Passage,,,passed_house_not_enacted,Engrossed in House
+115,House,527,2017-09-14,1,528,1/2,211,198,HR3354,Passed,"Making appropriations for the Department of the Interior, environment, and related agencies for the fiscal year ending September 30, 2018, and for other purposes",On Passage,,,passed_house_not_enacted,Engrossed in House
+115,House,528,2017-09-14,1,529,2/3,398,4,HR3284,Passed,Joint Counterterrorism Awareness Workshop Series Act,"On Motion to Suspend the Rules and Pass, as Amended",,,passed_house_not_enacted,Engrossed in House
+115,House,530,2017-09-25,1,531,2/3,415,0,HR2061,Passed,North Korean Human Rights Reauthorization Act,"On Motion to Suspend the Rules and Pass, as Amended",,115-198,enacted,Enrolled Bill
+115,House,536,2017-09-26,1,537,1/2,214,209,HR2824,Passed,Increasing Opportunity and Success for Children and Parents through Evidence-Based Home Visiting Act,On Passage,,,passed_house_not_enacted,Engrossed in House
+115,House,541,2017-09-28,1,542,1/2,264,155,HR3823,Passed,Disaster Tax Relief and Airport and Airway Extension Act of 2017,On Passage,,115-63,enacted,Enrolled Bill
+115,House,542,2017-09-28,1,543,1/2,244,171,HR2792,Passed,Control Unlawful Fugitive Felons Act of 2017,On Passage,,,passed_house_not_enacted,Engrossed in House
+115,House,543,2017-10-02,1,544,2/3,401,0,HR1547,Passed,Udall Park Land Exchange Completion Act,On Motion to Suspend the Rules and Pass,,,passed_house_not_enacted,Engrossed in House
+115,House,544,2017-10-02,1,545,2/3,401,0,HR965,Passed,Saint-Gaudens National Historical Park Redesignation Act,"On Motion to Suspend the Rules and Pass, as Amended",,,passed_house_not_enacted,Engrossed in House
+115,House,548,2017-10-03,1,549,1/2,237,189,HR36,Passed,Pain-Capable Unborn Child Protection Act,On Passage,,,passed_house_not_enacted,Engrossed in House
+115,House,549,2017-10-03,1,550,2/3,417,3,S782,Passed,"To reauthorize the National Internet Crimes Against Children Task Force Program, and for other purposes","On Motion to Suspend the Rules and Pass, as Amended",,115-82,enacted,Enrolled Bill
+115,House,557,2017-10-10,1,558,2/3,397,0,HR1858,Passed,"To designate the facility of the United States Postal Service located at 4514 Williamson Trail in Liberty, Pennsylvania, as the “Staff Sergeant Ryan Scott Ostrom Post Office”",On Motion to Suspend the Rules and Pass,,115-139,enacted,Enrolled Bill
+115,House,558,2017-10-10,1,559,2/3,395,0,HR2464,Passed,"To designate the facility of the United States Postal Service located at 25 New Chardon Street Lobby in Boston, Massachusetts, as the “John Fitzgerald Kennedy Post Office”",On Motion to Suspend the Rules and Pass,,115-144,enacted,Enrolled Bill
+115,House,561,2017-10-11,1,562,2/3,418,0,HR452,Passed,"To designate the facility of the United States Postal Service located at 324 West Saint Louis Street in Pacific, Missouri, as the “Specialist Jeffrey L. White, Jr. Post Office”",On Motion to Suspend the Rules and Pass,,115-134,enacted,Enrolled Bill
+115,House,562,2017-10-11,1,563,2/3,418,0,HR3243,Passed,FITARA Enhancement Act of 2017,On Motion to Suspend the Rules and Pass,,115-88,enacted,Enrolled Bill
+115,House,567,2017-10-12,1,568,1/2,420,0,S585,Passed,Dr. Chris Kirkpatrick Whistleblower Protection Act of 2017,On Passage,,115-73,enacted,Enrolled Bill
+115,House,568,2017-10-23,1,569,2/3,402,1,HR3551,Passed,C-TPAT Reauthorization Act,"On Motion to Suspend the Rules and Pass, as Amended",,,passed_house_not_enacted,Engrossed in House
+115,House,569,2017-10-23,1,570,2/3,401,2,S504,Passed,Asia-Pacific Economic Cooperation Business Travel Cards Act,On Motion to Suspend the Rules and Pass,,115-79,enacted,Enrolled Bill
+115,House,573,2017-10-24,1,574,2/3,412,3,HR2142,Passed,International Narcotics Trafficking Emergency Response by Detecting Incoming Contraband with Technology Act,"On Motion to Suspend the Rules and Pass, as Amended",,115-112,enacted,Enrolled Bill
+115,House,579,2017-10-24,1,580,1/2,238,183,HR732,Passed,Stop Settlement Slush Funds Act,On Passage,,,passed_house_not_enacted,Engrossed in House
+115,House,580,2017-10-24,1,581,2/3,415,2,HR3898,Passed,Otto Warmbier North Korea Nuclear Sanctions Act,"On Motion to Suspend the Rules and Pass, as Amended",,,passed_house_not_enacted,Engrossed in House
+115,House,587,2017-10-25,1,588,1/2,234,187,HR469,Passed,Sunshine for Regulations and Regulatory Decrees and Settlements Act,On Passage,,,passed_house_not_enacted,Engrossed in House
+115,House,588,2017-10-26,1,589,1/2,216,212,HCONRES71,Passed,Establishing the congressional budget for the United States Government for fiscal year 2018 and setting forth the appropriate budgetary levels for fiscal years 2019 through 2027,On Motion to Concur in the Senate Amendment,,,passed_house_not_enacted,Engrossed in House
+115,House,589,2017-10-26,1,590,2/3,423,2,HR1698,Passed,Iran Ballistic Missiles and International Sanctions Enforcement Act,"On Motion to Suspend the Rules and Pass, as Amended",,,passed_house_not_enacted,Engrossed in House
+115,House,590,2017-10-31,1,591,2/3,394,1,HR2521,Passed,South Carolina Peanut Parity Act of 2017,On Motion to Suspend the Rules and Pass,,,passed_house_not_enacted,Engrossed in House
+115,House,597,2017-11-01,1,598,1/2,232,188,HR2936,Passed,Resilient Federal Forests Act of 2017,On Passage,,,passed_house_not_enacted,Engrossed in House
+115,House,598,2017-11-01,1,599,2/3,419,0,HR3903,Passed,Encouraging Public Offerings Act,"On Motion to Suspend the Rules and Pass, as Amended",,,passed_house_not_enacted,Engrossed in House
+115,House,603,2017-11-02,1,604,1/2,307,111,HR849,Passed,Protecting Seniors Access to Medicare Act,On Passage,,,passed_house_not_enacted,Engrossed in House
+115,House,605,2017-11-03,1,606,1/2,242,174,HR3922,Passed,Community Health and Medical Professionals Improve Our Nation Act of 2017,On Passage,,,passed_house_not_enacted,Engrossed in House
+115,House,606,2017-11-06,1,607,2/3,400,0,HR3562,Passed,"To amend title 38, United States Code, to authorize the Secretary of Veterans Affairs to furnish assistance for adaptations of residences of veterans in rehabilitation programs under chapter 31 of such title, and for other purposes",On Motion to Suspend the Rules and Pass,,115-177,enacted,Enrolled Bill
+115,House,607,2017-11-06,1,608,2/3,399,0,HR1066,Passed,VA Management Alignment Act,On Motion to Suspend the Rules and Pass,,,passed_house_not_enacted,Engrossed in House
+115,House,613,2017-11-07,1,614,1/2,242,181,HR3441,Passed,Save Local Business Act,On Passage,,,passed_house_not_enacted,Engrossed in House
+115,House,614,2017-11-07,1,615,2/3,389,32,HR3911,Passed,Risk-Based Credit Examination Act,On Motion to Suspend the Rules and Pass,,,passed_house_not_enacted,Engrossed in House
+115,House,617,2017-11-08,1,618,2/3,420,0,HR4173,Passed,Veterans Crisis Line Study Act of 2017,"On Motion to Suspend the Rules and Pass, as Amended",,,passed_house_not_enacted,Engrossed in House
+115,House,619,2017-11-08,1,620,1/2,257,166,HR3043,Passed,Hydropower Policy Modernization Act of 2017,On Passage,,,passed_house_not_enacted,Engrossed in House
+115,House,620,2017-11-08,1,621,2/3,422,0,HR3705,Passed,Veterans Fair Debt Notice Act of 2017,"On Motion to Suspend the Rules and Pass, as Amended",,,passed_house_not_enacted,Engrossed in House
+115,House,621,2017-11-09,1,622,1/2,232,188,HR2201,Passed,Micro Offering Safe Harbor Act,On Passage,,,passed_house_not_enacted,Engrossed in House
+115,House,623,2017-11-13,1,624,2/3,396,0,HR3071,Passed,Federal Acquisition Savings Act of 2017,"On Motion to Suspend the Rules and Pass, as Amended",,,passed_house_not_enacted,Engrossed in House
+115,House,629,2017-11-14,1,630,1/2,237,189,HR2874,Passed,21st Century Flood Reform Act,On Passage,,,passed_house_not_enacted,Engrossed in House
+115,House,630,2017-11-14,1,631,1/2,356,70,HR2810,Passed,National Defense Authorization Act for Fiscal Year 2018,On Agreeing to the Conference Report,,115-91,enacted,Enrolled Bill
+115,House,633,2017-11-15,1,634,2/3,423,0,HR2331,Passed,Connected Government Act,"On Motion to Suspend the Rules and Pass, as Amended",,115-114,enacted,Enrolled Bill
+115,House,634,2017-11-15,1,635,2/3,420,0,HR3821,Passed,"To designate the facility of the United States Postal Service located at 430 Main Street in Clermont, Georgia, as the “Zachary Addington Post Office”","On Motion to Suspend the Rules and Pass, as Amended",,115-152,enacted,Enrolled Bill
+115,House,635,2017-11-15,1,636,2/3,423,0,HR2672,Passed,"To designate the facility of the United States Postal Service located at 520 Carter Street in Fairview, Illinois, as the “Sgt. Douglas J. Riney Post Office”",On Motion to Suspend the Rules and Pass,,115-145,enacted,Enrolled Bill
+115,House,637,2017-11-28,1,638,2/3,409,0,HR2768,Passed,Fowler and Boskoff Peaks Designation Act,On Motion to Suspend the Rules and Pass,,,passed_house_not_enacted,Engrossed in House
+115,House,638,2017-11-28,1,639,2/3,309,99,HR3115,Passed,Superior National Forest Land Exchange Act,"On Motion to Suspend the Rules and Pass, as Amended",,,passed_house_not_enacted,Engrossed in House
+115,House,642,2017-11-30,1,643,1/2,216,204,HR3905,Passed,Minnesota’s Economic Rights in the Superior National Forest Act,On Passage,,,passed_house_not_enacted,Engrossed in House
+115,House,647,2017-11-30,1,648,1/2,213,204,HR4182,Passed,Ensuring a Qualified Civil Service Act,On Passage,,,passed_house_not_enacted,Engrossed in House
+115,House,648,2017-11-30,1,649,1/2,409,8,HR3017,Passed,"Brownfields Enhancement, Economic Redevelopment, and Reauthorization Act",On Passage,,,passed_house_not_enacted,Engrossed in House
+115,House,650,2017-12-01,1,651,1/2,256,163,HR1699,Passed,Preserving Access to Manufactured Housing Act,On Passage,,,passed_house_not_enacted,Engrossed in House
+115,House,654,2017-12-05,1,655,2/3,407,4,HR3731,Passed,Secret Service Recruitment and Retention Act of 2017,On Motion to Suspend the Rules and Pass,,115-160,enacted,Enrolled Bill
+115,House,655,2017-12-05,1,656,2/3,409,0,HR3317,Passed,Stopping Abusive Female Exploitation Act of 2017,"On Motion to Suspend the Rules and Pass, as Amended",,,passed_house_not_enacted,Engrossed in House
+115,House,660,2017-12-06,1,661,2/3,423,0,S1266,Passed,Enhancing Veteran Care Act,On Motion to Suspend the Rules and Pass,,115-95,enacted,Enrolled Bill
+115,House,662,2017-12-06,1,663,1/2,231,198,HR38,Passed,Concealed Carry Reciprocity Act of 2017,On Passage,,,passed_house_not_enacted,Engrossed in House
+115,House,668,2017-12-07,1,669,1/2,426,0,HR477,Passed,"Small Business Mergers, Acquisitions, Sales, and Brokerage Simplification Act of 2017",On Passage,,,passed_house_not_enacted,Engrossed in House
+115,House,669,2017-12-07,1,670,1/2,235,193,HJRES123,Passed,"Making further continuing appropriations for fiscal year 2018, and for other purposes",On Passage,,115-90,enacted,Enrolled Bill
+115,House,670,2017-12-07,1,671,2/3,388,29,HR2658,Passed,Venezuela Humanitarian Assistance and Defense of Democratic Governance Act,"On Motion to Suspend the Rules and Pass, as Amended",,,passed_house_not_enacted,Engrossed in House
+115,House,671,2017-12-11,1,672,2/3,395,2,HR2706,Passed,Financial Institution Customer Protection Act of 2017,"On Motion to Suspend the Rules and Pass, as Amended",,,passed_house_not_enacted,Engrossed in House
+115,House,672,2017-12-11,1,673,2/3,402,2,HR1730,Passed,Protecting Religiously Affiliated Institutions Act of 2017,"On Motion to Suspend the Rules and Pass, as Amended",,,passed_house_not_enacted,Engrossed in House
+115,House,674,2017-12-12,1,675,1/2,294,129,HR3971,Passed,Community Institution Mortgage Relief Act of 2017,On Passage,,,passed_house_not_enacted,Engrossed in House
+115,House,679,2017-12-13,1,680,1/2,289,135,HR1638,Passed,Iranian Leadership Asset Transparency Act,On Passage,,,passed_house_not_enacted,Engrossed in House
+115,House,681,2017-12-14,1,682,1/2,275,146,HR2396,Passed,Privacy Notification Technical Clarification Act,On Passage,,,passed_house_not_enacted,Engrossed in House
+115,House,683,2017-12-14,1,684,1/2,252,167,HR4324,Passed,Strengthening Oversight of Iran’s Access to Finance Act,On Passage,,,passed_house_not_enacted,Engrossed in House
+115,House,685,2017-12-18,1,686,2/3,376,9,HR4375,Passed,STEM Research and Education Effectiveness and Transparency Act,"On Motion to Suspend the Rules and Pass, as Amended",,,passed_house_not_enacted,Engrossed in House
+115,House,686,2017-12-18,1,687,2/3,371,14,HR3979,Passed,Keep America’s Refuges Operational Act,"On Motion to Suspend the Rules and Pass, as Amended",,115-168,enacted,Enrolled Bill
+115,House,689,2017-12-19,1,690,2/3,409,17,HR4254,Passed,Women in Aerospace Education Act,"On Motion to Suspend the Rules and Pass, as Amended",,115-303,enacted,Enrolled Bill
+115,House,692,2017-12-19,1,693,2/3,420,1,HR4323,Passed,Supporting Veterans in STEM Careers Act,"On Motion to Suspend the Rules and Pass, as Amended",,,passed_house_not_enacted,Engrossed in House
+115,House,693,2017-12-19,1,694,1/2,288,130,HR3312,Passed,Systemic Risk Designation Improvement Act of 2017,On Passage,,,passed_house_not_enacted,Engrossed in House
+115,House,694,2017-12-19,1,695,2/3,418,1,S1536,Passed,Combating Human Trafficking in Commercial Vehicles Act,On Motion to Suspend the Rules and Pass,,115-99,enacted,Enrolled Bill
+115,House,698,2017-12-20,1,699,1/2,224,201,HR1,Passed,Tax Cuts and Jobs Act,On Motion to Concur in the Senate Amendment,,115-97,enacted,Enrolled Bill
+115,House,699,2017-12-20,1,700,2/3,411,0,HR1159,Passed,United States and Israel Space Cooperation Act,"On Motion to Suspend the Rules and Pass, as Amended",,,passed_house_not_enacted,Engrossed in House
+115,House,701,2017-12-20,1,702,1/2,238,182,HR4015,Passed,Corporate Governance Reform and Transparency Act,On Passage,,,passed_house_not_enacted,Engrossed in House
+115,House,705,2017-12-21,1,706,2/3,418,0,S1393,Passed,Jobs for Our Heroes Act,On Motion to Suspend the Rules and Pass,,115-105,enacted,Enrolled Bill
+115,House,707,2017-12-21,1,708,1/2,231,188,HR1370,Passed,Department of Homeland Security Blue Campaign Authorization Act of 2017,On Motion to Concur in the Senate Amendment with an Amendment,,115-96,enacted,Enrolled Bill
+115,House,708,2017-12-21,1,709,1/2,251,169,HR4667,Passed,"Making further supplemental appropriations for the fiscal year ending September 30, 2018, for disaster assistance for Hurricanes Harvey, Irma, and Maria, and calendar year 2017 wildfires, and for other purposes",On Passage,,,passed_house_not_enacted,Engrossed in House
+115,House,709,2017-12-21,1,710,2/3,393,0,S1532,Passed,No Human Trafficking on Our Roads Act,On Motion to Suspend the Rules and Pass,,115-106,enacted,Enrolled Bill
+115,House,711,2018-01-09,2,3,2/3,413,0,HR4564,Passed,Post-Caliphate Threat Assessment Act of 2017,On Motion to Suspend the Rules and Pass,,,passed_house_not_enacted,Engrossed in House
+115,House,712,2018-01-09,2,4,2/3,415,1,HR4581,Passed,Screening and Vetting Passenger Exchange Act,On Motion to Suspend the Rules and Pass,,,passed_house_not_enacted,Engrossed in House
+115,House,719,2018-01-10,2,11,1/2,239,173,S140,Passed,To amend the White Mountain Apache Tribe Water Rights Quantification Act of 2010 to clarify the use of amounts in the WMAT Settlement Fund,On Passage,,115-282,enacted,Enrolled Bill
+115,House,720,2018-01-10,2,12,2/3,415,0,HR4567,Passed,DHS Overseas Personnel Enhancement Act of 2017,"On Motion to Suspend the Rules and Pass, as Amended",,,passed_house_not_enacted,Engrossed in House
+115,House,724,2018-01-11,2,16,1/2,256,164,S139,Passed,Rapid DNA Act of 2017,On Passage,,115-118,enacted,Enrolled Bill
+115,House,725,2018-01-11,2,17,2/3,410,2,HR4578,Passed,Counter Terrorist Network Act,On Motion to Suspend the Rules and Pass,,,passed_house_not_enacted,Engrossed in House
+115,House,726,2018-01-16,2,18,2/3,402,0,HR4318,Passed,Miscellaneous Tariff Bill Act of 2018,"On Motion to Suspend the Rules and Pass, as Amended",,115-239,enacted,Enrolled Bill
+115,House,727,2018-01-16,2,19,2/3,400,3,S117,Passed,Alex Diekmann Peak Designation Act of 2017,On Motion to Suspend the Rules and Pass,,115-122,enacted,Enrolled Bill
+115,House,730,2018-01-17,2,22,2/3,412,5,HR4258,Passed,Family Self-Sufficiency Act,"On Motion to Suspend the Rules and Pass, as Amended",,,passed_house_not_enacted,Engrossed in House
+115,House,732,2018-01-17,2,24,1/2,237,184,HR3326,Passed,World Bank Accountability Act of 2017,On Passage,,,passed_house_not_enacted,Engrossed in House
+115,House,733,2018-01-17,2,25,2/3,418,2,HR4279,Passed,Expanding Investment Opportunities Act,"On Motion to Suspend the Rules and Pass, as Amended",,,passed_house_not_enacted,Engrossed in House
+115,House,740,2018-01-18,2,32,1/2,243,184,HR2954,Passed,Home Mortgage Disclosure Adjustment Act,On Passage,,,passed_house_not_enacted,Engrossed in House
+115,House,741,2018-01-18,2,33,1/2,230,197,HR195,Passed,Federal Register Printing Savings Act,On Motion to Concur in the Senate Amendment with an Amendment,,115-120,enacted,Enrolled Bill
+115,House,742,2018-01-18,2,34,2/3,423,3,HR1660,Passed,Global Health Innovation Act of 2017,On Motion to Suspend the Rules and Pass,,115-411,enacted,Enrolled Bill
+115,House,744,2018-01-19,2,36,1/2,241,183,HR4712,Passed,Born-Alive Abortion Survivors Protection Act,On Passage,,,passed_house_not_enacted,Engrossed in House
+115,House,752,2018-01-29,2,45,2/3,406,3,S534,Passed,Protecting Young Victims from Sexual Abuse and Safe Sport Authorization Act,"On Motion to Suspend the Rules and Pass, as Amended",,115-126,enacted,Enrolled Bill
+115,House,753,2018-01-29,2,46,2/3,397,8,HR1457,Passed,"To establish requirements for use of a driver’s license or personal identification card by certain financial institutions for opening an account or obtaining a financial product or service, and for other purposes","On Motion to Suspend the Rules and Pass, as Amended",,,passed_house_not_enacted,Engrossed in House
+115,House,756,2018-01-30,2,49,1/2,250,166,HR695,Passed,Child Protection Improvements Act of 2017,On Motion to Concur in the Senate Amendments with an Amendment,,,passed_house_not_enacted,Engrossed in House
+115,House,757,2018-01-30,2,50,2/3,414,0,HR4292,Passed,Financial Institution Living Will Improvement Act,"On Motion to Suspend the Rules and Pass, as Amended",,,passed_house_not_enacted,Engrossed in House
+115,House,758,2018-02-05,2,51,2/3,396,0,HR4547,Passed,Strengthening Protections for Social Security Beneficiaries Act of 2018,"On Motion to Suspend the Rules and Pass, as Amended",,115-165,enacted,Enrolled Bill
+115,House,763,2018-02-06,2,56,1/2,266,157,HR772,Passed,Common Sense Nutrition Disclosure Act of 2017,On Passage,,,passed_house_not_enacted,Engrossed in House
+115,House,767,2018-02-06,2,60,1/2,245,182,HR1892,Passed,"Further Extension of Continuing Appropriations Act, 2018",On Motion to Concur in the Senate Amendment with an Amendment,,115-123,enacted,Enrolled Bill
+115,House,768,2018-02-07,2,61,2/3,407,0,HR3851,Passed,War Crimes Rewards Expansion Act,"On Motion to Suspend the Rules and Pass, as Amended",,,passed_house_not_enacted,Engrossed in House
+115,House,769,2018-02-07,2,62,2/3,404,3,HR1997,Passed,Ukraine Cybersecurity Cooperation Act of 2017,"On Motion to Suspend the Rules and Pass, as Amended",,,passed_house_not_enacted,Engrossed in House
+115,House,771,2018-02-08,2,64,1/2,280,131,HR1153,Passed,Mortgage Choice Act of 2017,On Passage,,,passed_house_not_enacted,Engrossed in House
+115,House,773,2018-02-08,2,66,1/2,280,139,HR4771,Passed,Small Bank Holding Company Relief Act of 2018,On Passage,,,passed_house_not_enacted,Engrossed in House
+115,House,777,2018-02-13,2,70,2/3,402,0,HR4533,Passed,Lexington VA Health Care System,"On Motion to Suspend the Rules and Pass, as Amended",,115-132,enacted,Enrolled Bill
+115,House,778,2018-02-13,2,71,2/3,400,2,HR4979,Passed,To extend the Generalized System of Preferences and to make technical changes to the competitive need limitations provision of the program,"On Motion to Suspend the Rules and Pass, as Amended",,,passed_house_not_enacted,Engrossed in House
+115,House,781,2018-02-14,2,74,2/3,415,0,HR3542,Passed,Hamas Human Shields Prevention Act,"On Motion to Suspend the Rules and Pass, as Amended",,,passed_house_not_enacted,Engrossed in House
+115,House,784,2018-02-14,2,77,1/2,271,145,HR3978,Passed,TRID Improvement Act,On Passage,,,passed_house_not_enacted,Engrossed in House
+115,House,785,2018-02-14,2,78,1/2,245,171,HR3299,Passed,Protecting Consumers’ Access to Credit Act of 2017,On Passage,,,passed_house_not_enacted,Engrossed in House
+115,House,787,2018-02-15,2,80,1/2,225,192,HR620,Passed,ADA Education and Reform Act of 2017,On Passage,,,passed_house_not_enacted,Engrossed in House
+115,House,789,2018-02-26,2,82,2/3,387,13,HR2422,Passed,Action for Dental Health Act of 2017,"On Motion to Suspend the Rules and Pass, as Amended",,115-302,enacted,Enrolled Bill
+115,House,796,2018-02-27,2,89,1/2,245,169,HR4296,Passed,To place requirements on operational risk capital requirements for banking organizations established by an appropriate Federal banking agency,On Passage,,,passed_house_not_enacted,Engrossed in House
+115,House,798,2018-02-27,2,91,1/2,388,25,HR1865,Passed,Allow States and Victims to Fight Online Sex Trafficking Act,On Passage,,115-164,enacted,Enrolled Bill
+115,House,799,2018-03-05,2,92,2/3,389,0,HR3183,Passed,"To designate the facility of the United States Postal Service located at 13683 James Madison Highway in Palmyra, Virginia, as the “U.S. Navy Seaman Dakota Kyle Rigsby Post Office”",On Motion to Suspend the Rules and Pass,,115-209,enacted,Enrolled Bill
+115,House,800,2018-03-05,2,93,2/3,387,0,HR4406,Passed,"To designate the facility of the United States Postal Service located at 99 Macombs Place in New York, New York, as the “Tuskegee Airman Post Office Building”","On Motion to Suspend the Rules and Pass, as Amended",,115-211,enacted,Enrolled Bill
+115,House,802,2018-03-06,2,95,1/2,264,143,HR4607,Passed,Comprehensive Regulatory Review Act,On Passage,,,passed_house_not_enacted,Engrossed in House
+115,House,806,2018-03-07,2,99,1/2,234,180,HR1917,Passed,Blocking Regulatory Interference from Closing Kilns Act,On Passage,,,passed_house_not_enacted,Engrossed in House
+115,House,808,2018-03-08,2,101,1/2,215,189,HR1119,Passed,Satisfying Energy Needs and Saving the Environment (SENSE) Act,On Passage,,,passed_house_not_enacted,Engrossed in House
+115,House,810,2018-03-13,2,103,2/3,392,6,HR4465,Passed,Endangered Fish Recovery Programs Extension Act of 2017,On Motion to Suspend the Rules and Pass,,,passed_house_not_enacted,Engrossed in House
+115,House,813,2018-03-14,2,106,2/3,407,10,HR4909,Passed,"Student, Teachers, and Officers Preventing School Violence Act of 2018","On Motion to Suspend the Rules and Pass, as Amended",,,passed_house_not_enacted,Engrossed in House
+115,House,815,2018-03-14,2,108,1/2,247,169,HR1116,Passed,Taking Account of Institutions with Low Operation Risk Act of 2017 or the TAILOR Act of 2017,On Passage,,,passed_house_not_enacted,Engrossed in House
+115,House,817,2018-03-15,2,110,1/2,246,170,HR4263,Passed,Regulation At Improvement Act of 2017,On Passage,,,passed_house_not_enacted,Engrossed in House
+115,House,819,2018-03-15,2,112,1/2,283,133,HR4545,Passed,Financial Institutions Examination Fairness and Reform Act,On Passage,,,passed_house_not_enacted,Engrossed in House
+115,House,822,2018-03-19,2,115,2/3,385,3,HR835,Passed,"To update the map of, and modify the maximum acreage available for inclusion in, the Florissant Fossil Beds National Monument",On Motion to Suspend the Rules and Pass,,,passed_house_not_enacted,Engrossed in House
+115,House,823,2018-03-19,2,116,2/3,391,0,HR4851,Passed,Kennedy--King National Commemorative Site Act,"On Motion to Suspend the Rules and Pass, as Amended",,115-163,enacted,Enrolled Bill
+115,House,826,2018-03-20,2,119,1/2,395,19,HR4566,Passed,Alleviating Stress Test Burdens to Help Investors Act,On Passage,,,passed_house_not_enacted,Engrossed in House
+115,House,828,2018-03-21,2,121,1/2,267,149,HR5247,Passed,"Trickett Wendler, Frank Mongiello, Jordan McLinn, and Matthew Bellina Right to Try Act of 2018",On Passage,,,passed_house_not_enacted,Engrossed in House
+115,House,833,2018-03-22,2,126,2/3,409,5,HR5131,Passed,Surface Transportation Security Improvement Act 2018,"On Motion to Suspend the Rules and Pass, as Amended",,,passed_house_not_enacted,Engrossed in House
+115,House,834,2018-03-22,2,127,1/2,256,167,HR1625,Passed,TARGET Act,On Motion to Concur in the Senate Amendment with an Amendment,,115-141,enacted,Enrolled Bill
+115,House,835,2018-03-22,2,128,2/3,408,0,HR4467,Passed,Strengthening Aviation Security Act of 2018,"On Motion to Suspend the Rules and Pass, as Amended",,,passed_house_not_enacted,Engrossed in House
+115,House,836,2018-03-22,2,129,2/3,397,1,HR5089,Passed,Strengthening Local Transportation Security Capabilities Act of 2018,"On Motion to Suspend the Rules and Pass, as Amended",,,passed_house_not_enacted,Engrossed in House
+115,House,837,2018-04-10,2,130,2/3,408,2,HR2219,Passed,End Banking for Human Traffickers Act of 2018,"On Motion to Suspend the Rules and Pass, as Amended",,,passed_house_not_enacted,Engrossed in House
+115,House,838,2018-04-10,2,131,2/3,409,2,HR4203,Passed,Combat Online Predators Act,"On Motion to Suspend the Rules and Pass, as Amended",,,passed_house_not_enacted,Engrossed in House
+115,House,842,2018-04-11,2,135,1/2,297,121,HR4061,Passed,Financial Stability Oversight Council Improvement Act,On Passage,,,passed_house_not_enacted,Engrossed in House
+115,House,844,2018-04-11,2,137,1/2,245,174,HR4293,Passed,Stress Test Improvement Act,On Passage,,,passed_house_not_enacted,Engrossed in House
+115,House,845,2018-04-12,2,138,2/3,233,184,HJRES2,Failed,Proposing a balanced budget amendment to the Constitution of the United States,On Motion to Suspend the Rules and Pass,,,failed,Introduced in House
+115,House,846,2018-04-13,2,139,1/2,300,104,HR4790,Passed,Volcker Rule Regulatory Harmonization Act,On Passage,,,passed_house_not_enacted,Engrossed in House
+115,House,847,2018-04-16,2,140,2/3,383,2,HR146,Passed,Eastern Band of Cherokee Historic Lands Reacquisition Act,"On Motion to Suspend the Rules and Pass, as Amended",,,passed_house_not_enacted,Engrossed in House
+115,House,848,2018-04-16,2,141,2/3,384,1,S167,Passed,"To designate a National Memorial to Fallen Educators at the National Teachers Hall of Fame in Emporia, Kansas",On Motion to Suspend the Rules and Pass,,115-169,enacted,Enrolled Bill
+115,House,849,2018-04-17,2,142,1/2,420,1,HR5192,Passed,Protecting Children from Identity Theft Act,On Passage,,,passed_house_not_enacted,Engrossed in House
+115,House,852,2018-04-18,2,145,1/2,414,3,HR5445,Passed,21st Century IRS Act,On Passage,,,passed_house_not_enacted,Reported in House
+115,House,853,2018-04-18,2,146,1/2,414,0,HR5444,Passed,Taxpayer First Act,On Passage,,,passed_house_not_enacted,Engrossed in House
+115,House,854,2018-04-18,2,147,2/3,403,3,HR2905,Passed,Justice for Victims of IRS Scams and Identity Theft Act of 2018,"On Motion to Suspend the Rules and Pass, as Amended",,,passed_house_not_enacted,Engrossed in House
+115,House,856,2018-04-24,2,149,2/3,379,16,HR5086,Passed,Innovators to Entrepreneurs Act of 2018,"On Motion to Suspend the Rules and Pass, as Amended",,,passed_house_not_enacted,Engrossed in House
+115,House,860,2018-04-25,2,153,1/2,225,189,HR3144,Passed,"To provide for operations of the Federal Columbia River Power System pursuant to a certain operation plan for a specified period of time, and for other purposes",On Passage,,,passed_house_not_enacted,Engrossed in House
+115,House,861,2018-04-25,2,154,2/3,415,0,HR5447,Passed,Music Modernization Act,"On Motion to Suspend the Rules and Pass, as Amended",,,passed_house_not_enacted,Engrossed in House
+115,House,868,2018-04-26,2,161,2/3,410,2,HR4744,Passed,Iran Human Rights and Hostage-Taking Accountability Act,"On Motion to Suspend the Rules and Pass, as Amended",,,passed_house_not_enacted,Engrossed in House
+115,House,872,2018-04-27,2,165,1/2,393,13,HR4,Passed,FAA Reauthorization Act,On Passage,,,passed_house_not_enacted,Engrossed in House
+115,House,874,2018-05-07,2,167,2/3,388,0,HR4910,Passed,Veterans Cemetery Benefit Correction Act,"On Motion to Suspend the Rules and Pass, as Amended",,115-184,enacted,Enrolled Bill
+115,House,875,2018-05-07,2,168,2/3,389,0,HR4335,Passed,Servicemember Family Burial Act,"On Motion to Suspend the Rules and Pass, as Amended",,,passed_house_not_enacted,Engrossed in House
+115,House,878,2018-05-08,2,171,1/2,234,175,SJRES57,Passed,"Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by Bureau of Consumer Financial Protection relating to “Indirect Auto Lending and Compliance with the Equal Credit Opportunity Act”",On Passage,,115-172,enacted,Enrolled Bill
+115,House,882,2018-05-09,2,175,1/2,221,197,HR2152,Passed,Citizens’ Right to Know Act,On Passage,,,passed_house_not_enacted,Engrossed in House
+115,House,884,2018-05-09,2,177,1/2,230,185,HR5645,Passed,Standard Merger and Acquisition Reviews Through Equal Rules Act,On Passage,,,passed_house_not_enacted,Engrossed in House
+115,House,886,2018-05-10,2,179,1/2,340,72,HR3053,Passed,Nuclear Waste Policy Amendments Act,On Passage,,,passed_house_not_enacted,Engrossed in House
+115,House,888,2018-05-15,2,181,2/3,378,0,HR613,Passed,Lieutenant Osvaldo Albarati Correctional Officer Self-Protection Act,On Motion to Suspend the Rules and Pass,,,passed_house_not_enacted,Engrossed in House
+115,House,889,2018-05-15,2,182,2/3,377,1,HR4854,Passed,"To amend the DNA Analysis Backlog Elimination Act of 2000 to provide additional resources to State and local prosecutors, and for other purposes",On Motion to Suspend the Rules and Pass,,115-257,enacted,Enrolled Bill
+115,House,894,2018-05-16,2,187,2/3,407,0,S35,Passed,Black Hills National Cemetery Boundary Expansion Act,On Motion to Suspend the Rules and Pass,,115-175,enacted,Enrolled Bill
+115,House,895,2018-05-16,2,188,1/2,382,35,HR5698,Passed,Protect and Serve Act of 2018,On Passage,,,passed_house_not_enacted,Engrossed in House
+115,House,896,2018-05-16,2,189,1/2,347,70,S2372,Passed,Veterans Cemetery Benefit Correction Act,On Passage,,115-182,enacted,Enrolled Bill
+115,House,914,2018-05-21,2,207,2/3,382,0,HR4830,Passed,Servicemembers Improved Transition through Reforms for Ensuring Progress Act,"On Motion to Suspend the Rules and Pass, as Amended",,,passed_house_not_enacted,Engrossed in House
+115,House,915,2018-05-21,2,208,2/3,377,1,HR4451,Passed,Homeless Veterans’ Reintegration Programs Reauthorization Act of 2018,"On Motion to Suspend the Rules and Pass, as Amended",,,passed_house_not_enacted,Engrossed in House
+115,House,916,2018-05-21,2,209,2/3,377,2,HR3832,Passed,Veterans Opioid Abuse Prevention Act,"On Motion to Suspend the Rules and Pass, as Amended",,,passed_house_not_enacted,Engrossed in House
+115,House,921,2018-05-22,2,214,1/2,250,169,S204,Passed,"Trickett Wendler, Frank Mongiello, Jordan McLinn, and Matthew Bellina Right to Try Act",On Passage,,115-176,enacted,Enrolled Bill
+115,House,922,2018-05-22,2,215,2/3,360,59,HR5682,Passed,FIRST STEP Act,"On Motion to Suspend the Rules and Pass, as Amended",,,passed_house_not_enacted,Engrossed in House
+115,House,923,2018-05-22,2,216,1/2,258,159,S2155,Passed,"Economic Growth, Regulatory Relief, and Consumer Protection Act",On Passage,,115-174,enacted,Enrolled Bill
+115,House,938,2018-06-05,2,231,2/3,374,5,HR5005,Passed,"To direct the Secretary of the Interior to conduct a special resource study to determine the suitability and feasibility of establishing the birthplace of James Weldon Johnson in Jacksonville, Florida, as a unit of the National Park System",On Motion to Suspend the Rules and Pass,,,passed_house_not_enacted,Engrossed in House
+115,House,939,2018-06-05,2,232,2/3,373,9,HR2991,Passed,Susquehanna National Heritage Area Act,"On Motion to Suspend the Rules and Pass, as Amended",,,passed_house_not_enacted,Engrossed in House
+115,House,940,2018-06-05,2,233,2/3,376,4,HR5655,Passed,Camp Nelson Heritage National Monument Act,On Motion to Suspend the Rules and Pass,,,passed_house_not_enacted,Engrossed in House
+115,House,945,2018-06-06,2,238,1/2,408,2,HR8,Passed,Water Resources Development Act of 2018,On Passage,,,passed_house_not_enacted,Engrossed in House
+115,House,946,2018-06-06,2,239,1/2,394,13,HR3249,Passed,Project Safe Neighborhoods Grant Program Authorization Act of 2018,On Motion to Concur in the Senate Amendment,,115-185,enacted,Enrolled Bill
+115,House,950,2018-06-07,2,243,1/2,210,206,HR3,Passed,Spending Cuts to Expired and Unnecessary Programs Act,On Passage,,,passed_house_not_enacted,Engrossed in House
+115,House,965,2018-06-12,2,258,2/3,383,13,HR5327,Passed,Comprehensive Opioid Recovery Centers Act,"On Motion to Suspend the Rules and Pass, as Amended",,,passed_house_not_enacted,Engrossed in House
+115,House,966,2018-06-12,2,259,2/3,398,0,HR5041,Passed,Safe Disposal of Unused Medication Act,"On Motion to Suspend the Rules and Pass, as Amended",,,passed_house_not_enacted,Engrossed in House
+115,House,970,2018-06-13,2,263,2/3,406,3,HR5890,Passed,Assisting States’ Implementation of Plans of Safe Care Act,On Motion to Suspend the Rules and Pass,,,passed_house_not_enacted,Engrossed in House
+115,House,971,2018-06-13,2,264,2/3,409,8,HR5891,Passed,Improving the Federal Response to Families Impacted by Substance Use Disorder Act,On Motion to Suspend the Rules and Pass,,,passed_house_not_enacted,Engrossed in House
+115,House,972,2018-06-14,2,265,1/2,353,52,HR5788,Passed,Securing the International Mail Against Opioids Act,On Passage,,,passed_house_not_enacted,Engrossed in House
+115,House,973,2018-06-14,2,266,1/2,230,173,HR5735,Passed,THRIVE Act,On Passage,,,passed_house_not_enacted,Engrossed in House
+115,House,975,2018-06-15,2,268,1/2,239,142,HR2851,Passed,Stop the Importation and Trafficking of Synthetic Analogues Act,On Passage,,,passed_house_not_enacted,Engrossed in House
+115,House,976,2018-06-19,2,269,2/3,342,13,HR5687,Passed,Securing Opioids and Unused Narcotics with Deliberate Disposal and Packaging Act of 2018,"On Motion to Suspend the Rules and Pass, as Amended",,,passed_house_not_enacted,Engrossed in House
+115,House,977,2018-06-19,2,270,2/3,356,3,HR5676,Passed,Stop Excessive Narcotics in our Retirement Communities Protection Act of 2018,"On Motion to Suspend the Rules and Pass, as Amended",,,passed_house_not_enacted,Engrossed in House
+115,House,983,2018-06-20,2,276,1/2,261,155,HR5797,Passed,Individuals in Medicaid Deserve Care that is Appropriate and Responsible in its Execution Act,On Passage,,,passed_house_not_enacted,Engrossed in House
+115,House,985,2018-06-20,2,278,1/2,357,57,HR6082,Passed,Overdose Prevention and Patient Safety Act,On Passage,,,passed_house_not_enacted,Engrossed in House
+115,House,989,2018-06-21,2,282,1/2,193,231,HR4760,Failed,Securing America’s Future Act of 2018,On Passage,,,failed,Introduced in House
+115,House,995,2018-06-22,2,288,1/2,396,14,HR6,Passed,Substance Use-Disorder Prevention that Promotes Opioid Recovery and Treatment for Patients and Communities Act,On Passage,,115-271,enacted,Enrolled Bill
+115,House,996,2018-06-25,2,289,2/3,382,0,HR299,Passed,Blue Water Navy Vietnam Veterans Act,"On Motion to Suspend the Rules and Pass, as Amended",,,passed_house_not_enacted,Engrossed in House
+115,House,997,2018-06-25,2,290,2/3,379,4,HR5783,Passed,Cooperate with Law Enforcement Agencies and Watch Act of 2018,"On Motion to Suspend the Rules and Pass, as Amended",,,passed_house_not_enacted,Engrossed in House
+115,House,1000,2018-06-26,2,293,2/3,392,2,HR4294,Passed,Prevention of Private Information Dissemination Act of 2017,"On Motion to Suspend the Rules and Pass, as Amended",,,passed_house_not_enacted,Engrossed in House
+115,House,1001,2018-06-26,2,294,1/2,288,116,HR2083,Passed,Endangered Salmon and Fisheries Predation Prevention Act,On Passage,,,passed_house_not_enacted,Engrossed in House
+115,House,1002,2018-06-26,2,295,2/3,400,2,HR5841,Passed,Foreign Investment Risk Review Modernization Act,"On Motion to Suspend the Rules and Pass, as Amended",,,passed_house_not_enacted,Engrossed in House
+115,House,1004,2018-06-27,2,297,1/2,121,301,HR6136,Failed,Border Security and Immigration Reform Act of 2018,On Passage,,,failed,Introduced in House
+115,House,1021,2018-07-10,2,314,2/3,368,19,HR5793,Passed,Housing Choice Voucher Mobility Demonstration Act,On Motion to Suspend the Rules and Pass,,,passed_house_not_enacted,Engrossed in House
+115,House,1022,2018-07-10,2,315,2/3,385,0,HR5749,Passed,Options Markets Stability Act,"On Motion to Suspend the Rules and Pass, as Amended",,,passed_house_not_enacted,Engrossed in House
+115,House,1028,2018-07-11,2,321,1/2,222,193,HR200,Passed,Strengthening Fishing Communities and Increasing Flexibility in Fisheries Management Act,On Passage,,,passed_house_not_enacted,Engrossed in House
+115,House,1032,2018-07-12,2,325,1/2,233,184,HR3281,Passed,Reclamation Title Transfer and Non-Federal Infrastructure Incentivization Act,On Passage,,,passed_house_not_enacted,Engrossed in House
+115,House,1033,2018-07-12,2,326,1/2,363,54,HR6237,Passed,Matthew Young Pollard Intelligence Authorization Act for Fiscal Years 2018 and 2019,On Passage,,,passed_house_not_enacted,Engrossed in House
+115,House,1035,2018-07-13,2,328,1/2,230,168,HR50,Passed,Unfunded Mandates Information and Transparency Act,On Passage,,,passed_house_not_enacted,Engrossed in House
+115,House,1036,2018-07-16,2,329,2/3,368,0,HR4946,Passed,"To designate the facility of the United States Postal Service located at 1075 North Tustin Street in Orange, California, as the “Specialist Trevor A. Win’E Post Office",On Motion to Suspend the Rules and Pass,,115-289,enacted,Enrolled Bill
+115,House,1037,2018-07-16,2,330,2/3,368,0,HR4960,Passed,"To designate the facility of the United States Postal Service located at 511 East Walnut Street in Columbia, Missouri, as the “Spc. Sterling William Wyatt Post Office Building”.",On Motion to Suspend the Rules and Pass,,115-290,enacted,Enrolled Bill
+115,House,1040,2018-07-17,2,333,2/3,406,4,S488,Passed,JOBS and Investor Confidence Act of 2018,"On Motion to Suspend the Rules and Pass, as Amended",,,passed_house_not_enacted,Engrossed Amendment House
+115,House,1041,2018-07-17,2,334,2/3,406,5,HR3030,Passed,Elie Wiesel Genocide and Atrocities Prevention Act of 2018,"On Motion to Suspend the Rules and Pass, as Amended",,,passed_house_not_enacted,Engrossed in House
+115,House,1042,2018-07-17,2,335,2/3,412,0,HR4989,Passed,Protecting Diplomats from Surveillance Through Consumer Devices Act,On Motion to Suspend the Rules and Pass,,,passed_house_not_enacted,Engrossed in House
+115,House,1045,2018-07-18,2,338,2/3,414,0,HR1037,Passed,"To authorize the National Emergency Medical Services Memorial Foundation to establish a commemorative work in the District of Columbia and its environs, and for other purposes","On Motion to Suspend the Rules and Pass, as Amended",,115-275,enacted,Enrolled Bill
+115,House,1072,2018-07-19,2,365,1/2,217,199,HR6147,Passed,"Making appropriations for the Department of the Interior, environment, and related agencies for the fiscal year ending September 30, 2019, and for other purposes",On Passage,,,passed_house_not_enacted,Engrossed in House
+115,House,1073,2018-07-23,2,366,2/3,379,1,HR2345,Passed,National Suicide Hotline Improvement Act,"On Motion to Suspend the Rules and Pass, as Amended",,115-233,enacted,Enrolled Bill
+115,House,1074,2018-07-23,2,367,2/3,378,4,HR4881,Passed,Precision Agriculture Connectivity Act,"On Motion to Suspend the Rules and Pass, as Amended",,,passed_house_not_enacted,Engrossed in House
+115,House,1079,2018-07-24,2,372,1/2,283,132,HR184,Passed,Protect Medical Innovation Act,On Passage,,,passed_house_not_enacted,Engrossed in House
+115,House,1080,2018-07-25,2,373,2/3,366,52,S1182,Passed,The American Legion 100th Anniversary Commemorative Coin Act,"On Motion to Suspend the Rules and Pass, as Amended",,115-225,enacted,Enrolled Bill
+115,House,1081,2018-07-25,2,374,2/3,417,0,HR5864,Passed,VA Hospitals Establishing Leadership Performance Act,"On Motion to Suspend the Rules and Pass, as Amended",,,passed_house_not_enacted,Engrossed in House
+115,House,1083,2018-07-25,2,376,1/2,242,176,HR6311,Passed,Increasing Access to Lower Premium Plans and Expanding Health Savings Accounts Act of 2018,On Passage,,,passed_house_not_enacted,Engrossed in House
+115,House,1084,2018-07-25,2,377,1/2,277,142,HR6199,Passed,Restoring Access to Medication Act,On Passage,,,passed_house_not_enacted,Engrossed in House
+115,House,1086,2018-07-26,2,379,1/2,359,54,HR5515,Passed,National Defense Authorization Act FY 2019,On Agreeing to the Conference Report,,115-232,enacted,Enrolled Bill
+115,House,1088,2018-09-04,2,381,2/3,272,119,HR6439,Passed,Biometric Identification Transnational Migration Alert Program Authorization Act,On Motion to Suspend the Rules and Pass,,,passed_house_not_enacted,Engrossed in House
+115,House,1092,2018-09-05,2,385,1/2,406,4,HR1635,Passed,Empowering Students Through Enhanced Financial Counseling Act,On Passage,,,passed_house_not_enacted,Engrossed in House
+115,House,1099,2018-09-06,2,392,1/2,260,146,HR4606,Passed,Ensuring Small Scale LNG Certainty and Access Act,On Passage,,,passed_house_not_enacted,Engrossed in House
+115,House,1100,2018-09-07,2,393,1/2,247,152,HR6691,Passed,Community Safety and Security Act,On Passage,,,passed_house_not_enacted,Engrossed in House
+115,House,1101,2018-09-12,2,394,2/3,379,3,HR5923,Passed,Walnut Grove Land Exchange Act,"On Motion to Suspend the Rules and Pass, as Amended",,115-361,enacted,Enrolled Bill
+115,House,1102,2018-09-12,2,395,2/3,383,2,HR3186,Passed,Every Kid Outdoors Act,"On Motion to Suspend the Rules and Pass, as Amended",,,passed_house_not_enacted,Engrossed in House
+115,House,1103,2018-09-12,2,396,2/3,378,1,HR4689,Passed,To authorize early repayment of obligations to the Bureau of Reclamation within the Northport Irrigation District in the State of Nebraska,On Motion to Suspend the Rules and Pass,,115-429,enacted,Enrolled Bill
+115,House,1105,2018-09-13,2,398,2/3,393,2,HR1911,Passed,Special Envoy to Monitor and Combat Anti-Semitism Act,"On Motion to Suspend the Rules and Pass, as Amended",,,passed_house_not_enacted,Engrossed in House
+115,House,1106,2018-09-13,2,399,1/2,377,20,HR5895,Passed,"Making appropriations for energy and water development and related agencies for the fiscal year ending September 30, 2019, and for other purposes",On Agreeing to the Conference Report,,115-244,enacted,Enrolled Bill
+115,House,1107,2018-09-25,2,400,2/3,389,6,HR6368,Passed,Encouraging Small Business Innovators,On Motion to Suspend the Rules and Pass,,,passed_house_not_enacted,Engrossed in House
+115,House,1108,2018-09-25,2,401,2/3,392,5,HR6369,Passed,Expanding Contracting Opportunities for Small Business Act of 2018,"On Motion to Suspend the Rules and Pass, as Amended",,,passed_house_not_enacted,Engrossed in House
+115,House,1111,2018-09-26,2,404,2/3,394,15,HR5420,Passed,FDR Historic Preservation Act,"On Motion to Suspend the Rules and Pass, as Amended",,,passed_house_not_enacted,Engrossed in House
+115,House,1112,2018-09-26,2,405,1/2,361,61,HR6157,Passed,"Making appropriations for the Department of Defense for the fiscal year ending September 30, 2019, and for other purposes",On Agreeing to the Conference Report,,115-245,enacted,Enrolled Bill
+115,House,1115,2018-09-26,2,408,2/3,297,124,HR6729,Passed,Empowering Financial Institutions to Fight Human Trafficking Act,On Motion to Suspend the Rules and Pass,,,passed_house_not_enacted,Engrossed in House
+115,House,1118,2018-09-27,2,411,1/2,240,177,HR6757,Passed,Family Savings Act of 2018,On Passage,,,passed_house_not_enacted,Engrossed in House
+115,House,1119,2018-09-27,2,412,1/2,260,156,HR6756,Passed,American Innovation Act of 2018,On Passage,,,passed_house_not_enacted,Engrossed in House
+115,House,1121,2018-09-28,2,414,1/2,220,191,HR6760,Passed,Protecting Family and Small Business Tax Cuts Act of 2018,On Passage,,,passed_house_not_enacted,Engrossed in House
+115,House,1123,2018-11-13,2,416,2/3,385,4,HR6064,Passed,To rename the Oyster Bay National Wildlife Refuge as the Congressman Lester Wolff National Wildlife Refuge,On Motion to Suspend the Rules and Pass,,,passed_house_not_enacted,Engrossed in House
+115,House,1124,2018-11-13,2,417,2/3,375,1,HR2615,Passed,Gulf Islands National Seashore Land Exchange Act,On Motion to Suspend the Rules and Concur in the Senate Amendment,,115-279,enacted,Enrolled Bill
+115,House,1126,2018-11-16,2,419,2/3,375,1,HR5787,Passed,Strengthening Coastal Communities Act,"On Motion to Suspend the Rules and Pass, as Amended",,115-358,enacted,Enrolled Bill
+115,House,1127,2018-11-16,2,420,1/2,196,180,HR6784,Passed,Manage our Wolves Act,On Passage,,,passed_house_not_enacted,Engrossed in House
+115,House,1128,2018-11-27,2,421,2/3,376,16,HR5273,Passed,Global Fragility and Violence Reduction Act of 2018,"On Motion to Suspend the Rules and Pass, as Amended",,,passed_house_not_enacted,Engrossed in House
+115,House,1129,2018-11-27,2,422,2/3,374,11,HR6207,Passed,Democratic Republic of the Congo Democracy and Accountability Act of 2018,"On Motion to Suspend the Rules and Pass, as Amended",,,passed_house_not_enacted,Engrossed in House
+115,House,1131,2018-11-29,2,424,2/3,350,46,HR7187,Passed,National Flood Insurance Program Further Extension Act,On Motion to Suspend the Rules and Pass,,115-281,enacted,Enrolled Bill
+115,House,1132,2018-11-30,2,425,2/3,391,0,HR6901,Passed,Federal CIO Authorization Act of 2018,"On Motion to Suspend the Rules and Pass, as Amended",,,passed_house_not_enacted,Engrossed in House
+115,House,1134,2018-12-10,2,427,2/3,382,4,HR3008,Passed,George W. Bush Childhood Home Study Act,On Motion to Suspend the Rules and Pass,,,passed_house_not_enacted,Engrossed in House
+115,House,1135,2018-12-11,2,428,2/3,400,11,HR7217,Passed,Improving Medicaid Programs and Opportunities for Eligible Beneficiaries Act,On Motion to Suspend the Rules and Pass,,,passed_house_not_enacted,Engrossed in House
+115,House,1136,2018-12-11,2,429,2/3,406,3,S3029,Passed,PREEMIE Reauthorization Act,On Motion to Suspend the Rules and Pass,,115-328,enacted,Enrolled Bill
+115,House,1137,2018-12-11,2,430,2/3,403,3,S825,Passed,Southeast Alaska Regional Health Consortium Land Transfer Act of 2017,On Motion to Suspend the Rules and Pass,,115-326,enacted,Enrolled Bill
+115,House,1141,2018-12-12,2,434,1/2,369,47,HR2,Passed,Agriculture and Nutrition Act of 2018,On Agreeing to the Conference Report,,115-334,enacted,Enrolled Bill
+115,House,1143,2018-12-19,2,436,2/3,355,7,HR1222,Passed,Congenital Heart Futures Reauthorization Act of 2017,On Motion to Suspend the Rules and Concur in the Senate Amendment,,115-342,enacted,Enrolled Bill
+115,House,1144,2018-12-19,2,437,2/3,352,6,HR6615,Passed,Traumatic Brain Injury Program Reauthorization Act,On Motion to Suspend the Rules and Concur in the Senate Amendment,,115-377,enacted,Enrolled Bill
+115,House,1145,2018-12-19,2,438,2/3,361,3,S2076,Passed,BOLD Infrastructure for Alzheimer’s Act,On Motion to Suspend the Rules and Pass,,115-406,enacted,Enrolled Bill
+115,House,1146,2018-12-19,2,439,2/3,357,4,S2278,Passed,State Offices of Rural Health Reauthorization Act,On Motion to Suspend the Rules and Pass,,115-408,enacted,Enrolled Bill
+115,House,1147,2018-12-19,2,440,2/3,362,1,HR7327,Passed,SECURE Technology Act,On Motion to Suspend the Rules and Pass,,115-390,enacted,Enrolled Bill
+115,House,1148,2018-12-19,2,441,2/3,351,10,HR7279,Passed,Water Infrastructure Improvement Act,On Motion to Suspend the Rules and Pass,,115-436,enacted,Enrolled Bill
+115,House,1149,2018-12-19,2,442,2/3,348,11,HR6227,Passed,National Quantum Initiative Act,On Motion to Suspend the Rules and Concur in the Senate Amendment,,115-368,enacted,Enrolled Bill
+115,House,1150,2018-12-19,2,443,2/3,359,1,HR6652,Passed,"To direct the Secretary of the Interior to convey certain facilities, easements, and rights-of-way to the Kennewick Irrigation District, and for other purposes","On Motion to Suspend the Rules and Pass, as Amended",,,passed_house_not_enacted,Engrossed in House
+115,House,1151,2018-12-19,2,444,2/3,350,11,S1520,Passed,Modernizing Recreational Fisheries Management Act,On Motion to Suspend the Rules and Pass,,115-405,enacted,Enrolled Bill
+115,House,1152,2018-12-19,2,445,2/3,331,28,S3530,Passed,Museum and Library Services Act,On Motion to Suspend the Rules and Pass,,115-410,enacted,Enrolled Bill
+115,House,1155,2018-12-20,2,448,2/3,358,36,S756,Passed,First Step Act of 2018,On Motion to Suspend the Rules and Concur in the Senate Amendment to House Amendment,,115-391,enacted,Enrolled Bill
+115,House,1156,2018-12-20,2,449,2/3,367,9,HR7328,Passed,Pandemic and All-Hazards Preparedness and Advancing Innovation Act of 2018,On Motion to Suspend the Rules and Pass,,,passed_house_not_enacted,Engrossed in House
+115,House,1157,2018-12-20,2,450,2/3,386,2,HR5075,Passed,Ashanti Alert Act of 2018,On Motion to Suspend the Rules and Concur in the Senate Amendment,,115-401,enacted,Enrolled Bill
+115,House,1158,2018-12-20,2,451,2/3,386,5,HR7093,Passed,Clean Up the Code Act of 2018,On Motion to Suspend the Rules and Pass,,,passed_house_not_enacted,Engrossed in House
+115,House,1159,2018-12-20,2,452,2/3,391,0,S2896,Passed,Justice Against Corruption on K Street Act,On Motion to Suspend the Rules and Pass,,115-418,enacted,Enrolled Bill
+115,House,1160,2018-12-20,2,453,2/3,388,2,S2961,Passed,Victims of Child Abuse Act Reauthorization Act,On Motion to Suspend the Rules and Pass,,115-424,enacted,Enrolled Bill
+115,House,1161,2018-12-20,2,454,2/3,389,1,S2679,Passed,Veterans Small Business Enhancement Act,On Motion to Suspend the Rules and Pass,,115-416,enacted,Enrolled Bill
+115,House,1162,2018-12-20,2,455,2/3,378,11,HR7227,Passed,Taxpayer First Act,"On Motion to Suspend the Rules and Pass, as Amended",,,passed_house_not_enacted,Engrossed in House
+115,House,1163,2018-12-20,2,456,2/3,388,2,HR4227,Passed,Vehicular Terrorism Prevention Act of 2018,On Motion to Suspend the Rules and Concur in the Senate Amendments,,115-400,enacted,Enrolled Bill
+115,House,1164,2018-12-20,2,457,2/3,390,2,S2652,Passed,Stephen Michael Gleason Congressional Gold Medal Act,On Motion to Suspend the Rules and Pass,,115-415,enacted,Enrolled Bill
+115,House,1165,2018-12-20,2,458,2/3,389,0,S2765,Passed,RBIC Advisers Relief Act,On Motion to Suspend the Rules and Pass,,115-417,enacted,Enrolled Bill
+115,House,1166,2018-12-20,2,459,2/3,378,13,HR5509,Passed,"Innovations in Mentoring, Training, and Apprenticeships",On Motion to Suspend the Rules and Concur in the Senate Amendment,,115-402,enacted,Enrolled Bill
+115,House,1167,2018-12-20,2,460,2/3,390,0,S7,Passed,NASA Enhanced Use Leasing Extension Act,On Motion to Suspend the Rules and Pass,,115-403,enacted,Enrolled Bill
+115,House,1168,2018-12-20,2,461,2/3,379,9,S2200,Passed,National Integrated Drought Information System Reauthorization Act,On Motion to Suspend the Rules and Pass,,115-423,enacted,Enrolled Bill
+115,House,1169,2018-12-20,2,462,2/3,386,6,HR767,Passed,"Stop, Observe, Ask, and Respond to Health and Wellness Act",On Motion to Suspend the Rules and Concur in the Senate Amendment,,115-398,enacted,Enrolled Bill
+115,House,1170,2018-12-20,2,463,2/3,230,162,S2322,Failed,Codifying Useful Regulatory Definitions Act,On Motion to Suspend the Rules and Pass,,,failed,Engrossed in Senate
+115,House,1171,2018-12-20,2,464,2/3,387,0,HR6418,Passed,VA Website Accessibility Act,"On Motion to Suspend the Rules and Pass, as Amended",,,passed_house_not_enacted,Engrossed in House
+115,House,1172,2018-12-20,2,465,2/3,388,0,S3444,Passed,Community-based outpatient clinic of the Department of Veterans Affairs as the “Douglas Fournet Department of Veterans Affairs Clinic”,On Motion to Suspend the Rules and Pass,,115-421,enacted,Enrolled Bill
+115,House,1173,2018-12-20,2,466,2/3,389,0,S3777,Passed,Forever GI Bill Housing Payment Fulfillment Act,On Motion to Suspend the Rules and Pass,,115-422,enacted,Enrolled Bill
+115,House,1177,2018-12-20,2,470,1/2,220,183,HR88,Passed,Shiloh National Military Park Boundary Adjustment and Parker’s Crossroads Battlefield Designation Act,On Motion to Concur in the Senate Amendment with an Amendment,,,passed_house_not_enacted,Engrossed in House
+115,House,1178,2018-12-20,2,471,2/3,399,0,HR2606,Passed,Stigler Act Amendments,On Motion to Suspend the Rules and Concur in the Senate Amendments,,115-399,enacted,Enrolled Bill
+115,House,1180,2018-12-20,2,473,2/3,382,9,HR6602,Passed,"To reauthorize the New Jersey Coastal Heritage Trail Route, and for other purposes",On Motion to Suspend the Rules and Pass,,115-431,enacted,Enrolled Bill
+115,House,1182,2018-12-21,2,475,2/3,372,2,HR7318,Passed,"To amend the Federal Assets Sale and Transfer Act of 2016 to ensure that the Public Buildings Reform Board has adequate time to carry out the responsibilities of the Board, and for other purposes",On Motion to Suspend the Rules and Pass,,115-437,enacted,Enrolled Bill
+115,House,1183,2018-12-21,2,476,2/3,372,1,HR7319,Passed,"To amend the Federal Assets Sale and Transfer Act of 2016 to provide flexibility with respect to the leaseback of certain Federal real property, and for other purposes",On Motion to Suspend the Rules and Pass,,115-438,enacted,Enrolled Bill
+115,House,1184,2018-12-21,2,477,2/3,378,2,HR7329,Passed,"To make technical corrections to provisions of law enacted by the Frank LoBiondo Coast Guard Authorization Act of 2018, and for other purposes",On Motion to Suspend the Rules and Pass,,,passed_house_not_enacted,Engrossed in House
+115,House,1185,2018-12-21,2,478,2/3,381,2,S3367,Passed,Department of Transportation Reports Harmonization Act,On Motion to Suspend the Rules and Pass,,115-420,enacted,Enrolled Bill
+115,House,1186,2018-12-21,2,479,2/3,375,6,HR7293,Passed,"To designate the facility of the United States Postal Service located at 770 Ayrault Road in Fairport, New York, as the “Louise and Bob Slaughter Post Office”",On Motion to Suspend the Rules and Pass,,,passed_house_not_enacted,Engrossed in House
+115,House,1187,2018-12-21,2,480,2/3,382,2,S2276,Passed,GAO-IG Act,On Motion to Suspend the Rules and Pass,,115-414,enacted,Enrolled Bill
+115,House,1188,2018-12-21,2,481,2/3,383,1,S3031,Passed,Federal Personal Property Management Act,On Motion to Suspend the Rules and Pass,,115-419,enacted,Enrolled Bill
+115,House,1189,2018-12-21,2,482,2/3,376,6,S3191,Passed,Civil Rights Cold Case Records Collection Act,On Motion to Suspend the Rules and Pass,,115-426,enacted,Enrolled Bill
+115,House,1191,2018-12-21,2,484,2/3,356,17,HR4174,Passed,Foundations for Evidence-Based Policymaking Act,On Motion to Suspend the Rules and Concur in the Senate Amendment,,115-435,enacted,Enrolled Bill
+115,House,1192,2018-12-21,2,485,2/3,239,137,S3277,Failed,Space Frontier Act of 2019,On Motion to Suspend the Rules and Pass,,,failed,Engrossed in Senate
+115,House,1193,2018-12-21,2,486,2/3,370,0,S3661,Passed,75th Anniversary of World War II Commemoration Act,"On Motion to Suspend the Rules and Pass, as Amended",,115-433,enacted,Enrolled Bill
+115,House,1194,2018-12-21,2,487,2/3,368,7,HR2200,Passed,Frederick Douglass Trafficking Victims Prevention and Protection Reauthorization Act,On Motion to Suspend the Rules and Concur in the Senate Amendment,,115-425,enacted,Enrolled Bill
+115,House,1195,2018-12-21,2,488,2/3,332,43,S1023,Passed,Tropical Forest Conservation Reauthorization Act,On Motion to Suspend the Rules and Pass,,115-440,enacted,Enrolled Bill
+115,House,1196,2018-12-21,2,489,2/3,367,4,S1158,Passed,Elie Wiesel Genocide and Atrocities Prevention Act,On Motion to Suspend the Rules and Pass,,115-441,enacted,Enrolled Bill
+115,House,1197,2018-12-21,2,490,2/3,362,5,S1580,Passed,Protecting Girls’ Access to Education in Vulnerable Settings Act,On Motion to Suspend the Rules and Pass,,115-442,enacted,Enrolled Bill
+115,House,1198,2018-12-21,2,491,2/3,370,0,S1862,Passed,Trafficking Victims Protection Reauthorization Act,On Motion to Suspend the Rules and Pass,,115-427,enacted,Enrolled Bill
+115,House,1199,2018-12-21,2,492,2/3,352,18,S3247,Passed,Women’s Entrepreneurship and Economic and Empowerment Act,On Motion to Suspend the Rules and Pass,,115-428,enacted,Enrolled Bill
+115,House,1200,2018-12-21,2,493,2/3,361,10,S512,Passed,Nuclear Energy Innovation and Modernization Act,On Motion to Suspend the Rules and Pass,,115-439,enacted,Enrolled Bill
+115,House,1201,2018-12-21,2,494,2/3,202,171,S1934,Failed,Alaska Remote Generator Reliability and Protection Act,On Motion to Suspend the Rules and Pass,,,failed,Engrossed in Senate
+115,House,1202,2018-12-21,2,495,2/3,371,3,HR6287,Passed,9/11 Memorial Act,On Motion to Suspend the Rules and Concur in the Senate Amendment,,115-413,enacted,Enrolled Bill
+115,House,1203,2018-12-21,2,496,2/3,365,5,S3456,Passed,"To redesignate Hobe Sound National Wildlife Refuge as the Nathaniel P. Reed Hobe Sound National Wildlife Refuge, and for other purposes",On Motion to Suspend the Rules and Pass,,115-432,enacted,Enrolled Bill
+115,House,1204,2018-12-21,2,497,2/3,148,226,HR7388,Failed,National Flood Insurance Program Competition and Extension Act of 2018,On Motion to Suspend the Rules and Pass,,,failed,Introduced in House
+115,House,1207,2018-12-21,2,500,2/3,315,48,S3628,Passed,National Flood Insurance Program Extention Act,On Motion to Suspend the Rules and Pass,,115-396,enacted,Enrolled Bill

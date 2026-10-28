@@ -1,0 +1,361 @@
+congress,chamber,rollnumber,date,session,clerk_rollnumber,majority_requirement,yea_count,nay_count,bill_number,vote_result,vote_desc,vote_question,dtl_desc,law,outcome,text_version
+118,House,24,2023-01-09,1,25,1/2,221,210,HR23,Passed,Family and Small Business Taxpayer Protection Act,On Passage,,,passed_house_not_enacted,Engrossed in House
+118,House,28,2023-01-11,1,29,1/2,220,210,HR26,Passed,Born-Alive Abortion Survivors Protection Act,On Passage,,,passed_house_not_enacted,Engrossed in House
+118,House,30,2023-01-12,1,31,1/2,331,97,HR22,Passed,Protecting America’s Strategic Petroleum Reserve from China Act,On Passage,,,passed_house_not_enacted,Engrossed in House
+118,House,31,2023-01-24,1,32,2/3,422,2,HR159,Passed,Chance to Compete Act of 2023,"On Motion to Suspend the Rules and Pass, as Amended",,,passed_house_not_enacted,Engrossed in House
+118,House,32,2023-01-24,1,33,2/3,425,0,HR300,Passed,Settlement Agreement Information Database Act of 2023,"On Motion to Suspend the Rules and Pass, as Amended",,,passed_house_not_enacted,Engrossed in House
+118,House,33,2023-01-25,1,34,2/3,424,4,HR346,Passed,NOTAM Improvement Act,"On Motion to Suspend the Rules and Pass, as Amended",,118-4,enacted,Enrolled Bill
+118,House,34,2023-01-25,1,35,2/3,411,13,HR400,Passed,Investing in Main Street Act,On Motion to Suspend the Rules and Pass,,,passed_house_not_enacted,Engrossed in House
+118,House,92,2023-01-27,1,93,1/2,221,205,HR21,Passed,Strategic Production Response Act,On Passage,,,passed_house_not_enacted,Engrossed in House
+118,House,93,2023-01-30,1,94,2/3,419,0,HR500,Passed,Financial Exploitation Prevention Act,On Motion to Suspend the Rules and Pass,,,passed_house_not_enacted,Engrossed in House
+118,House,97,2023-01-31,1,98,1/2,227,203,HR497,Passed,Freedom for Health Care Workers Act,On Passage,,,passed_house_not_enacted,Engrossed in House
+118,House,99,2023-01-31,1,100,1/2,220,210,HR382,Passed,Pandemic is Over Act,On Passage,,,passed_house_not_enacted,Engrossed in House
+118,House,102,2023-02-01,1,103,1/2,221,206,HR139,Passed,SHOW UP Act,On Passage,,,passed_house_not_enacted,Engrossed in House
+118,House,103,2023-02-01,1,104,1/2,229,197,HJRES7,Passed,"Relating to a national emergency declared by the President on March 13, 2020",On Passage,,118-3,enacted,Enrolled Bill
+118,House,106,2023-02-06,1,107,2/3,357,56,HR302,Passed,Energy Cybersecurity University Leadership Act,"On Motion to Suspend the Rules and Pass, as Amended",,,passed_house_not_enacted,Engrossed in House
+118,House,115,2023-02-08,1,116,1/2,227,201,HR185,Passed,"To terminate the requirement imposed by the Director of the Centers for Disease Control and Prevention for proof of COVID-19 vaccination for foreign travelers, and for other purposes",On Passage,,,passed_house_not_enacted,Engrossed in House
+118,House,117,2023-02-09,1,118,1/2,260,162,HJRES24,Passed,Disapproving the action of the District of Columbia Council in approving the Local Resident Voting Rights Amendment Act of 2022,On Passage,,,passed_house_not_enacted,Engrossed in House
+118,House,118,2023-02-09,1,119,1/2,250,173,HJRES26,Passed,Disapproving the action of the District of Columbia Council in approving the Revised Criminal Code Act,On Passage,,118-1,enacted,Enrolled Bill
+118,House,120,2023-02-27,1,121,2/3,406,12,HR538,Passed,Informing Consumers about Smart Devices Act,On Motion to Suspend the Rules and Pass,,,passed_house_not_enacted,Engrossed in House
+118,House,130,2023-03-01,1,131,1/2,272,148,HR347,Passed,Reduce Exacerbated Inflation Negatively Impacting the Nation Act,On Passage,,,passed_house_not_enacted,Engrossed in House
+118,House,131,2023-03-07,1,132,2/3,422,0,HR1226,Passed,Wounded Warrior Access Act,"On Motion to Suspend the Rules and Pass, as Amended",,118-21,enacted,Enrolled Bill
+118,House,132,2023-03-07,1,133,2/3,393,22,HR1123,Passed,Understanding Cybersecurity of Mobile Networks Act,"On Motion to Suspend the Rules and Pass, as Amended",,,passed_house_not_enacted,Engrossed in House
+118,House,136,2023-03-08,1,137,2/3,426,0,HR753,Passed,VA COST SAVINGS Enhancements Act,"On Motion to Suspend the Rules and Pass, as Amended",,,passed_house_not_enacted,Engrossed in House
+118,House,140,2023-03-09,1,141,1/2,219,206,HR140,Passed,Protecting Speech from Government Interference Act,On Passage,,,passed_house_not_enacted,Engrossed in House
+118,House,142,2023-03-10,1,143,1/2,419,0,S619,Passed,COVID-19 Origin Act,On Passage,,118-2,enacted,Enrolled Bill
+118,House,143,2023-03-22,1,144,2/3,393,4,HR1093,Passed,"To direct the Secretary of State to submit to Congress a report on implementation of the advanced capabilities pillar of the trilateral security partnership between Australia, the United Kingdom, and the United States",On Motion to Suspend the Rules and Pass,,,passed_house_not_enacted,Engrossed in House
+118,House,144,2023-03-22,1,145,2/3,404,7,HR1159,Passed,To amend the Taiwan Assurance Act of 2020 to require periodic reviews and updated reports relating to the Department of State’s Taiwan Guidelines,On Motion to Suspend the Rules and Pass,,,passed_house_not_enacted,Engrossed in House
+118,House,147,2023-03-23,1,148,2/3,388,33,HR406,Passed,PARTNER with ASEAN Act,On Motion to Suspend the Rules and Pass,,,passed_house_not_enacted,Engrossed in House
+118,House,148,2023-03-23,1,149,2/3,219,200,HJRES30,Failed,"Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Department of Labor relating to “Prudence and Loyalty in Selecting Plan Investments and Exercising Shareholder Rights”","Passage, Objections of the President To The Contrary Notwithstanding",,,failed,Engrossed in House
+118,House,160,2023-03-24,1,161,1/2,213,208,HR5,Passed,Parents Bill of Rights Act,On Passage,,,passed_house_not_enacted,Engrossed in House
+118,House,162,2023-03-27,1,163,2/3,413,2,HR1154,Passed,Stop Forced Organ Harvesting Act,On Motion to Suspend the Rules and Pass,,,passed_house_not_enacted,Engrossed in House
+118,House,163,2023-03-27,1,164,2/3,415,0,HR1107,Passed,PRC Is Not a Developing Country Act,"On Motion to Suspend the Rules and Pass, as Amended",,,passed_house_not_enacted,Engrossed in House
+118,House,181,2023-03-30,1,182,1/2,225,204,HR1,Passed,Lower Energy Costs Act,On Passage,,,passed_house_not_enacted,Engrossed in House
+118,House,182,2023-04-17,1,183,2/3,405,6,HR1151,Passed,Upholding Sovereignty of Airspace Act,"On Motion to Suspend the Rules and Pass, as Amended",,,passed_house_not_enacted,Engrossed in House
+118,House,186,2023-04-18,1,187,2/3,227,196,HJRES27,Failed,"Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Department of the Army, Corps of Engineers, Department of Defense and the Environmental Protection Agency relating to “Revised Definition of ’Waters of the United States’ ”","Passage, Objections of the President To The Contrary Notwithstanding",,,failed,Engrossed in House
+118,House,188,2023-04-19,1,189,2/3,410,8,HR1149,Passed,Countering Untrusted Telecommunications Abroad Act,"On Motion to Suspend the Rules and Pass, as Amended",,,passed_house_not_enacted,Engrossed in House
+118,House,191,2023-04-20,1,192,1/2,219,203,HR734,Passed,Protection of Women and Girls in Sports Act,On Passage,,,passed_house_not_enacted,Engrossed in House
+118,House,196,2023-04-26,1,197,2/3,422,1,HR1353,Passed,ALERT Parity Act,"On Motion to Suspend the Rules and Pass, as Amended",,,passed_house_not_enacted,Engrossed in House
+118,House,198,2023-04-26,1,199,1/2,217,215,HR2811,Passed,"Limit, Save, Grow Act",On Passage,,,passed_house_not_enacted,Engrossed in House
+118,House,199,2023-04-26,1,200,2/3,409,11,HR1339,Passed,Precision Agriculture Satellite Connectivity Act,On Motion to Suspend the Rules and Pass,,,passed_house_not_enacted,Engrossed in House
+118,House,202,2023-05-09,1,203,2/3,351,58,HR676,Passed,Coastal Communities Ocean Acidification Act,On Motion to Suspend the Rules and Pass,,,passed_house_not_enacted,Engrossed in House
+118,House,203,2023-05-09,1,204,2/3,356,50,HR1715,Passed,Advanced Weather Model Computing Development Act,On Motion to Suspend the Rules and Pass,,,passed_house_not_enacted,Engrossed in House
+118,House,208,2023-05-11,1,209,1/2,219,213,HR2,Passed,Secure the Border Act,On Passage,,,passed_house_not_enacted,Engrossed in House
+118,House,210,2023-05-11,1,211,1/2,230,200,HR1163,Passed,Protecting Taxpayers and Victims of Unemployment Fraud Act,On Passage,,,passed_house_not_enacted,Engrossed in House
+118,House,211,2023-05-11,1,212,2/3,425,0,HR1734,Passed,TRANQ Research Act,"On Motion to Suspend the Rules and Pass, as Amended",,118-23,enacted,Enrolled Bill
+118,House,212,2023-05-15,1,213,2/3,412,0,HR3089,Passed,NDO Fairness Act,On Motion to Suspend the Rules and Pass,,,passed_house_not_enacted,Engrossed in House
+118,House,221,2023-05-17,1,222,1/2,232,198,HR3091,Passed,Federal Law Enforcement Officer Service Weapon Purchase Act,On Passage,,,passed_house_not_enacted,Engrossed in House
+118,House,224,2023-05-17,1,225,1/2,255,175,HR2494,Passed,POLICE Act,On Passage,,,passed_house_not_enacted,Engrossed in House
+118,House,227,2023-05-22,1,228,2/3,402,2,HR1076,Passed,Preventing the Financing of Illegal Synthetic Drugs Act,"On Motion to Suspend the Rules and Pass, as Amended",,118-79,enacted,Enrolled Bill
+118,House,228,2023-05-22,1,229,2/3,400,5,HR1156,Passed,China Financial Threat Mitigation Act,"On Motion to Suspend the Rules and Pass, as Amended",,,passed_house_not_enacted,Engrossed in House
+118,House,231,2023-05-23,1,232,1/2,221,203,SJRES11,Passed,"Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Environmental Protection Agency relating to “Control of Air Pollution From New Motor Vehicles: Heavy-Duty Engine and Vehicle Standards”",On Passage,,,passed_house_not_enacted,Engrossed in Senate
+118,House,232,2023-05-24,1,233,2/3,214,205,HJRES39,Failed,"Disapproving the rule submitted by the Department of Commerce relating to “Procedures Covering Suspension of Liquidation, Duties and Estimated Duties in Accord with Presidential Proclamation 10414”","Passage, Objections of the President To The Contrary Notwithstanding",,,failed,Engrossed in House
+118,House,234,2023-05-24,1,235,2/3,409,9,HR1669,Passed,VET-TEC Authorization Act,"On Motion to Suspend the Rules and Pass, as Amended",,,passed_house_not_enacted,Engrossed in House
+118,House,236,2023-05-25,1,237,1/2,289,133,HR467,Passed,HALT Fentanyl Act,On Passage,,,passed_house_not_enacted,Engrossed in House
+118,House,237,2023-05-30,1,238,2/3,367,8,HR2792,Passed,Small Entity Update Act,"On Motion to Suspend the Rules and Pass, as Amended",,,passed_house_not_enacted,Engrossed in House
+118,House,238,2023-05-30,1,239,2/3,347,30,HR2795,Passed,Enhancing Multi-Class Share Disclosures Act,"On Motion to Suspend the Rules and Pass, as Amended",,,passed_house_not_enacted,Engrossed in House
+118,House,239,2023-05-30,1,240,2/3,309,67,HR2796,Passed,Promoting Opportunities for Non-Traditional Capital Formation Act,"On Motion to Suspend the Rules and Pass, as Amended",,,passed_house_not_enacted,Engrossed in House
+118,House,242,2023-05-31,1,243,1/2,314,117,HR3746,Passed,Fiscal Responsibility Act,On Passage,,118-5,enacted,Enrolled Bill
+118,House,243,2023-05-31,1,244,2/3,383,18,HR2797,Passed,Equal Opportunity for All Investors Act of 2023,"On Motion to Suspend the Rules and Pass, as Amended",,,passed_house_not_enacted,Engrossed in House
+118,House,244,2023-06-05,1,245,2/3,384,13,HR2793,Passed,Encouraging Public Offerings Act,"On Motion to Suspend the Rules and Pass, as Amended",,,passed_house_not_enacted,Engrossed in House
+118,House,245,2023-06-05,1,246,2/3,390,10,HR2812,Passed,Middle Market IPO Cost Act,"On Motion to Suspend the Rules and Pass, as Amended",,,passed_house_not_enacted,Engrossed in House
+118,House,250,2023-06-13,1,251,2/3,413,13,HR3099,Passed,Special Envoy for the Abraham Accords Act,"On Motion to Suspend the Rules and Pass, as Amended",,,passed_house_not_enacted,Engrossed in House
+118,House,251,2023-06-13,1,252,1/2,219,210,HJRES44,Passed,"Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Bureau of Alcohol, Tobacco, Firearms, and Explosives relating to “Factoring Criteria for Firearms with Attached ’Stabilizing Braces’”",On Passage,,,passed_house_not_enacted,Engrossed in House
+118,House,252,2023-06-13,1,253,2/3,233,197,HJRES42,Failed,Disapproving the action of the District of Columbia Council in approving the Comprehensive Policing and Justice Reform Amendment Act,"Passage, Objections of the President To The Contrary Notwithstanding",,,failed,Engrossed in House
+118,House,254,2023-06-13,1,255,1/2,248,180,HR1615,Passed,Gas Stove Protection and Freedom Act,On Passage,,,passed_house_not_enacted,Engrossed in House
+118,House,264,2023-06-14,1,265,1/2,221,210,HR277,Passed,REINS Act,On Passage,,,passed_house_not_enacted,Engrossed in House
+118,House,267,2023-06-14,1,268,1/2,249,181,HR1640,Passed,Save Our Gas Stoves Act,On Passage,,,passed_house_not_enacted,Engrossed in House
+118,House,270,2023-06-15,1,271,1/2,220,211,HR288,Passed,Separation of Powers Restoration Act,On Passage,,,passed_house_not_enacted,Engrossed in House
+118,House,271,2023-06-20,1,272,2/3,407,0,HR1606,Passed,Veteran Entrepreneurship Training Act,"On Motion to Suspend the Rules and Pass, as Amended",,,passed_house_not_enacted,Engrossed in House
+118,House,272,2023-06-20,1,273,2/3,409,0,HR3672,Passed,"To designate the clinic of the Department of Veterans Affairs in Indian River, Michigan, as the “Pfc. Justin T. Paton Department of Veterans Affairs Clinic”",On Motion to Suspend the Rules and Pass,,118-12,enacted,Enrolled Bill
+118,House,276,2023-06-21,1,277,2/3,221,206,HJRES45,Failed,"Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Department of Education relating to “Waivers and Modifications of Federal Student Loans”","Passage, Objections of the President To The Contrary Notwithstanding",,,failed,Engrossed in House
+118,House,281,2023-06-21,1,282,1/2,220,209,HR3799,Passed,CHOICE Arrangement Act,On Passage,,,passed_house_not_enacted,Engrossed in House
+118,House,288,2023-06-23,1,289,1/2,230,189,HR3564,Passed,Middle Class Borrower Protection Act,On Passage,,,passed_house_not_enacted,Engrossed in House
+118,House,289,2023-07-11,1,290,2/3,398,11,HR1548,Passed,Improving Access to Small Business Information Act,"On Motion to Suspend the Rules and Pass, as Amended",,,passed_house_not_enacted,Engrossed in House
+118,House,290,2023-07-11,1,291,2/3,409,1,HR1096,Passed,250th Anniversary of the United States Marine Corps Commemorative Coin Act,On Motion to Suspend the Rules and Pass,,118-10,enacted,Enrolled Bill
+118,House,328,2023-07-17,1,329,2/3,400,0,S111,Passed,Providing Accountability Through Transparency Act,On Motion to Suspend the Rules and Pass,,118-9,enacted,Enrolled Bill
+118,House,329,2023-07-17,1,330,2/3,386,22,HR813,Passed,Global Investment in American Jobs Act,"On Motion to Suspend the Rules and Pass, as Amended",,,passed_house_not_enacted,Engrossed in House
+118,House,332,2023-07-18,1,333,1/2,27,381,HJRES68,Failed,"Relating to a national emergency declared by the President on October 27, 2006",On Passage,,,failed,Introduced in House
+118,House,333,2023-07-18,1,334,1/2,30,388,HJRES70,Failed,"Relating to a national emergency declared by the President on February 25, 2011",On Passage,,,failed,Introduced in House
+118,House,334,2023-07-18,1,335,1/2,27,393,HJRES74,Failed,"Relating to a national emergency declared by the President on May 16, 2012",On Passage,,,failed,Introduced in House
+118,House,335,2023-07-18,1,336,1/2,26,394,HJRES71,Failed,"Relating to a national emergency declared by the President on May 22, 2003",On Passage,,,failed,Introduced in House
+118,House,336,2023-07-18,1,337,1/2,24,394,HJRES79,Failed,"Relating to a national emergency declared by the President on May 11, 2004",On Passage,,,failed,Introduced in House
+118,House,339,2023-07-19,1,340,1/2,222,201,HR3941,Passed,Schools Not Shelters Act,On Passage,,,passed_house_not_enacted,Engrossed in House
+118,House,364,2023-07-25,1,365,2/3,250,163,HR1338,Failed,Satellite And Telecommunications Streamlining Act,"On Motion to Suspend the Rules and Pass, as Amended",,,failed,Reported in House
+118,House,365,2023-07-25,1,366,2/3,409,1,HR4470,Passed,Protecting and Securing Chemical Facilities from Terrorist Attacks Act,"On Motion to Suspend the Rules and Pass, as Amended",,,passed_house_not_enacted,Engrossed in House
+118,House,379,2023-07-27,1,380,1/2,219,211,HR4366,Passed,"Making appropriations for military construction, the Department of Veterans Affairs, and related agencies for the fiscal year ending September 30, 2024, and for other purposes",On Passage,,118-42,enacted,Enrolled Bill
+118,House,380,2023-07-27,1,381,1/2,221,206,SJRES9,Passed,"Providing for congressional disapproval under chapter 8 of title 5, U.S. Code, relating to “Endangered and Threatened Wildlife and Plants; Lesser Prairie-Chicken; Threatened Status With Sec. 4(d) Rule for the Northern Distinct Population Segment and Endangered Status for the Southern Distinct Population Segment”",On Passage,,,passed_house_not_enacted,Engrossed in Senate
+118,House,381,2023-07-27,1,382,1/2,220,209,SJRES24,Passed,"Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the United States Fish and Wildlife Service relating to “Endangered and Threatened Wildlife and Plants; Endangered Species Status for Northern Long-Eared Bat”.",On Passage,,,passed_house_not_enacted,Engrossed in Senate
+118,House,382,2023-09-12,1,383,2/3,403,8,HR3152,Passed,Fight CRIME Act,"On Motion to Suspend the Rules and Pass, as Amended",,,passed_house_not_enacted,Engrossed in House
+118,House,383,2023-09-12,1,384,2/3,410,3,HR589,Passed,MAHSA Act,"On Motion to Suspend the Rules and Pass, as Amended",,,passed_house_not_enacted,Engrossed in House
+118,House,385,2023-09-13,1,386,2/3,406,4,HR1567,Passed,ACRES Act,"On Motion to Suspend the Rules and Pass, as Amended",,,passed_house_not_enacted,Engrossed in House
+118,House,386,2023-09-13,1,387,2/3,415,0,HR3324,Passed,To extend the authority to collect Shasta-Trinity Marina fees through fiscal year 2029,On Motion to Suspend the Rules and Pass,,118-166,enacted,Enrolled Bill
+118,House,390,2023-09-14,1,391,1/2,222,190,HR1435,Passed,Preserving Choice in Vehicle Purchases Act,On Passage,,,passed_house_not_enacted,Engrossed in House
+118,House,391,2023-09-18,1,392,2/3,410,0,HR3981,Passed,Isakson-Roe Education Oversight Expansion Act,"On Motion to Suspend the Rules and Pass, as Amended",,,passed_house_not_enacted,Engrossed in House
+118,House,392,2023-09-18,1,393,2/3,409,0,S475,Passed,"To designate the clinic of the Department of Veterans Affairs in Gallup, New Mexico, as the Hiroshi “Hershey” Miyamura VA Clinic",On Motion to Suspend the Rules and Pass,,118-16,enacted,Enrolled Bill
+118,House,393,2023-09-18,1,394,2/3,378,32,HR663,Passed,Native American Child Protection Act,"On Motion to Suspend the Rules and Pass, as Amended",,118-160,enacted,Enrolled Bill
+118,House,398,2023-09-19,1,399,2/3,422,0,S112,Passed,"To amend title 38, United States Code, to strengthen benefits for children of Vietnam veterans born with spina bifida, and for other purposes",On Motion to Suspend the Rules and Pass,,118-18,enacted,Enrolled Bill
+118,House,400,2023-09-20,1,401,2/3,423,0,HR1530,Passed,Veterans Benefits Improvement Act,"On Motion to Suspend the Rules and Pass, as Amended",,,passed_house_not_enacted,Engrossed in House
+118,House,406,2023-09-26,1,407,2/3,424,1,HR5110,Passed,Protecting Hunting Heritage and Education Act,"On Motion to Suspend the Rules and Pass, as Amended",,118-17,enacted,Enrolled Bill
+118,House,499,2023-09-28,1,500,1/2,216,212,HR4665,Passed,"Making appropriations for the Department of State, foreign operations, and related programs for the fiscal year ending September 30, 2024, and for other purposes",On Passage,,,passed_house_not_enacted,Engrossed in House
+118,House,501,2023-09-28,1,502,1/2,218,210,HR4365,Passed,"Making appropriations for the Department of Defense for the fiscal year ending September 30, 2024, and for other purposes",On Passage,,,passed_house_not_enacted,Engrossed in House
+118,House,502,2023-09-28,1,503,1/2,311,117,HR5692,Passed,"Making supplemental appropriations for the fiscal year ending September 30, 2024, and for other purposes",On Passage,,,passed_house_not_enacted,Engrossed in House
+118,House,504,2023-09-28,1,505,1/2,220,208,HR4367,Passed,"Making appropriations for the Department of Homeland Security for the fiscal year ending September 30, 2024, and for other purposes",On Passage,,,passed_house_not_enacted,Engrossed in House
+118,House,506,2023-09-28,1,507,1/2,191,237,HR4368,Failed,"Agriculture, Rural Development, Food and Drug Administration, and Related Agencies Appropriations Act, 2024",On Passage,,,failed,Reported in House
+118,House,510,2023-09-29,1,511,1/2,198,232,HR5525,Failed,Spending Reduction and Border Security Act,On Passage,,,failed,Introduced in House
+118,House,512,2023-09-30,1,513,2/3,335,91,HR5860,Passed,"Continuing Appropriations Act, 2024 and Other Extensions Act","On Motion to Suspend the Rules and Pass, as Amended",,118-15,enacted,Enrolled Bill
+118,House,513,2023-10-02,1,514,2/3,390,0,HR2379,Passed,"To designate the facility of the United States Postal Service located at 616 East Main Street in St. Charles, Illinois, as the “Veterans of the Vietnam War Memorial Post Office”.",On Motion to Suspend the Rules and Pass,,118-54,enacted,Enrolled Bill
+118,House,514,2023-10-02,1,515,2/3,394,1,HR4502,Passed,Modernizing the Acquisition of Cybersecurity Experts Act,"On Motion to Suspend the Rules and Pass, as Amended",,,passed_house_not_enacted,Engrossed in House
+118,House,553,2023-10-26,1,558,1/2,210,199,HR4394,Passed,"Making appropriations for energy and water development and related agencies for the fiscal year ending September 30, 2024, and for other purposes",On Passage,,,passed_house_not_enacted,Engrossed in House
+118,House,556,2023-11-01,1,561,2/3,363,46,HR340,Passed,Hamas and Other Palestinian Terrorist Groups International Financing Prevention Act,"On Motion to Suspend the Rules and Pass, as Amended",,,passed_house_not_enacted,Engrossed in House
+118,House,558,2023-11-01,1,563,1/2,214,197,HR4364,Passed,"Making appropriations for the Legislative Branch for the fiscal year ending September 30, 2024, and for other purposes",On Passage,,,passed_house_not_enacted,Engrossed in House
+118,House,572,2023-11-02,1,577,1/2,226,196,HR6126,Passed,,On Passage,,,passed_house_not_enacted,Engrossed in House
+118,House,592,2023-11-03,1,597,1/2,213,203,HR4821,Passed,"Making appropriations for the Department of the Interior, environment, and related agencies for the fiscal year ending September 30, 2024, and for other purposes",On Passage,,,passed_house_not_enacted,Engrossed in House
+118,House,593,2023-11-03,1,598,2/3,342,69,HR3774,Passed,SHIP Act,"On Motion to Suspend the Rules and Pass, as Amended",,,passed_house_not_enacted,Engrossed in House
+118,House,594,2023-11-06,1,599,2/3,384,1,HR1607,Passed,"To clarify jurisdiction with respect to certain Bureau of Reclamation pumped storage development, and for other purposes","On Motion to Suspend the Rules and Pass, as Amended",,118-162,enacted,Enrolled Bill
+118,House,595,2023-11-06,1,600,2/3,359,24,HR359,Passed,Fort San Geronimo Preservation Act,On Motion to Suspend the Rules and Pass,,,passed_house_not_enacted,Engrossed in House
+118,House,638,2023-11-13,1,643,2/3,405,0,HR1105,Passed,Debbie Smith Act,"On Motion to Suspend the Rules and Pass, as Amended",,118-72,enacted,Enrolled Bill
+118,House,639,2023-11-13,1,644,2/3,409,0,HR593,Passed,"To rename the Department of Veterans Affairs community-based outpatient clinic in Hinesville, Georgia, as the “John Gibson, Dan James, William Sapp, and Frankie Smiley VA Clinic”",On Motion to Suspend the Rules and Pass,,118-61,enacted,Enrolled Bill
+118,House,653,2023-11-14,1,658,2/3,336,95,HR6363,Passed,"Further Continuing Appropriations and Other Extensions Act, 2024","On Motion to Suspend the Rules and Pass, as Amended",,118-22,enacted,Enrolled Bill
+118,House,682,2023-11-30,1,687,1/2,307,119,HR5961,Passed,No Funds for Iranian Terrorism Act,On Passage,,,passed_house_not_enacted,Engrossed in House
+118,House,684,2023-11-30,1,689,1/2,224,203,HR5283,Passed,Protecting our Communities from Failure to Secure the Border Act,On Passage,,,passed_house_not_enacted,Engrossed in House
+118,House,685,2023-12-01,1,690,1/2,221,202,SJRES32,Passed,"Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Bureau of Consumer Financial Protection relating to “Small Business Lending Under the Equal Credit Opportunity Act (Regulation B)”",On Passage,,,passed_house_not_enacted,Engrossed in Senate
+118,House,689,2023-12-05,1,694,2/3,356,61,HR1547,Passed,One Seat Ride Act,"On Motion to Suspend the Rules and Pass, as Amended",,,passed_house_not_enacted,Engrossed in House
+118,House,690,2023-12-05,1,695,2/3,408,10,HR3848,Passed,Housing our Military Veterans Effectively Act,"On Motion to Suspend the Rules and Pass, as Amended",,,passed_house_not_enacted,Engrossed in House
+118,House,691,2023-12-05,1,696,2/3,414,5,HR542,Passed,Elizabeth Dole Home- and Community-Based Services for Veterans and Caregivers Act,"On Motion to Suspend the Rules and Pass, as Amended",,,passed_house_not_enacted,Engrossed in House
+118,House,696,2023-12-06,1,701,1/2,246,170,HR5933,Passed,DETERRENT Act,On Passage,,,passed_house_not_enacted,Engrossed in House
+118,House,698,2023-12-06,1,703,1/2,221,197,HR4468,Passed,Choice in Automobile Retail Sales Act,On Passage,,,passed_house_not_enacted,Engrossed in House
+118,House,700,2023-12-07,1,705,1/2,210,189,HJRES88,Passed,"Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Department of Education relating to “Improving Income Driven Repayment for the William D. Ford Federal Direct Loan Program and the Federal Family Education Loan (FFEL) Program",On Passage,,,passed_house_not_enacted,Engrossed in House
+118,House,702,2023-12-11,1,707,2/3,394,0,HR3224,Passed,Countering Weapons of Mass Destruction Extension Act,"On Motion to Suspend the Rules and Pass, as Amended",,,passed_house_not_enacted,Engrossed in House
+118,House,703,2023-12-11,1,708,2/3,320,71,HR5378,Passed,"Lower Costs, More Transparency Act","On Motion to Suspend the Rules and Pass, as Amended",,,passed_house_not_enacted,Engrossed in House
+118,House,704,2023-12-11,1,709,2/3,376,15,HR6503,Passed,"Airport and Airway Extension Act of 2023, Part II",On Motion to Suspend the Rules and Pass,,118-34,enacted,Enrolled Bill
+118,House,707,2023-12-12,1,712,2/3,403,20,S788,Passed,Duck Stamp Modernization Act,On Motion to Suspend the Rules and Pass,,118-25,enacted,Enrolled Bill
+118,House,708,2023-12-12,1,713,2/3,420,1,HR5119,Passed,Protect Small Business and Prevent Illicit Financial Activity Act,"On Motion to Suspend the Rules and Pass, as Amended",,,passed_house_not_enacted,Engrossed in House
+118,House,709,2023-12-12,1,714,2/3,396,28,HR5524,Passed,Foreign Affiliates Sharing Pilot Program Extension Act,"On Motion to Suspend the Rules and Pass, as Amended",,,passed_house_not_enacted,Engrossed in House
+118,House,710,2023-12-12,1,715,2/3,386,37,HR4531,Passed,Support for Patients and Communities Reauthorization Act,"On Motion to Suspend the Rules and Pass, as Amended",,,passed_house_not_enacted,Engrossed in House
+118,House,712,2023-12-12,1,717,1/2,218,203,HR357,Passed,Ensuring Accountability in Agency Rulemaking Act,On Passage,,,passed_house_not_enacted,Engrossed in House
+118,House,713,2023-12-13,1,718,1/2,330,99,HR1147,Passed,Whole Milk for Healthy Kids Act,On Passage,,,passed_house_not_enacted,Engrossed in House
+118,House,718,2023-12-14,1,723,2/3,310,118,HR2670,Passed,National Defense Authorization Act,On Motion to Suspend the Rules and Agree to the Conference Report,,118-31,enacted,Enrolled Bill
+118,House,719,2023-12-14,1,724,2/3,407,9,HR2365,Passed,Dr. Emmanuel Bilirakis and Honorable Jennifer Wexton National Plan to End Parkinson’s Act,"On Motion to Suspend the Rules and Pass, as Amended",,118-66,enacted,Enrolled Bill
+118,House,725,2024-01-11,2,7,1/2,211,197,HR788,Passed,Stop Settlement Slush Funds Act,On Passage,,,passed_house_not_enacted,Engrossed in House
+118,House,726,2024-01-11,2,8,1/2,209,198,SJRES38,Passed,"Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Federal Highway Administration relating to “Waiver of Buy America Requirements for Electric Vehicle Chargers”",On Passage,,,passed_house_not_enacted,Engrossed in Senate
+118,House,727,2024-01-12,2,9,2/3,379,1,HR839,Passed,China Exchange Rate Transparency Act,"On Motion to Suspend the Rules and Pass, as Amended",,,passed_house_not_enacted,Engrossed in House
+118,House,730,2024-01-17,2,12,2/3,403,9,HR5862,Passed,"To amend the Homeland Security Act of 2002 relating to authority of U.S. Customs and Border Protection to consolidate, modify, or reorganize Customs revenue functions","On Motion to Suspend the Rules and Pass, as Amended",,,passed_house_not_enacted,Engrossed in House
+118,House,732,2024-01-18,2,14,2/3,413,7,S3250,Passed,"To provide remote access to court proceedings for victims of the 1988 Bombing of Pan Am Flight 103 over Lockerbie, Scotland",On Motion to Suspend the Rules and Pass,,118-37,enacted,Enrolled Bill
+118,House,733,2024-01-18,2,15,2/3,314,108,HR2872,Passed,"To amend the Permanent Electronic Duck Stamp Act of 2013 to allow the Secretary of the Interior to issue electronic stamps under such Act, and for other purposes",On Motion to Suspend the Rules and Concur in the Senate Amendment,,118-35,enacted,Enrolled Bill
+118,House,735,2024-01-18,2,17,1/2,214,208,HR6918,Passed,Supporting Pregnant and Parenting Women and Families Act,On Passage,,,passed_house_not_enacted,Engrossed in House
+118,House,737,2024-01-18,2,19,1/2,212,207,HR6914,Passed,Pregnant Students’ Rights Act,On Passage,,,passed_house_not_enacted,Engrossed in House
+118,House,738,2024-01-29,2,20,2/3,397,0,HR5528,Passed,Safe and Smart Federal Purchasing Act,"On Motion to Suspend the Rules and Pass, as Amended",,,passed_house_not_enacted,Engrossed in House
+118,House,739,2024-01-29,2,21,2/3,379,20,S3427,Passed,Overtime Pay for Protective Services Act,On Motion to Suspend the Rules and Pass,,118-38,enacted,Enrolled Bill
+118,House,743,2024-01-30,2,25,1/2,271,154,HR5585,Passed,Agent Raul Gonzalez Officer Safety Act,On Passage,,,passed_house_not_enacted,Engrossed in House
+118,House,745,2024-01-31,2,27,1/2,272,155,HR6678,Passed,Consequences for Social Security Fraud Act,On Passage,,,passed_house_not_enacted,Engrossed in House
+118,House,746,2024-01-31,2,28,1/2,422,2,HR6679,Passed,No Immigration Benefits for Hamas Terrorists Act,On Passage,,,passed_house_not_enacted,Engrossed in House
+118,House,747,2024-01-31,2,29,2/3,420,0,HR2754,Passed,"To designate the facility of the United States Postal Service located at 2395 East Del Mar Boulevard in Laredo, Texas, as the “Lance Corporal David Lee Espinoza, Lance Corporal Juan Rodrigo Rodriguez & Sergeant Roberto Arizola Jr. Post Office Building”",On Motion to Suspend the Rules and Pass,,118-55,enacted,Enrolled Bill
+118,House,748,2024-01-31,2,30,2/3,357,70,HR7024,Passed,Tax Relief for American Families and Workers Act,"On Motion to Suspend the Rules and Pass, as Amended",,,passed_house_not_enacted,Engrossed in House
+118,House,749,2024-02-01,2,31,1/2,274,150,HR6976,Passed,Protect Our Communities from DUIs Act,On Passage,,,passed_house_not_enacted,Engrossed in House
+118,House,750,2024-02-05,2,32,2/3,350,58,HR2882,Passed,Udall Foundation Reauthorization Act,"On Motion to Suspend the Rules and Pass, as Amended",,118-47,enacted,Enrolled Bill
+118,House,751,2024-02-05,2,33,2/3,407,0,HR443,Passed,Enhancing Detection of Human Trafficking Act,"On Motion to Suspend the Rules and Pass, as Amended",,,passed_house_not_enacted,Engrossed in House
+118,House,754,2024-02-06,2,36,2/3,427,2,HR1727,Passed,Chesapeake and Ohio Canal National Historical Park Commission Extension Act,"On Motion to Suspend the Rules and Pass, as Amended",,118-163,enacted,Enrolled Bill
+118,House,756,2024-02-06,2,38,2/3,250,180,HR7217,Failed,Israel Security Supplemental Appropriations Act,On Motion to Suspend the Rules and Pass,,,failed,Introduced in House
+118,House,758,2024-02-07,2,40,1/2,211,208,HR485,Passed,Protecting Health Care for All Patients Act,On Passage,,,passed_house_not_enacted,Engrossed in House
+118,House,759,2024-02-13,2,41,2/3,414,11,HR5856,Passed,Frederick Douglass Trafficking Victims Prevention and Protection Reauthorization Act,"On Motion to Suspend the Rules and Pass, as Amended",,,passed_house_not_enacted,Engrossed in House
+118,House,767,2024-02-14,2,49,2/3,389,32,HR3202,Passed,Assad Regime Anti-Normalization Act,"On Motion to Suspend the Rules and Pass, as Amended",,,passed_house_not_enacted,Engrossed in House
+118,House,768,2024-02-15,2,50,2/3,414,6,HR2766,Passed,Uyghur Policy Act,"On Motion to Suspend the Rules and Pass, as Amended",,,passed_house_not_enacted,Engrossed in House
+118,House,770,2024-02-15,2,52,1/2,224,200,HR7176,Passed,Unlocking our Domestic LNG Potential Act,On Passage,,,passed_house_not_enacted,Engrossed in House
+118,House,771,2024-02-15,2,53,2/3,392,28,HR533,Passed,Promoting a Resolution to the Tibet-China Dispute Act,"On Motion to Suspend the Rules and Pass, as Amended",,,passed_house_not_enacted,Engrossed in House
+118,House,772,2024-02-15,2,54,2/3,379,39,HR5375,Passed,Strengthening the Quad Act,"On Motion to Suspend the Rules and Pass, as Amended",,,passed_house_not_enacted,Engrossed in House
+118,House,773,2024-02-28,2,55,2/3,365,36,HR6544,Passed,Atomic Energy Advancement Act,"On Motion to Suspend the Rules and Pass, as Amended",,,passed_house_not_enacted,Engrossed in House
+118,House,774,2024-02-28,2,56,2/3,348,55,HR4984,Passed,D.C. Robert F. Kennedy Memorial Stadium Campus Revitalization Act,"On Motion to Suspend the Rules and Pass, as Amended",,118-274,enacted,Enrolled Bill
+118,House,775,2024-02-29,2,57,2/3,402,16,HR7102,Passed,Native American Entrepreneurial Opportunity Act,On Motion to Suspend the Rules and Pass,,,passed_house_not_enacted,Engrossed in House
+118,House,776,2024-02-29,2,58,2/3,320,99,HR7463,Passed,Extension of Continuing Appropriations and Other Matters Act,On Motion to Suspend the Rules and Pass,,118-40,enacted,Enrolled Bill
+118,House,777,2024-02-29,2,59,2/3,401,19,HR7454,Passed,Airport and Airway Extension Act,On Motion to Suspend the Rules and Pass,,118-41,enacted,Enrolled Bill
+118,House,778,2024-03-05,2,60,2/3,384,4,HR3391,Passed,Gabriella Miller Kids First Research Act 2.0,"On Motion to Suspend the Rules and Pass, as Amended",,118-228,enacted,Enrolled Bill
+118,House,779,2024-03-05,2,61,2/3,382,12,HR3838,Passed,Preventing Maternal Deaths Reauthorization Act,"On Motion to Suspend the Rules and Pass, as Amended",,,passed_house_not_enacted,Engrossed in House
+118,House,783,2024-03-06,2,65,2/3,413,7,HR3821,Passed,Firefighter Cancer Registry Reauthorization Act,On Motion to Suspend the Rules and Pass,,118-147,enacted,Enrolled Bill
+118,House,784,2024-03-07,2,66,1/2,251,170,HR7511,Passed,Laken Riley Act,On Passage,,,passed_house_not_enacted,Engrossed in House
+118,House,785,2024-03-07,2,67,2/3,391,32,HR3843,Passed,Action for Dental Health Act,On Motion to Suspend the Rules and Pass,,,passed_house_not_enacted,Engrossed in House
+118,House,796,2024-03-08,2,78,1/2,212,205,HR2799,Passed,Expanding Access to Capital Act,On Passage,,,passed_house_not_enacted,Engrossed in House
+118,House,797,2024-03-11,2,79,2/3,375,20,HR1752,Passed,E-BRIDGE Act,"On Motion to Suspend the Rules and Pass, as Amended",,,passed_house_not_enacted,Engrossed in House
+118,House,798,2024-03-11,2,80,2/3,326,73,HR886,Passed,Save Our Seas 2.0 Amendments Act,"On Motion to Suspend the Rules and Pass, as Amended",,,passed_house_not_enacted,Engrossed in House
+118,House,802,2024-03-12,2,84,1/2,217,203,HR6276,Passed,USE IT Act,On Passage,,,passed_house_not_enacted,Engrossed in House
+118,House,804,2024-03-13,2,86,2/3,352,65,HR7521,Passed,Protecting Americans from Foreign Adversary Controlled Applications Act,"On Motion to Suspend the Rules and Pass, as Amended",,,passed_house_not_enacted,Engrossed in House
+118,House,805,2024-03-19,2,87,2/3,365,30,HR4723,Passed,Upholding the Dayton Peace Agreement Through Sanctions Act,"On Motion to Suspend the Rules and Pass, as Amended",,,passed_house_not_enacted,Engrossed in House
+118,House,809,2024-03-20,2,91,2/3,414,0,HR7520,Passed,Protecting Americans’ Data from Foreign Adversaries Act,"On Motion to Suspend the Rules and Pass, as Amended",,,passed_house_not_enacted,Engrossed in House
+118,House,811,2024-03-20,2,93,1/2,229,188,HR1121,Passed,Protecting American Energy Production Act,On Passage,,,passed_house_not_enacted,Engrossed in House
+118,House,813,2024-03-20,2,95,1/2,216,200,HR6009,Passed,Restoring American Energy Dominance Act,On Passage,,,passed_house_not_enacted,Engrossed in House
+118,House,816,2024-03-21,2,98,2/3,393,24,HR1836,Passed,Ocean Shipping Reform Implementation Act,"On Motion to Suspend the Rules and Pass, as Amended",,,passed_house_not_enacted,Engrossed in House
+118,House,819,2024-03-21,2,101,1/2,213,205,HR7023,Passed,Creating Confidence in Clean Water Permitting Act,On Passage,,,passed_house_not_enacted,Engrossed in House
+118,House,822,2024-03-22,2,104,1/2,209,204,HR1023,Passed,"To repeal section 134 of the Clean Air Act, relating to the greenhouse gas reduction fund",On Passage,,,passed_house_not_enacted,Engrossed in House
+118,House,823,2024-04-09,2,105,2/3,378,26,HR6655,Passed,A Stronger Workforce for America Act,"On Motion to Suspend the Rules and Pass, as Amended",,,passed_house_not_enacted,Engrossed in House
+118,House,824,2024-04-09,2,106,2/3,406,0,S2051,Passed,Missing Children’s Assistance Reauthorization Act,"On Motion to Suspend the Rules and Pass, as Amended",,118-65,enacted,Enrolled Bill
+118,House,827,2024-04-10,2,109,2/3,385,31,HR3250,Passed,National Museum of Play Recognition Act,On Motion to Suspend the Rules and Pass,,,passed_house_not_enacted,Engrossed in House
+118,House,828,2024-04-11,2,110,2/3,401,15,S382,Passed,Puyallup Tribe of Indians Land Into Trust Confirmation Act,On Motion to Suspend the Rules and Pass,,118-48,enacted,Enrolled Bill
+118,House,829,2024-04-11,2,111,2/3,332,82,HR2560,Passed,Sea Turtle Rescue Assistance and Rehabilitation Act,"On Motion to Suspend the Rules and Pass, as Amended",,,passed_house_not_enacted,Engrossed in House
+118,House,837,2024-04-12,2,119,1/2,273,147,HR7888,Passed,Reforming Intelligence and Securing America Act,On Passage,,118-49,enacted,Enrolled Bill
+118,House,839,2024-04-15,2,121,2/3,382,11,HR6408,Passed,To amend the Internal Revenue Code of 1986 to terminate the tax-exempt status of terrorist supporting organizations,"On Motion to Suspend the Rules and Pass, as Amended",,,passed_house_not_enacted,Engrossed in House
+118,House,840,2024-04-15,2,122,2/3,383,11,HR5923,Passed,Iran-China Energy Sanctions Act,"On Motion to Suspend the Rules and Pass, as Amended",,,passed_house_not_enacted,Engrossed in House
+118,House,841,2024-04-15,2,123,2/3,294,105,HR5921,Passed,No U.S. Financing for Iran Act,"On Motion to Suspend the Rules and Pass, as Amended",,,passed_house_not_enacted,Engrossed in House
+118,House,844,2024-04-16,2,126,2/3,419,4,HR6245,Passed,Holding Iranian Leaders Accountable Act,"On Motion to Suspend the Rules and Pass, as Amended",,,passed_house_not_enacted,Engrossed in House
+118,House,845,2024-04-16,2,127,2/3,408,13,HR6015,Passed,Iran Sanctions Accountability Act,"On Motion to Suspend the Rules and Pass, as Amended",,,passed_house_not_enacted,Engrossed in House
+118,House,846,2024-04-16,2,128,2/3,419,4,HR5917,Passed,Strengthening Tools to Counter the Use of Human Shields Act,On Motion to Suspend the Rules and Pass,,,passed_house_not_enacted,Engrossed in House
+118,House,847,2024-04-16,2,129,2/3,410,13,HR4681,Passed,Illicit Captagon Trafficking Suppression Act,"On Motion to Suspend the Rules and Pass, as Amended",,,passed_house_not_enacted,Engrossed in House
+118,House,848,2024-04-16,2,130,2/3,406,19,HR6603,Passed,No Technology for Terror Act,"On Motion to Suspend the Rules and Pass, as Amended",,,passed_house_not_enacted,Engrossed in House
+118,House,849,2024-04-16,2,131,2/3,391,34,HR5826,Passed,No Paydays for Hostage-Takers Act,"On Motion to Suspend the Rules and Pass, as Amended",,,passed_house_not_enacted,Engrossed in House
+118,House,850,2024-04-16,2,132,2/3,407,16,HR3033,Passed,Solidify Iran Sanctions Act,On Motion to Suspend the Rules and Pass,,,passed_house_not_enacted,Engrossed in House
+118,House,854,2024-04-17,2,136,1/2,219,199,HR4639,Passed,Fourth Amendment Is Not For Sale Act,On Passage,,,passed_house_not_enacted,Engrossed in House
+118,House,855,2024-04-17,2,137,1/2,285,135,HR6046,Passed,Standing Against Houthi Aggression Act,On Passage,,,passed_house_not_enacted,Engrossed in House
+118,House,856,2024-04-17,2,138,1/2,278,141,HR4691,Passed,Iran Sanctions Relief Review Act,On Passage,,,passed_house_not_enacted,Engrossed in House
+118,House,857,2024-04-17,2,139,1/2,259,160,HR5947,Passed,"To provide for the rescission of certain waivers and licenses relating to Iran, and for other purposes",On Passage,,,passed_house_not_enacted,Engrossed in House
+118,House,858,2024-04-17,2,140,1/2,271,147,HR6323,Passed,Iran Counterterrorism Act,On Passage,,,passed_house_not_enacted,Engrossed in House
+118,House,861,2024-04-20,2,143,2/3,215,199,HR3602,Failed,End the Border Catastrophe Act,"On Motion to Suspend the Rules and Pass, as Amended",,,failed,Introduced in House
+118,House,863,2024-04-20,2,145,1/2,360,58,HR8038,Passed,21st Century Peace through Strength Act,On Passage,,,passed_house_not_enacted,Introduced in House
+118,House,864,2024-04-20,2,146,1/2,385,34,HR8036,Passed,"Indo-Pacific Security Supplemental Appropriations Act, 2024",On Passage,,,passed_house_not_enacted,Introduced in House
+118,House,869,2024-04-20,2,151,1/2,311,112,HR8035,Passed,"Ukraine Security Supplemental Appropriations Act, 2024",On Passage,,,passed_house_not_enacted,Introduced in House
+118,House,870,2024-04-20,2,152,1/2,366,58,HR8034,Passed,"Israel Security Supplemental Appropriations Act, 2024",On Passage,,,passed_house_not_enacted,Introduced in House
+118,House,871,2024-04-29,2,153,2/3,341,48,HR4866,Passed,Fire Weather Development Act,"On Motion to Suspend the Rules and Pass, as Amended",,,passed_house_not_enacted,Engrossed in House
+118,House,872,2024-04-29,2,154,2/3,354,36,HR4755,Passed,Privacy Enhancing Technology Research Act,"On Motion to Suspend the Rules and Pass, as Amended",,,passed_house_not_enacted,Engrossed in House
+118,House,873,2024-04-30,2,155,1/2,402,6,HR529,Passed,Extending Limits of U.S. Customs Waters Act,On Passage,,,passed_house_not_enacted,Engrossed in House
+118,House,874,2024-04-30,2,156,2/3,364,44,HR4824,Passed,Carbon Sequestration Collaboration Act,"On Motion to Suspend the Rules and Pass, as Amended",,,passed_house_not_enacted,Engrossed in House
+118,House,875,2024-04-30,2,157,2/3,333,75,HR4877,Passed,Abandoned Well Remediation Research and Development Act,"On Motion to Suspend the Rules and Pass, as Amended",,,passed_house_not_enacted,Engrossed in House
+118,House,876,2024-04-30,2,158,2/3,394,19,HR6093,Passed,Weather Act Reauthorization Act,"On Motion to Suspend the Rules and Pass, as Amended",,,passed_house_not_enacted,Engrossed in House
+118,House,877,2024-04-30,2,159,2/3,403,10,HR3738,Passed,Veterans Economic Opportunity and Transition Administration Act,"On Motion to Suspend the Rules and Pass, as Amended",,,passed_house_not_enacted,Engrossed in House
+118,House,878,2024-04-30,2,160,2/3,413,0,HR4016,Passed,Veteran Fraud Reimbursement Act,On Motion to Suspend the Rules and Pass,,,passed_house_not_enacted,Engrossed in House
+118,House,879,2024-04-30,2,161,2/3,406,6,HR1767,Passed,Student Veteran Benefit Restoration Act,"On Motion to Suspend the Rules and Pass, as Amended",,,passed_house_not_enacted,Engrossed in House
+118,House,883,2024-04-30,2,165,1/2,212,202,HR3397,Passed,WEST Act,On Passage,,,passed_house_not_enacted,Engrossed in House
+118,House,885,2024-04-30,2,167,1/2,214,201,HR615,Passed,Protecting Access for Hunters and Anglers Act,On Passage,,,passed_house_not_enacted,Engrossed in House
+118,House,887,2024-04-30,2,169,1/2,209,205,HR764,Passed,Trust the Science Act,On Passage,,,passed_house_not_enacted,Engrossed in House
+118,House,889,2024-04-30,2,171,1/2,212,203,HR3195,Passed,Superior National Forest Restoration Act,On Passage,,,passed_house_not_enacted,Engrossed in House
+118,House,890,2024-05-01,2,172,1/2,320,91,HR6090,Passed,Antisemitism Awareness Act,On Passage,,,passed_house_not_enacted,Engrossed in House
+118,House,892,2024-05-01,2,174,1/2,214,199,HR6285,Passed,Alaska’s Right to Produce Act,On Passage,,,passed_house_not_enacted,Engrossed in House
+118,House,895,2024-05-06,2,177,2/3,377,4,HR7219,Passed,Information Quality Assurance Act,"On Motion to Suspend the Rules and Pass, as Amended",,,passed_house_not_enacted,Engrossed in House
+118,House,896,2024-05-06,2,178,2/3,352,27,HR7525,Passed,Special District Grant Accessibility Act,On Motion to Suspend the Rules and Pass,,,passed_house_not_enacted,Engrossed in House
+118,House,897,2024-05-07,2,179,2/3,371,28,HR3354,Passed,"To designate the facility of the United States Postal Service located at 220 North Hatcher Avenue in Purcellville, Virginia, as the “Secretary of State Madeleine Albright Post Office Building”",On Motion to Suspend the Rules and Pass,,118-213,enacted,Enrolled Bill
+118,House,902,2024-05-07,2,184,1/2,212,195,HR6192,Passed,Hands Off Our Home Appliances Act,On Passage,,,passed_house_not_enacted,Engrossed in House
+118,House,903,2024-05-07,2,185,2/3,214,191,HJRES98,Failed,"Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the National Labor Relations Board relating to “Standard for Determining Joint Employer Status”","Passage, Objections of the President To The Contrary Notwithstanding",,,failed,Engrossed in House
+118,House,904,2024-05-07,2,186,2/3,401,0,HR7423,Passed,"To designate the facility of the United States Postal Service located at 103 Benedette Street in Rayville, Louisiana, as the “Luke Letlow Post Office Building”",On Motion to Suspend the Rules and Pass,,118-129,enacted,Enrolled Bill
+118,House,905,2024-05-08,2,187,2/3,385,24,HR8289,Passed,"Airport and Airway Extension Act of 2024, Part II",On Motion to Suspend the Rules and Pass,,118-60,enacted,Enrolled Bill
+118,House,909,2024-05-08,2,191,1/2,216,195,HR2925,Passed,Mining Regulatory Clarity Act,On Passage,,,passed_house_not_enacted,Engrossed in House
+118,House,911,2024-05-08,2,193,1/2,206,202,HR7109,Passed,Equal Representation Act,On Passage,,,passed_house_not_enacted,Engrossed in House
+118,House,912,2024-05-08,2,194,2/3,393,13,S870,Passed,Fire Grants and Safety Act,"On Motion to Suspend the Rules and Pass, as Amended",,118-67,enacted,Enrolled Bill
+118,House,913,2024-05-08,2,195,2/3,358,41,HR4143,Passed,National Construction Safety Team Enhancement Act,"On Motion to Suspend the Rules and Pass, as Amended",,,passed_house_not_enacted,Engrossed in House
+118,House,914,2024-05-14,2,196,2/3,370,18,S546,Passed,Recruit and Retain Act,On Motion to Suspend the Rules and Pass,,118-64,enacted,Enrolled Bill
+118,House,915,2024-05-14,2,197,2/3,376,16,HR7659,Passed,Coast Guard Authorization Act,"On Motion to Suspend the Rules and Pass, as Amended",,,passed_house_not_enacted,Engrossed in House
+118,House,918,2024-05-15,2,200,2/3,387,26,HR3935,Passed,Securing Growth and Robust Leadership in American Aviation Act,On Motion to Suspend the Rules and Concur in the Senate Amendment,,118-63,enacted,Enrolled Bill
+118,House,919,2024-05-15,2,201,1/2,225,181,HR7530,Passed,DC CRIMES Act,On Passage,,,passed_house_not_enacted,Engrossed in House
+118,House,921,2024-05-15,2,203,1/2,356,55,HR7581,Passed,Improving Law Enforcement Officer Safety and Wellness Through Data Act,On Passage,,,passed_house_not_enacted,Engrossed in House
+118,House,922,2024-05-15,2,204,1/2,265,148,HR7343,Passed,Detain and Deport Illegal Aliens Who Assault Cops Act,On Passage,,,passed_house_not_enacted,Engrossed in House
+118,House,923,2024-05-15,2,205,2/3,374,36,HR4510,Passed,NTIA Reauthorization Act,"On Motion to Suspend the Rules and Pass, as Amended",,,passed_house_not_enacted,Engrossed in House
+118,House,924,2024-05-15,2,206,2/3,376,33,HR4310,Passed,Youth Poisoning Protection Act,On Motion to Suspend the Rules and Pass,,,passed_house_not_enacted,Engrossed in House
+118,House,925,2024-05-15,2,207,2/3,408,3,HR4581,Passed,Maternal and Child Health Stillbirth Prevention Act,"On Motion to Suspend the Rules and Pass, as Amended",,118-69,enacted,Enrolled Bill
+118,House,926,2024-05-15,2,208,2/3,399,13,HR6960,Passed,Emergency Medical Services for Children Reauthorization Act,On Motion to Suspend the Rules and Pass,,118-178,enacted,Enrolled Bill
+118,House,927,2024-05-15,2,209,2/3,378,34,HR1797,Passed,Setting Consumer Standards for Lithium-Ion Batteries Act,"On Motion to Suspend the Rules and Pass, as Amended",,,passed_house_not_enacted,Engrossed in House
+118,House,928,2024-05-15,2,210,2/3,334,79,HR6572,Passed,Deploying American Blockchains Act,"On Motion to Suspend the Rules and Pass, as Amended",,,passed_house_not_enacted,Engrossed in House
+118,House,929,2024-05-15,2,211,2/3,390,19,HR6571,Passed,Promoting Resilient Supply Chains Act,"On Motion to Suspend the Rules and Pass, as Amended",,,passed_house_not_enacted,Engrossed in House
+118,House,930,2024-05-15,2,212,2/3,388,24,HR3950,Passed,TICKET Act,"On Motion to Suspend the Rules and Pass, as Amended",,,passed_house_not_enacted,Engrossed in House
+118,House,931,2024-05-16,2,213,1/2,221,185,HR354,Passed,LEOSA Reform Act,On Passage,,,passed_house_not_enacted,Engrossed in House
+118,House,933,2024-05-16,2,215,1/2,254,157,HR8146,Passed,Police Our Border Act,On Passage,,,passed_house_not_enacted,Engrossed in House
+118,House,935,2024-05-16,2,217,1/2,224,187,HR8369,Passed,Israel Security Assistance Support Act,On Passage,,,passed_house_not_enacted,Engrossed in House
+118,House,937,2024-05-21,2,219,2/3,382,7,HR5863,Passed,Federal Disaster Tax Relief Act,"On Motion to Suspend the Rules and Pass, as Amended",,118-148,enacted,Enrolled Bill
+118,House,938,2024-05-21,2,220,2/3,392,2,HR3019,Passed,Federal Prison Oversight Act,"On Motion to Suspend the Rules and Pass, as Amended",,118-71,enacted,Enrolled Bill
+118,House,944,2024-05-22,2,226,1/2,279,136,HR4763,Passed,Financial Innovation and Technology for the 21st Century Act,On Passage,,,passed_house_not_enacted,Engrossed in House
+118,House,948,2024-05-23,2,230,1/2,216,192,HR5403,Passed,CBDC Anti-Surveillance State Act,On Passage,,,passed_house_not_enacted,Engrossed in House
+118,House,950,2024-05-23,2,232,1/2,262,143,HR192,Passed,To prohibit individuals who are not citizens of the United States from voting in elections in the District of Columbia,On Passage,,,passed_house_not_enacted,Engrossed in House
+118,House,952,2024-06-03,2,234,2/3,369,2,HR6983,Passed,"To designate the facility of the United States Postal Service located at 15 South Valdosta Road in Lakeland, Georgia, as the “Nell Patten Roquemore Post Office”",On Motion to Suspend the Rules and Pass,,118-224,enacted,Enrolled Bill
+118,House,960,2024-06-04,2,242,1/2,247,155,HR8282,Passed,Illegitimate Court Counteraction Act,On Passage,,,passed_house_not_enacted,Engrossed in House
+118,House,965,2024-06-05,2,247,1/2,209,197,HR8580,Passed,"Military Construction, Veterans Affairs, and Related Agencies Appropriations Act, 2025",On Passage,,,passed_house_not_enacted,Engrossed in House
+118,House,966,2024-06-11,2,248,2/3,384,25,HR6543,Passed,No Hidden FEES Act,On Motion to Suspend the Rules and Pass,,,passed_house_not_enacted,Engrossed in House
+118,House,967,2024-06-11,2,249,2/3,351,56,HR2964,Passed,WIPPES Act,"On Motion to Suspend the Rules and Pass, as Amended",,,passed_house_not_enacted,Engrossed in House
+118,House,970,2024-06-12,2,252,2/3,391,26,S138,Passed,Promoting a Resolution to the Tibet-China Dispute Act,On Motion to Suspend the Rules and Pass,,118-70,enacted,Enrolled Bill
+118,House,997,2024-06-14,2,279,1/2,217,199,HR8070,Passed,Servicemember Quality of Life Improvement and National Defense Authorization Act for Fiscal Year 2025,On Passage,,,passed_house_not_enacted,Engrossed in House
+118,House,999,2024-06-25,2,281,2/3,375,8,HR7152,Passed,Korean American Divided Families National Registry Act,"On Motion to Suspend the Rules and Pass, as Amended",,,passed_house_not_enacted,Engrossed in House
+118,House,1000,2024-06-25,2,282,2/3,368,19,HR2789,Passed,American Cooperation with Our Neighbors Act,"On Motion to Suspend the Rules and Pass, as Amended",,,passed_house_not_enacted,Engrossed in House
+118,House,1049,2024-06-28,2,331,1/2,217,198,HR8774,Passed,"Department of Defense Appropriations Act, 2025",On Passage,,,passed_house_not_enacted,Engrossed in House
+118,House,1051,2024-06-28,2,333,1/2,212,203,HR8752,Passed,"Department of Homeland Security Appropriations Act, 2025",On Passage,,,passed_house_not_enacted,Engrossed in House
+118,House,1053,2024-06-28,2,335,1/2,212,200,HR8771,Passed,"Making appropriations for the Department of State, foreign operations, and related programs for the fiscal year ending September 30, 2025, and for other purposes",On Passage,,,passed_house_not_enacted,Engrossed in House
+118,House,1054,2024-07-08,2,336,2/3,349,19,HR897,Passed,Alabama Underwater Forest National Marine Sanctuary and Protection Act,"On Motion to Suspend the Rules and Pass, as Amended",,,passed_house_not_enacted,Engrossed in House
+118,House,1055,2024-07-08,2,337,2/3,333,51,HR5441,Passed,Long Island Sound Restoration and Stewardship Reauthorization Act,On Motion to Suspend the Rules and Pass,,,passed_house_not_enacted,Engrossed in House
+118,House,1059,2024-07-09,2,341,1/2,212,192,HR7637,Passed,Refrigerator Freedom Act,On Passage,,,passed_house_not_enacted,Engrossed in House
+118,House,1061,2024-07-09,2,343,1/2,214,192,HR7700,Passed,Stop Unaffordable Dishwasher Standards Act,On Passage,,,passed_house_not_enacted,Engrossed in House
+118,House,1063,2024-07-10,2,345,1/2,221,198,HR8281,Passed,Safeguard American Voter Eligibility Act,On Passage,,,passed_house_not_enacted,Engrossed in House
+118,House,1070,2024-07-11,2,352,1/2,205,213,HR8772,Failed,"Legislative Branch Appropriations Act, 2025",On Passage,,,failed,Reported in House
+118,House,1072,2024-07-11,2,354,1/2,210,205,HJRES165,Passed,"Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Department of Education relating to “Nondiscrimination on the Basis of Sex in Education Programs or Activities Receiving Federal Financial Assistance”",On Passage,,,passed_house_not_enacted,Engrossed in House
+118,House,1073,2024-07-11,2,355,2/3,228,184,HJRES109,Failed,"Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Securities and Exchange Commission relating to “Staff Accounting Bulletin No. 121”","Passage, Objections of the President To The Contrary Notwithstanding",,,failed,Engrossed in House
+118,House,1074,2024-07-22,2,356,2/3,363,0,S3249,Passed,"To designate the outpatient clinic of the Department of Veterans Affairs in Wyandotte County, Kansas City, Kansas, as the “Captain Elwin Shopteese VA Clinic”",On Motion to Suspend the Rules and Pass,,118-75,enacted,Enrolled Bill
+118,House,1075,2024-07-22,2,357,2/3,248,127,HR1631,Failed,Pro Codes Act,"On Motion to Suspend the Rules and Pass, as Amended",,,failed,Reported in House
+118,House,1076,2024-07-22,2,358,2/3,359,13,HR8812,Passed,Water Resources Development Act,"On Motion to Suspend the Rules and Pass, as Amended",,,passed_house_not_enacted,Engrossed in House
+118,House,1079,2024-07-23,2,361,2/3,408,2,S3706,Passed,Victims’ VOICES Act,On Motion to Suspend the Rules and Pass,,118-77,enacted,Enrolled Bill
+118,House,1080,2024-07-23,2,362,2/3,404,3,S227,Passed,Improving Access to Our Courts Act,On Motion to Suspend the Rules and Pass,,118-73,enacted,Enrolled Bill
+118,House,1098,2024-07-23,2,380,2/3,178,234,HR7887,Failed,ACCESS Act,"On Motion to Suspend the Rules and Pass, as Amended",,,failed,Introduced in House
+118,House,1117,2024-07-24,2,399,1/2,210,205,HR8998,Passed,"Department of the Interior, Environment, and Related Agencies Appropriations Act, 2025",On Passage,,,passed_house_not_enacted,Engrossed in House
+118,House,1119,2024-09-09,2,401,2/3,351,36,HR1157,Passed,Countering the PRC Malign Influence Fund Authorization Act,On Motion to Suspend the Rules and Pass,,,passed_house_not_enacted,Engrossed in House
+118,House,1120,2024-09-09,2,402,2/3,306,81,HR8333,Passed,BIOSECURE Act,"On Motion to Suspend the Rules and Pass, as Amended",,,passed_house_not_enacted,Engrossed in House
+118,House,1123,2024-09-10,2,405,2/3,413,3,HR1103,Passed,Hong Kong Economic and Trade Office (HKETO) Certification Act,"On Motion to Suspend the Rules and Pass, as Amended",,,passed_house_not_enacted,Engrossed in House
+118,House,1126,2024-09-10,2,408,1/2,249,161,HR1516,Passed,DHS Restrictions on Confucius Institutes and Chinese Entities of Concern Act,On Passage,,,passed_house_not_enacted,Engrossed in House
+118,House,1129,2024-09-11,2,411,1/2,219,199,HR1425,Passed,No WHO Pandemic Preparedness Treaty Without Senate Approval Act,On Passage,,,passed_house_not_enacted,Engrossed in House
+118,House,1131,2024-09-11,2,413,1/2,237,180,HR1398,Passed,Protect America’s Innovation and Economic Security from CCP Act,On Passage,,,passed_house_not_enacted,Engrossed in House
+118,House,1133,2024-09-11,2,415,1/2,269,149,HR9456,Passed,Protecting American Agriculture from Foreign Adversaries Act,On Passage,,,passed_house_not_enacted,Engrossed in House
+118,House,1135,2024-09-12,2,417,1/2,217,192,HR7980,Passed,End Chinese Dominance of Electric Vehicles in America Act,On Passage,,,passed_house_not_enacted,Engrossed in House
+118,House,1136,2024-09-17,2,418,2/3,218,181,HR8314,Failed,No Foreign Election Interference Act,"On Motion to Suspend the Rules and Pass, as Amended",,,failed,Reported in House
+118,House,1137,2024-09-17,2,419,2/3,308,87,S2861,Passed,Billie Jean King Congressional Gold Medal Act,On Motion to Suspend the Rules and Pass,,118-88,enacted,Enrolled Bill
+118,House,1140,2024-09-18,2,422,2/3,408,7,S1146,Passed,Find and Protect Foster Youth Act,"On Motion to Suspend the Rules and Pass, as Amended",,,passed_house_not_enacted,Engrossed Amendment House
+118,House,1141,2024-09-18,2,423,2/3,405,10,HR9076,Passed,Supporting America’s Children and Families Act,"On Motion to Suspend the Rules and Pass, as Amended",,118-258,enacted,Enrolled Bill
+118,House,1143,2024-09-18,2,425,2/3,393,22,HR1513,Passed,FUTURE Networks Act,On Motion to Suspend the Rules and Pass,,,passed_house_not_enacted,Engrossed in House
+118,House,1145,2024-09-18,2,427,1/2,217,206,HR5339,Passed,RETIRE Act,On Passage,,,passed_house_not_enacted,Engrossed in House
+118,House,1146,2024-09-18,2,428,1/2,231,189,HR5179,Passed,Anti-BDS Labeling Act,On Passage,,,passed_house_not_enacted,Engrossed in House
+118,House,1147,2024-09-18,2,429,1/2,266,158,HR7909,Passed,Violence Against Women by Illegal Aliens Act,On Passage,,,passed_house_not_enacted,Engrossed in House
+118,House,1149,2024-09-18,2,431,1/2,202,220,HR9494,Failed,"Continuing Appropriations and Other Matters Act, 2025",On Passage,,,failed,Introduced in House
+118,House,1151,2024-09-19,2,433,1/2,213,201,HR3724,Passed,Accreditation for College Excellence Act,On Passage,,,passed_house_not_enacted,Engrossed in House
+118,House,1153,2024-09-19,2,435,1/2,215,203,HR4790,Passed,GUARDRAIL Act,On Passage,,,passed_house_not_enacted,Engrossed in House
+118,House,1155,2024-09-20,2,437,1/2,219,186,HR5717,Passed,No Bailout for Sanctuary Cities Act,On Passage,,,passed_house_not_enacted,Engrossed in House
+118,House,1156,2024-09-20,2,438,1/2,215,191,HJRES136,Passed,"Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Environmental Protection Agency relating to “Multi-Pollutant Emissions Standards for Model Year 2027 and Later Light-Duty and Medium-Duty Vehicles”.",On Passage,,,passed_house_not_enacted,Engrossed in House
+118,House,1157,2024-09-20,2,439,2/3,405,0,HR9106,Passed,Enhanced Presidential Security Act,"On Motion to Suspend the Rules and Pass, as Amended",,118-91,enacted,Enrolled Bill
+118,House,1158,2024-09-23,2,440,2/3,257,125,S2228,Passed,Building Chips in America Act,On Motion to Suspend the Rules and Pass,,118-105,enacted,Enrolled Bill
+118,House,1159,2024-09-23,2,441,2/3,366,21,HR8958,Passed,NASA Reauthorization Act,"On Motion to Suspend the Rules and Pass, as Amended",,,passed_house_not_enacted,Engrossed in House
+118,House,1160,2024-09-23,2,442,2/3,365,20,S3764,Passed,United States Commission on International Religious Freedom Reauthorization Act,On Motion to Suspend the Rules and Pass,,118-90,enacted,Enrolled Bill
+118,House,1163,2024-09-24,2,445,2/3,377,43,HR3208,Passed,DHS Cybersecurity On-the-Job Training Program Act,On Motion to Suspend the Rules and Pass,,,passed_house_not_enacted,Engrossed in House
+118,House,1164,2024-09-24,2,446,2/3,415,0,HR8057,Passed,"To designate the facility of the United States Postal Service located at 9317 Bolsa Avenue in Westminster, California, as the “Little Saigon Vietnam War Veterans Memorial Post Office”",On Motion to Suspend the Rules and Pass,,118-248,enacted,Enrolled Bill
+118,House,1165,2024-09-24,2,447,2/3,373,41,HR7073,Passed,Next Generation Pipelines Research and Development Act,"On Motion to Suspend the Rules and Pass, as Amended",,,passed_house_not_enacted,Engrossed in House
+118,House,1166,2024-09-24,2,448,1/2,268,151,HR8790,Passed,Fix Our Forests Act,On Passage,,,passed_house_not_enacted,Engrossed in House
+118,House,1167,2024-09-25,2,449,2/3,413,1,HR6513,Passed,COCOA Act,On Motion to Suspend the Rules and Concur in the Senate Amendment,,118-106,enacted,Enrolled Bill
+118,House,1168,2024-09-25,2,450,2/3,341,82,HR9747,Passed,"Continuing Appropriations and Extensions Act, 2025",On Motion to Suspend the Rules and Pass,,118-83,enacted,Enrolled Bill
+118,House,1170,2024-09-25,2,452,1/2,243,174,HR3334,Passed,STOP CCP Act,On Passage,,,passed_house_not_enacted,Engrossed in House
+118,House,1172,2024-09-25,2,454,1/2,255,161,HR8205,Passed,Keeping Violent Offenders Off Our Streets Act,On Passage,,,passed_house_not_enacted,Engrossed in House
+118,House,1174,2024-11-12,2,456,2/3,327,75,HR82,Passed,Social Security Fairness Act,On Motion to Suspend the Rules and Pass,,118-273,enacted,Enrolled Bill
+118,House,1175,2024-11-12,2,457,2/3,175,225,HR5342,Failed,Equal Treatment of Public Servants Act,On Motion to Suspend the Rules and Pass,,,failed,Introduced in House
+118,House,1180,2024-11-14,2,462,1/2,245,155,HR8446,Passed,Critical Mineral Consistency Act,On Passage,,,passed_house_not_enacted,Engrossed in House
+118,House,1182,2024-11-14,2,464,1/2,225,181,HR7409,Passed,HEATS Act,On Passage,,,passed_house_not_enacted,Engrossed in House
+118,House,1183,2024-11-15,2,465,1/2,381,1,HR8932,Passed,FAFSA Deadline Act,On Passage,,118-145,enacted,Enrolled Bill
+118,House,1184,2024-11-18,2,466,2/3,389,9,HR8371,Passed,Senator Elizabeth Dole 21st Century Veterans Healthcare and Benefits Improvement Act,"On Motion to Suspend the Rules and Pass, as Amended",,,passed_house_not_enacted,Engrossed in House
+118,House,1185,2024-11-18,2,467,2/3,396,6,HR5658,Passed,Vote by Mail Tracking Act,"On Motion to Suspend the Rules and Pass, as Amended",,,passed_house_not_enacted,Engrossed in House
+118,House,1191,2024-11-19,2,473,1/2,244,171,HR1449,Passed,CLEAN Act,On Passage,,,passed_house_not_enacted,Engrossed in House
+118,House,1192,2024-11-20,2,474,2/3,335,37,HR3012,Passed,North Korean Human Rights Reauthorization Act,"On Motion to Suspend the Rules and Pass, as Amended",,,passed_house_not_enacted,Engrossed in House
+118,House,1193,2024-11-20,2,475,2/3,334,63,HR8368,Passed,Coordinator for Afghan Relocation Efforts Authorization Act,"On Motion to Suspend the Rules and Pass, as Amended",,,passed_house_not_enacted,Engrossed in House
+118,House,1195,2024-11-21,2,477,1/2,219,184,HR9495,Passed,Stop Terror-Financing and Tax Penalties on American Hostages Act,On Passage,,,passed_house_not_enacted,Engrossed in House
+118,House,1197,2024-12-03,2,479,2/3,366,21,S3791,Passed,America’s Conservation Enhancement Reauthorization Act,"On Motion to Suspend the Rules and Pass, as Amended",,118-198,enacted,Enrolled Bill
+118,House,1198,2024-12-04,2,480,2/3,378,16,HR390,Passed,Maurice D. Hinchey Hudson River Valley National Heritage Area Enhancement Act,"On Motion to Suspend the Rules and Pass, as Amended",,,passed_house_not_enacted,Engrossed in House
+118,House,1199,2024-12-04,2,481,2/3,378,25,HR8219,Passed,Lahaina National Heritage Area Study Act,"On Motion to Suspend the Rules and Pass, as Amended",,118-184,enacted,Enrolled Bill
+118,House,1202,2024-12-05,2,484,2/3,389,6,S709,Passed,Federal Agency Performance Act,"On Motion to Suspend the Rules and Pass, as Amended",,118-190,enacted,Enrolled Bill
+118,House,1203,2024-12-05,2,485,2/3,399,1,HR9598,Passed,Office of National Drug Control Policy Reauthorization Act,"On Motion to Suspend the Rules and Pass, as Amended",,,passed_house_not_enacted,Engrossed in House
+118,House,1204,2024-12-05,2,486,2/3,381,15,HR9600,Passed,"To designate the facility of the United States Postal Service located at 119 Main Street in Plains, Georgia, as the “Jimmy and Rosalynn Carter Post Office”",On Motion to Suspend the Rules and Pass,,118-268,enacted,Enrolled Bill
+118,House,1207,2024-12-05,2,489,1/2,208,196,HR7198,Passed,Prove It Act,On Passage,,,passed_house_not_enacted,Engrossed in House
+118,House,1210,2024-12-06,2,492,1/2,327,62,HR5349,Passed,Crucial Communism Teaching Act,On Passage,,,passed_house_not_enacted,Engrossed in House
+118,House,1211,2024-12-10,2,493,2/3,399,18,S4367,Passed,Thomas R. Carper Water Resources Development Act,"On Motion to Suspend the Rules and Pass, as Amended",,118-272,enacted,Enrolled Bill
+118,House,1214,2024-12-10,2,496,2/3,410,6,S3613,Passed,Improving Federal Building Security Act,On Motion to Suspend the Rules and Pass,,118-157,enacted,Enrolled Bill
+118,House,1215,2024-12-10,2,497,1/2,215,200,HR7673,Passed,Liberty in Laundry Act,On Passage,,,passed_house_not_enacted,Engrossed in House
+118,House,1216,2024-12-10,2,498,2/3,409,4,HR9668,Passed,SHIELD Against CCP Act,"On Motion to Suspend the Rules and Pass, as Amended",,,passed_house_not_enacted,Engrossed in House
+118,House,1217,2024-12-11,2,499,2/3,407,0,HR9716,Passed,Increasing Baseline Updates Act,On Motion to Suspend the Rules and Pass,,,passed_house_not_enacted,Engrossed in House
+118,House,1218,2024-12-11,2,500,1/2,281,140,HR5009,Passed,WILD Act,On Motion to Concur in the Senate Amendment with an Amendment,,118-159,enacted,Enrolled Bill
+118,House,1219,2024-12-12,2,501,1/2,236,173,S4199,Passed,JUDGES Act,On Passage,,,passed_house_not_enacted,Engrossed in Senate
+118,House,1220,2024-12-16,2,502,2/3,374,15,HR7213,Passed,Autism CARES Act,On Motion to Suspend the Rules and Concur in the Senate Amendment,,118-180,enacted,Enrolled Bill
+118,House,1221,2024-12-16,2,503,2/3,390,0,S3998,Passed,Federal Judiciary Stabilization Act,On Motion to Suspend the Rules and Pass,,118-203,enacted,Enrolled Bill
+118,House,1222,2024-12-16,2,504,2/3,382,12,S141,Passed,Senator Elizabeth Dole 21st Century Veterans Healthcare and Benefits Improvement Act,On Motion to Suspend the Rules and Pass,,118-210,enacted,Enrolled Bill
+118,House,1223,2024-12-16,2,505,2/3,348,39,S4077,Passed,"To designate the facility of the United States Postal Service located at 180 Steuart Street in San Francisco, California, as the “Dianne Feinstein Post Office”",On Motion to Suspend the Rules and Pass,,118-204,enacted,Enrolled Bill
+118,House,1227,2024-12-17,2,509,1/2,210,201,HR115,Passed,Midnight Rules Relief Act,On Passage,,,passed_house_not_enacted,Engrossed in House
+118,House,1228,2024-12-17,2,510,2/3,402,12,S3448,Passed,Never Again Education Reauthorization Act,On Motion to Suspend the Rules and Pass,,118-197,enacted,Enrolled Bill
+118,House,1229,2024-12-17,2,511,2/3,311,96,HR1101,Passed,Lumbee Fairness Act,"On Motion to Suspend the Rules and Pass, as Amended",,,passed_house_not_enacted,Engrossed in House
+118,House,1230,2024-12-18,2,512,2/3,373,33,S1351,Passed,Stop Institutional Child Abuse Act,On Motion to Suspend the Rules and Pass,,118-194,enacted,Enrolled Bill
+118,House,1231,2024-12-18,2,513,2/3,369,37,S3857,Passed,Jamul Indian Village Land Transfer Act,On Motion to Suspend the Rules and Pass,,118-199,enacted,Enrolled Bill
+118,House,1232,2024-12-18,2,514,2/3,404,1,HR8663,Passed,DETECT Fentanyl and Xylazine Act,On Motion to Suspend the Rules and Concur in the Senate Amendments,,118-186,enacted,Enrolled Bill
+118,House,1233,2024-12-18,2,515,2/3,381,20,S759,Passed,Beagle Brigade Act,On Motion to Suspend the Rules and Pass,,118-191,enacted,Enrolled Bill
+118,House,1234,2024-12-19,2,516,2/3,174,235,HR10515,Failed,American Relief Act,On Motion to Suspend the Rules and Pass,,,failed,Introduced in House
+118,House,1235,2024-12-20,2,517,2/3,366,34,HR10545,Passed,"American Relief Act, 2025",On Motion to Suspend the Rules and Pass,,118-158,enacted,Enrolled Bill

@@ -1,0 +1,361 @@
+bill,bioguide,name,party,state,district
+HR23,S001172,"Rep. Smith, Adrian [R-NE-3]",R,NE,3.0
+HR26,W000812,"Rep. Wagner, Ann [R-MO-2]",R,MO,2.0
+HR22,M001159,"Rep. McMorris Rodgers, Cathy [R-WA-5]",R,WA,5.0
+HR159,F000450,"Rep. Foxx, Virginia [R-NC-5]",R,NC,5.0
+HR300,P000609,"Rep. Palmer, Gary J. [R-AL-6]",R,AL,6.0
+HR346,S001212,"Rep. Stauber, Pete [R-MN-8]",R,MN,8.0
+HR400,C001080,"Rep. Chu, Judy [D-CA-28]",D,CA,28.0
+HR21,M001159,"Rep. McMorris Rodgers, Cathy [R-WA-5]",R,WA,5.0
+HR500,W000812,"Rep. Wagner, Ann [R-MO-2]",R,MO,2.0
+HR497,D000615,"Rep. Duncan, Jeff [R-SC-3]",R,SC,3.0
+HR382,G000558,"Rep. Guthrie, Brett [R-KY-2]",R,KY,2.0
+HR139,C001108,"Rep. Comer, James [R-KY-1]",R,KY,1.0
+HJRES7,G000565,"Rep. Gosar, Paul A. [R-AZ-9]",R,AZ,9.0
+HR302,R000305,"Rep. Ross, Deborah K. [D-NC-2]",D,NC,2.0
+HR185,M001184,"Rep. Massie, Thomas [R-KY-4]",R,KY,4.0
+HJRES24,C001108,"Rep. Comer, James [R-KY-1]",R,KY,1.0
+HJRES26,C001116,"Rep. Clyde, Andrew S. [R-GA-9]",R,GA,9.0
+HR538,C001114,"Rep. Curtis, John R. [R-UT-3]",R,UT,3.0
+HR347,S001196,"Rep. Stefanik, Elise M. [R-NY-21]",R,NY,21.0
+HR1226,A000371,"Rep. Aguilar, Pete [D-CA-33]",D,CA,33.0
+HR1123,E000215,"Rep. Eshoo, Anna G. [D-CA-16]",D,CA,16.0
+HR753,B001295,"Rep. Bost, Mike [R-IL-12]",R,IL,12.0
+HR140,C001108,"Rep. Comer, James [R-KY-1]",R,KY,1.0
+S619,H001089,"Sen. Hawley, Josh [R-MO]",R,MO,
+HR1093,M001157,"Rep. McCaul, Michael T. [R-TX-10]",R,TX,10.0
+HR1159,W000812,"Rep. Wagner, Ann [R-MO-2]",R,MO,2.0
+HR406,C001091,"Rep. Castro, Joaquin [D-TX-20]",D,TX,20.0
+HJRES30,B001282,"Rep. Barr, Andy [R-KY-6]",R,KY,6.0
+HR5,L000595,"Rep. Letlow, Julia [R-LA-5]",R,LA,5.0
+HR1154,S000522,"Rep. Smith, Christopher H. [R-NJ-4]",R,NJ,4.0
+HR1107,K000397,"Rep. Kim, Young [R-CA-40]",R,CA,40.0
+HR1,S001176,"Rep. Scalise, Steve [R-LA-1]",R,LA,1.0
+HR1151,M001137,"Rep. Meeks, Gregory W. [D-NY-5]",D,NY,5.0
+HJRES27,G000546,"Rep. Graves, Sam [R-MO-6]",R,MO,6.0
+HR1149,W000826,"Rep. Wild, Susan [D-PA-7]",D,PA,7.0
+HR734,S001214,"Rep. Steube, W. Gregory [R-FL-17]",R,FL,17.0
+HR1353,J000292,"Rep. Johnson, Bill [R-OH-6]",R,OH,6.0
+HR2811,A000375,"Rep. Arrington, Jodey C. [R-TX-19]",R,TX,19.0
+HR1339,L000566,"Rep. Latta, Robert E. [R-OH-5]",R,OH,5.0
+HR676,P000597,"Rep. Pingree, Chellie [D-ME-1]",D,ME,1.0
+HR1715,M001222,"Rep. Miller, Max L. [R-OH-7]",R,OH,7.0
+HR2,D000600,"Rep. Diaz-Balart, Mario [R-FL-26]",R,FL,26.0
+HR1163,S001195,"Rep. Smith, Jason [R-MO-8]",R,MO,8.0
+HR1734,C001129,"Rep. Collins, Mike [R-GA-10]",R,GA,10.0
+HR3089,F000471,"Rep. Fitzgerald, Scott [R-WI-5]",R,WI,5.0
+HR3091,F000478,"Rep. Fry, Russell [R-SC-7]",R,SC,7.0
+HR2494,G000597,"Rep. Garbarino, Andrew R. [R-NY-2]",R,NY,2.0
+HR1076,D000594,"Rep. De La Cruz, Monica [R-TX-15]",R,TX,15.0
+HR1156,S001209,"Rep. Spanberger, Abigail Davis [D-VA-7]",D,VA,7.0
+SJRES11,F000463,"Sen. Fischer, Deb [R-NE]",R,NE,
+HJRES39,P000599,"Rep. Posey, Bill [R-FL-8]",R,FL,8.0
+HR1669,C001133,"Rep. Ciscomani, Juan [R-AZ-6]",R,AZ,6.0
+HR467,G000568,"Rep. Griffith, H. Morgan [R-VA-9]",R,VA,9.0
+HR2792,W000812,"Rep. Wagner, Ann [R-MO-2]",R,MO,2.0
+HR2795,M001137,"Rep. Meeks, Gregory W. [D-NY-5]",D,NY,5.0
+HR2796,W000187,"Rep. Waters, Maxine [D-CA-43]",D,CA,43.0
+HR3746,M001156,"Rep. McHenry, Patrick T. [R-NC-10]",R,NC,10.0
+HR2797,F000474,"Rep. Flood, Mike [R-NE-1]",R,NE,1.0
+HR2793,W000812,"Rep. Wagner, Ann [R-MO-2]",R,MO,2.0
+HR2812,H001047,"Rep. Himes, James A. [D-CT-4]",D,CT,4.0
+HR3099,L000599,"Rep. Lawler, Michael [R-NY-17]",R,NY,17.0
+HJRES44,C001116,"Rep. Clyde, Andrew S. [R-GA-9]",R,GA,9.0
+HJRES42,C001116,"Rep. Clyde, Andrew S. [R-GA-9]",R,GA,9.0
+HR1615,A000377,"Rep. Armstrong, Kelly [R-ND-At Large]",R,ND,
+HR277,C001039,"Rep. Cammack, Kat [R-FL-3]",R,FL,3.0
+HR1640,L000589,"Rep. Lesko, Debbie [R-AZ-8]",R,AZ,8.0
+HR288,F000471,"Rep. Fitzgerald, Scott [R-WI-5]",R,WI,5.0
+HR1606,S001190,"Rep. Schneider, Bradley Scott [D-IL-10]",D,IL,10.0
+HR3672,B001301,"Rep. Bergman, Jack [R-MI-1]",R,MI,1.0
+HJRES45,G000595,"Rep. Good, Bob [R-VA-5]",R,VA,5.0
+HR3799,H001082,"Rep. Hern, Kevin [R-OK-1]",R,OK,1.0
+HR3564,D000626,"Rep. Davidson, Warren [R-OH-8]",R,OH,8.0
+HR1548,K000397,"Rep. Kim, Young [R-CA-40]",R,CA,40.0
+HR1096,M001196,"Rep. Moulton, Seth [D-MA-6]",D,MA,6.0
+S111,L000575,"Sen. Lankford, James [R-OK]",R,OK,
+HR813,P000615,"Rep. Pence, Greg [R-IN-6]",R,IN,6.0
+HJRES68,B000825,"Rep. Boebert, Lauren [R-CO-3]",R,CO,3.0
+HJRES70,G000565,"Rep. Gosar, Paul A. [R-AZ-9]",R,AZ,9.0
+HJRES74,G000565,"Rep. Gosar, Paul A. [R-AZ-9]",R,AZ,9.0
+HJRES71,C001132,"Rep. Crane, Elijah [R-AZ-2]",R,AZ,2.0
+HJRES79,G000578,"Rep. Gaetz, Matt [R-FL-1]",R,FL,1.0
+HR3941,M001221,"Rep. Molinaro, Marcus J. [R-NY-19]",R,NY,19.0
+HR1338,M001159,"Rep. McMorris Rodgers, Cathy [R-WA-5]",R,WA,5.0
+HR4470,L000597,"Rep. Lee, Laurel M. [R-FL-15]",R,FL,15.0
+HR4366,C001051,"Rep. Carter, John R. [R-TX-31]",R,TX,31.0
+SJRES9,M001198,"Sen. Marshall, Roger [R-KS]",R,KS,
+SJRES24,M001190,"Sen. Mullin, Markwayne [R-OK]",R,OK,
+HR3152,M001157,"Rep. McCaul, Michael T. [R-TX-10]",R,TX,10.0
+HR589,B001299,"Rep. Banks, Jim [R-IN-3]",R,IN,3.0
+HR1567,T000165,"Rep. Tiffany, Thomas P. [R-WI-7]",R,WI,7.0
+HR3324,H001068,"Rep. Huffman, Jared [D-CA-2]",D,CA,2.0
+HR1435,J000302,"Rep. Joyce, John [R-PA-13]",R,PA,13.0
+HR3981,M001220,"Rep. McGarvey, Morgan [D-KY-3]",D,KY,3.0
+S475,H001046,"Sen. Heinrich, Martin [D-NM]",D,NM,
+HR663,G000574,"Rep. Gallego, Ruben [D-AZ-3]",D,AZ,3.0
+S112,B001310,"Sen. Braun, Mike [R-IN]",R,IN,
+HR1530,L000603,"Rep. Luttrell, Morgan [R-TX-8]",R,TX,8.0
+HR5110,G000590,"Rep. Green, Mark E. [R-TN-7]",R,TN,7.0
+HR4665,D000600,"Rep. Diaz-Balart, Mario [R-FL-26]",R,FL,26.0
+HR4365,C000059,"Rep. Calvert, Ken [R-CA-41]",R,CA,41.0
+HR5692,K000398,"Rep. Kean, Thomas H. [R-NJ-7]",R,NJ,7.0
+HR4367,J000295,"Rep. Joyce, David P. [R-OH-14]",R,OH,14.0
+HR4368,H001052,"Rep. Harris, Andy [R-MD-1]",R,MD,1.0
+HR5525,D000032,"Rep. Donalds, Byron [R-FL-19]",R,FL,19.0
+HR5860,G000377,"Rep. Granger, Kay [R-TX-12]",R,TX,12.0
+HR2379,K000391,"Rep. Krishnamoorthi, Raja [D-IL-8]",D,IL,8.0
+HR4502,M000194,"Rep. Mace, Nancy [R-SC-1]",R,SC,1.0
+HR4394,F000459,"Rep. Fleischmann, Charles J. ""Chuck"" [R-TN-3]",R,TN,3.0
+HR340,M001199,"Rep. Mast, Brian J. [R-FL-21]",R,FL,21.0
+HR4364,A000369,"Rep. Amodei, Mark E. [R-NV-2]",R,NV,2.0
+HR6126,G000377,"Rep. Granger, Kay [R-TX-12]",R,TX,12.0
+HR4821,S001148,"Rep. Simpson, Michael K. [R-ID-2]",R,ID,2.0
+HR3774,L000599,"Rep. Lawler, Michael [R-NY-17]",R,NY,17.0
+HR1607,S001183,"Rep. Schweikert, David [R-AZ-1]",R,AZ,1.0
+HR359,G000582,"Rescom. González-Colón, Jenniffer [R-PR-At Large]",R,PR,
+HR1105,W000812,"Rep. Wagner, Ann [R-MO-2]",R,MO,2.0
+HR593,C001103,"Rep. Carter, Earl L. ""Buddy"" [R-GA-1]",R,GA,1.0
+HR6363,G000377,"Rep. Granger, Kay [R-TX-12]",R,TX,12.0
+HR5961,M001157,"Rep. McCaul, Michael T. [R-TX-10]",R,TX,10.0
+HR5283,M000317,"Rep. Malliotakis, Nicole [R-NY-11]",R,NY,11.0
+SJRES32,K000393,"Sen. Kennedy, John [R-LA]",R,LA,
+HR1547,K000398,"Rep. Kean, Thomas H. [R-NJ-7]",R,NJ,7.0
+HR3848,C001135,"Rep. Chavez-DeRemer, Lori [R-OR-5]",R,OR,5.0
+HR542,B001285,"Rep. Brownley, Julia [D-CA-26]",D,CA,26.0
+HR5933,S001135,"Rep. Steel, Michelle [R-CA-45]",R,CA,45.0
+HR4468,W000798,"Rep. Walberg, Tim [R-MI-5]",R,MI,5.0
+HJRES88,M001136,"Rep. McClain, Lisa C. [R-MI-9]",R,MI,9.0
+HR3224,D000632,"Rep. D'Esposito, Anthony [R-NY-4]",R,NY,4.0
+HR5378,M001159,"Rep. McMorris Rodgers, Cathy [R-WA-5]",R,WA,5.0
+HR6503,G000546,"Rep. Graves, Sam [R-MO-6]",R,MO,6.0
+S788,B001236,"Sen. Boozman, John [R-AR]",R,AR,
+HR5119,N000193,"Rep. Nunn, Zachary [R-IA-3]",R,IA,3.0
+HR5524,G000587,"Rep. Garcia, Sylvia R. [D-TX-29]",D,TX,29.0
+HR4531,G000558,"Rep. Guthrie, Brett [R-KY-2]",R,KY,2.0
+HR357,C001118,"Rep. Cline, Ben [R-VA-6]",R,VA,6.0
+HR1147,T000467,"Rep. Thompson, Glenn [R-PA-15]",R,PA,15.0
+HR2670,R000575,"Rep. Rogers, Mike D. [R-AL-3]",R,AL,3.0
+HR2365,B001257,"Rep. Bilirakis, Gus M. [R-FL-12]",R,FL,12.0
+HR788,G000589,"Rep. Gooden, Lance [R-TX-5]",R,TX,5.0
+SJRES38,R000595,"Sen. Rubio, Marco [R-FL]",R,FL,
+HR839,M001204,"Rep. Meuser, Daniel [R-PA-9]",R,PA,9.0
+HR5862,S001135,"Rep. Steel, Michelle [R-CA-45]",R,CA,45.0
+S3250,C001056,"Sen. Cornyn, John [R-TX]",R,TX,
+HR2872,G000577,"Rep. Graves, Garret [R-LA-6]",R,LA,6.0
+HR6918,F000470,"Rep. Fischbach, Michelle [R-MN-7]",R,MN,7.0
+HR6914,H001091,"Rep. Hinson, Ashley [R-IA-2]",R,IA,2.0
+HR5528,D000032,"Rep. Donalds, Byron [R-FL-19]",R,FL,19.0
+S3427,G000359,"Sen. Graham, Lindsey [R-SC]",R,SC,
+HR5585,C001133,"Rep. Ciscomani, Juan [R-AZ-6]",R,AZ,6.0
+HR6678,M001177,"Rep. McClintock, Tom [R-CA-5]",R,CA,5.0
+HR6679,M001177,"Rep. McClintock, Tom [R-CA-5]",R,CA,5.0
+HR2754,C001063,"Rep. Cuellar, Henry [D-TX-28]",D,TX,28.0
+HR7024,S001195,"Rep. Smith, Jason [R-MO-8]",R,MO,8.0
+HR6976,M001212,"Rep. Moore, Barry [R-AL-2]",R,AL,2.0
+HR2882,C001133,"Rep. Ciscomani, Juan [R-AZ-6]",R,AZ,6.0
+HR443,W000798,"Rep. Walberg, Tim [R-MI-5]",R,MI,5.0
+HR1727,T000483,"Rep. Trone, David J. [D-MD-6]",D,MD,6.0
+HR7217,C000059,"Rep. Calvert, Ken [R-CA-41]",R,CA,41.0
+HR485,M001159,"Rep. McMorris Rodgers, Cathy [R-WA-5]",R,WA,5.0
+HR5856,S000522,"Rep. Smith, Christopher H. [R-NJ-4]",R,NJ,4.0
+HR3202,W000795,"Rep. Wilson, Joe [R-SC-2]",R,SC,2.0
+HR2766,K000397,"Rep. Kim, Young [R-CA-40]",R,CA,40.0
+HR7176,P000048,"Rep. Pfluger, August [R-TX-11]",R,TX,11.0
+HR533,M000312,"Rep. McGovern, James P. [D-MA-2]",D,MA,2.0
+HR5375,M001137,"Rep. Meeks, Gregory W. [D-NY-5]",D,NY,5.0
+HR6544,D000615,"Rep. Duncan, Jeff [R-SC-3]",R,SC,3.0
+HR4984,C001108,"Rep. Comer, James [R-KY-1]",R,KY,1.0
+HR7102,D000629,"Rep. Davids, Sharice [D-KS-3]",D,KS,3.0
+HR7463,G000377,"Rep. Granger, Kay [R-TX-12]",R,TX,12.0
+HR7454,G000546,"Rep. Graves, Sam [R-MO-6]",R,MO,6.0
+HR3391,W000825,"Rep. Wexton, Jennifer [D-VA-10]",D,VA,10.0
+HR3838,B001248,"Rep. Burgess, Michael C. [R-TX-26]",R,TX,26.0
+HR3821,P000096,"Rep. Pascrell, Bill, Jr. [D-NJ-9]",D,NJ,9.0
+HR7511,C001129,"Rep. Collins, Mike [R-GA-10]",R,GA,10.0
+HR3843,K000385,"Rep. Kelly, Robin L. [D-IL-2]",D,IL,2.0
+HR2799,M001156,"Rep. McHenry, Patrick T. [R-NC-10]",R,NC,10.0
+HR1752,G000546,"Rep. Graves, Sam [R-MO-6]",R,MO,6.0
+HR886,B001278,"Rep. Bonamici, Suzanne [D-OR-1]",D,OR,1.0
+HR6276,P000605,"Rep. Perry, Scott [R-PA-10]",R,PA,10.0
+HR7521,G000579,"Rep. Gallagher, Mike [R-WI-8]",R,WI,8.0
+HR4723,W000812,"Rep. Wagner, Ann [R-MO-2]",R,MO,2.0
+HR7520,P000034,"Rep. Pallone, Frank [D-NJ-6]",D,NJ,6.0
+HR1121,D000615,"Rep. Duncan, Jeff [R-SC-3]",R,SC,3.0
+HR6009,B000825,"Rep. Boebert, Lauren [R-CO-3]",R,CO,3.0
+HR1836,J000301,"Rep. Johnson, Dusty [R-SD-At Large]",R,SD,
+HR7023,R000603,"Rep. Rouzer, David [R-NC-7]",R,NC,7.0
+HR1023,P000609,"Rep. Palmer, Gary J. [R-AL-6]",R,AL,6.0
+HR6655,F000450,"Rep. Foxx, Virginia [R-NC-5]",R,NC,5.0
+S2051,D000563,"Sen. Durbin, Richard J. [D-IL]",D,IL,
+HR3250,M001206,"Rep. Morelle, Joseph D. [D-NY-25]",D,NY,25.0
+S382,C000127,"Sen. Cantwell, Maria [D-WA]",D,WA,
+HR2560,K000375,"Rep. Keating, William R. [D-MA-9]",D,MA,9.0
+HR7888,L000597,"Rep. Lee, Laurel M. [R-FL-15]",R,FL,15.0
+HR6408,K000392,"Rep. Kustoff, David [R-TN-8]",R,TN,8.0
+HR5923,L000599,"Rep. Lawler, Michael [R-NY-17]",R,NY,17.0
+HR5921,H001058,"Rep. Huizenga, Bill [R-MI-4]",R,MI,4.0
+HR6245,H001072,"Rep. Hill, J. French [R-AR-2]",R,AR,2.0
+HR6015,L000569,"Rep. Luetkemeyer, Blaine [R-MO-3]",R,MO,3.0
+HR5917,G000579,"Rep. Gallagher, Mike [R-WI-8]",R,WI,8.0
+HR4681,H001072,"Rep. Hill, J. French [R-AR-2]",R,AR,2.0
+HR6603,M001224,"Rep. Moran, Nathaniel [R-TX-1]",R,TX,1.0
+HR5826,W000795,"Rep. Wilson, Joe [R-SC-2]",R,SC,2.0
+HR3033,S001135,"Rep. Steel, Michelle [R-CA-45]",R,CA,45.0
+HR4639,D000626,"Rep. Davidson, Warren [R-OH-8]",R,OH,8.0
+HR6046,C001116,"Rep. Clyde, Andrew S. [R-GA-9]",R,GA,9.0
+HR4691,S001224,"Rep. Self, Keith [R-TX-3]",R,TX,3.0
+HR5947,P000048,"Rep. Pfluger, August [R-TX-11]",R,TX,11.0
+HR6323,K000397,"Rep. Kim, Young [R-CA-40]",R,CA,40.0
+HR3602,C001133,"Rep. Ciscomani, Juan [R-AZ-6]",R,AZ,6.0
+HR8038,M001157,"Rep. McCaul, Michael T. [R-TX-10]",R,TX,10.0
+HR8036,C001053,"Rep. Cole, Tom [R-OK-4]",R,OK,4.0
+HR8035,C001053,"Rep. Cole, Tom [R-OK-4]",R,OK,4.0
+HR8034,C001053,"Rep. Cole, Tom [R-OK-4]",R,OK,4.0
+HR4866,G000061,"Rep. Garcia, Mike [R-CA-27]",R,CA,27.0
+HR4755,S001215,"Rep. Stevens, Haley M. [D-MI-11]",D,MI,11.0
+HR529,W000823,"Rep. Waltz, Michael [R-FL-6]",R,FL,6.0
+HR4824,B001307,"Rep. Baird, James R. [R-IN-4]",R,IN,4.0
+HR4877,L000602,"Rep. Lee, Summer L. [D-PA-12]",D,PA,12.0
+HR6093,L000491,"Rep. Lucas, Frank D. [R-OK-3]",R,OK,3.0
+HR3738,W000815,"Rep. Wenstrup, Brad R. [R-OH-2]",R,OH,2.0
+HR4016,C001078,"Rep. Connolly, Gerald E. [D-VA-11]",D,VA,11.0
+HR1767,R000617,"Rep. Ramirez, Delia C. [D-IL-3]",D,IL,3.0
+HR3397,C001114,"Rep. Curtis, John R. [R-UT-3]",R,UT,3.0
+HR615,W000804,"Rep. Wittman, Robert J. [R-VA-1]",R,VA,1.0
+HR764,B000825,"Rep. Boebert, Lauren [R-CO-3]",R,CO,3.0
+HR3195,S001212,"Rep. Stauber, Pete [R-MN-8]",R,MN,8.0
+HR6090,L000599,"Rep. Lawler, Michael [R-NY-17]",R,NY,17.0
+HR6285,S001212,"Rep. Stauber, Pete [R-MN-8]",R,MN,8.0
+HR7219,M001136,"Rep. McClain, Lisa C. [R-MI-9]",R,MI,9.0
+HR7525,F000246,"Rep. Fallon, Pat [R-TX-4]",R,TX,4.0
+HR3354,W000825,"Rep. Wexton, Jennifer [D-VA-10]",D,VA,10.0
+HR6192,L000589,"Rep. Lesko, Debbie [R-AZ-8]",R,AZ,8.0
+HJRES98,J000307,"Rep. James, John [R-MI-10]",R,MI,10.0
+HR7423,S001176,"Rep. Scalise, Steve [R-LA-1]",R,LA,1.0
+HR8289,G000546,"Rep. Graves, Sam [R-MO-6]",R,MO,6.0
+HR2925,A000369,"Rep. Amodei, Mark E. [R-NV-2]",R,NV,2.0
+HR7109,E000246,"Rep. Edwards, Chuck [R-NC-11]",R,NC,11.0
+S870,P000595,"Sen. Peters, Gary C. [D-MI]",D,MI,
+HR4143,L000397,"Rep. Lofgren, Zoe [D-CA-18]",D,CA,18.0
+S546,F000463,"Sen. Fischer, Deb [R-NE]",R,NE,
+HR7659,G000546,"Rep. Graves, Sam [R-MO-6]",R,MO,6.0
+HR3935,G000546,"Rep. Graves, Sam [R-MO-6]",R,MO,6.0
+HR7530,D000032,"Rep. Donalds, Byron [R-FL-19]",R,FL,19.0
+HR7581,B001311,"Rep. Bishop, Dan [R-NC-8]",R,NC,8.0
+HR7343,V000133,"Rep. Van Drew, Jefferson [R-NJ-2]",R,NJ,2.0
+HR4510,L000566,"Rep. Latta, Robert E. [R-OH-5]",R,OH,5.0
+HR4310,T000482,"Rep. Trahan, Lori [D-MA-3]",D,MA,3.0
+HR4581,H001091,"Rep. Hinson, Ashley [R-IA-2]",R,IA,2.0
+HR6960,C001103,"Rep. Carter, Earl L. ""Buddy"" [R-GA-1]",R,GA,1.0
+HR1797,T000486,"Rep. Torres, Ritchie [D-NY-15]",D,NY,15.0
+HR6572,B001275,"Rep. Bucshon, Larry [R-IN-8]",R,IN,8.0
+HR6571,B001275,"Rep. Bucshon, Larry [R-IN-8]",R,IN,8.0
+HR3950,B001257,"Rep. Bilirakis, Gus M. [R-FL-12]",R,FL,12.0
+HR354,B001298,"Rep. Bacon, Don [R-NE-2]",R,NE,2.0
+HR8146,D000632,"Rep. D'Esposito, Anthony [R-NY-4]",R,NY,4.0
+HR8369,C000059,"Rep. Calvert, Ken [R-CA-41]",R,CA,41.0
+HR5863,S001214,"Rep. Steube, W. Gregory [R-FL-17]",R,FL,17.0
+HR3019,M001208,"Rep. McBath, Lucy [D-GA-7]",D,GA,7.0
+HR4763,T000467,"Rep. Thompson, Glenn [R-PA-15]",R,PA,15.0
+HR5403,E000294,"Rep. Emmer, Tom [R-MN-6]",R,MN,6.0
+HR192,P000048,"Rep. Pfluger, August [R-TX-11]",R,TX,11.0
+HR6983,S001189,"Rep. Scott, Austin [R-GA-8]",R,GA,8.0
+HR8282,R000614,"Rep. Roy, Chip [R-TX-21]",R,TX,21.0
+HR8580,C001051,"Rep. Carter, John R. [R-TX-31]",R,TX,31.0
+HR6543,K000397,"Rep. Kim, Young [R-CA-40]",R,CA,40.0
+HR2964,M001136,"Rep. McClain, Lisa C. [R-MI-9]",R,MI,9.0
+S138,M001176,"Sen. Merkley, Jeff [D-OR]",D,OR,
+HR8070,R000575,"Rep. Rogers, Mike D. [R-AL-3]",R,AL,3.0
+HR7152,W000825,"Rep. Wexton, Jennifer [D-VA-10]",D,VA,10.0
+HR2789,S001211,"Rep. Stanton, Greg [D-AZ-4]",D,AZ,4.0
+HR8774,C000059,"Rep. Calvert, Ken [R-CA-41]",R,CA,41.0
+HR8752,A000369,"Rep. Amodei, Mark E. [R-NV-2]",R,NV,2.0
+HR8771,D000600,"Rep. Diaz-Balart, Mario [R-FL-26]",R,FL,26.0
+HR897,C001054,"Rep. Carl, Jerry L. [R-AL-1]",R,AL,1.0
+HR5441,L000598,"Rep. LaLota, Nick [R-NY-1]",R,NY,1.0
+HR7637,M001215,"Rep. Miller-Meeks, Mariannette [R-IA-1]",R,IA,1.0
+HR7700,L000600,"Rep. Langworthy, Nicholas A. [R-NY-23]",R,NY,23.0
+HR8281,R000614,"Rep. Roy, Chip [R-TX-21]",R,TX,21.0
+HR8772,V000129,"Rep. Valadao, David G. [R-CA-22]",R,CA,22.0
+HJRES165,M001211,"Rep. Miller, Mary E. [R-IL-15]",R,IL,15.0
+HJRES109,F000474,"Rep. Flood, Mike [R-NE-1]",R,NE,1.0
+S3249,M000934,"Sen. Moran, Jerry [R-KS]",R,KS,
+HR1631,I000056,"Rep. Issa, Darrell E. [R-CA-48]",R,CA,48.0
+HR8812,G000546,"Rep. Graves, Sam [R-MO-6]",R,MO,6.0
+S3706,C001056,"Sen. Cornyn, John [R-TX]",R,TX,
+S227,C001056,"Sen. Cornyn, John [R-TX]",R,TX,
+HR7887,M000194,"Rep. Mace, Nancy [R-SC-1]",R,SC,1.0
+HR8998,S001148,"Rep. Simpson, Michael K. [R-ID-2]",R,ID,2.0
+HR1157,B001282,"Rep. Barr, Andy [R-KY-6]",R,KY,6.0
+HR8333,W000815,"Rep. Wenstrup, Brad R. [R-OH-2]",R,OH,2.0
+HR1103,S000522,"Rep. Smith, Christopher H. [R-NJ-4]",R,NJ,4.0
+HR1516,P000048,"Rep. Pfluger, August [R-TX-11]",R,TX,11.0
+HR1425,T000165,"Rep. Tiffany, Thomas P. [R-WI-7]",R,WI,7.0
+HR1398,G000589,"Rep. Gooden, Lance [R-TX-5]",R,TX,5.0
+HR9456,N000189,"Rep. Newhouse, Dan [R-WA-4]",R,WA,4.0
+HR7980,M001205,"Rep. Miller, Carol D. [R-WV-1]",R,WV,1.0
+HR8314,M000317,"Rep. Malliotakis, Nicole [R-NY-11]",R,NY,11.0
+S2861,G000555,"Sen. Gillibrand, Kirsten E. [D-NY]",D,NY,
+S1146,C001056,"Sen. Cornyn, John [R-TX]",R,TX,
+HR9076,L000585,"Rep. LaHood, Darin [R-IL-16]",R,IL,16.0
+HR1513,M001163,"Rep. Matsui, Doris O. [D-CA-7]",D,CA,7.0
+HR5339,A000372,"Rep. Allen, Rick W. [R-GA-12]",R,GA,12.0
+HR5179,T000478,"Rep. Tenney, Claudia [R-NY-24]",R,NY,24.0
+HR7909,M000194,"Rep. Mace, Nancy [R-SC-1]",R,SC,1.0
+HR9494,H001077,"Rep. Higgins, Clay [R-LA-3]",R,LA,3.0
+HR3724,O000086,"Rep. Owens, Burgess [R-UT-4]",R,UT,4.0
+HR4790,H001058,"Rep. Huizenga, Bill [R-MI-4]",R,MI,4.0
+HR5717,L000598,"Rep. LaLota, Nick [R-NY-1]",R,NY,1.0
+HJRES136,J000307,"Rep. James, John [R-MI-10]",R,MI,10.0
+HR9106,L000599,"Rep. Lawler, Michael [R-NY-17]",R,NY,17.0
+S2228,K000377,"Sen. Kelly, Mark [D-AZ]",D,AZ,
+HR8958,L000491,"Rep. Lucas, Frank D. [R-OK-3]",R,OK,3.0
+S3764,R000595,"Sen. Rubio, Marco [R-FL]",R,FL,
+HR3208,J000032,"Rep. Jackson Lee, Sheila [D-TX-18]",D,TX,18.0
+HR8057,S001135,"Rep. Steel, Michelle [R-CA-45]",R,CA,45.0
+HR7073,W000814,"Rep. Weber, Randy K., Sr. [R-TX-14]",R,TX,14.0
+HR8790,W000821,"Rep. Westerman, Bruce [R-AR-4]",R,AR,4.0
+HR6513,C001126,"Rep. Carey, Mike [R-OH-15]",R,OH,15.0
+HR9747,C001053,"Rep. Cole, Tom [R-OK-4]",R,OK,4.0
+HR3334,M001136,"Rep. McClain, Lisa C. [R-MI-9]",R,MI,9.0
+HR8205,F000471,"Rep. Fitzgerald, Scott [R-WI-5]",R,WI,5.0
+HR82,G000577,"Rep. Graves, Garret [R-LA-6]",R,LA,6.0
+HR5342,A000375,"Rep. Arrington, Jodey C. [R-TX-19]",R,TX,19.0
+HR8446,C001133,"Rep. Ciscomani, Juan [R-AZ-6]",R,AZ,6.0
+HR7409,K000397,"Rep. Kim, Young [R-CA-40]",R,CA,40.0
+HR8932,H001093,"Rep. Houchin, Erin [R-IN-9]",R,IN,9.0
+HR8371,C001133,"Rep. Ciscomani, Juan [R-AZ-6]",R,AZ,6.0
+HR5658,P000618,"Rep. Porter, Katie [D-CA-47]",D,CA,47.0
+HR1449,F000469,"Rep. Fulcher, Russ [R-ID-1]",R,ID,1.0
+HR3012,K000397,"Rep. Kim, Young [R-CA-40]",R,CA,40.0
+HR8368,T000468,"Rep. Titus, Dina [D-NV-1]",D,NV,1.0
+HR9495,T000478,"Rep. Tenney, Claudia [R-NY-24]",R,NY,24.0
+S3791,C000174,"Sen. Carper, Thomas R. [D-DE]",D,DE,
+HR390,S001196,"Rep. Stefanik, Elise M. [R-NY-21]",R,NY,21.0
+HR8219,T000487,"Rep. Tokuda, Jill N. [D-HI-2]",D,HI,2.0
+S709,P000595,"Sen. Peters, Gary C. [D-MI]",D,MI,
+HR9598,C001108,"Rep. Comer, James [R-KY-1]",R,KY,1.0
+HR9600,B000490,"Rep. Bishop, Sanford D. [D-GA-2]",D,GA,2.0
+HR7198,F000475,"Rep. Finstad, Brad [R-MN-1]",R,MN,1.0
+HR5349,S000168,"Rep. Salazar, Maria Elvira [R-FL-27]",R,FL,27.0
+S4367,C000174,"Sen. Carper, Thomas R. [D-DE]",D,DE,
+S3613,P000595,"Sen. Peters, Gary C. [D-MI]",D,MI,
+HR7673,O000175,"Rep. Ogles, Andrew [R-TN-5]",R,TN,5.0
+HR9668,S001220,"Rep. Strong, Dale W. [R-AL-5]",R,AL,5.0
+HR9716,M001213,"Rep. Moore, Blake D. [R-UT-1]",R,UT,1.0
+HR5009,J000295,"Rep. Joyce, David P. [R-OH-14]",R,OH,14.0
+S4199,Y000064,"Sen. Young, Todd [R-IN]",R,IN,
+HR7213,S000522,"Rep. Smith, Christopher H. [R-NJ-4]",R,NJ,4.0
+S3998,C001098,"Sen. Cruz, Ted [R-TX]",R,TX,
+S141,M000934,"Sen. Moran, Jerry [R-KS]",R,KS,
+S4077,P000145,"Sen. Padilla, Alex [D-CA]",D,CA,
+HR115,B001302,"Rep. Biggs, Andy [R-AZ-5]",R,AZ,5.0
+S3448,R000608,"Sen. Rosen, Jacky [D-NV]",D,NV,
+HR1101,R000603,"Rep. Rouzer, David [R-NC-7]",R,NC,7.0
+S1351,M001176,"Sen. Merkley, Jeff [D-OR]",D,OR,
+S3857,P000145,"Sen. Padilla, Alex [D-CA]",D,CA,
+HR8663,L000598,"Rep. LaLota, Nick [R-NY-1]",R,NY,1.0
+S759,W000790,"Sen. Warnock, Raphael G. [D-GA]",D,GA,
+HR10515,C001053,"Rep. Cole, Tom [R-OK-4]",R,OK,4.0
+HR10545,C001053,"Rep. Cole, Tom [R-OK-4]",R,OK,4.0

@@ -1,0 +1,477 @@
+congress,chamber,rollnumber,date,session,clerk_rollnumber,majority_requirement,yea_count,nay_count,bill_number,vote_result,vote_desc,vote_question,dtl_desc,law,outcome,text_version
+117,House,8,2021-01-05,1,9,2/3,412,2,HR22,Passed,Congressional Budget Justification Transparency Act of 2021,On Motion to Suspend the Rules and Pass,,,passed_house_not_enacted,Engrossed in House
+117,House,17,2021-01-21,1,18,1/2,326,78,HR335,Passed,To provide for an exception to a limitation against appointment of persons as Secretary of Defense within seven years of relief from active duty as a regular commissioned officer of the Armed Forces,On Passage,,117-1,enacted,Enrolled Bill
+117,House,30,2021-02-05,1,31,1/2,247,173,HR447,Passed,National Apprenticeship Act,On Passage,,,passed_house_not_enacted,Engrossed in House
+117,House,31,2021-02-23,1,32,2/3,406,15,HR208,Passed,"To designate the facility of the United States Postal Service located at 500 West Main Street, Suite 102 in Tupelo, Mississippi, as the “Colonel Carlyle ’Smitty’ Harris Post Office”",On Motion to Suspend the Rules and Pass,,117-33,enacted,Enrolled Bill
+117,House,35,2021-02-24,1,36,2/3,414,11,HR546,Passed,Effective Assistance of Counsel in the Digital Era Act,On Motion to Suspend the Rules and Pass,,,passed_house_not_enacted,Engrossed in House
+117,House,36,2021-02-24,1,37,2/3,429,0,HR1192,Passed,Puerto Rico Recovery Accuracy in Disclosures Act,On Motion to Suspend the Rules and Pass,,117-82,enacted,Enrolled Bill
+117,House,38,2021-02-25,1,39,1/2,224,206,HR5,Passed,Equality Act,On Passage,,,passed_house_not_enacted,Engrossed in House
+117,House,44,2021-02-26,1,45,1/2,227,200,HR803,Passed,Colorado Wilderness Act,On Passage,,,passed_house_not_enacted,Engrossed in House
+117,House,59,2021-03-03,1,60,1/2,220,212,HR1280,Passed,George Floyd Justice in Policing Act of 2021,On Passage,,,passed_house_not_enacted,Engrossed in House
+117,House,61,2021-03-03,1,62,1/2,220,210,HR1,Passed,For the People Act,On Passage,,,passed_house_not_enacted,Engrossed in House
+117,House,69,2021-03-09,1,70,1/2,225,206,HR842,Passed,Protecting the Right to Organize Act,On Passage,,,passed_house_not_enacted,Engrossed in House
+117,House,71,2021-03-10,1,72,1/2,220,211,HR1319,Passed,American Rescue Plan Act,On Motion to Concur in the Senate Amendment,,117-2,enacted,Enrolled Bill
+117,House,74,2021-03-11,1,75,1/2,227,203,HR8,Passed,Bipartisan Background Checks Act,On Passage,,,passed_house_not_enacted,Engrossed in House
+117,House,76,2021-03-11,1,77,1/2,219,210,HR1446,Passed,Enhanced Background Checks Act of 2021,On Passage,,,passed_house_not_enacted,Engrossed in House
+117,House,79,2021-03-16,1,80,2/3,415,3,HR1799,Passed,PPP Extension Act,"On Motion to Suspend the Rules and Pass, as Amended",,117-6,enacted,Enrolled Bill
+117,House,80,2021-03-16,1,81,2/3,345,73,HR485,Passed,Stronger Child Abuse Prevention and Treatment Act,On Motion to Suspend the Rules and Pass,,,passed_house_not_enacted,Engrossed in House
+117,House,81,2021-03-17,1,82,1/2,222,204,HJRES17,Passed,Removing the deadline for the ratification of the equal rights amendment,On Passage,,,passed_house_not_enacted,Engrossed in House
+117,House,85,2021-03-17,1,86,1/2,244,172,HR1620,Passed,The Violence Against Women Reauthorization Act of 2021,On Passage,,,passed_house_not_enacted,Engrossed in House
+117,House,86,2021-03-17,1,87,2/3,413,12,HR1085,Passed,"To award three congressional gold medals to the United States Capitol Police and those who protected the U.S. Capitol on January 6, 2021","On Motion to Suspend the Rules and Pass, as Amended",,,passed_house_not_enacted,Engrossed in House
+117,House,87,2021-03-17,1,88,2/3,399,14,HR1651,Passed,COVID-19 Bankruptcy Relief Extension Act,"On Motion to Suspend the Rules and Pass, as Amended",,117-5,enacted,Enrolled Bill
+117,House,88,2021-03-17,1,89,1/2,384,38,HR1652,Passed,VOCA Fix to Sustain the Crime Victims Fund Act,"On Motion to Suspend the Rules and Pass, as Amended",,117-27,enacted,Enrolled Bill
+117,House,90,2021-03-18,1,91,1/2,228,197,HR6,Passed,Dream Act,On Passage,,,passed_house_not_enacted,Engrossed in House
+117,House,92,2021-03-18,1,93,1/2,247,174,HR1603,Passed,Farm Workforce Modernization Act,On Passage,,,passed_house_not_enacted,Engrossed in House
+117,House,97,2021-04-13,1,98,2/3,384,38,HR1868,Passed,"To prevent across-the-board direct spending cuts, and for other purposes",On Motion to Suspend the Rules and Concur in the Senate Amendment,,117-7,enacted,Enrolled Bill
+117,House,98,2021-04-14,1,99,2/3,381,37,HR172,Passed,United States Anti-Doping Agency Reauthorization Act,On Motion to Suspend the Rules and Pass,,,passed_house_not_enacted,Engrossed in House
+117,House,99,2021-04-14,1,100,2/3,415,11,S578,Passed,"Food Allergy Safety, Treatment, Education, and Research Act",On Motion to Suspend the Rules and Pass,,117-11,enacted,Enrolled Bill
+117,House,100,2021-04-14,1,101,2/3,412,8,S164,Passed,Advancing Education on Biosimilars Act,On Motion to Suspend the Rules and Pass,,117-8,enacted,Enrolled Bill
+117,House,103,2021-04-15,1,104,2/3,396,13,HR1215,Passed,Fraud and Scam Reduction Act,"On Motion to Suspend the Rules and Pass, as Amended",,,passed_house_not_enacted,Engrossed in House
+117,House,104,2021-04-15,1,105,2/3,362,49,HR1460,Passed,Nicholas and Zachary Burt Memorial Carbon Monoxide Poisoning Prevention Act,On Motion to Suspend the Rules and Pass,,,passed_house_not_enacted,Engrossed in House
+117,House,107,2021-04-15,1,108,1/2,217,210,HR7,Passed,Paycheck Fairness Act,On Passage,,,passed_house_not_enacted,Engrossed in House
+117,House,108,2021-04-15,1,109,2/3,415,2,HR941,Passed,TRANSPLANT Act,On Motion to Suspend the Rules and Pass,,117-15,enacted,Enrolled Bill
+117,House,109,2021-04-15,1,110,2/3,413,8,HR446,Passed,Protecting Seniors from Emergency Scams Act,On Motion to Suspend the Rules and Pass,,,passed_house_not_enacted,Engrossed in House
+117,House,110,2021-04-15,1,111,2/3,408,10,HR1762,Passed,Protecting Indian Tribes from Scams Act,On Motion to Suspend the Rules and Pass,,,passed_house_not_enacted,Engrossed in House
+117,House,111,2021-04-15,1,112,2/3,411,5,HR1002,Passed,Debarment Enforcement of Bad Actor Registrants Act,"On Motion to Suspend the Rules and Pass, as Amended",,117-36,enacted,Enrolled Bill
+117,House,112,2021-04-15,1,113,2/3,412,5,HR1899,Passed,Ensuring Compliance Against Drug Diversion Act,On Motion to Suspend the Rules and Pass,,117-53,enacted,Enrolled Bill
+117,House,113,2021-04-15,1,114,2/3,397,16,HR1502,Passed,Microloan Improvement Act,On Motion to Suspend the Rules and Pass,,,passed_house_not_enacted,Engrossed in House
+117,House,114,2021-04-15,1,115,2/3,409,4,HR1487,Passed,Microloan Transparency and Accountability Act,On Motion to Suspend the Rules and Pass,,,passed_house_not_enacted,Engrossed in House
+117,House,115,2021-04-15,1,116,2/3,400,16,HR1490,Passed,504 Modernization and Small Manufacturer Enhancement Act,On Motion to Suspend the Rules and Pass,,,passed_house_not_enacted,Engrossed in House
+117,House,117,2021-04-16,1,118,1/2,254,166,HR1195,Passed,Workplace Violence Prevention for Health Care and Social Service Workers Act,On Passage,,,passed_house_not_enacted,Engrossed in House
+117,House,118,2021-04-16,1,119,2/3,411,8,HR1482,Passed,504 Credit Risk Management Improvement Act,On Motion to Suspend the Rules and Pass,,,passed_house_not_enacted,Engrossed in House
+117,House,119,2021-04-19,1,120,2/3,321,101,HR1996,Passed,SAFE Banking Act,"On Motion to Suspend the Rules and Pass, as Amended",,,passed_house_not_enacted,Engrossed in House
+117,House,126,2021-04-21,1,127,1/2,218,208,HR1333,Passed,NO BAN Act,On Passage,,,passed_house_not_enacted,Engrossed in House
+117,House,128,2021-04-21,1,129,1/2,217,207,HR1573,Passed,Access to Counsel Act,On Passage,,,passed_house_not_enacted,Engrossed in House
+117,House,129,2021-04-21,1,130,2/3,350,71,HR1392,Passed,Protection of Saudi Dissidents Act,"On Motion to Suspend the Rules and Pass, as Amended",,,passed_house_not_enacted,Engrossed in House
+117,House,131,2021-04-22,1,132,1/2,216,208,HR51,Passed,"Washington, D.C. Admission Act",On Passage,,,passed_house_not_enacted,Engrossed in House
+117,House,140,2021-05-13,1,141,1/2,215,207,HR2547,Passed,Comprehensive Debt Collection Improvement Act,On Passage,,,passed_house_not_enacted,Engrossed in House
+117,House,141,2021-05-13,1,142,1/2,323,93,HR2877,Passed,Behavioral Intervention Guidelines Act of 2021,On Motion to Suspend the Rules and Pass,,,passed_house_not_enacted,Engrossed in House
+117,House,142,2021-05-14,1,143,1/2,315,101,HR1065,Passed,Pregnant Workers Fairness Act,On Passage,,,passed_house_not_enacted,Engrossed in House
+117,House,143,2021-05-17,1,144,1/2,411,4,HR2911,Passed,VA Transparency & Trust Act,On Motion to Suspend the Rules and Pass,,117-63,enacted,Enrolled Bill
+117,House,144,2021-05-18,1,145,2/3,364,62,S937,Passed,COVID-19 Hate Crimes Act,On Motion to Suspend the Rules and Pass,,117-13,enacted,Enrolled Bill
+117,House,149,2021-05-19,1,150,1/2,402,23,HR1629,Passed,Fairness in Orphan Drug Exclusivity Act,On Passage,,,passed_house_not_enacted,Engrossed in House
+117,House,153,2021-05-19,1,154,1/2,252,175,HR3233,Passed,National Commission to Investigate the January 6 Attack on the United States Capitol Complex Act,On Passage,,,passed_house_not_enacted,Engrossed in House
+117,House,160,2021-06-15,1,161,2/3,406,21,HR3325,Passed,"To award four congressional gold medals to the United States Capitol Police and those who protected the U.S. Capitol on January 6, 2021","On Motion to Suspend the Rules and Pass, as Amended",,117-32,enacted,Enrolled Bill
+117,House,168,2021-06-16,1,169,1/2,215,214,HR1187,Passed,ESG Disclosure Simplification Act,On Passage,,,passed_house_not_enacted,Engrossed in House
+117,House,169,2021-06-16,1,170,1/2,415,14,S475,Passed,Juneteenth National Independence Day Act,On Passage,,117-17,enacted,Enrolled Bill
+117,House,171,2021-06-17,1,172,1/2,268,161,HR256,Passed,To repeal the Authorization for Use of Military Force Against Iraq Resolution of 2002,On Passage,,,passed_house_not_enacted,Engrossed in House
+117,House,172,2021-06-22,1,173,2/3,398,21,HR1374,Passed,Enhancing State Energy Security Planning and Emergency Preparedness Act,On Motion to Suspend the Rules and Pass,,,passed_house_not_enacted,Engrossed in House
+117,House,173,2021-06-22,1,174,2/3,416,5,HR983,Passed,Preventing Crimes Against Veterans Act,"On Motion to Suspend the Rules and Pass, as Amended",,,passed_house_not_enacted,Engrossed in House
+117,House,179,2021-06-23,1,180,1/2,247,178,HR2062,Passed,Protecting Older Workers Against Discrimination Act of 2021,On Passage,,,passed_house_not_enacted,Engrossed in House
+117,House,180,2021-06-24,1,181,1/2,218,208,SJRES15,Passed,"Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Office of the Comptroller of Currency relating to “National Banks and Federal Savings Associations as Lenders”",On Passage,,117-24,enacted,Enrolled Bill
+117,House,181,2021-06-24,1,182,1/2,252,176,HR1443,Passed,LGBTQ Business Equal Credit Enforcement and Investment Act,On Passage,,,passed_house_not_enacted,Engrossed in House
+117,House,182,2021-06-24,1,183,1/2,219,210,SJRES13,Passed,"Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Equal Employment Opportunity Commission relating to “Update of Commission’s Conciliation Procedures”",On Passage,,117-22,enacted,Enrolled Bill
+117,House,183,2021-06-24,1,184,1/2,245,181,HR239,Passed,Equal Access to Contraception for Veterans Act,On Passage,,,passed_house_not_enacted,Engrossed in House
+117,House,184,2021-06-25,1,185,1/2,229,191,SJRES14,Passed,"Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Environmental Protection Agency relating to “Oil and Natural Gas Sector: Emission Standards for New, Reconstructed, and Modified Sources Review”",On Passage,,117-23,enacted,Enrolled Bill
+117,House,185,2021-06-28,1,186,2/3,345,67,HR2225,Passed,National Science Foundation for the Future Act,"On Motion to Suspend the Rules and Pass, as Amended",,,passed_house_not_enacted,Engrossed in House
+117,House,186,2021-06-28,1,187,2/3,351,68,HR3593,Passed,Department of Energy Science for the Future Act,"On Motion to Suspend the Rules and Pass, as Amended",,,passed_house_not_enacted,Engrossed in House
+117,House,187,2021-06-28,1,188,2/3,307,112,HR391,Passed,Global Health Security Act,"On Motion to Suspend the Rules and Pass, as Amended",,,passed_house_not_enacted,Engrossed in House
+117,House,191,2021-06-29,1,192,2/3,395,15,HR567,Passed,Trans-Sahara Counterterrorism Partnership Program Act,"On Motion to Suspend the Rules and Pass, as Amended",,,passed_house_not_enacted,Engrossed in House
+117,House,194,2021-06-29,1,195,1/2,221,182,HR2662,Passed,IG Independence and Empowerment Act,On Passage,,,passed_house_not_enacted,Engrossed in House
+117,House,195,2021-06-29,1,196,1/2,285,120,HR3005,Passed,Directing the Joint Committee on the Library to replace certain statues in the United States Capitol,On Passage,,,passed_house_not_enacted,Engrossed in House
+117,House,208,2021-07-19,1,209,2/3,415,0,HR826,Passed,Divided Families Reunification Act,On Motion to Suspend the Rules and Pass,,,passed_house_not_enacted,Engrossed in House
+117,House,213,2021-07-20,1,214,1/2,221,205,HR2668,Passed,Consumer Protection and Recovery Act,On Passage,,,passed_house_not_enacted,Engrossed in House
+117,House,216,2021-07-21,1,217,1/2,241,183,HR2467,Passed,PFAS Action Act,On Passage,,,passed_house_not_enacted,Engrossed in House
+117,House,217,2021-07-22,1,218,1/2,407,16,HR3985,Passed,Allies Act,On Passage,,,passed_house_not_enacted,Engrossed in House
+117,House,219,2021-07-26,1,220,2/3,416,0,HR1664,Passed,"To authorize the National Medal of Honor Museum Foundation to establish a commemorative work in the District of Columbia and its environs, and for other purposes","On Motion to Suspend the Rules and Pass, as Amended",,117-80,enacted,Enrolled Bill
+117,House,220,2021-07-26,1,221,2/3,412,0,HR2365,Passed,Gold Star Mothers Family Monument Extension Act,"On Motion to Suspend the Rules and Pass, as Amended",,,passed_house_not_enacted,Engrossed in House
+117,House,223,2021-07-27,1,224,2/3,424,0,S957,Passed,To direct the Secretary of Veterans Affairs to ensure that certain medical facilities of the Department of Veterans Affairs have physical locations for the disposal of controlled substances medications,On Motion to Suspend the Rules and Pass,,117-29,enacted,Enrolled Bill
+117,House,224,2021-07-27,1,225,2/3,413,7,S1910,Passed,Major Medical Facility Authorization Act,On Motion to Suspend the Rules and Pass,,117-30,enacted,Enrolled Bill
+117,House,238,2021-07-28,1,239,1/2,215,207,HR4346,Passed,"Making appropriations for Legislative Branch for the fiscal year ending September 30, 2022, and for other purposes",On Passage,,117-167,enacted,Enrolled Bill
+117,House,242,2021-07-28,1,243,1/2,217,212,HR4373,Passed,"Making appropriations for the Department of State, foreign operations, and related programs for the fiscal year ending September 30, 2022, and for other programs",On Passage,,117-264,enacted,Enrolled Bill
+117,House,246,2021-07-29,1,247,1/2,219,208,HR4502,Passed,"Making appropriations for the Departments of Labor, Health and Human Services, and Eduction, and related agencies for the fiscal year ending September 30, 2022, and for other purposes",On Passage,,,passed_house_not_enacted,Engrossed in House
+117,House,249,2021-07-29,1,250,2/3,416,11,HR3237,Passed,"Making emergency supplemental appropriations for the fiscal year ending September 30, 2021, and for other purposes",On Motion to Suspend the Rules and Concur in the Senate Amendment,,117-31,enacted,Enrolled Bill
+117,House,250,2021-07-29,1,251,2/3,423,0,HR2278,Passed,"To authorize the Secretary of the Interior to designate the September 11th National Memorial Trail, and for other purposes","On Motion to Suspend the Rules and Pass, as Amended",,117-48,enacted,Enrolled Bill
+117,House,252,2021-07-29,1,253,2/3,416,2,HR2497,Passed,Amache National Historic Site Act,"On Motion to Suspend the Rules and Pass, as Amended",,117-106,enacted,Enrolled Bill
+117,House,253,2021-07-29,1,254,2/3,420,0,HR4300,Passed,Alexander Lofgren Veterans in Parks (VIP) Act,"On Motion to Suspend the Rules and Pass, as Amended",,,passed_house_not_enacted,Engrossed in House
+117,House,254,2021-08-23,1,255,2/3,418,7,S325,Passed,"To amend the Alyce Spotted Bear and Walter Soboleff Commission on Native Children Act to extend the deadline for a report by the Alyce Spotted Bear and Walter Soboleff Commission on Native Children, and for other purposes",On Motion to Suspend the Rules and Pass,,117-41,enacted,Enrolled Bill
+117,House,255,2021-08-23,1,256,2/3,423,1,S272,Passed,Congressional Budget Justification Transparency Act,On Motion to Suspend the Rules and Pass,,117-40,enacted,Enrolled Bill
+117,House,259,2021-08-24,1,260,1/2,219,212,HR4,Passed,John R. Lewis Voting Rights Advancement Act,On Passage,,,passed_house_not_enacted,Engrossed in House
+117,House,260,2021-09-20,1,261,2/3,423,0,HR5293,Passed,Department of Veterans Affairs Expiring Authorities Act,On Motion to Suspend the Rules and Pass,,117-42,enacted,Enrolled Bill
+117,House,261,2021-09-20,1,262,2/3,423,0,S189,Passed,Veterans’ Compensation Cost-of-Living Adjustment Act,On Motion to Suspend the Rules and Pass,,117-45,enacted,Enrolled Bill
+117,House,264,2021-09-21,1,265,2/3,427,0,S1828,Passed,HAVANA Act,On Motion to Suspend the Rules and Pass,,117-46,enacted,Enrolled Bill
+117,House,274,2021-09-23,1,275,2/3,420,9,HR5323,Passed,"Making supplemental appropriations for the fiscal year ending September 30, 2022, and for other purposes",On Motion to Suspend the Rules and Pass,,,passed_house_not_enacted,Engrossed in House
+117,House,292,2021-09-23,1,293,1/2,316,113,HR4350,Passed,National Defense Authorization Act for Fiscal Year 2022,On Passage,,,passed_house_not_enacted,Engrossed in House
+117,House,294,2021-09-24,1,295,1/2,218,211,HR3755,Passed,Women’s Health Protection Act,On Passage,,,passed_house_not_enacted,Engrossed in House
+117,House,296,2021-09-28,1,297,2/3,361,66,HR1693,Passed,Eliminating a Quantifiably Unjust Application of the Law Act,"On Motion to Suspend the Rules and Pass, as Amended",,,passed_house_not_enacted,Engrossed in House
+117,House,297,2021-09-28,1,298,2/3,410,14,HR4981,Passed,"To amend the Fentanyl Sanctions Act, to modify certain deadlines relating to the Commission on Combating Synthetic Opioid Trafficking",On Motion to Suspend the Rules and Pass,,117-51,enacted,Enrolled Bill
+117,House,298,2021-09-28,1,299,2/3,412,9,HR4250,Passed,War Crimes Rewards Expansion Act,On Motion to Suspend the Rules and Pass,,117-273,enacted,Enrolled Bill
+117,House,299,2021-09-28,1,300,2/3,386,35,HR1228,Passed,Libya Stabilization Act,"On Motion to Suspend the Rules and Pass, as Amended",,,passed_house_not_enacted,Engrossed in House
+117,House,300,2021-09-28,1,301,2/3,403,17,HR4686,Passed,Cambodia Democracy Act of 2021,"On Motion to Suspend the Rules and Pass, as Amended",,,passed_house_not_enacted,Engrossed in House
+117,House,301,2021-09-28,1,302,2/3,406,16,S848,Passed,Consider Teachers Act,On Motion to Suspend the Rules and Pass,,117-49,enacted,Enrolled Bill
+117,House,302,2021-09-28,1,303,2/3,391,36,HR1154,Passed,Great Dismal Swamp National Heritage Area Act,On Motion to Suspend the Rules and Pass,,117-331,enacted,Enrolled Bill
+117,House,303,2021-09-28,1,304,2/3,414,10,HR2617,Passed,Performance Enhancement Reform Act,"On Motion to Suspend the Rules and Pass, as Amended",,117-328,enacted,Enrolled Bill
+117,House,306,2021-09-29,1,307,2/3,410,15,HR3599,Passed,Federal Rotational Cyber Workforce Program Act,"On Motion to Suspend the Rules and Pass, as Amended",,,passed_house_not_enacted,Engrossed in House
+117,House,307,2021-09-29,1,308,2/3,259,170,HR1204,Failed,District of Columbia Chief Financial Officer Salary Home Rule Act,On Motion to Suspend the Rules and Pass,,,failed,Reported in House
+117,House,309,2021-09-29,1,310,1/2,219,212,S1301,Passed,Promoting Physical Activity for Americans Act,On Passage,,117-50,enacted,Enrolled Bill
+117,House,310,2021-09-30,1,311,1/2,254,175,HR5305,Passed,Extending Government Funding and Delivering Emergency Assistance Act,On Motion to Concur in the Senate Amendment,,117-43,enacted,Enrolled Bill
+117,House,311,2021-09-30,1,312,2/3,416,9,HR3533,Passed,"To establish occupational series for Federal positions in software development, software engineering, data science, and data management, and for other purposes","On Motion to Suspend the Rules and Pass, as Amended",,,passed_house_not_enacted,Engrossed in House
+117,House,312,2021-10-01,1,313,2/3,365,51,HR5434,Passed,Surface Transportation Extension Act,On Motion to Suspend the Rules and Pass,,117-44,enacted,Enrolled Bill
+117,House,315,2021-10-19,1,316,2/3,421,3,HR1029,Passed,Free Veterans from Fees Act,On Motion to Suspend the Rules and Pass,,,passed_house_not_enacted,Engrossed in House
+117,House,316,2021-10-19,1,317,2/3,379,51,HR4089,Passed,Darren Drake Act,"On Motion to Suspend the Rules and Pass, as Amended",,,passed_house_not_enacted,Engrossed in House
+117,House,317,2021-10-19,1,318,2/3,368,56,HR4369,Passed,National Centers of Excellence in Advanced and Continuous Pharmaceutical Manufacturing Act,"On Motion to Suspend the Rules and Pass, as Amended",,,passed_house_not_enacted,Engrossed in House
+117,House,318,2021-10-20,1,319,2/3,412,2,HR4611,Passed,DHS Software Supply Chain Risk Management Act,"On Motion to Suspend the Rules and Pass, as Amended",,,passed_house_not_enacted,Engrossed in House
+117,House,319,2021-10-20,1,320,2/3,380,46,HR2379,Passed,State Opiod Response Grant Authorization Act,"On Motion to Suspend the Rules and Pass, as Amended",,,passed_house_not_enacted,Engrossed in House
+117,House,320,2021-10-20,1,321,2/3,395,30,HR654,Passed,Drug-Free Communities Pandemic Relief Act,"On Motion to Suspend the Rules and Pass, as Amended",,,passed_house_not_enacted,Engrossed in House
+117,House,321,2021-10-20,1,322,2/3,397,22,HR3635,Passed,Strengthening America’s Strategic National Stockpile Act,On Motion to Suspend the Rules and Pass,,,passed_house_not_enacted,Engrossed in House
+117,House,322,2021-10-20,1,323,2/3,420,4,HR3919,Passed,Secure Equipment Act,"On Motion to Suspend the Rules and Pass, as Amended",,117-55,enacted,Enrolled Bill
+117,House,323,2021-10-20,1,324,2/3,410,17,HR4032,Passed,Open RAN Outreach Act,"On Motion to Suspend the Rules and Pass, as Amended",,,passed_house_not_enacted,Engrossed in House
+117,House,324,2021-10-20,1,325,2/3,397,29,HR4067,Passed,"Communications Security, Reliability, and Interoperability Council Act","On Motion to Suspend the Rules and Pass, as Amended",,,passed_house_not_enacted,Engrossed in House
+117,House,325,2021-10-20,1,326,2/3,413,14,HR4028,Passed,Information and Communication Technology Strategy Act,"On Motion to Suspend the Rules and Pass, as Amended",,,passed_house_not_enacted,Engrossed in House
+117,House,330,2021-10-22,1,331,1/2,276,149,HR3110,Passed,PUMP for Nursing Mothers Act,On Passage,,,passed_house_not_enacted,Engrossed in House
+117,House,331,2021-10-25,1,332,2/3,391,29,HR4111,Passed,Sovereign Debt Contract Capacity Act,On Motion to Suspend the Rules and Pass,,,passed_house_not_enacted,Engrossed in House
+117,House,332,2021-10-25,1,333,2/3,400,19,HR2989,Passed,Financial Transparency Act,"On Motion to Suspend the Rules and Pass, as Amended",,,passed_house_not_enacted,Engrossed in House
+117,House,335,2021-10-26,1,336,1/2,228,200,HR2119,Passed,Family Violence Prevention and Services Improvement Act,On Passage,,,passed_house_not_enacted,Engrossed in House
+117,House,336,2021-10-27,1,337,2/3,424,3,S1502,Passed,Confidentiality Opportunities for Peer Support Counseling Act,On Motion to Suspend the Rules and Pass,,117-60,enacted,Enrolled Bill
+117,House,337,2021-10-27,1,338,2/3,420,3,S1511,Passed,Protecting America’s First Responders Act,"On Motion to Suspend the Rules and Pass, as Amended",,117-61,enacted,Enrolled Bill
+117,House,338,2021-10-28,1,339,2/3,358,59,HR5763,Passed,Further Surface Transportation Extension Act of 2021,On Motion to Suspend the Rules and Pass,,117-52,enacted,Enrolled Bill
+117,House,339,2021-11-01,1,340,2/3,361,55,HR1619,Passed,Catawba Indian Nation Lands Act,On Motion to Suspend the Rules and Pass,,,passed_house_not_enacted,Engrossed in House
+117,House,340,2021-11-01,1,341,2/3,357,59,HR2758,Passed,Lumbee Recognition Act,On Motion to Suspend the Rules and Pass,,,passed_house_not_enacted,Engrossed in House
+117,House,341,2021-11-02,1,342,2/3,397,25,HR1975,Passed,Pala Band of Mission Indians Land Transfer Act,On Motion to Suspend the Rules and Pass,,,passed_house_not_enacted,Engrossed in House
+117,House,342,2021-11-02,1,343,2/3,406,17,HR5221,Passed,Urban Indian Health Confer Act,On Motion to Suspend the Rules and Pass,,,passed_house_not_enacted,Engrossed in House
+117,House,343,2021-11-02,1,344,2/3,399,23,HR3616,Passed,Bear River National Heritage Area Study Act,On Motion to Suspend the Rules and Pass,,,passed_house_not_enacted,Engrossed in House
+117,House,344,2021-11-02,1,345,2/3,425,2,S108,Passed,"To authorize the Seminole Tribe of Florida to lease or transfer certain land, and for other purposes",On Motion to Suspend the Rules and Pass,,117-65,enacted,Enrolled Bill
+117,House,345,2021-11-02,1,346,2/3,375,45,HR4881,Passed,Old Pascua Community Land Acquisition Act,On Motion to Suspend the Rules and Pass,,117-275,enacted,Enrolled Bill
+117,House,346,2021-11-02,1,347,2/3,407,16,HR2088,Passed,Eastern Band of Cherokee Historic Lands Reacquisition Act,"On Motion to Suspend the Rules and Pass, as Amended",,,passed_house_not_enacted,Engrossed in House
+117,House,347,2021-11-02,1,348,2/3,418,2,HR3469,Passed,Veteran Entrepreneurship Training Act of 2021,On Motion to Suspend the Rules and Pass,,,passed_house_not_enacted,Engrossed in House
+117,House,348,2021-11-02,1,349,2/3,413,10,HR4256,Passed,Investing in Main Street Act of 2021,"On Motion to Suspend the Rules and Pass, as Amended",,,passed_house_not_enacted,Engrossed in House
+117,House,350,2021-11-02,1,351,2/3,407,9,HR4481,Passed,Small Business 7(a) Loan Agent Transparency Act,On Motion to Suspend the Rules and Pass,,,passed_house_not_enacted,Engrossed in House
+117,House,351,2021-11-02,1,352,2/3,411,9,HR4531,Passed,7(a) Loan Agent Oversight Act,On Motion to Suspend the Rules and Pass,,,passed_house_not_enacted,Engrossed in House
+117,House,352,2021-11-02,1,353,2/3,409,14,HR4515,Passed,Small Business Development Center Cyber Training Act of 2021,On Motion to Suspend the Rules and Pass,,,passed_house_not_enacted,Engrossed in House
+117,House,353,2021-11-03,1,354,2/3,387,35,S1064,Passed,RENACER Act,On Motion to Suspend the Rules and Pass,,117-54,enacted,Enrolled Bill
+117,House,357,2021-11-04,1,358,1/2,224,200,HR3992,Passed,Protect Older Job Applicants Act of 2021,On Passage,,,passed_house_not_enacted,Engrossed in House
+117,House,359,2021-11-04,1,360,2/3,383,41,HR1339,Passed,Advanced Air Mobility Coordination and Leadership Act,"On Motion to Suspend the Rules and Pass, as Amended",,,passed_house_not_enacted,Engrossed in House
+117,House,360,2021-11-04,1,361,2/3,410,16,HR3193,Passed,E-BRIDGE Act,"On Motion to Suspend the Rules and Pass, as Amended",,,passed_house_not_enacted,Engrossed in House
+117,House,361,2021-11-04,1,362,2/3,402,11,HR3709,Passed,Preliminary Damage Assessment Improvement Act,On Motion to Suspend the Rules and Pass,,,passed_house_not_enacted,Engrossed in House
+117,House,362,2021-11-04,1,363,2/3,416,4,HR2220,Passed,"To amend title 40, United States Code, to modify the treatment of certain bargain-price options to purchase at less than fair market value, and for other purposes",On Motion to Suspend the Rules and Pass,,117-257,enacted,Enrolled Bill
+117,House,363,2021-11-04,1,364,2/3,422,2,HR390,Passed,"To redesignate the Federal building located at 167 North Main Street in Memphis, Tennessee as the “Odell Horton Federal Building”",On Motion to Suspend the Rules and Pass,,117-74,enacted,Enrolled Bill
+117,House,364,2021-11-04,1,365,2/3,409,14,HR4679,Passed,"To designate the Federal building located at 1200 New Jersey Avenue Southeast in Washington, DC, as the “Norman Yoshio Mineta Federal Building”",On Motion to Suspend the Rules and Pass,,,passed_house_not_enacted,Engrossed in House
+117,House,365,2021-11-04,1,366,2/3,416,4,HR4660,Passed,"To designate the Federal Building and United States Courthouse located at 1125 Chapline Street in Wheeling, West Virginia, as the “Frederick P. Stamp, Jr. Federal Building and United States Courthouse”",On Motion to Suspend the Rules and Pass,,117-75,enacted,Enrolled Bill
+117,House,368,2021-11-05,1,369,1/2,228,206,HR3684,Passed,INVEST in America Act,On Motion to Concur in the Senate Amendment,,117-58,enacted,Enrolled Bill
+117,House,372,2021-11-15,1,373,2/3,424,0,S1095,Passed,Colonel John M. McHugh Tuition Fairness for Survivors Act,On Motion to Suspend the Rules and Pass,,117-68,enacted,Enrolled Bill
+117,House,373,2021-11-16,1,374,2/3,414,9,S796,Passed,Protecting Moms Who Served Act,On Motion to Suspend the Rules and Pass,,117-69,enacted,Enrolled Bill
+117,House,374,2021-11-16,1,375,2/3,420,4,HR4233,Passed,Student Veterans Counseling Centers Eligibility Act,On Motion to Suspend the Rules and Pass,,,passed_house_not_enacted,Engrossed in House
+117,House,375,2021-11-16,1,376,2/3,427,0,HR147,Passed,BRAVE Act,"On Motion to Suspend the Rules and Pass, as Amended",,,passed_house_not_enacted,Engrossed in House
+117,House,379,2021-11-18,1,380,2/3,420,4,HR3730,Passed,"To amend title 38, United States Code, to establish in the Department of Veterans Affairs an Advisory Committee on United States Outlying Areas and Freely Associated States, and for other purposes","On Motion to Suspend the Rules and Pass, as Amended",,,passed_house_not_enacted,Engrossed in House
+117,House,380,2021-11-18,1,381,2/3,369,49,HR5574,Passed,TRANSLATE Act,"On Motion to Suspend the Rules and Pass, as Amended",,,passed_house_not_enacted,Engrossed in House
+117,House,386,2021-11-30,1,387,2/3,399,28,HR4026,Passed,Social Determinants of Health Data Analysis Act,On Motion to Suspend the Rules and Pass,,,passed_house_not_enacted,Engrossed in House
+117,House,387,2021-11-30,1,388,2/3,294,130,HR550,Passed,Immunization Infrastructure Modernization Act,"On Motion to Suspend the Rules and Pass, as Amended",,,passed_house_not_enacted,Engrossed in House
+117,House,388,2021-12-01,1,389,2/3,404,19,HR2685,Passed,Understanding Cybersecurity of Mobile Networks Act,"On Motion to Suspend the Rules and Pass, as Amended",,,passed_house_not_enacted,Engrossed in House
+117,House,389,2021-12-01,1,390,2/3,394,27,HR4045,Passed,FUTURE Networks Act,"On Motion to Suspend the Rules and Pass, as Amended",,,passed_house_not_enacted,Engrossed in House
+117,House,390,2021-12-01,1,391,2/3,408,17,HR4055,Passed,American Cybersecurity Literacy Act,"On Motion to Suspend the Rules and Pass, as Amended",,,passed_house_not_enacted,Engrossed in House
+117,House,391,2021-12-01,1,392,2/3,422,4,HR5720,Passed,Courthouse Ethics and Transparency Act,"On Motion to Suspend the Rules and Pass, as Amended",,,passed_house_not_enacted,Engrossed in House
+117,House,392,2021-12-01,1,393,2/3,302,127,HR4352,Passed,"To amend the Act of June18, 1934, to reaffirm the authority of the Secretary of the Interior to take land into trust for Indian Tribes, and for other purposes",On Motion to Suspend the Rules and Pass,,,passed_house_not_enacted,Engrossed in House
+117,House,398,2021-12-02,1,399,1/2,221,212,HR6119,Passed,Further Extending Government Funding Act,On Passage,,117-70,enacted,Enrolled Bill
+117,House,400,2021-12-02,1,401,2/3,364,57,HR2930,Passed,Safeguard Tribal Objects of Patrimony Act of 2021,"On Motion to Suspend the Rules and Pass, as Amended",,117-258,enacted,Enrolled Bill
+117,House,403,2021-12-07,1,404,1/2,222,212,S610,Passed,Dr. Lorna Breen Health Care Provider Protection Act,On Passage,,117-71,enacted,Enrolled Bill
+117,House,404,2021-12-07,1,405,1/2,363,70,S1605,Passed,"To designate the National Pulse Memorial located at 1912 South Orange Avenue in Orlando, Florida, and for other purposes",On Passage,,117-81,enacted,Enrolled Bill
+117,House,405,2021-12-08,1,406,2/3,364,60,HR4996,Passed,Ocean Shipping Reform Act of 2021,"On Motion to Suspend the Rules and Pass, as Amended",,,passed_house_not_enacted,Engrossed in House
+117,House,406,2021-12-08,1,407,2/3,415,9,HR4616,Passed,Adjustable Interest Rate (LIBOR) Act,"On Motion to Suspend the Rules and Pass, as Amended",,,passed_house_not_enacted,Engrossed in House
+117,House,407,2021-12-08,1,408,2/3,418,9,HR5290,Passed,To extend authorization for livestock mandatory reporting,On Motion to Suspend the Rules and Pass,,,passed_house_not_enacted,Engrossed in House
+117,House,408,2021-12-08,1,409,2/3,411,13,HR5609,Passed,Cattle Contract Library Act,On Motion to Suspend the Rules and Pass,,,passed_house_not_enacted,Engrossed in House
+117,House,409,2021-12-08,1,410,2/3,385,42,HR4489,Passed,National Forest Restoration and Remediation Act,"On Motion to Suspend the Rules and Pass, as Amended",,,passed_house_not_enacted,Engrossed in House
+117,House,410,2021-12-08,1,411,2/3,393,33,HR5608,Passed,Chronic Wasting Disease Research and Management Act,On Motion to Suspend the Rules and Pass,,,passed_house_not_enacted,Engrossed in House
+117,House,411,2021-12-08,1,412,2/3,428,1,HR1155,Passed,Uyghur Forced Labor Prevention Act,"On Motion to Suspend the Rules and Pass, as Amended",,,passed_house_not_enacted,Engrossed in House
+117,House,414,2021-12-08,1,415,2/3,423,3,HR3537,Passed,Accelerating Access to Critical Therapies for ALS Act,"On Motion to Suspend the Rules and Pass, as Amended",,117-79,enacted,Enrolled Bill
+117,House,415,2021-12-08,1,416,2/3,408,18,HR5487,Passed,SHINE for Autumn Act,"On Motion to Suspend the Rules and Pass, as Amended",,,passed_house_not_enacted,Engrossed in House
+117,House,416,2021-12-08,1,417,2/3,410,17,HR5561,Passed,Early Hearing Detection and Intervention Act,"On Motion to Suspend the Rules and Pass, as Amended",,,passed_house_not_enacted,Engrossed in House
+117,House,417,2021-12-08,1,418,2/3,405,20,HR5551,Passed,Improving the Health of Children Act,"On Motion to Suspend the Rules and Pass, as Amended",,,passed_house_not_enacted,Engrossed in House
+117,House,418,2021-12-08,1,419,2/3,392,36,HR1667,Passed,Dr. Lorna Breen Health Care Provider Protection Act,"On Motion to Suspend the Rules and Pass, as Amended",,117-105,enacted,Enrolled Bill
+117,House,419,2021-12-08,1,420,2/3,369,58,HR4555,Passed,Oral Health Literacy and Awareness Act of 2021,On Motion to Suspend the Rules and Pass,,,passed_house_not_enacted,Engrossed in House
+117,House,420,2021-12-08,1,421,2/3,386,41,HR5119,Passed,To amend title VI of the Social Security Act to extend the coverage of Coronavirus Relief Fund payments to Tribal Governments,"On Motion to Suspend the Rules and Pass, as Amended",,,passed_house_not_enacted,Engrossed in House
+117,House,421,2021-12-08,1,422,2/3,410,15,HR2355,Passed,Opiod Prescription Verification Act,"On Motion to Suspend the Rules and Pass, as Amended",,,passed_house_not_enacted,Engrossed in House
+117,House,422,2021-12-08,1,423,2/3,411,14,HR2364,Passed,Synthetic Opiod Danger Awareness Act,"On Motion to Suspend the Rules and Pass, as Amended",,,passed_house_not_enacted,Engrossed in House
+117,House,423,2021-12-08,1,424,2/3,374,52,HR3743,Passed,Supporting the Foundation for the National Institutes of Health and the Reagan-Udall Foundation for the Food and Drug Administration Act,On Motion to Suspend the Rules and Pass,,,passed_house_not_enacted,Engrossed in House
+117,House,424,2021-12-08,1,425,2/3,378,48,HR3894,Passed,CARING for Social Determinants Act,"On Motion to Suspend the Rules and Pass, as Amended",,,passed_house_not_enacted,Engrossed in House
+117,House,425,2021-12-08,1,426,2/3,395,30,HR897,Passed,Agua Calinete Land Exchange Fee to Trust Confirmation Act,"On Motion to Suspend the Rules and Pass, as Amended",,117-329,enacted,Enrolled Bill
+117,House,426,2021-12-08,1,427,2/3,373,52,HR2074,Passed,Indian Buffalo Management Act,"On Motion to Suspend the Rules and Pass, as Amended",,,passed_house_not_enacted,Engrossed in House
+117,House,427,2021-12-08,1,428,2/3,425,1,HR3531,Passed,Women Who Worked on the Home Front World War II Memorial Act,"On Motion to Suspend the Rules and Pass, as Amended",,,passed_house_not_enacted,Engrossed in House
+117,House,428,2021-12-08,1,429,2/3,417,8,HR4706,Passed,Blackwell School National Historic Site Act,On Motion to Suspend the Rules and Pass,,,passed_house_not_enacted,Engrossed in House
+117,House,429,2021-12-08,1,430,2/3,414,1,HR5677,Passed,"To make technical amendments to update statutory references to certain provisions classified to title 2, United States Code, title 50, United States Code, and title 52, United States Code",On Motion to Suspend the Rules and Pass,,,passed_house_not_enacted,Engrossed in House
+117,House,430,2021-12-08,1,431,2/3,418,2,HR5679,Passed,"To make technical amendments to update statutory references to certain provisions classified to title 7, title 20, and title 43, United States Code",On Motion to Suspend the Rules and Pass,,,passed_house_not_enacted,Engrossed in House
+117,House,431,2021-12-08,1,432,2/3,415,5,HR5695,Passed,"To make technical amendments to update statutory references to certain provisions which were formerly classified to chapters 14 and 19 of title 25, United States Code",On Motion to Suspend the Rules and Pass,,,passed_house_not_enacted,Engrossed in House
+117,House,432,2021-12-08,1,433,2/3,415,5,HR5705,Passed,"To make technical amendments to update statutory references to provisions reclassified to title 34, United States Code",On Motion to Suspend the Rules and Pass,,,passed_house_not_enacted,Engrossed in House
+117,House,433,2021-12-08,1,434,2/3,413,3,HR5961,Passed,"To make revisions in title 5, United States Code, as necessary to keep the title current, and to make technical amendments to improve the United States Code",On Motion to Suspend the Rules and Pass,,117-286,enacted,Enrolled Bill
+117,House,434,2021-12-08,1,435,2/3,411,7,HR5982,Passed,"To make revisions in title 51, United States Code, as necessary to keep the title current, and to make technical amendments to improve the United States Code",On Motion to Suspend the Rules and Pass,,,passed_house_not_enacted,Engrossed in House
+117,House,439,2021-12-09,1,440,1/2,220,208,HR5314,Passed,Protecting Our Democracy Act,On Passage,,,passed_house_not_enacted,Engrossed in House
+117,House,447,2021-12-14,1,448,1/2,219,212,HR5665,Passed,Combating International Islamophobia Act,On Passage,,,passed_house_not_enacted,Engrossed in House
+117,House,448,2021-12-15,1,449,1/2,221,209,SJRES33,Passed,Joint resolution relating to increasing the debt limit,On Passage,,117-73,enacted,Enrolled Bill
+117,House,453,2022-01-12,2,6,1/2,287,135,HR1836,Passed,Guard and Reserve GI Bill Parity Act,On Passage,,,passed_house_not_enacted,Engrossed in House
+117,House,456,2022-01-13,2,9,1/2,220,203,HR5746,Passed,NASA Enhanced Use Leasing Extension Act of 2021,On Motion to Concur in the Senate Amendment With An Amendment,,,passed_house_not_enacted,Engrossed in House
+117,House,457,2022-01-18,2,10,2/3,414,6,S2959,Passed,Supplemental Impact Aid Flexibility Act,On Motion to Suspend the Rules and Pass,,117-83,enacted,Enrolled Bill
+117,House,458,2022-01-19,2,11,2/3,426,0,S452,Passed,Willie O’Ree Congressional Gold Medal Act,On Motion to Suspend the Rules and Pass,,117-84,enacted,Enrolled Bill
+117,House,461,2022-01-20,2,14,1/2,265,163,HR4673,Passed,EVEST Act,On Passage,,,passed_house_not_enacted,Engrossed in House
+117,House,462,2022-02-01,2,15,2/3,421,0,HR5577,Passed,"To designate the facility of the United States Postal Service located at 3900 Crown Road Southwest in Atlanta, Georgia, as the “John R. Lewis Post Office Building”",On Motion to Suspend the Rules and Pass,,117-184,enacted,Enrolled Bill
+117,House,478,2022-02-04,2,31,1/2,222,210,HR4521,Passed,Bioeconomy Research and Development Act,On Passage,,,passed_house_not_enacted,Engrossed in House
+117,House,480,2022-02-07,2,33,1/2,335,97,HR4445,Passed,Ending Forced Arbitration of Sexual Assualt and Sexual Harassment Act,On Passage,,117-90,enacted,Enrolled Bill
+117,House,481,2022-02-07,2,34,2/3,426,5,S583,Passed,PRICE Act,On Motion to Suspend the Rules and Pass,,117-88,enacted,Enrolled Bill
+117,House,484,2022-02-08,2,37,2/3,432,0,S566,Passed,"To designate the facility of the United States Postal Service located at 42 Main Street in Slatersville, Rhode Island, as the “Specialist Matthew R. Turcotte Post Office”",On Motion to Suspend the Rules and Pass,,117-87,enacted,Enrolled Bill
+117,House,485,2022-02-08,2,38,1/2,342,92,HR3076,Passed,Postal Service Reform Act,On Passage,,117-108,enacted,Enrolled Bill
+117,House,486,2022-02-08,2,39,1/2,272,162,HR6617,Passed,Further Additional Continuing Appropriations Act,On Passage,,117-86,enacted,Enrolled Bill
+117,House,487,2022-02-08,2,40,2/3,428,1,HR2324,Passed,"To designate the facility of the United States Postal Service located at 2800 South Adams Street in Tallahassee, Florida, as the “D. Edwina Stephens Post Office”",On Motion to Suspend the Rules and Pass,,117-153,enacted,Enrolled Bill
+117,House,488,2022-02-08,2,41,2/3,422,4,HR735,Passed,"To designate the facility of the United States Postal Service located at 502 East Cotati Avenue in Cotati, California, as the “Arthur Luis Ibleto Post Office Building”","On Motion to Suspend the Rules and Pass, as Amended",,117-155,enacted,Enrolled Bill
+117,House,490,2022-02-09,2,43,1/2,227,206,HR3485,Passed,Global Respect Act,On Passage,,,passed_house_not_enacted,Engrossed in House
+117,House,491,2022-02-09,2,44,2/3,417,1,HR3539,Passed,To designate the “Atanasio Taitano Perez Post Office”,On Motion to Suspend the Rules and Pass,,117-197,enacted,Enrolled Bill
+117,House,492,2022-02-09,2,45,2/3,245,167,HR2842,Failed,To designate the “Lynn C. Woolsey Post Office Building”,On Motion to Suspend the Rules and Pass,,,failed,Introduced in House
+117,House,493,2022-02-28,2,46,2/3,422,0,S321,Passed,Six Triple Eight Congressional Gold Medal Act,On Motion to Suspend the Rules and Pass,,117-97,enacted,Enrolled Bill
+117,House,494,2022-02-28,2,47,2/3,422,3,HR55,Passed,Emmett Till Antilynching Act,"On Motion to Suspend the Rules and Pass, as Amended",,117-107,enacted,Enrolled Bill
+117,House,504,2022-03-03,2,57,1/2,256,174,HR3967,Passed,Honoring our PACT Act,On Passage,,,passed_house_not_enacted,Engrossed in House
+117,House,505,2022-03-07,2,58,2/3,390,33,HR5616,Passed,DHS Basic Training Accredidation Improvement Act,"On Motion to Suspend the Rules and Pass, as Amended",,,passed_house_not_enacted,Engrossed in House
+117,House,506,2022-03-07,2,59,2/3,403,19,S658,Passed,National Cybersecurity Preparedness Consortium Act,"On Motion to Suspend the Rules and Pass, as Amended",,117-122,enacted,Enrolled Bill
+117,House,507,2022-03-08,2,60,2/3,387,33,HR5681,Passed,Shadow Wolves Enhancement Act,On Motion to Suspend the Rules and Pass,,117-113,enacted,Enrolled Bill
+117,House,518,2022-03-15,2,71,2/3,414,9,HR3113,Passed,Modernizing Access to Our Public Land Act,"On Motion to Suspend the Rules and Pass, as Amended",,117-114,enacted,Enrolled Bill
+117,House,519,2022-03-15,2,72,2/3,397,27,HR5001,Passed,Upper Colorado and San Juan River Basins Recovery Act,"On Motion to Suspend the Rules and Pass, as Amended",,,passed_house_not_enacted,Engrossed in House
+117,House,522,2022-03-16,2,75,2/3,422,4,HR3197,Passed,Save the Liberty Theatre Act,On Motion to Suspend the Rules and Pass,,117-112,enacted,Enrolled Bill
+117,House,523,2022-03-16,2,76,2/3,403,25,HR4380,Passed,"To designate the El Paso Community Healing Garden National Memorial, and for other purposes",On Motion to Suspend the Rules and Pass,,,passed_house_not_enacted,Engrossed in House
+117,House,524,2022-03-16,2,77,2/3,406,16,HR6434,Passed,Japanese American World War II History Network Act,On Motion to Suspend the Rules and Pass,,,passed_house_not_enacted,Engrossed in House
+117,House,528,2022-03-17,2,81,1/2,222,209,HR963,Passed,FAIR Act,On Passage,,,passed_house_not_enacted,Engrossed in House
+117,House,529,2022-03-18,2,82,1/2,235,189,HR2116,Passed,Creating a Respectful and Open World for Natural Hair Act,On Passage,,,passed_house_not_enacted,Engrossed in House
+117,House,530,2022-03-28,2,83,2/3,405,12,HR1621,Passed,Prohibiting Punishment of Acquitted Conduct Act,"On Motion to Suspend the Rules and Pass, as Amended",,,passed_house_not_enacted,Engrossed in House
+117,House,531,2022-03-28,2,84,2/3,349,63,S3294,Passed,To obtain and direct the placement in the Capitol or on the Capitol Grounds of a statue to honor Associate Justice of the Supreme Court of the United States Sandra Day O’Connor and a statue to honor Associate Justice of the Supreme Court of the United States Ruth Bader Ginsburg,On Motion to Suspend the Rules and Pass,,117-111,enacted,Enrolled Bill
+117,House,532,2022-03-29,2,85,2/3,378,46,HR6865,Passed,Don Young Coast Guard Authorization Act of 2022,"On Motion to Suspend the Rules and Pass, as Amended",,,passed_house_not_enacted,Engrossed in House
+117,House,533,2022-03-29,2,86,2/3,414,5,HR2954,Passed,Securing a Strong Retirement Act of 2022,"On Motion to Suspend the Rules and Pass, as Amended",,,passed_house_not_enacted,Engrossed in House
+117,House,534,2022-03-29,2,87,2/3,377,48,S2629,Passed,Better Cybercrime Metrics Act,On Motion to Suspend the Rules and Pass,,117-116,enacted,Enrolled Bill
+117,House,535,2022-03-29,2,88,2/3,406,20,HR3359,Passed,Homicide Victims’ Families’ Rights Act,"On Motion to Suspend the Rules and Pass, as Amended",,117-164,enacted,Enrolled Bill
+117,House,536,2022-03-29,2,89,2/3,376,47,HR4738,Passed,COVID-19 American History Project Act,"On Motion to Suspend the Rules and Pass, as Amended",,,passed_house_not_enacted,Engrossed in House
+117,House,537,2022-03-30,2,90,2/3,339,85,HR5706,Passed,Stop Sexual Assault and Harassment in Transportation Act,On Motion to Suspend the Rules and Pass,,,passed_house_not_enacted,Engrossed in House
+117,House,538,2022-03-30,2,91,2/3,417,4,S400,Passed,"William T. Coleman, Jr. and Norman Y. Mineta Department of Transportation Headquarters Act","On Motion to Suspend the Rules and Pass, as Amended",,117-117,enacted,Enrolled Bill
+117,House,539,2022-03-30,2,92,2/3,402,24,HR5673,Passed,Safeguarding Tomorrow through Ongoing Risk Mitigation Technical Corrections Act,On Motion to Suspend the Rules and Pass,,,passed_house_not_enacted,Engrossed in House
+117,House,540,2022-03-30,2,93,2/3,409,17,HR5343,Passed,FEMA Caseworker Accountability Act,"On Motion to Suspend the Rules and Pass, as Amended",,,passed_house_not_enacted,Engrossed in House
+117,House,541,2022-03-30,2,94,2/3,304,122,HR5547,Passed,Care is an Economic Development Strategy Act,"On Motion to Suspend the Rules and Pass, as Amended",,,passed_house_not_enacted,Engrossed in House
+117,House,543,2022-03-30,2,96,2/3,364,61,S1226,Passed,"To designate the United States courthouse located 1501 North 6th Street in Harrisburg, Pennsylvania, as the “Sylvia H. Rambo United States Courthouse”",On Motion to Suspend the Rules and Pass,,117-119,enacted,Enrolled Bill
+117,House,544,2022-03-30,2,97,2/3,412,1,S2126,Passed,"To designate the Federal Office Building located at 308 W. 21st Street in Cheyenne, Wyoming , as the “Louisa Swain Federal Office Building”",On Motion to Suspend the Rules and Pass,,117-120,enacted,Enrolled Bill
+117,House,554,2022-04-01,2,107,1/2,220,204,HR3617,Passed,MORE Act,On Passage,,,passed_house_not_enacted,Engrossed in House
+117,House,555,2022-04-04,2,108,2/3,343,75,HR5657,Passed,Medical Marijuana Research Act,"On Motion to Suspend the Rules and Pass, as Amended",,,passed_house_not_enacted,Engrossed in House
+117,House,556,2022-04-04,2,109,2/3,310,110,HR1916,Passed,Ensuring Lasting Smiles Act,"On Motion to Suspend the Rules and Pass, as Amended",,,passed_house_not_enacted,Engrossed in House
+117,House,557,2022-04-05,2,110,2/3,409,11,HR1218,Passed,Data Mapping to Save Moms’ Lives Act,"On Motion to Suspend the Rules and Pass, as Amended",,,passed_house_not_enacted,Engrossed in House
+117,House,558,2022-04-05,2,111,2/3,418,6,HR2501,Passed,Spectrum Coordination Act,"On Motion to Suspend the Rules and Pass, as Amended",,,passed_house_not_enacted,Engrossed in House
+117,House,559,2022-04-05,2,112,2/3,348,75,HR4476,Passed,DHS Trade and Economic Security Council Act,"On Motion to Suspend the Rules and Pass, as Amended",,,passed_house_not_enacted,Engrossed in House
+117,House,560,2022-04-05,2,113,2/3,383,41,HR5689,Passed,Resilient AMERICA Act,"On Motion to Suspend the Rules and Pass, as Amended",,,passed_house_not_enacted,Engrossed in House
+117,House,561,2022-04-05,2,114,2/3,414,11,HR5641,Passed,SPEED Recovery Act,"On Motion to Suspend the Rules and Pass, as Amended",,117-189,enacted,Enrolled Bill
+117,House,568,2022-04-06,2,121,2/3,418,7,HR7276,Passed,Ukraine Invasion War Crimes Deterrence and Accountability Act,"On Motion to Suspend the Rules and Pass, as Amended",,,passed_house_not_enacted,Engrossed in House
+117,House,570,2022-04-07,2,123,1/2,223,203,HR3807,Passed,Restaurant Revitalization Fund Replenishment Act,On Passage,,,passed_house_not_enacted,Engrossed in House
+117,House,571,2022-04-07,2,124,2/3,420,3,HR7108,Passed,Suspending Normal Trade Relations with Russia and Belarus Act,On Motion to Suspend the Rules and Concur in the Senate Amendment,,117-110,enacted,Enrolled Bill
+117,House,572,2022-04-07,2,125,2/3,413,9,HR6968,Passed,Suspending Energy Imports from Russia Act,On Motion to Suspend the Rules and Concur in the Senate Amendment,,117-109,enacted,Enrolled Bill
+117,House,573,2022-04-26,2,126,2/3,404,11,S497,Passed,American Fisheries Advisory Committee Act,On Motion to Suspend the Rules and Pass,,117-121,enacted,Enrolled Bill
+117,House,574,2022-04-27,2,127,2/3,394,3,HR7314,Passed,Assessing Xi’s Interference and Subversion Act,"On Motion to Suspend the Rules and Pass, as Amended",,,passed_house_not_enacted,Engrossed in House
+117,House,575,2022-04-27,2,128,2/3,414,9,HR7372,Passed,Protecting Semiconductor Supply Chain Materials from Authoritarians Act,On Motion to Suspend the Rules and Pass,,,passed_house_not_enacted,Engrossed in House
+117,House,576,2022-04-27,2,129,2/3,421,4,HR496,Passed,Ukraine Religious Freedom Support Act,"On Motion to Suspend the Rules and Pass, as Amended",,,passed_house_not_enacted,Engrossed in House
+117,House,577,2022-04-27,2,130,2/3,417,8,HR6930,Passed,Asset Seizure for Ukraine Reconstruction Act,"On Motion to Suspend the Rules and Pass, as Amended",,,passed_house_not_enacted,Engrossed in House
+117,House,578,2022-04-27,2,131,2/3,406,20,HR923,Passed,Georgia Support Act,"On Motion to Suspend the Rules and Pass, as Amended",,,passed_house_not_enacted,Engrossed in House
+117,House,580,2022-04-27,2,133,2/3,366,60,HR3344,Passed,Transatlantic Telecommunications Security Act,"On Motion to Suspend the Rules and Pass, as Amended",,,passed_house_not_enacted,Engrossed in House
+117,House,581,2022-04-27,2,134,2/3,415,9,HR7311,Passed,Countering Malign Russian Activities in Africa Act,"On Motion to Suspend the Rules and Pass, as Amended",,,passed_house_not_enacted,Engrossed in House
+117,House,582,2022-04-27,2,135,2/3,340,86,HR4133,Passed,Caribbean Basin Security Initiative Authorization Act,On Motion to Suspend the Rules and Pass,,,passed_house_not_enacted,Engrossed in House
+117,House,583,2022-04-27,2,136,2/3,424,2,HR6089,Passed,Stop Iranian Drones Act,"On Motion to Suspend the Rules and Pass, as Amended",,,passed_house_not_enacted,Engrossed in House
+117,House,584,2022-04-27,2,137,2/3,384,44,HR4693,Passed,Global Malnutrition Prevention and Treatment Act,On Motion to Suspend the Rules and Pass,,117-214,enacted,Enrolled Bill
+117,House,585,2022-04-27,2,138,2/3,425,0,S812,Passed,"To direct the Secretary of State to develop a strategy to regain observer status for Taiwan in the World Health Organization, and for other purposes",On Motion to Suspend the Rules and Pass,,117-124,enacted,Enrolled Bill
+117,House,588,2022-04-28,2,141,1/2,417,10,S3522,Passed,Ukraine Democracy Defense Lend-Lease Act,On Passage,,117-118,enacted,Enrolled Bill
+117,House,592,2022-05-10,2,145,1/2,368,57,HR7691,Passed,"Additional Ukraine Supplemental Appropriations Act, 2022",On Passage,,117-128,enacted,Enrolled Bill
+117,House,596,2022-05-11,2,149,1/2,288,131,HR2499,Passed,Federal Firefighters Fairness Act,On Passage,,,passed_house_not_enacted,Engrossed in House
+117,House,597,2022-05-11,2,150,2/3,401,19,HR847,Passed,Promoting Digital Privacy Technologies Act,"On Motion to Suspend the Rules and Pass, as Amended",,,passed_house_not_enacted,Engrossed in House
+117,House,598,2022-05-11,2,151,2/3,397,20,HR5324,Passed,NOAA Weather Radio Modernization Act,"On Motion to Suspend the Rules and Pass, as Amended",,,passed_house_not_enacted,Engrossed in House
+117,House,599,2022-05-11,2,152,2/3,412,7,S66,Passed,South Florida Clean Coastal Waters Act,On Motion to Suspend the Rules and Pass,,117-144,enacted,Enrolled Bill
+117,House,600,2022-05-11,2,153,2/3,379,37,HR7077,Passed,Empowering the U.S. Fire Administration Act,"On Motion to Suspend the Rules and Pass, as Amended",,117-246,enacted,Enrolled Bill
+117,House,602,2022-05-11,2,155,2/3,418,0,S1872,Passed,United States Army Rangers Veterans of World War II Congressional Gold Medal Act,On Motion to Suspend the Rules and Pass,,117-132,enacted,Enrolled Bill
+117,House,603,2022-05-11,2,156,2/3,329,88,HR5911,Passed,Fair Hiring in Banking Act,"On Motion to Suspend the Rules and Pass, as Amended",,,passed_house_not_enacted,Engrossed in House
+117,House,604,2022-05-11,2,157,2/3,371,48,HR5914,Passed,Empowering States to Protect Seniors from Bad Actors Act,"On Motion to Suspend the Rules and Pass, as Amended",,,passed_house_not_enacted,Engrossed in House
+117,House,605,2022-05-11,2,158,2/3,419,0,HR935,Passed,"Small Business Mergers, Acquisitions, Sales, and Brokerage Simplification Act","On Motion to Suspend the Rules and Pass, as Amended",,,passed_house_not_enacted,Engrossed in House
+117,House,606,2022-05-11,2,159,2/3,418,2,HR7066,Passed,Russia and Belarus Financial Sanctions Act,"On Motion to Suspend the Rules and Pass, as Amended",,,passed_house_not_enacted,Engrossed in House
+117,House,607,2022-05-11,2,160,2/3,362,56,HR7081,Passed,Ukraine Comprehensive Debt Payment Relief Act,"On Motion to Suspend the Rules and Pass, as Amended",,,passed_house_not_enacted,Engrossed in House
+117,House,608,2022-05-11,2,161,2/3,416,2,HR6891,Passed,Isolate Russian Government Officials Act,"On Motion to Suspend the Rules and Pass, as Amended",,,passed_house_not_enacted,Engrossed in House
+117,House,609,2022-05-11,2,162,2/3,417,2,HR6899,Passed,Russia and Belarus SDR Exchange Prohibition Act,"On Motion to Suspend the Rules and Pass, as Amended",,117-185,enacted,Enrolled Bill
+117,House,611,2022-05-11,2,164,2/3,408,0,HR224,Passed,Vanessa Guillen Post Office Building,On Motion to Suspend the Rules and Pass,,,passed_house_not_enacted,Engrossed in House
+117,House,612,2022-05-11,2,165,2/3,380,26,HR700,Passed,Lawrence M. ’Larry’ Walsh Sr. Post Office,On Motion to Suspend the Rules and Pass,,117-231,enacted,Enrolled Bill
+117,House,613,2022-05-11,2,166,2/3,401,1,HR5900,Passed,Marine Corps Reserve PVT Jacob Cruz Post Office,On Motion to Suspend the Rules and Pass,,117-283,enacted,Enrolled Bill
+117,House,614,2022-05-11,2,167,2/3,404,0,HR6386,Passed,Veterans of Iraq and Afghanistan Memorial Post Office Building,On Motion to Suspend the Rules and Pass,,117-295,enacted,Enrolled Bill
+117,House,619,2022-05-12,2,172,1/2,220,201,HR903,Passed,Rights for the Transportation Security Administration Workforce Act,On Passage,,,passed_house_not_enacted,Engrossed in House
+117,House,620,2022-05-12,2,173,2/3,412,3,HR91,Passed,Private First Class Barrett Lyle Austin Post Office Building,On Motion to Suspend the Rules and Pass,,117-193,enacted,Enrolled Bill
+117,House,621,2022-05-12,2,174,2/3,405,3,HR92,Passed,Specialist Four Charles Johnson Post Office,On Motion to Suspend the Rules and Pass,,117-194,enacted,Enrolled Bill
+117,House,622,2022-05-12,2,175,2/3,408,3,HR207,Passed,Command Sergeant Major Lawrence E. ’Rabbit’ Kennedy Post Office Building,On Motion to Suspend the Rules and Pass,,,passed_house_not_enacted,Engrossed in House
+117,House,623,2022-05-12,2,176,2/3,406,4,HR209,Passed,Lance Corporal Marc Lucas Tucker Post Office Building,On Motion to Suspend the Rules and Pass,,,passed_house_not_enacted,Engrossed in House
+117,House,624,2022-05-12,2,177,2/3,408,3,HR3508,Passed,CW4 Christian J. Koch Memorial Post Office,On Motion to Suspend the Rules and Pass,,117-196,enacted,Enrolled Bill
+117,House,629,2022-05-13,2,182,1/2,246,169,HR5129,Passed,Community Services Block Grant Modernization Act of 2022,On Passage,,,passed_house_not_enacted,Engrossed in House
+117,House,630,2022-05-16,2,183,2/3,386,31,HR6824,Passed,President’s Cup Cybersecurity Competition Act,"On Motion to Suspend the Rules and Pass, as Amended",,,passed_house_not_enacted,Engrossed in House
+117,House,631,2022-05-16,2,184,2/3,288,129,HR6825,Passed,Nonprofit Security Grant Program Improvement Act of 2022,"On Motion to Suspend the Rules and Pass, as Amended",,,passed_house_not_enacted,Engrossed in House
+117,House,632,2022-05-16,2,185,2/3,313,105,HR5658,Passed,DHS Roles and Responsibilities in Cyber Space Act,"On Motion to Suspend the Rules and Pass, as Amended",,,passed_house_not_enacted,Engrossed in House
+117,House,640,2022-05-17,2,193,1/2,220,196,HR7309,Passed,Workforce Innovation and Opportunity Act of 2022,On Passage,,,passed_house_not_enacted,Engrossed in House
+117,House,641,2022-05-17,2,194,2/3,404,14,S2520,Passed,State and Local Government Cybersecurity Act of 2021,On Motion to Suspend the Rules and Pass,,117-150,enacted,Enrolled Bill
+117,House,642,2022-05-17,2,195,2/3,388,26,HR6873,Passed,Bombing Prevention Act of 2022,"On Motion to Suspend the Rules and Pass, as Amended",,,passed_house_not_enacted,Engrossed in House
+117,House,643,2022-05-17,2,196,2/3,398,15,HR6871,Passed,DHS Acquisition Reform Act,On Motion to Suspend the Rules and Pass,,,passed_house_not_enacted,Engrossed in House
+117,House,644,2022-05-17,2,197,2/3,383,30,HR6868,Passed,Cybersecurity Grants for Schools Act of 2022,"On Motion to Suspend the Rules and Pass, as Amended",,,passed_house_not_enacted,Engrossed in House
+117,House,645,2022-05-17,2,198,2/3,412,2,S3527,Passed,"To amend title 38, United States Code, to authorize the Secretary of Veterans Affairs to transfer the name of property of the Department of Veterans Affairs designated by law to other property of the Department",On Motion to Suspend the Rules and Pass,,117-137,enacted,Enrolled Bill
+117,House,646,2022-05-17,2,199,2/3,384,22,S1760,Passed,"To designate the community-based outpatient clinic of the Department of Veterans Affairs planned to be built in Oahu, Hawaii, as the “Daniel Kahikina Akaka Department of Veterans Affairs Community-Based Outpatient Clinic”",On Motion to Suspend the Rules and Pass,,117-131,enacted,Enrolled Bill
+117,House,647,2022-05-17,2,200,2/3,410,1,S2514,Passed,"To rename the Provo Veterans Center in Orem, Utah, as the “Col. Gail S. Halvorsen ’Candy Bomber’ Veterans Center”",On Motion to Suspend the Rules and Pass,,117-134,enacted,Enrolled Bill
+117,House,648,2022-05-17,2,201,2/3,402,2,HR7500,Passed,Fiscal Year 2022 Veterans Affairs Major Medical Facility Authorization Act,On Motion to Suspend the Rules and Pass,,117-190,enacted,Enrolled Bill
+117,House,649,2022-05-17,2,202,2/3,411,1,HR5754,Passed,Patient Advocate Tracker Act,On Motion to Suspend the Rules and Pass,,117-175,enacted,Enrolled Bill
+117,House,650,2022-05-17,2,203,2/3,412,1,HR6604,Passed,Veterans Eligible to Transfer School (VETS) Credit Act,"On Motion to Suspend the Rules and Pass, as Amended",,117-297,enacted,Enrolled Bill
+117,House,651,2022-05-17,2,204,2/3,404,6,S2687,Passed,Strengthening Oversight for Veterans Act of 2021,On Motion to Suspend the Rules and Pass,,117-136,enacted,Enrolled Bill
+117,House,652,2022-05-17,2,205,2/3,397,15,HR7375,Passed,"To direct the Secretary of Veterans Affairs to update the payment system of the Department of Veterans Affairs to allow for electronic fund transfer of educational assistance, administered by the Secretary, to a foreign institution of higher education",On Motion to Suspend the Rules and Pass,,,passed_house_not_enacted,Engrossed in House
+117,House,653,2022-05-17,2,206,2/3,370,43,HR6376,Passed,Student Veteran Work Study Modernization Act,"On Motion to Suspend the Rules and Pass, as Amended",,,passed_house_not_enacted,Engrossed in House
+117,House,654,2022-05-17,2,207,2/3,410,3,HR7153,Passed,Department of Veterans Affairs Principles of Benefits Automation Act,"On Motion to Suspend the Rules and Pass, as Amended",,,passed_house_not_enacted,Engrossed in House
+117,House,658,2022-05-18,2,211,1/2,258,165,HR6531,Passed,Targeting Resources to Communities in Need Act,On Passage,,,passed_house_not_enacted,Engrossed in House
+117,House,659,2022-05-18,2,212,1/2,230,190,S2938,Passed,"To designate the United States Courthouse and Federal Building located at 111 North Adams Street in Tallahassee, Florida, as the “Joseph Woodrow Hatchett United States Courthouse and Federal Building”",On Passage,,117-159,enacted,Enrolled Bill
+117,House,661,2022-05-18,2,214,2/3,420,0,HR5738,Passed,Lactation Spaces for Veteran Moms Act,"On Motion to Suspend the Rules and Pass, as Amended",,,passed_house_not_enacted,Engrossed in House
+117,House,662,2022-05-18,2,215,2/3,417,0,HR7335,Passed,MST Claims Coordination Act,On Motion to Suspend the Rules and Pass,,117-303,enacted,Enrolled Bill
+117,House,663,2022-05-18,2,216,2/3,405,12,HR6961,Passed,"To amend title 38, United States Code, to improve hearings before the Board of Veterans’ Appeals regarding claims involving military sexual trauma","On Motion to Suspend the Rules and Pass, as Amended",,117-300,enacted,Enrolled Bill
+117,House,664,2022-05-18,2,217,2/3,414,2,HR6064,Passed,"Direct the Sec. of VA to seek to enter into an agreement with the National Academies for a review of examinations, furnished by the Sec., to individuals who submit claims to the Sec. for compensation under chapter 11 of title 38, U.S.C., for mental & physical conditions to military sexual trauma",On Motion to Suspend the Rules and Pass,,117-289,enacted,Enrolled Bill
+117,House,665,2022-05-18,2,218,2/3,414,9,HR7791,Passed,Access to Baby Formula Act,On Motion to Suspend the Rules and Pass,,117-129,enacted,Enrolled Bill
+117,House,667,2022-05-18,2,220,1/2,231,192,HR7790,Passed,"Infant Formula Supplemental Appropriations Act, 2022",On Passage,,,passed_house_not_enacted,Engrossed in House
+117,House,668,2022-05-18,2,221,1/2,222,203,HR350,Passed,Domestic Terrorism Prevention Act,On Passage,,,passed_house_not_enacted,Engrossed in House
+117,House,669,2022-05-18,2,222,2/3,400,21,HR2992,Passed,TBI and PTSD Law Enforcement Training Act,"On Motion to Suspend the Rules and Pass, as Amended",,117-170,enacted,Enrolled Bill
+117,House,670,2022-05-18,2,223,2/3,402,17,HR6943,Passed,Public Safety Officer Support Act,"On Motion to Suspend the Rules and Pass, as Amended",,117-172,enacted,Enrolled Bill
+117,House,671,2022-05-18,2,224,2/3,420,0,HR2724,Passed,"To amend title 38, United States Code, to direct the Secretary of Veterans Affairs to provide for peer support specialists for claimants who are survivors of military sexual trauma, and for other purposes","On Motion to Suspend the Rules and Pass, as Amended",,117-271,enacted,Enrolled Bill
+117,House,672,2022-05-18,2,225,2/3,401,17,S4089,Passed,Veterans Rapid Retraining Assistance Program Restoration and Recovery Act,On Motion to Suspend the Rules and Pass,,117-138,enacted,Enrolled Bill
+117,House,673,2022-05-18,2,226,2/3,407,11,HR6052,Passed,Department of Veterans Affairs Office of Inspector General Training Act,On Motion to Suspend the Rules and Pass,,,passed_house_not_enacted,Engrossed in House
+117,House,674,2022-05-18,2,227,2/3,419,0,S2533,Passed,Making Advances in Mammography and Medical Options for Veterans Act,On Motion to Suspend the Rules and Pass,,117-135,enacted,Enrolled Bill
+117,House,675,2022-05-18,2,228,2/3,418,0,S2102,Passed,Dr. Kate Hendricks Thomas Supporting Expanded Review for Veterans In Combat Environments Act,On Motion to Suspend the Rules and Pass,,117-133,enacted,Enrolled Bill
+117,House,679,2022-05-19,2,232,1/2,217,207,HR7688,Passed,Consumer Fuel Price Gouging Prevention Act,On Passage,,,passed_house_not_enacted,Engrossed in House
+117,House,680,2022-06-07,2,233,2/3,325,83,HR6087,Passed,Improving Access to Workers’ Compensation for Injured Federal Workers Act,"On Motion to Suspend the Rules and Pass, as Amended",,,passed_house_not_enacted,Engrossed in House
+117,House,681,2022-06-07,2,234,2/3,392,21,S3823,Passed,Bankruptcy Threshold Adjustment and Technical Corrections Act,On Motion to Suspend the Rules and Pass,,117-151,enacted,Enrolled Bill
+117,House,692,2022-06-08,2,245,1/2,223,204,HR7910,Passed,Protecting Our Kids Act,On Passage,,,passed_house_not_enacted,Engrossed in House
+117,House,693,2022-06-08,2,246,2/3,421,0,HR7352,Passed,PPP and Bank Fraud Enforcement Harmonization Act,On Motion to Suspend the Rules and Pass,,117-166,enacted,Enrolled Bill
+117,House,694,2022-06-08,2,247,2/3,416,3,HR7334,Passed,COVID-19 EIDL Fraud Statute of Limitations Act,On Motion to Suspend the Rules and Pass,,117-165,enacted,Enrolled Bill
+117,House,695,2022-06-08,2,248,2/3,359,61,HR5879,Passed,Hubzone Price Evaluation Preference Clarification Act,On Motion to Suspend the Rules and Pass,,,passed_house_not_enacted,Engrossed in House
+117,House,696,2022-06-08,2,249,2/3,368,52,HR7622,Passed,Small Business Workforce Pipeline Act,On Motion to Suspend the Rules and Pass,,,passed_house_not_enacted,Engrossed in House
+117,House,697,2022-06-08,2,250,2/3,399,18,HR7664,Passed,Supporting Small Business and Career and Technical Education Act,On Motion to Suspend the Rules and Pass,,,passed_house_not_enacted,Engrossed in House
+117,House,698,2022-06-08,2,251,2/3,402,19,HR7670,Passed,WOSB Program Transparency Act,On Motion to Suspend the Rules and Pass,,,passed_house_not_enacted,Engrossed in House
+117,House,699,2022-06-08,2,252,2/3,411,11,HR7694,Passed,Strengthening Subcontracting for Small Business Act,On Motion to Suspend the Rules and Pass,,,passed_house_not_enacted,Engrossed in House
+117,House,700,2022-06-08,2,253,2/3,384,37,HR7776,Passed,Water Resources Development Act,"On Motion to Suspend the Rules and Pass, as Amended",,117-263,enacted,Enrolled Bill
+117,House,701,2022-06-08,2,254,2/3,392,28,HR7667,Passed,Food and Drug Amendments of 2022,"On Motion to Suspend the Rules and Pass, as Amended",,,passed_house_not_enacted,Engrossed in House
+117,House,702,2022-06-09,2,255,1/2,224,202,HR2377,Passed,Federal Extreme Risk Protection Order Act,On Passage,,,passed_house_not_enacted,Engrossed in House
+117,House,703,2022-06-13,2,256,2/3,369,42,S3580,Passed,Ocean Shipping Reform Act,On Motion to Suspend the Rules and Pass,,117-146,enacted,Enrolled Bill
+117,House,704,2022-06-13,2,257,2/3,338,73,HR6270,Passed,Advanced Aviation Infrastructure Modernization Act,"On Motion to Suspend the Rules and Pass, as Amended",,,passed_house_not_enacted,Engrossed in House
+117,House,705,2022-06-13,2,258,2/3,412,2,HR2020,Passed,Post-Disaster Assistance Online Accountability Act,On Motion to Suspend the Rules and Pass,,,passed_house_not_enacted,Engrossed in House
+117,House,708,2022-06-14,2,261,2/3,396,27,S4160,Passed,Supreme Court Police Parity Act,On Motion to Suspend the Rules and Pass,,117-148,enacted,Enrolled Bill
+117,House,714,2022-06-14,2,267,1/2,231,190,HR2773,Passed,Recovering America’s Wildlife Act,On Passage,,,passed_house_not_enacted,Engrossed in House
+117,House,715,2022-06-14,2,268,2/3,380,30,S516,Passed,Advanced Air Mobility Coordination and Leadership Act,"On Motion to Suspend the Rules and Pass, as Amended",,117-203,enacted,Enrolled Bill
+117,House,716,2022-06-14,2,269,2/3,396,14,HR7211,Passed,Small State and Rural Rescue Act,On Motion to Suspend the Rules and Pass,,,passed_house_not_enacted,Engrossed in House
+117,House,722,2022-06-15,2,275,1/2,215,207,HR2543,Passed,Federal Reserve Racial and Economic Equity Act,On Passage,,,passed_house_not_enacted,Engrossed in House
+117,House,724,2022-06-16,2,277,1/2,221,204,HR7606,Passed,Meat and Poultry Special Investigator Act,On Passage,,,passed_house_not_enacted,Engrossed in House
+117,House,725,2022-06-21,2,278,2/3,368,47,HR7777,Passed,Industrial Control Systems Cybersecurity Training Act,"On Motion to Suspend the Rules and Pass, as Amended",,,passed_house_not_enacted,Engrossed in House
+117,House,733,2022-06-22,2,286,1/2,402,20,HR7666,Passed,Restoring Hope for Mental Health and Well-Being Act of 2022,On Passage,,,passed_house_not_enacted,Engrossed in House
+117,House,735,2022-06-22,2,288,1/2,336,85,HR5585,Passed,Advanced Research Projects Agency-Health Act,On Passage,,,passed_house_not_enacted,Engrossed in House
+117,House,737,2022-06-23,2,290,2/3,376,42,S2089,Passed,Keep Kids Fed Act,"On Motion to Suspend the Rules and Pass, as Amended",,117-158,enacted,Enrolled Bill
+117,House,738,2022-06-23,2,291,2/3,405,16,HR5407,Passed,Enhancing Mental Health and Suicide Prevention Through Campus Planning Act,"On Motion to Suspend the Rules and Pass, as Amended",,,passed_house_not_enacted,Engrossed in House
+117,House,739,2022-06-23,2,292,2/3,371,49,HR6493,Passed,Campus Prevention and Recovery Services for Students Act,"On Motion to Suspend the Rules and Pass, as Amended",,,passed_house_not_enacted,Engrossed in House
+117,House,743,2022-06-23,2,296,1/2,220,201,HR4176,Passed,LGBTQI+ Data Inclusion Act,On Passage,,,passed_house_not_enacted,Engrossed in House
+117,House,748,2022-07-12,2,301,2/3,417,0,HR521,Passed,First Responder Fair RETIRE Act,"On Motion to Suspend the Rules and Pass, as Amended",,117-225,enacted,Enrolled Bill
+117,House,749,2022-07-12,2,302,2/3,330,81,HR5271,Passed,"To designate the facility of the United States Postal Service located at 2245 Rosa L Parks Boulevard in Nashville, Tennessee, as the “Thelma Harper Post Office Building”",On Motion to Suspend the Rules and Pass,,117-277,enacted,Enrolled Bill
+117,House,752,2022-07-13,2,305,2/3,410,16,HR7174,Passed,National Computer Forensics Institute Reauthorization Act,"On Motion to Suspend the Rules and Pass, as Amended",,,passed_house_not_enacted,Engrossed in House
+117,House,753,2022-07-13,2,306,2/3,429,0,HR5274,Passed,Prevent Exposure to Narcotics and Toxics Act,On Motion to Suspend the Rules and Pass,,,passed_house_not_enacted,Engrossed in House
+117,House,754,2022-07-13,2,307,1/2,260,169,HR6538,Passed,Active Shooter Alert Act,On Passage,,,passed_house_not_enacted,Engrossed in House
+117,House,756,2022-07-13,2,309,1/2,342,88,S3373,Passed,Protecting Our Gold Star Families Education Act,On Passage,,117-168,enacted,Enrolled Bill
+117,House,797,2022-07-14,2,350,1/2,329,101,HR7900,Passed,National Defense Authorization Act for Fiscal Year 2023,On Passage,,,passed_house_not_enacted,Engrossed in House
+117,House,798,2022-07-14,2,351,2/3,405,20,HR1934,Passed,Promoting United States International Leadership in 5G Act of 2021,"On Motion to Suspend the Rules and Pass, as Amended",,,passed_house_not_enacted,Engrossed in House
+117,House,803,2022-07-14,2,356,2/3,406,21,HR7337,Passed,Access for Veterans to Records Act,"On Motion to Suspend the Rules and Pass, as Amended",,,passed_house_not_enacted,Engrossed in House
+117,House,804,2022-07-14,2,357,2/3,386,35,HR203,Passed,"To designate the facility of the United States Postal Service located at 4020 Broadway Street in Houston, Texas, as the “Benny C. Martinez Post Office Buidling”",On Motion to Suspend the Rules and Pass,,117-265,enacted,Enrolled Bill
+117,House,805,2022-07-14,2,358,2/3,348,63,HR5659,Passed,"To designate the facility of the United States Postal Service located at 1961 North C Street in Oxnard, California, as the “John R. Hatcher III Post Office Building”",On Motion to Suspend the Rules and Pass,,117-280,enacted,Enrolled Bill
+117,House,807,2022-07-15,2,360,1/2,219,210,HR8296,Passed,Women’s Health Protection Act,On Passage,,,passed_house_not_enacted,Engrossed in House
+117,House,809,2022-07-15,2,362,1/2,223,205,HR8297,Passed,Ensuring Access to Abortion Act,On Passage,,,passed_house_not_enacted,Engrossed in House
+117,House,810,2022-07-15,2,363,2/3,421,2,HR8351,Passed,Formula Act,On Motion to Suspend the Rules and Pass,,117-160,enacted,Enrolled Bill
+117,House,822,2022-07-19,2,375,2/3,379,41,S144,Passed,Desert Sage Youth Wellness Center Access Improvement Act,On Motion to Suspend the Rules and Pass,,117-161,enacted,Enrolled Bill
+117,House,823,2022-07-19,2,376,2/3,377,45,HR4404,Passed,Kissimmee River Wild and Scenic River Act,"On Motion to Suspend the Rules and Pass, as Amended",,,passed_house_not_enacted,Engrossed in House
+117,House,824,2022-07-19,2,377,2/3,379,43,HR7025,Passed,Advancing Human Rights-Centered International Conservation Act,"On Motion to Suspend the Rules and Pass, as Amended",,,passed_house_not_enacted,Engrossed in House
+117,House,825,2022-07-19,2,378,2/3,397,22,HR7693,Passed,National Park Foundation Reauthorization Act,On Motion to Suspend the Rules and Pass,,,passed_house_not_enacted,Engrossed in House
+117,House,830,2022-07-20,2,383,1/2,220,207,HR8294,Passed,,On Passage,,,passed_house_not_enacted,Engrossed in House
+117,House,832,2022-07-21,2,385,1/2,228,195,HR8373,Passed,Right to Contraception Act,On Passage,,,passed_house_not_enacted,Engrossed in House
+117,House,835,2022-07-26,2,388,2/3,401,20,HR6552,Passed,Frederick Douglass Trafficking Victims Prevention and Protection Reauthorization Act of 2022,"On Motion to Suspend the Rules and Pass, as Amended",,,passed_house_not_enacted,Engrossed in House
+117,House,836,2022-07-26,2,389,2/3,359,62,HR7289,Passed,Federal PFAS Research Evaluation Act,"On Motion to Suspend the Rules and Pass, as Amended",,,passed_house_not_enacted,Engrossed in House
+117,House,837,2022-07-26,2,390,2/3,323,92,HR3588,Passed,Mathematical and Statistical Modeling Education Act,"On Motion to Suspend the Rules and Pass, as Amended",,,passed_house_not_enacted,Engrossed in House
+117,House,838,2022-07-26,2,391,2/3,350,69,HR7180,Passed,Brycen Gray and Ben Price COVID-19 Cognitive Research Act,On Motion to Suspend the Rules and Pass,,,passed_house_not_enacted,Engrossed in House
+117,House,839,2022-07-26,2,392,2/3,325,95,HR8454,Passed,Medical Marijuana and Cannabidiol Research Expansion Act,"On Motion to Suspend the Rules and Pass, as Amended",,117-215,enacted,Enrolled Bill
+117,House,840,2022-07-26,2,393,2/3,349,70,HR7734,Passed,Timely Delivery of Bank Secrecy Act Reports Act,"On Motion to Suspend the Rules and Pass, as Amended",,,passed_house_not_enacted,Engrossed in House
+117,House,843,2022-07-27,2,396,1/2,254,175,HR6929,Passed,Susan Muffley Act,On Passage,,,passed_house_not_enacted,Engrossed in House
+117,House,845,2022-07-27,2,398,1/2,237,192,HR3771,Passed,South Asian Heart Health Awareness and Research Act,On Passage,,,passed_house_not_enacted,Engrossed in House
+117,House,847,2022-07-27,2,400,1/2,416,12,HR4040,Passed,Advancing Telehealth Beyond COVID-19 Act,On Passage,,,passed_house_not_enacted,Engrossed in House
+117,House,857,2022-07-29,2,410,1/2,217,213,HR1808,Passed,Assault Weapons Ban,On Passage,,,passed_house_not_enacted,Engrossed in House
+117,House,861,2022-07-29,2,414,1/2,218,199,HR5118,Passed,Continental Divide Trail Completion Act,On Passage,,,passed_house_not_enacted,Engrossed in House
+117,House,862,2022-07-29,2,415,1/2,278,134,HR263,Passed,Big Cat Public Safety Act,On Passage,,117-243,enacted,Enrolled Bill
+117,House,863,2022-07-29,2,416,2/3,391,9,HR7283,Passed,STREAM Act,"On Motion to Suspend the Rules and Pass, as Amended",,,passed_house_not_enacted,Engrossed in House
+117,House,864,2022-07-29,2,417,2/3,303,89,S3451,Passed,"To include certain computer-related projects in the Federal permitting program under title XLI of the FAST Act, and for other purposes",On Motion to Suspend the Rules and Pass,,117-173,enacted,Enrolled Bill
+117,House,867,2022-08-12,2,420,1/2,220,207,HR5376,Passed,To provide for reconciliation pursuant to title II of S. Con. Res. 14,On Motion to Concur in the Senate Amendment,,117-169,enacted,Enrolled Bill
+117,House,868,2022-09-13,2,421,2/3,415,0,S4785,Passed,To extend by 19 days the authorization for the special assessment for the Domestic Trafficking Victims’ Fund,On Motion to Suspend the Rules and Pass,,117-177,enacted,Enrolled Bill
+117,House,869,2022-09-13,2,422,2/3,308,110,HR5315,Passed,Drone Infrastructure Inspection Grant Act,"On Motion to Suspend the Rules and Pass, as Amended",,,passed_house_not_enacted,Engrossed in House
+117,House,870,2022-09-13,2,423,2/3,328,88,HR1066,Passed,Wildfire Recovery Act,"On Motion to Suspend the Rules and Pass, as Amended",,,passed_house_not_enacted,Engrossed in House
+117,House,874,2022-09-14,2,427,2/3,293,133,HR884,Passed,National Aviation Preparedness Plan Act,"On Motion to Suspend the Rules and Pass, as Amended",,,passed_house_not_enacted,Engrossed in House
+117,House,875,2022-09-14,2,428,2/3,406,20,HR5774,Passed,Expediting Disaster Recovery Act,"On Motion to Suspend the Rules and Pass, as Amended",,,passed_house_not_enacted,Engrossed in House
+117,House,876,2022-09-14,2,429,2/3,387,38,S2293,Passed,CREW Act,On Motion to Suspend the Rules and Pass,,117-178,enacted,Enrolled Bill
+117,House,877,2022-09-14,2,430,2/3,347,78,S442,Passed,BRIGHT Act,On Motion to Suspend the Rules and Pass,,117-202,enacted,Enrolled Bill
+117,House,879,2022-09-15,2,432,1/2,225,204,HR302,Passed,Preventing a Patronage System Act,On Passage,,,passed_house_not_enacted,Engrossed in House
+117,House,882,2022-09-15,2,435,1/2,220,208,HR8326,Passed,Ensuring a Fair and Accurate Census Act,On Passage,,,passed_house_not_enacted,Engrossed in House
+117,House,884,2022-09-15,2,437,1/2,221,203,HR2988,Passed,Whistleblower Protection Improvement Act,On Passage,,,passed_house_not_enacted,Engrossed in House
+117,House,885,2022-09-19,2,438,2/3,402,4,S3895,Passed,United States Commission on International Religious Freedom Reauthorization Act,On Motion to Suspend the Rules and Pass,,117-181,enacted,Enrolled Bill
+117,House,886,2022-09-19,2,439,2/3,363,52,S3157,Passed,Bridging the Gap for New Americans Act,On Motion to Suspend the Rules and Pass,,117-210,enacted,Enrolled Bill
+117,House,887,2022-09-19,2,440,2/3,290,125,HR1456,Passed,Peace Corps Reauthorization Act,"On Motion to Suspend the Rules and Pass, as Amended",,,passed_house_not_enacted,Engrossed in House
+117,House,891,2022-09-20,2,444,2/3,414,12,S2490,Passed,Blackwell School National Historic Site Act,On Motion to Suspend the Rules and Pass,,117-206,enacted,Enrolled Bill
+117,House,895,2022-09-21,2,448,1/2,232,193,S1098,Passed,Joint Consolidation Loan Separation Act,On Passage,,117-200,enacted,Enrolled Bill
+117,House,896,2022-09-21,2,449,1/2,229,203,HR8873,Passed,Presidential Election Reform Act,On Passage,,,passed_house_not_enacted,Engrossed in House
+117,House,898,2022-09-22,2,451,1/2,360,64,HR6448,Passed,Invest to Protect Act,On Passage,,,passed_house_not_enacted,Engrossed in House
+117,House,899,2022-09-22,2,452,1/2,223,206,HR8542,Passed,Mental Health Justice Act of 2022,On Passage,,,passed_house_not_enacted,Engrossed in House
+117,House,900,2022-09-22,2,453,1/2,220,207,HR4118,Passed,Break the Cycle of Violence Act,On Passage,,,passed_house_not_enacted,Engrossed in House
+117,House,901,2022-09-22,2,454,1/2,250,178,HR5768,Passed,Violent Incident Clearance and Technological Investigative Methods Act,On Passage,,,passed_house_not_enacted,Engrossed in House
+117,House,904,2022-09-28,2,457,2/3,369,56,HR3482,Passed,National Center for the Advancement of Aviation Act,"On Motion to Suspend the Rules and Pass, as Amended",,,passed_house_not_enacted,Engrossed in House
+117,House,906,2022-09-29,2,459,1/2,220,205,HR7780,Passed,Mental Health Matters Act,On Passage,,,passed_house_not_enacted,Engrossed in House
+117,House,907,2022-09-29,2,460,1/2,242,184,HR3843,Passed,Merger Filing Fee Modernization Act,On Passage,,,passed_house_not_enacted,Engrossed in House
+117,House,908,2022-09-29,2,461,2/3,415,9,S4900,Passed,SBIR and STTR Extension Act,On Motion to Suspend the Rules and Pass,,117-183,enacted,Enrolled Bill
+117,House,909,2022-09-29,2,462,2/3,351,73,HR8466,Passed,Chai Suthammanont Healthy Federal Workplaces Act,"On Motion to Suspend the Rules and Pass, as Amended",,,passed_house_not_enacted,Engrossed in House
+117,House,910,2022-09-29,2,463,2/3,423,0,S3470,Passed,End Human Trafficking in Government Contracts Act,On Motion to Suspend the Rules and Pass,,117-211,enacted,Enrolled Bill
+117,House,911,2022-09-29,2,464,2/3,393,29,S2551,Passed,AI Training Act,On Motion to Suspend the Rules and Pass,,117-207,enacted,Enrolled Bill
+117,House,912,2022-09-29,2,465,2/3,414,7,S958,Passed,Maximizing Outcomes through Better Investments in Lifesaving Equipment for (MOBILE) Health Care Act,On Motion to Suspend the Rules and Pass,,117-204,enacted,Enrolled Bill
+117,House,913,2022-09-29,2,466,2/3,325,93,HR6965,Passed,Visit America Act,"On Motion to Suspend the Rules and Pass, as Amended",,,passed_house_not_enacted,Engrossed in House
+117,House,914,2022-09-29,2,467,2/3,374,52,HR7321,Passed,Global Aircraft Maintenance Safety Improvement Act,"On Motion to Suspend the Rules and Pass, as Amended",,,passed_house_not_enacted,Engrossed in House
+117,House,915,2022-09-29,2,468,2/3,381,42,S3662,Passed,Preventing PFAS Runoff at Airports Act,"On Motion to Suspend the Rules and Pass, as Amended",,117-254,enacted,Enrolled Bill
+117,House,916,2022-09-29,2,469,2/3,376,49,HR8888,Passed,Food Security for All Veterans Act,"On Motion to Suspend the Rules and Pass, as Amended",,,passed_house_not_enacted,Engrossed in House
+117,House,917,2022-09-29,2,470,2/3,425,0,S2794,Passed,Supporting Families of the Fallen Act,On Motion to Suspend the Rules and Pass,,117-209,enacted,Enrolled Bill
+117,House,918,2022-09-29,2,471,2/3,331,95,HR8446,Passed,Global Food Security Reauthorization Act,"On Motion to Suspend the Rules and Pass, as Amended",,,passed_house_not_enacted,Engrossed in House
+117,House,919,2022-09-29,2,472,2/3,334,87,HR8463,Passed,Millennium Challenge Corporation Eligibility Expansion Act,On Motion to Suspend the Rules and Pass,,,passed_house_not_enacted,Engrossed in House
+117,House,923,2022-09-30,2,476,1/2,230,201,HR6833,Passed,Affordable Insulin Now Act,On Motion to Concur in the Senate Amendment,,117-180,enacted,Enrolled Bill
+117,House,924,2022-09-30,2,477,1/2,400,31,HR8987,Passed,Fairness for 9/11 Families Act,On Passage,,,passed_house_not_enacted,Engrossed in House
+117,House,925,2022-11-14,2,478,2/3,304,111,HR5441,Passed,PAST Act,"On Motion to Suspend the Rules and Pass, as Amended",,,passed_house_not_enacted,Engrossed in House
+117,House,927,2022-11-16,2,480,1/2,315,109,S4524,Passed,Speak Out Act,On Passage,,117-224,enacted,Enrolled Bill
+117,House,929,2022-11-17,2,482,2/3,359,62,S3369,Passed,"To designate the medical center of the Department of Veterans Affairs in metropolitan Atlanta, Georgia, as the “Joseph Maxwell Cleland Atlanta Department of Veterans Affairs Medical Center”",On Motion to Suspend the Rules and Pass,,117-226,enacted,Enrolled Bill
+117,House,930,2022-11-17,2,483,2/3,418,2,S4359,Passed,Senator Johnny Isakson VA Regional Office Act,On Motion to Suspend the Rules and Pass,,117-227,enacted,Enrolled Bill
+117,House,931,2022-11-17,2,484,2/3,414,2,HR2250,Passed,Department of Veterans Affairs Information Technology Reform Act,"On Motion to Suspend the Rules and Pass, as Amended",,,passed_house_not_enacted,Engrossed in House
+117,House,932,2022-11-17,2,485,2/3,402,13,HR3630,Passed,Lymphedema Treatment Act,"On Motion to Suspend the Rules and Pass, as Amended",,,passed_house_not_enacted,Engrossed in House
+117,House,934,2022-11-29,2,487,2/3,389,22,S3846,Passed,Justice and Mental Health Collaboration Reauthorization Act of 2022,"On Motion to Suspend the Rules and Pass, as Amended",,117-323,enacted,Enrolled Bill
+117,House,935,2022-11-29,2,488,2/3,307,101,HR5455,Passed,Terry Technical Correction Act,"On Motion to Suspend the Rules and Pass, as Amended",,,passed_house_not_enacted,Engrossed in House
+117,House,937,2022-11-30,2,490,1/2,290,137,HJRES100,Passed,To provide for a resolution with respect to the unresolved disputes between certain railroads represented by the National Carriers’ Conference Committee of the National Railway Labor Conference and certain of their employees,On Passage,,117-216,enacted,Enrolled Bill
+117,House,939,2022-12-01,2,492,1/2,259,167,HR3372,Passed,One Stop Shop Community Reentry Program Act of 2021,On Passage,,,passed_house_not_enacted,Engrossed in House
+117,House,940,2022-12-01,2,493,1/2,324,90,HR6878,Passed,Pregnant Women in Custody Act,On Passage,,,passed_house_not_enacted,Engrossed in House
+117,House,941,2022-12-01,2,494,2/3,407,17,HR4785,Passed,Uyghur Policy Act,"On Motion to Suspend the Rules and Pass, as Amended",,,passed_house_not_enacted,Engrossed in House
+117,House,944,2022-12-01,2,497,2/3,376,44,HR2521,Passed,DOULA for VA Act of 2022,"On Motion to Suspend the Rules and Pass, as Amended",,,passed_house_not_enacted,Engrossed in House
+117,House,945,2022-12-01,2,498,2/3,400,22,S231,Passed,Protecting Firefighters from Adverse Substances Act,On Motion to Suspend the Rules and Pass,,117-248,enacted,Enrolled Bill
+117,House,946,2022-12-01,2,499,2/3,406,14,S3115,Passed,To remove the 4-year sunset from the Pro bono Work to Empower and Represent Act of 2018,On Motion to Suspend the Rules and Pass,,117-252,enacted,Enrolled Bill
+117,House,947,2022-12-02,2,500,1/2,390,26,HR8876,Passed,Jackie Walorski Maternal and Child Home Visiting Reauthorization Act of 2022,On Passage,,,passed_house_not_enacted,Engrossed in House
+117,House,950,2022-12-06,2,503,1/2,220,208,HR7946,Passed,Veteran Service Recognition Act,On Passage,,,passed_house_not_enacted,Engrossed in House
+117,House,952,2022-12-06,2,505,2/3,408,17,S4052,Passed,Early Hearing Detection and Intervention Act,On Motion to Suspend the Rules and Pass,,117-241,enacted,Enrolled Bill
+117,House,953,2022-12-06,2,506,2/3,417,0,HR3462,Passed,SBA Cyber Awareness Act,On the Motion to Suspend the Rules and Concur in the Senate Amendment,,117-259,enacted,Enrolled Bill
+117,House,954,2022-12-06,2,507,2/3,333,92,S3875,Passed,Community Disaster Resilience Zones Act,On Motion to Suspend the Rules and Pass,,117-255,enacted,Enrolled Bill
+117,House,955,2022-12-06,2,508,2/3,424,1,S3499,Passed,"To amend the Post-Katrina Emergency Management Reform Act of 2006 to repeal certain obsolete requirements, and for other purposes",On Motion to Suspend the Rules and Pass,,117-253,enacted,Enrolled Bill
+117,House,956,2022-12-06,2,509,2/3,408,11,S2796,Passed,Rural Opioid Abuse Prevention Act,On Motion to Suspend the Rules and Pass,,117-250,enacted,Enrolled Bill
+117,House,957,2022-12-06,2,510,2/3,421,1,S4834,Passed,PROTECT Our Children Act,On Motion to Suspend the Rules and Pass,,117-262,enacted,Enrolled Bill
+117,House,958,2022-12-06,2,511,2/3,396,24,HR5796,Passed,Patents for Humanity Act,On the Motion to Suspend the Rules and Concur in the Senate Amendment,,117-245,enacted,Enrolled Bill
+117,House,960,2022-12-08,2,513,1/2,258,169,HR8404,Passed,Respect for Marriage Act,On Motion to Concur in the Senate Amendment,,117-228,enacted,Enrolled Bill
+117,House,964,2022-12-08,2,517,2/3,406,8,S1617,Passed,Disaster Assistance for Rural Communities Act,On Motion to Suspend the Rules and Pass,,117-249,enacted,Enrolled Bill
+117,House,965,2022-12-12,2,518,2/3,356,56,S1466,Passed,Saline Lake Ecosystems in the Great Basin States Program Act,"On Motion to Suspend the Rules and Pass, as Amended",,117-318,enacted,Enrolled Bill
+117,House,966,2022-12-13,2,519,2/3,420,3,HR7535,Passed,Quantum Computing Cybersecurity Preparedness Act,On Motion to Suspend the Rules and Concur in the Senate Amendment,,117-260,enacted,Enrolled Bill
+117,House,970,2022-12-14,2,523,1/2,224,201,HR1437,Passed,PRECIP Act,On Motion to Concur in the Senate Amendment with an Amendment,,117-229,enacted,Enrolled Bill
+117,House,971,2022-12-14,2,524,1/2,219,205,S3905,Passed,Preventing Organizational Conflicts of Interest in Federal Acquisition Act,On Passage,,117-324,enacted,Enrolled Bill
+117,House,972,2022-12-14,2,525,1/2,264,162,S4003,Passed,Law Enforcement De-Escalation Training Act of 2022,On Passage,,117-325,enacted,Enrolled Bill
+117,House,973,2022-12-14,2,526,2/3,422,4,S5230,Passed,Billy’s Law,On Motion to Suspend the Rules and Pass,,117-327,enacted,Enrolled Bill
+117,House,976,2022-12-15,2,529,1/2,233,191,HR8393,Passed,Puerto Rico Status Act,On Passage,,,passed_house_not_enacted,Engrossed in House
+117,House,977,2022-12-15,2,530,1/2,219,201,HR1948,Passed,VA Employee Fairness Act,On Passage,,,passed_house_not_enacted,Engrossed in House
+117,House,979,2022-12-21,2,532,2/3,350,59,S2333,Passed,Equal Pay for Team USA Act,On Motion to Suspend the Rules and Pass,,117-340,enacted,Enrolled Bill
+117,House,980,2022-12-21,2,533,2/3,394,19,S5168,Passed,Energy Security and Lightering Independence Act,On Motion to Suspend the Rules and Pass,,117-360,enacted,Enrolled Bill
+117,House,981,2022-12-21,2,534,2/3,385,28,S4926,Passed,Respect for Child Survivors Act,On Motion to Suspend the Rules and Pass,,117-354,enacted,Enrolled Bill
+117,House,982,2022-12-21,2,535,2/3,393,19,S2834,Passed,Dr. Joanne Smith Memorial Rehabilitation Innovation Centers Act,On Motion to Suspend the Rules and Pass,,117-341,enacted,Enrolled Bill
+117,House,983,2022-12-21,2,536,2/3,393,19,HR1917,Passed,Hazard Eligibility and Local Projects Act,On Motion to Suspend the Rules and Concur in the Senate Amendment,,117-332,enacted,Enrolled Bill
+117,House,984,2022-12-21,2,537,2/3,378,33,S3168,Passed,"To amend the White Mountain Apache Tribe Water Rights Quantification Act of 2010 to modify the enforceability date for certain provisions, and for other purposes",On Motion to Suspend the Rules and Pass,,117-342,enacted,Enrolled Bill
+117,House,985,2022-12-21,2,538,2/3,397,12,S3308,Passed,Colorado River Indian Tribes Water Resiliency Act,On Motion to Suspend the Rules and Pass,,117-343,enacted,Enrolled Bill
+117,House,986,2022-12-22,2,539,1/2,222,201,HR9640,Passed,Presidential Tax Filings and Audit Transparency Act,On Passage,,,passed_house_not_enacted,Engrossed in House
+117,House,987,2022-12-22,2,540,1/2,326,95,S1942,Passed,National Heritage Area Act,On Passage,,117-339,enacted,Enrolled Bill
+117,House,988,2022-12-22,2,541,2/3,377,42,S3773,Passed,To authorize leases of up to 99 years for land held in trust for the Confederated Tribes of the Chehalis Reservation,On Motion to Suspend the Rules and Pass,,117-346,enacted,Enrolled Bill
+117,House,989,2022-12-22,2,542,2/3,360,55,S4104,Passed,Hualapai Tribe Water Rights Settlement Act,On Motion to Suspend the Rules and Pass,,117-349,enacted,Enrolled Bill
+117,House,990,2022-12-22,2,543,2/3,374,44,S5087,Passed,"To amend the Not Invisible Act of 2019 to extend, and provide additional support for, the activities of the Department of the Interior and the Department of Justice Joint Commission on Reducing Violent Crime Against Indians, and for other purposes.",On Motion to Suspend the Rules and Pass,,117-359,enacted,Enrolled Bill
+117,House,991,2022-12-22,2,544,2/3,342,71,S989,Passed,Native American Langauge Resource Center Act of 2022,On Motion to Suspend the Rules and Pass,,117-335,enacted,Enrolled Bill
+117,House,992,2022-12-22,2,545,2/3,337,79,S1402,Passed,Durbin Feeling Native American Languages Act of 2021,On Motion to Suspend the Rules and Pass,,117-337,enacted,Enrolled Bill
+117,House,993,2022-12-22,2,546,2/3,380,35,HR7939,Passed,Student Veteran Emergency Relief Act,On Motion to Suspend the Rules and Concur in the Senate Amendment,,117-333,enacted,Enrolled Bill
