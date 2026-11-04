@@ -83,7 +83,7 @@ def api_get(path, **params):
             time.sleep(5 * 2 ** attempt)
     r.raise_for_status()
     RAW.mkdir(parents=True, exist_ok=True)
-    cache.write_text(r.text)
+    cache.write_text(json.dumps(r.json()))  # ASCII-escaped, so Windows' default cp1252 can't choke on e.g. thin spaces
     return r.json()
 
 
