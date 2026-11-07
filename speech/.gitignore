@@ -1,0 +1,5 @@
+*.parquet
+*.npy
+logs/
+old_logs/
+__pycache__/
