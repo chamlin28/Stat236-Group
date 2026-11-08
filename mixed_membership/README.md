@@ -49,4 +49,23 @@ so most are mixtures.
 - The vertex members depend on the vote cutoff. With a cutoff of 40 votes, members who served briefly
   (for example Rulli, Fong) became vertices.
 - Speech features exist only for the 115th, 116th and 118th, so only the 118th is shown here.
-- Words used at each vertex are not analyzed yet; that needs the raw Congressional Record speeches.
+
+## Words by community (`community_words.py`)
+Run after `run_118.py` (which now also saves `memberships_K{K}_tau{0,1}_118.csv`, with pi, NOMINATE and the
+SCORE coordinates). Needs `crec_parsed/parsed/crec_118.parquet`, `pyarrow` and `wordcloud`; outputs go to `words/`.
+
+- One document per member: 118th House floor speeches (no Extensions of Remarks, >= 250 characters, before
+  2024-11-01). Unigrams + bigrams used by >= 10 members; procedural words and state names removed; each member's
+  counts rescaled to the median length so every member counts once (373 members with >= 1000 words).
+- Community counts are pi-weighted (soft membership). Distinctive words: Fightin' Words z-scores (Monroe,
+  Colaresi & Quinn 2008), dropping words where one member supplies > 40% of a group's usage.
+- Contrasts: each community vs the rest, and within each party its two largest communities (removes the plain
+  party difference). `words_*.csv` has every word with |z| > 1.96.
+- Uses the tau = 1 memberships. Caveat: those communities use speech PCs, so their words differ partly by
+  construction.
+- Two runs: words + two-word phrases (no suffix) and single words only (`_words` suffix). Both use the same
+  members (single-word count >= 1000).
+- Figures: `clouds_*` (one cloud per community), `clouds_within_party_*`, `eigenmap_K3_*` (members at the SCORE
+  coordinates of S, coloured by pi, with each community's cloud at its vertex), `simplex_clouds_K3_*` (the
+  membership triangle with each community's cloud at its corner), `simplex_clouds_K4_*` (the tetrahedron, drawn
+  as a fixed 2D projection with the back edge V1-V3 dashed, a cloud at each of the four corners).
