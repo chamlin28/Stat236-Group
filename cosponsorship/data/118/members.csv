@@ -1,0 +1,452 @@
+bioguide,name,party,state,district,n_sponsored,n_cosponsored
+A000055,"Rep. Aderholt, Robert B. [R-AL-4]",R,AL,4,9,167
+A000148,"Rep. Auchincloss, Jake [D-MA-4]",D,MA,4,8,264
+A000369,"Rep. Amodei, Mark E. [R-NV-2]",R,NV,2,14,195
+A000370,"Rep. Adams, Alma S. [D-NC-12]",D,NC,12,28,523
+A000371,"Rep. Aguilar, Pete [D-CA-33]",D,CA,33,27,143
+A000372,"Rep. Allen, Rick W. [R-GA-12]",R,GA,12,18,230
+A000375,"Rep. Arrington, Jodey C. [R-TX-19]",R,TX,19,56,172
+A000376,"Rep. Allred, Colin Z. [D-TX-32]",D,TX,32,21,604
+A000377,"Rep. Armstrong, Kelly [R-ND-At Large]",R,ND,,27,254
+A000379,"Rep. Alford, Mark [R-MO-4]",R,MO,4,25,196
+A000380,"Rep. Amo, Gabe [D-RI-1]",D,RI,1,4,285
+B000490,"Rep. Bishop, Sanford D. [D-GA-2]",D,GA,2,10,437
+B000574,"Rep. Blumenauer, Earl [D-OR-3]",D,OR,3,35,581
+B000668,"Rep. Bentz, Cliff [R-OR-2]",R,OR,2,7,121
+B000740,"Rep. Bice, Stephanie I. [R-OK-5]",R,OK,5,30,304
+B000825,"Rep. Boebert, Lauren [R-CO-3]",R,CO,3,26,335
+B001223,"Rep. Bowman, Jamaal [D-NY-16]",D,NY,16,14,521
+B001224,"Rep. Bush, Cori [D-MO-1]",D,MO,1,15,398
+B001248,"Rep. Burgess, Michael C. [R-TX-26]",R,TX,26,42,204
+B001257,"Rep. Bilirakis, Gus M. [R-FL-12]",R,FL,12,33,422
+B001260,"Rep. Buchanan, Vern [R-FL-16]",R,FL,16,38,251
+B001275,"Rep. Bucshon, Larry [R-IN-8]",R,IN,8,24,287
+B001278,"Rep. Bonamici, Suzanne [D-OR-1]",D,OR,1,71,729
+B001281,"Rep. Beatty, Joyce [D-OH-3]",D,OH,3,31,362
+B001282,"Rep. Barr, Andy [R-KY-6]",R,KY,6,44,283
+B001285,"Rep. Brownley, Julia [D-CA-26]",D,CA,26,58,688
+B001287,"Rep. Bera, Ami [D-CA-6]",D,CA,6,19,299
+B001291,"Rep. Babin, Brian [R-TX-36]",R,TX,36,13,391
+B001292,"Rep. Beyer, Donald S., Jr. [D-VA-8]",D,VA,8,45,349
+B001295,"Rep. Bost, Mike [R-IL-12]",R,IL,12,37,353
+B001296,"Rep. Boyle, Brendan F. [D-PA-2]",D,PA,2,17,328
+B001297,"Rep. Buck, Ken [R-CO-4]",R,CO,4,17,102
+B001298,"Rep. Bacon, Don [R-NE-2]",R,NE,2,65,783
+B001299,"Rep. Banks, Jim [R-IN-3]",R,IN,3,45,228
+B001300,"Rep. Barragán, Nanette Diaz [D-CA-44]",D,CA,44,34,745
+B001301,"Rep. Bergman, Jack [R-MI-1]",R,MI,1,28,277
+B001302,"Rep. Biggs, Andy [R-AZ-5]",R,AZ,5,612,409
+B001303,"Rep. Blunt Rochester, Lisa [D-DE-At Large]",D,DE,,29,469
+B001306,"Rep. Balderson, Troy [R-OH-12]",R,OH,12,18,283
+B001307,"Rep. Baird, James R. [R-IN-4]",R,IN,4,16,352
+B001309,"Rep. Burchett, Tim [R-TN-2]",R,TN,2,32,219
+B001311,"Rep. Bishop, Dan [R-NC-8]",R,NC,8,12,232
+B001313,"Rep. Brown, Shontel M. [D-OH-11]",D,OH,11,12,407
+B001314,"Rep. Bean, Aaron [R-FL-4]",R,FL,4,20,219
+B001315,"Rep. Budzinski, Nikki [D-IL-13]",D,IL,13,15,479
+B001316,"Rep. Burlison, Eric [R-MO-7]",R,MO,7,22,263
+B001317,"Rep. Brecheen, Josh [R-OK-2]",R,OK,2,19,274
+B001318,"Rep. Balint, Becca [D-VT-At Large]",D,VT,,24,428
+C000059,"Rep. Calvert, Ken [R-CA-41]",R,CA,41,21,198
+C000537,"Rep. Clyburn, James E. [D-SC-6]",D,SC,6,8,112
+C001039,"Rep. Cammack, Kat [R-FL-3]",R,FL,3,23,280
+C001051,"Rep. Carter, John R. [R-TX-31]",R,TX,31,9,150
+C001053,"Rep. Cole, Tom [R-OK-4]",R,OK,4,31,175
+C001054,"Rep. Carl, Jerry L. [R-AL-1]",R,AL,1,7,235
+C001055,"Rep. Case, Ed [D-HI-1]",D,HI,1,24,426
+C001059,"Rep. Costa, Jim [D-CA-21]",D,CA,21,26,588
+C001061,"Rep. Cleaver, Emanuel [D-MO-5]",D,MO,5,31,557
+C001063,"Rep. Cuellar, Henry [D-TX-28]",D,TX,28,11,254
+C001066,"Rep. Castor, Kathy [D-FL-14]",D,FL,14,24,464
+C001067,"Rep. Clarke, Yvette D. [D-NY-9]",D,NY,9,27,684
+C001068,"Rep. Cohen, Steve [D-TN-9]",D,TN,9,64,770
+C001069,"Rep. Courtney, Joe [D-CT-2]",D,CT,2,21,245
+C001072,"Rep. Carson, Andre [D-IN-7]",D,IN,7,20,899
+C001078,"Rep. Connolly, Gerald E. [D-VA-11]",D,VA,11,47,492
+C001080,"Rep. Chu, Judy [D-CA-28]",D,CA,28,39,703
+C001084,"Rep. Cicilline, David N. [D-RI-1]",D,RI,1,4,88
+C001087,"Rep. Crawford, Eric A. ""Rick"" [R-AR-1]",R,AR,1,23,201
+C001090,"Rep. Cartwright, Matt [D-PA-8]",D,PA,8,41,338
+C001091,"Rep. Castro, Joaquin [D-TX-20]",D,TX,20,34,290
+C001097,"Rep. Cárdenas, Tony [D-CA-29]",D,CA,29,23,482
+C001101,"Rep. Clark, Katherine M. [D-MA-5]",D,MA,5,6,49
+C001103,"Rep. Carter, Earl L. ""Buddy"" [R-GA-1]",R,GA,1,56,406
+C001108,"Rep. Comer, James [R-KY-1]",R,KY,1,16,92
+C001110,"Rep. Correa, J. Luis [D-CA-46]",D,CA,46,26,331
+C001112,"Rep. Carbajal, Salud O. [D-CA-24]",D,CA,24,29,631
+C001114,"Rep. Curtis, John R. [R-UT-3]",R,UT,3,50,194
+C001115,"Rep. Cloud, Michael [R-TX-27]",R,TX,27,17,197
+C001116,"Rep. Clyde, Andrew S. [R-GA-9]",R,GA,9,17,191
+C001117,"Rep. Casten, Sean [D-IL-6]",D,IL,6,32,491
+C001118,"Rep. Cline, Ben [R-VA-6]",R,VA,6,14,333
+C001119,"Rep. Craig, Angie [D-MN-2]",D,MN,2,29,543
+C001120,"Rep. Crenshaw, Dan [R-TX-2]",R,TX,2,25,405
+C001121,"Rep. Crow, Jason [D-CO-6]",D,CO,6,40,445
+C001125,"Rep. Carter, Troy [D-LA-2]",D,LA,2,25,644
+C001126,"Rep. Carey, Mike [R-OH-15]",R,OH,15,29,272
+C001127,"Rep. Cherfilus-McCormick, Sheila [D-FL-20]",D,FL,20,20,644
+C001129,"Rep. Collins, Mike [R-GA-10]",R,GA,10,11,162
+C001130,"Rep. Crockett, Jasmine [D-TX-30]",D,TX,30,22,635
+C001131,"Rep. Casar, Greg [D-TX-35]",D,TX,35,7,384
+C001132,"Rep. Crane, Elijah [R-AZ-2]",R,AZ,2,18,783
+C001133,"Rep. Ciscomani, Juan [R-AZ-6]",R,AZ,6,31,353
+C001134,"Rep. Caraveo, Yadira [D-CO-8]",D,CO,8,41,618
+C001135,"Rep. Chavez-DeRemer, Lori [R-OR-5]",R,OR,5,25,392
+D000032,"Rep. Donalds, Byron [R-FL-19]",R,FL,19,81,625
+D000096,"Rep. Davis, Danny K. [D-IL-7]",D,IL,7,40,572
+D000197,"Rep. DeGette, Diana [D-CO-1]",D,CO,1,15,302
+D000216,"Rep. DeLauro, Rosa L. [D-CT-3]",D,CT,3,45,204
+D000230,"Rep. Davis, Donald G. [D-NC-1]",D,NC,1,26,880
+D000399,"Rep. Doggett, Lloyd [D-TX-37]",D,TX,37,24,427
+D000530,"Rep. Deluzio, Christopher R. [D-PA-17]",D,PA,17,23,502
+D000594,"Rep. De La Cruz, Monica [R-TX-15]",R,TX,15,30,315
+D000600,"Rep. Diaz-Balart, Mario [R-FL-26]",R,FL,26,16,143
+D000615,"Rep. Duncan, Jeff [R-SC-3]",R,SC,3,28,447
+D000616,"Rep. DesJarlais, Scott [R-TN-4]",R,TN,4,4,146
+D000617,"Rep. DelBene, Suzan K. [D-WA-1]",D,WA,1,19,523
+D000623,"Rep. DeSaulnier, Mark [D-CA-10]",D,CA,10,40,653
+D000624,"Rep. Dingell, Debbie [D-MI-6]",D,MI,6,60,569
+D000626,"Rep. Davidson, Warren [R-OH-8]",R,OH,8,39,181
+D000628,"Rep. Dunn, Neal P. [R-FL-2]",R,FL,2,21,370
+D000629,"Rep. Davids, Sharice [D-KS-3]",D,KS,3,16,420
+D000631,"Rep. Dean, Madeleine [D-PA-4]",D,PA,4,27,470
+D000632,"Rep. D'Esposito, Anthony [R-NY-4]",R,NY,4,34,450
+D000633,"Rep. Duarte, John S. [R-CA-13]",R,CA,13,15,176
+E000071,"Rep. Ellzey, Jake [R-TX-6]",R,TX,6,3,274
+E000215,"Rep. Eshoo, Anna G. [D-CA-16]",D,CA,16,30,275
+E000235,"Rep. Ezell, Mike [R-MS-4]",R,MS,4,14,220
+E000246,"Rep. Edwards, Chuck [R-NC-11]",R,NC,11,27,283
+E000294,"Rep. Emmer, Tom [R-MN-6]",R,MN,6,12,84
+E000296,"Rep. Evans, Dwight [D-PA-3]",D,PA,3,11,624
+E000297,"Rep. Espaillat, Adriano [D-NY-13]",D,NY,13,59,555
+E000298,"Rep. Estes, Ron [R-KS-4]",R,KS,4,15,178
+E000299,"Rep. Escobar, Veronica [D-TX-16]",D,TX,16,16,341
+F000246,"Rep. Fallon, Pat [R-TX-4]",R,TX,4,21,235
+F000446,"Rep. Feenstra, Randy [R-IA-4]",R,IA,4,48,310
+F000450,"Rep. Foxx, Virginia [R-NC-5]",R,NC,5,20,137
+F000454,"Rep. Foster, Bill [D-IL-11]",D,IL,11,37,251
+F000459,"Rep. Fleischmann, Charles J. ""Chuck"" [R-TN-3]",R,TN,3,10,249
+F000462,"Rep. Frankel, Lois [D-FL-22]",D,FL,22,14,351
+F000465,"Rep. Ferguson, A. Drew [R-GA-3]",R,GA,3,17,205
+F000466,"Rep. Fitzpatrick, Brian K. [R-PA-1]",R,PA,1,66,1287
+F000468,"Rep. Fletcher, Lizzie [D-TX-7]",D,TX,7,10,327
+F000469,"Rep. Fulcher, Russ [R-ID-1]",R,ID,1,15,183
+F000470,"Rep. Fischbach, Michelle [R-MN-7]",R,MN,7,24,183
+F000471,"Rep. Fitzgerald, Scott [R-WI-5]",R,WI,5,26,206
+F000472,"Rep. Franklin, Scott [R-FL-18]",R,FL,18,22,286
+F000474,"Rep. Flood, Mike [R-NE-1]",R,NE,1,19,220
+F000475,"Rep. Finstad, Brad [R-MN-1]",R,MN,1,31,362
+F000476,"Rep. Frost, Maxwell [D-FL-10]",D,FL,10,20,518
+F000477,"Rep. Foushee, Valerie P. [D-NC-4]",D,NC,4,9,361
+F000478,"Rep. Fry, Russell [R-SC-7]",R,SC,7,11,228
+F000480,"Rep. Fong, Vince [R-CA-20]",R,CA,20,4,56
+G000061,"Rep. Garcia, Mike [R-CA-27]",R,CA,27,25,170
+G000377,"Rep. Granger, Kay [R-TX-12]",R,TX,12,8,108
+G000546,"Rep. Graves, Sam [R-MO-6]",R,MO,6,21,127
+G000551,"Rep. Grijalva, Raúl M. [D-AZ-7]",D,AZ,7,35,967
+G000553,"Rep. Green, Al [D-TX-9]",D,TX,9,47,432
+G000558,"Rep. Guthrie, Brett [R-KY-2]",R,KY,2,25,185
+G000559,"Rep. Garamendi, John [D-CA-8]",D,CA,8,40,476
+G000565,"Rep. Gosar, Paul A. [R-AZ-9]",R,AZ,9,21,401
+G000568,"Rep. Griffith, H. Morgan [R-VA-9]",R,VA,9,34,117
+G000574,"Rep. Gallego, Ruben [D-AZ-3]",D,AZ,3,42,304
+G000576,"Rep. Grothman, Glenn [R-WI-6]",R,WI,6,34,383
+G000577,"Rep. Graves, Garret [R-LA-6]",R,LA,6,26,162
+G000578,"Rep. Gaetz, Matt [R-FL-1]",R,FL,1,43,690
+G000579,"Rep. Gallagher, Mike [R-WI-8]",R,WI,8,44,153
+G000581,"Rep. Gonzalez, Vicente [D-TX-34]",D,TX,34,7,194
+G000582,"Rescom. González-Colón, Jenniffer [R-PR-At Large]",R,PR,,45,302
+G000583,"Rep. Gottheimer, Josh [D-NJ-5]",D,NJ,5,46,1074
+G000585,"Rep. Gomez, Jimmy [D-CA-34]",D,CA,34,21,399
+G000586,"Rep. Garcia, Jesus G. ""Chuy"" [D-IL-4]",D,IL,4,11,618
+G000587,"Rep. Garcia, Sylvia R. [D-TX-29]",D,TX,29,18,492
+G000589,"Rep. Gooden, Lance [R-TX-5]",R,TX,5,17,315
+G000590,"Rep. Green, Mark E. [R-TN-7]",R,TN,7,44,208
+G000591,"Rep. Guest, Michael [R-MS-3]",R,MS,3,16,361
+G000592,"Rep. Golden, Jared F. [D-ME-2]",D,ME,2,23,247
+G000593,"Rep. Gimenez, Carlos A. [R-FL-28]",R,FL,28,21,307
+G000594,"Rep. Gonzales, Tony [R-TX-23]",R,TX,23,34,259
+G000595,"Rep. Good, Bob [R-VA-5]",R,VA,5,52,836
+G000596,"Rep. Greene, Marjorie Taylor [R-GA-14]",R,GA,14,26,181
+G000597,"Rep. Garbarino, Andrew R. [R-NY-2]",R,NY,2,38,340
+G000598,"Rep. Garcia, Robert [D-CA-42]",D,CA,42,24,398
+G000599,"Rep. Goldman, Daniel S. [D-NY-10]",D,NY,10,20,688
+G000600,"Rep. Perez, Marie Gluesenkamp [D-WA-3]",D,WA,3,31,339
+H000874,"Rep. Hoyer, Steny H. [D-MD-5]",D,MD,5,2,95
+H001038,"Rep. Higgins, Brian [D-NY-26]",D,NY,26,7,191
+H001047,"Rep. Himes, James A. [D-CT-4]",D,CT,4,7,235
+H001052,"Rep. Harris, Andy [R-MD-1]",R,MD,1,2,219
+H001058,"Rep. Huizenga, Bill [R-MI-4]",R,MI,4,29,208
+H001066,"Rep. Horsford, Steven [D-NV-4]",D,NV,4,27,373
+H001067,"Rep. Hudson, Richard [R-NC-9]",R,NC,9,25,291
+H001068,"Rep. Huffman, Jared [D-CA-2]",D,CA,2,34,504
+H001072,"Rep. Hill, J. French [R-AR-2]",R,AR,2,28,205
+H001077,"Rep. Higgins, Clay [R-LA-3]",R,LA,3,47,352
+H001081,"Rep. Hayes, Jahana [D-CT-5]",D,CT,5,33,699
+H001082,"Rep. Hern, Kevin [R-OK-1]",R,OK,1,20,170
+H001085,"Rep. Houlahan, Chrissy [D-PA-6]",D,PA,6,27,376
+H001086,"Rep. Harshbarger, Diana [R-TN-1]",R,TN,1,25,333
+H001090,"Rep. Harder, Josh [D-CA-9]",D,CA,9,37,419
+H001091,"Rep. Hinson, Ashley [R-IA-2]",R,IA,2,33,333
+H001093,"Rep. Houchin, Erin [R-IN-9]",R,IN,9,22,287
+H001094,"Rep. Hoyle, Val T. [D-OR-4]",D,OR,4,11,327
+H001095,"Rep. Hunt, Wesley [R-TX-38]",R,TX,38,11,165
+H001096,"Rep. Hageman, Harriet M. [R-WY-At Large]",R,WY,,41,308
+I000056,"Rep. Issa, Darrell E. [R-CA-48]",R,CA,48,45,199
+I000058,"Rep. Ivey, Glenn [D-MD-4]",D,MD,4,8,386
+J000032,"Rep. Jackson Lee, Sheila [D-TX-18]",D,TX,18,55,564
+J000288,"Rep. Johnson, Henry C. ""Hank,"" Jr. [D-GA-4]",D,GA,4,24,780
+J000289,"Rep. Jordan, Jim [R-OH-4]",R,OH,4,4,45
+J000292,"Rep. Johnson, Bill [R-OH-6]",R,OH,6,16,201
+J000294,"Rep. Jeffries, Hakeem S. [D-NY-8]",D,NY,8,4,36
+J000295,"Rep. Joyce, David P. [R-OH-14]",R,OH,14,40,201
+J000298,"Rep. Jayapal, Pramila [D-WA-7]",D,WA,7,36,542
+J000299,"Rep. Johnson, Mike [R-LA-4]",R,LA,4,11,126
+J000301,"Rep. Johnson, Dusty [R-SD-At Large]",R,SD,,33,209
+J000302,"Rep. Joyce, John [R-PA-13]",R,PA,13,19,179
+J000304,"Rep. Jackson, Ronny [R-TX-13]",R,TX,13,27,352
+J000305,"Rep. Jacobs, Sara [D-CA-51]",D,CA,51,27,457
+J000307,"Rep. James, John [R-MI-10]",R,MI,10,36,177
+J000308,"Rep. Jackson, Jeff [D-NC-14]",D,NC,14,12,227
+J000309,"Rep. Jackson, Jonathan L. [D-IL-1]",D,IL,1,6,541
+K000009,"Rep. Kaptur, Marcy [D-OH-9]",D,OH,9,16,250
+K000375,"Rep. Keating, William R. [D-MA-9]",D,MA,9,25,431
+K000376,"Rep. Kelly, Mike [R-PA-16]",R,PA,16,37,315
+K000380,"Rep. Kildee, Daniel T. [D-MI-8]",D,MI,8,13,437
+K000381,"Rep. Kilmer, Derek [D-WA-6]",D,WA,6,36,504
+K000382,"Rep. Kuster, Ann M. [D-NH-2]",D,NH,2,24,603
+K000385,"Rep. Kelly, Robin L. [D-IL-2]",D,IL,2,23,392
+K000388,"Rep. Kelly, Trent [R-MS-1]",R,MS,1,15,219
+K000389,"Rep. Khanna, Ro [D-CA-17]",D,CA,17,43,523
+K000391,"Rep. Krishnamoorthi, Raja [D-IL-8]",D,IL,8,27,630
+K000392,"Rep. Kustoff, David [R-TN-8]",R,TN,8,28,226
+K000394,"Rep. Kim, Andy [D-NJ-3]",D,NJ,3,25,562
+K000397,"Rep. Kim, Young [R-CA-40]",R,CA,40,39,324
+K000398,"Rep. Kean, Thomas H. [R-NJ-7]",R,NJ,7,28,405
+K000399,"Rep. Kiggans, Jennifer A. [R-VA-2]",R,VA,2,22,299
+K000400,"Rep. Kamlager-Dove, Sydney [D-CA-37]",D,CA,37,34,473
+K000401,"Rep. Kiley, Kevin [R-CA-3]",R,CA,3,20,165
+K000402,"Rep. Kennedy, Timothy M. [D-NY-26]",D,NY,26,4,197
+L000266,"Rep. LaTurner, Jake [R-KS-2]",R,KS,2,13,232
+L000273,"Rep. Leger Fernandez, Teresa [D-NM-3]",D,NM,3,35,297
+L000397,"Rep. Lofgren, Zoe [D-CA-18]",D,CA,18,18,565
+L000491,"Rep. Lucas, Frank D. [R-OK-3]",R,OK,3,22,80
+L000551,"Rep. Lee, Barbara [D-CA-12]",D,CA,12,59,1030
+L000557,"Rep. Larson, John B. [D-CT-1]",D,CT,1,4,286
+L000560,"Rep. Larsen, Rick [D-WA-2]",D,WA,2,17,306
+L000562,"Rep. Lynch, Stephen F. [D-MA-8]",D,MA,8,15,509
+L000564,"Rep. Lamborn, Doug [R-CO-5]",R,CO,5,13,352
+L000566,"Rep. Latta, Robert E. [R-OH-5]",R,OH,5,19,152
+L000569,"Rep. Luetkemeyer, Blaine [R-MO-3]",R,MO,3,36,176
+L000578,"Rep. LaMalfa, Doug [R-CA-1]",R,CA,1,17,466
+L000582,"Rep. Lieu, Ted [D-CA-36]",D,CA,36,57,723
+L000583,"Rep. Loudermilk, Barry [R-GA-11]",R,GA,11,14,184
+L000585,"Rep. LaHood, Darin [R-IL-16]",R,IL,16,37,233
+L000589,"Rep. Lesko, Debbie [R-AZ-8]",R,AZ,8,32,394
+L000590,"Rep. Lee, Susie [D-NV-3]",D,NV,3,23,364
+L000593,"Rep. Levin, Mike [D-CA-49]",D,CA,49,30,494
+L000595,"Rep. Letlow, Julia [R-LA-5]",R,LA,5,7,162
+L000596,"Rep. Luna, Anna Paulina [R-FL-13]",R,FL,13,36,296
+L000597,"Rep. Lee, Laurel M. [R-FL-15]",R,FL,15,17,204
+L000598,"Rep. LaLota, Nick [R-NY-1]",R,NY,1,30,364
+L000599,"Rep. Lawler, Michael [R-NY-17]",R,NY,17,68,1257
+L000600,"Rep. Langworthy, Nicholas A. [R-NY-23]",R,NY,23,32,364
+L000601,"Rep. Landsman, Greg [D-OH-1]",D,OH,1,20,453
+L000602,"Rep. Lee, Summer L. [D-PA-12]",D,PA,12,20,498
+L000603,"Rep. Luttrell, Morgan [R-TX-8]",R,TX,8,21,148
+L000604,"Rep. Lopez, Greg [R-CO-4]",R,CO,4,5,56
+L000605,"Rep. Lee Carter, Erica [D-TX-18]",D,TX,18,0,15
+M000194,"Rep. Mace, Nancy [R-SC-1]",R,SC,1,75,477
+M000312,"Rep. McGovern, James P. [D-MA-2]",D,MA,2,23,799
+M000317,"Rep. Malliotakis, Nicole [R-NY-11]",R,NY,11,43,426
+M000687,"Rep. Mfume, Kweisi [D-MD-7]",D,MD,7,15,324
+M000871,"Rep. Mann, Tracey [R-KS-1]",R,KS,1,23,417
+M001135,"Rep. Manning, Kathy E. [D-NC-6]",D,NC,6,12,289
+M001136,"Rep. McClain, Lisa C. [R-MI-9]",R,MI,9,32,187
+M001137,"Rep. Meeks, Gregory W. [D-NY-5]",D,NY,5,23,287
+M001143,"Rep. McCollum, Betty [D-MN-4]",D,MN,4,10,496
+M001156,"Rep. McHenry, Patrick T. [R-NC-10]",R,NC,10,25,69
+M001157,"Rep. McCaul, Michael T. [R-TX-10]",R,TX,10,33,232
+M001159,"Rep. McMorris Rodgers, Cathy [R-WA-5]",R,WA,5,36,160
+M001160,"Rep. Moore, Gwen [D-WI-4]",D,WI,4,27,590
+M001163,"Rep. Matsui, Doris O. [D-CA-7]",D,CA,7,37,365
+M001165,"Rep. McCarthy, Kevin [R-CA-20]",R,CA,20,14,9
+M001177,"Rep. McClintock, Tom [R-CA-5]",R,CA,5,20,171
+M001184,"Rep. Massie, Thomas [R-KY-4]",R,KY,4,25,85
+M001188,"Rep. Meng, Grace [D-NY-6]",D,NY,6,38,535
+M001194,"Rep. Moolenaar, John R. [R-MI-2]",R,MI,2,28,437
+M001195,"Rep. Mooney, Alexander X. [R-WV-2]",R,WV,2,30,330
+M001196,"Rep. Moulton, Seth [D-MA-6]",D,MA,6,13,553
+M001199,"Rep. Mast, Brian J. [R-FL-21]",R,FL,21,32,212
+M001204,"Rep. Meuser, Daniel [R-PA-9]",R,PA,9,29,406
+M001205,"Rep. Miller, Carol D. [R-WV-1]",R,WV,1,41,350
+M001206,"Rep. Morelle, Joseph D. [D-NY-25]",D,NY,25,31,459
+M001208,"Rep. McBath, Lucy [D-GA-7]",D,GA,7,18,322
+M001210,"Rep. Murphy, Gregory F. [R-NC-3]",R,NC,3,33,253
+M001211,"Rep. Miller, Mary E. [R-IL-15]",R,IL,15,22,532
+M001212,"Rep. Moore, Barry [R-AL-2]",R,AL,2,22,414
+M001213,"Rep. Moore, Blake D. [R-UT-1]",R,UT,1,34,183
+M001214,"Rep. Mrvan, Frank J. [D-IN-1]",D,IN,1,6,266
+M001215,"Rep. Miller-Meeks, Mariannette [R-IA-1]",R,IA,1,48,399
+M001216,"Rep. Mills, Cory [R-FL-7]",R,FL,7,15,239
+M001217,"Rep. Moskowitz, Jared [D-FL-23]",D,FL,23,16,495
+M001218,"Rep. McCormick, Richard [R-GA-6]",R,GA,6,16,257
+M001219,"Del. Moylan, James C. [R-GU-At Large]",R,GU,,30,344
+M001220,"Rep. McGarvey, Morgan [D-KY-3]",D,KY,3,28,354
+M001221,"Rep. Molinaro, Marcus J. [R-NY-19]",R,NY,19,48,480
+M001222,"Rep. Miller, Max L. [R-OH-7]",R,OH,7,17,210
+M001223,"Rep. Magaziner, Seth [D-RI-2]",D,RI,2,20,547
+M001224,"Rep. Moran, Nathaniel [R-TX-1]",R,TX,1,21,224
+M001225,"Rep. Mullin, Kevin [D-CA-15]",D,CA,15,6,593
+M001226,"Rep. Menendez, Robert [D-NJ-8]",D,NJ,8,14,279
+M001227,"Rep. McClellan, Jennifer L. [D-VA-4]",D,VA,4,23,448
+M001228,"Rep. Maloy, Celeste [R-UT-2]",R,UT,2,17,75
+M001229,"Rep. McIver, LaMonica [D-NJ-10]",D,NJ,10,1,55
+N000002,"Rep. Nadler, Jerrold [D-NY-12]",D,NY,12,18,598
+N000015,"Rep. Neal, Richard E. [D-MA-1]",D,MA,1,6,96
+N000026,"Rep. Nehls, Troy E. [R-TX-22]",R,TX,22,33,361
+N000147,"Del. Norton, Eleanor Holmes [D-DC-At Large]",D,DC,,128,1918
+N000179,"Rep. Napolitano, Grace F. [D-CA-31]",D,CA,31,15,442
+N000188,"Rep. Norcross, Donald [D-NJ-1]",D,NJ,1,20,353
+N000189,"Rep. Newhouse, Dan [R-WA-4]",R,WA,4,44,323
+N000190,"Rep. Norman, Ralph [R-SC-5]",R,SC,5,24,484
+N000191,"Rep. Neguse, Joe [D-CO-2]",D,CO,2,108,722
+N000193,"Rep. Nunn, Zachary [R-IA-3]",R,IA,3,54,462
+N000194,"Rep. Nickel, Wiley [D-NC-13]",D,NC,13,12,482
+O000019,"Rep. Obernolte, Jay [R-CA-23]",R,CA,23,21,259
+O000086,"Rep. Owens, Burgess [R-UT-4]",R,UT,4,17,291
+O000172,"Rep. Ocasio-Cortez, Alexandria [D-NY-14]",D,NY,14,11,378
+O000173,"Rep. Omar, Ilhan [D-MN-5]",D,MN,5,25,534
+O000175,"Rep. Ogles, Andrew [R-TN-5]",R,TN,5,80,416
+P000034,"Rep. Pallone, Frank, Jr. [D-NJ-6]",D,NJ,6,18,247
+P000048,"Rep. Pfluger, August [R-TX-11]",R,TX,11,63,323
+P000096,"Rep. Pascrell, Bill, Jr. [D-NJ-9]",D,NJ,9,20,310
+P000197,"Rep. Pelosi, Nancy [D-CA-11]",D,CA,11,2,95
+P000597,"Rep. Pingree, Chellie [D-ME-1]",D,ME,1,19,616
+P000599,"Rep. Posey, Bill [R-FL-8]",R,FL,8,29,412
+P000604,"Rep. Payne, Donald M., Jr. [D-NJ-10]",D,NJ,10,16,449
+P000605,"Rep. Perry, Scott [R-PA-10]",R,PA,10,41,221
+P000607,"Rep. Pocan, Mark [D-WI-2]",D,WI,2,19,582
+P000608,"Rep. Peters, Scott H. [D-CA-50]",D,CA,50,26,497
+P000609,"Rep. Palmer, Gary J. [R-AL-6]",R,AL,6,51,141
+P000610,"Del. Plaskett, Stacey E. [D-VI-At Large]",D,VI,,30,197
+P000613,"Rep. Panetta, Jimmy [D-CA-19]",D,CA,19,56,682
+P000614,"Rep. Pappas, Chris [D-NH-1]",D,NH,1,41,543
+P000615,"Rep. Pence, Greg [R-IN-6]",R,IN,6,9,146
+P000616,"Rep. Phillips, Dean [D-MN-3]",D,MN,3,22,587
+P000617,"Rep. Pressley, Ayanna [D-MA-7]",D,MA,7,41,364
+P000618,"Rep. Porter, Katie [D-CA-47]",D,CA,47,85,766
+P000619,"Rep. Peltola, Mary Sattler [D-AK-At Large]",D,AK,,23,323
+P000620,"Rep. Pettersen, Brittany [D-CO-7]",D,CO,7,25,497
+Q000023,"Rep. Quigley, Mike [D-IL-5]",D,IL,5,13,455
+R000103,"Rep. Rosendale, Matthew M. [R-MT-2]",R,MT,2,49,799
+R000305,"Rep. Ross, Deborah K. [D-NC-2]",D,NC,2,28,596
+R000395,"Rep. Rogers, Harold [R-KY-5]",R,KY,5,9,79
+R000575,"Rep. Rogers, Mike D. [R-AL-3]",R,AL,3,6,153
+R000576,"Rep. Ruppersberger, C. A. Dutch [D-MD-2]",D,MD,2,3,328
+R000579,"Rep. Ryan, Patrick [D-NY-18]",D,NY,18,17,358
+R000599,"Rep. Ruiz, Raul [D-CA-25]",D,CA,25,48,320
+R000600,"Del. Radewagen, Aumua Amata Coleman [R-AS-At Large]",R,AS,,5,174
+R000603,"Rep. Rouzer, David [R-NC-7]",R,NC,7,22,338
+R000606,"Rep. Raskin, Jamie [D-MD-8]",D,MD,8,29,560
+R000609,"Rep. Rutherford, John H. [R-FL-5]",R,FL,5,10,422
+R000610,"Rep. Reschenthaler, Guy [R-PA-14]",R,PA,14,25,382
+R000612,"Rep. Rose, John W. [R-TN-6]",R,TN,6,13,219
+R000614,"Rep. Roy, Chip [R-TX-21]",R,TX,21,49,161
+R000617,"Rep. Ramirez, Delia C. [D-IL-3]",D,IL,3,14,576
+R000619,"Rep. Rulli, Michael A. [R-OH-6]",R,OH,6,0,53
+S000168,"Rep. Salazar, Maria Elvira [R-FL-27]",R,FL,27,32,461
+S000185,"Rep. Scott, Robert C. ""Bobby"" [D-VA-3]",D,VA,3,18,202
+S000250,"Rep. Sessions, Pete [R-TX-17]",R,TX,17,17,331
+S000344,"Rep. Sherman, Brad [D-CA-32]",D,CA,32,15,452
+S000510,"Rep. Smith, Adam [D-WA-9]",D,WA,9,19,361
+S000522,"Rep. Smith, Christopher H. [R-NJ-4]",R,NJ,4,54,378
+S000929,"Rep. Spartz, Victoria [R-IN-5]",R,IN,5,13,121
+S001135,"Rep. Steel, Michelle [R-CA-45]",R,CA,45,47,210
+S001145,"Rep. Schakowsky, Janice D. [D-IL-9]",D,IL,9,51,819
+S001148,"Rep. Simpson, Michael K. [R-ID-2]",R,ID,2,8,106
+S001150,"Rep. Schiff, Adam B. [D-CA-30]",D,CA,30,71,693
+S001156,"Rep. Sánchez, Linda T. [D-CA-38]",D,CA,38,21,499
+S001157,"Rep. Scott, David [D-GA-13]",D,GA,13,16,271
+S001159,"Rep. Strickland, Marilyn [D-WA-10]",D,WA,10,16,363
+S001168,"Rep. Sarbanes, John P. [D-MD-3]",D,MD,3,11,242
+S001172,"Rep. Smith, Adrian [R-NE-3]",R,NE,3,38,244
+S001176,"Rep. Scalise, Steve [R-LA-1]",R,LA,1,12,32
+S001177,"Del. Sablan, Gregorio Kilili Camacho [D-MP-At Large]",D,MP,,19,227
+S001183,"Rep. Schweikert, David [R-AZ-1]",R,AZ,1,25,121
+S001185,"Rep. Sewell, Terri A. [D-AL-7]",D,AL,7,17,592
+S001189,"Rep. Scott, Austin [R-GA-8]",R,GA,8,8,224
+S001190,"Rep. Schneider, Bradley Scott [D-IL-10]",D,IL,10,34,395
+S001192,"Rep. Stewart, Chris [R-UT-2]",R,UT,2,13,66
+S001193,"Rep. Swalwell, Eric [D-CA-14]",D,CA,14,10,459
+S001195,"Rep. Smith, Jason [R-MO-8]",R,MO,8,14,67
+S001196,"Rep. Stefanik, Elise M. [R-NY-21]",R,NY,21,55,338
+S001199,"Rep. Smucker, Lloyd [R-PA-11]",R,PA,11,29,226
+S001200,"Rep. Soto, Darren [D-FL-9]",D,FL,9,24,571
+S001201,"Rep. Suozzi, Thomas R. [D-NY-3]",D,NY,3,4,250
+S001205,"Rep. Scanlon, Mary Gay [D-PA-5]",D,PA,5,19,493
+S001207,"Rep. Sherrill, Mikie [D-NJ-11]",D,NJ,11,40,410
+S001208,"Rep. Slotkin, Elissa [D-MI-7]",D,MI,7,63,380
+S001209,"Rep. Spanberger, Abigail Davis [D-VA-7]",D,VA,7,38,397
+S001211,"Rep. Stanton, Greg [D-AZ-4]",D,AZ,4,24,252
+S001212,"Rep. Stauber, Pete [R-MN-8]",R,MN,8,24,346
+S001213,"Rep. Steil, Bryan [R-WI-1]",R,WI,1,31,166
+S001214,"Rep. Steube, W. Gregory [R-FL-17]",R,FL,17,71,393
+S001215,"Rep. Stevens, Haley M. [D-MI-11]",D,MI,11,31,447
+S001216,"Rep. Schrier, Kim [D-WA-8]",D,WA,8,25,315
+S001218,"Rep. Stansbury, Melanie Ann [D-NM-1]",D,NM,1,19,630
+S001220,"Rep. Strong, Dale W. [R-AL-5]",R,AL,5,14,120
+S001221,"Rep. Scholten, Hillary J. [D-MI-3]",D,MI,3,10,345
+S001222,"Rep. Santos, George [R-NY-3]",R,NY,3,40,152
+S001223,"Rep. Sykes, Emilia Strong [D-OH-13]",D,OH,13,25,232
+S001224,"Rep. Self, Keith [R-TX-3]",R,TX,3,25,314
+S001225,"Rep. Sorensen, Eric [D-IL-17]",D,IL,17,13,334
+S001226,"Rep. Salinas, Andrea [D-OR-6]",D,OR,6,22,643
+T000165,"Rep. Tiffany, Thomas P. [R-WI-7]",R,WI,7,24,293
+T000193,"Rep. Thompson, Bennie G. [D-MS-2]",D,MS,2,14,374
+T000460,"Rep. Thompson, Mike [D-CA-4]",D,CA,4,22,331
+T000463,"Rep. Turner, Michael R. [R-OH-10]",R,OH,10,15,151
+T000467,"Rep. Thompson, Glenn [R-PA-15]",R,PA,15,32,310
+T000468,"Rep. Titus, Dina [D-NV-1]",D,NV,1,42,820
+T000469,"Rep. Tonko, Paul [D-NY-20]",D,NY,20,30,639
+T000472,"Rep. Takano, Mark [D-CA-39]",D,CA,39,29,509
+T000474,"Rep. Torres, Norma J. [D-CA-35]",D,CA,35,29,241
+T000478,"Rep. Tenney, Claudia [R-NY-24]",R,NY,24,79,576
+T000480,"Rep. Timmons, William R. [R-SC-4]",R,SC,4,13,267
+T000481,"Rep. Tlaib, Rashida [D-MI-12]",D,MI,12,30,923
+T000482,"Rep. Trahan, Lori [D-MA-3]",D,MA,3,14,395
+T000483,"Rep. Trone, David J. [D-MD-6]",D,MD,6,30,964
+T000486,"Rep. Torres, Ritchie [D-NY-15]",D,NY,15,65,421
+T000487,"Rep. Tokuda, Jill N. [D-HI-2]",D,HI,2,35,1052
+T000488,"Rep. Thanedar, Shri [D-MI-13]",D,MI,13,28,601
+U000040,"Rep. Underwood, Lauren [D-IL-14]",D,IL,14,29,226
+V000081,"Rep. Velazquez, Nydia M. [D-NY-7]",D,NY,7,50,564
+V000129,"Rep. Valadao, David G. [R-CA-22]",R,CA,22,27,481
+V000130,"Rep. Vargas, Juan [D-CA-52]",D,CA,52,8,505
+V000131,"Rep. Veasey, Marc A. [D-TX-33]",D,TX,33,15,403
+V000133,"Rep. Van Drew, Jefferson [R-NJ-2]",R,NJ,2,53,493
+V000134,"Rep. Van Duyne, Beth [R-TX-24]",R,TX,24,34,305
+V000135,"Rep. Van Orden, Derrick [R-WI-3]",R,WI,3,31,321
+V000136,"Rep. Vasquez, Gabe [D-NM-2]",D,NM,2,28,276
+W000187,"Rep. Waters, Maxine [D-CA-43]",D,CA,43,36,275
+W000788,"Rep. Williams, Nikema [D-GA-5]",D,GA,5,52,713
+W000795,"Rep. Wilson, Joe [R-SC-2]",R,SC,2,26,354
+W000797,"Rep. Wasserman Schultz, Debbie [D-FL-25]",D,FL,25,35,465
+W000798,"Rep. Walberg, Tim [R-MI-5]",R,MI,5,32,213
+W000804,"Rep. Wittman, Robert J. [R-VA-1]",R,VA,1,32,294
+W000806,"Rep. Webster, Daniel [R-FL-11]",R,FL,11,5,223
+W000808,"Rep. Wilson, Frederica S. [D-FL-24]",D,FL,24,20,451
+W000809,"Rep. Womack, Steve [R-AR-3]",R,AR,3,10,149
+W000812,"Rep. Wagner, Ann [R-MO-2]",R,MO,2,24,158
+W000814,"Rep. Weber, Randy K., Sr. [R-TX-14]",R,TX,14,22,651
+W000815,"Rep. Wenstrup, Brad R. [R-OH-2]",R,OH,2,35,250
+W000816,"Rep. Williams, Roger [R-TX-25]",R,TX,25,28,223
+W000821,"Rep. Westerman, Bruce [R-AR-4]",R,AR,4,16,166
+W000822,"Rep. Watson Coleman, Bonnie [D-NJ-12]",D,NJ,12,38,895
+W000823,"Rep. Waltz, Michael [R-FL-6]",R,FL,6,31,270
+W000825,"Rep. Wexton, Jennifer [D-VA-10]",D,VA,10,22,215
+W000826,"Rep. Wild, Susan [D-PA-7]",D,PA,7,17,531
+W000828,"Rep. Williams, Brandon [R-NY-22]",R,NY,22,17,348
+W000829,"Rep. Wied, Tony [R-WI-8]",R,WI,8,0,5
+Y000067,"Rep. Yakym, Rudy [R-IN-2]",R,IN,2,19,282
+Z000018,"Rep. Zinke, Ryan K. [R-MT-1]",R,MT,1,16,232

@@ -1,0 +1,555 @@
+{{short description|Standing committee of the United States House of Representatives}}
+
+{{Infobox U.S. congressional committee
+| name               = Committee on Rules
+| type               = standing
+| chamber            = house
+| congress           = 118th
+| image              = US House Committee on Rules seal.png
+| image_size         = 150
+| status             = active
+| formed             = April 2, 1789
+| disbanded          =
+| succeeded          =
+| preceded           =
+| merged             =
+| former_names       = 
+| chair              = [[Michael C. Burgess]]
+| chair_party        = R
+| chair_since        = 2024
+| ranking_member     = [[Jim McGovern (American politician)|Jim McGovern]]
+| rm_party           = D
+| rm_since           = 2023
+| vice_chair         = 
+| vc_party           = 
+| vc_since           = 
+| seats              = 13
+| majority1          = R
+| majority1_seats    = 9
+| minority1          = D
+| minority1_seats    = 4
+| purpose            = Special Rules and Original Jurisdiction
+| policy_areas       = Rules and joint rules (other than those relating to the Code of Official Conduct) and the order of business of the House and Recesses and final adjournments of Congress.
+| oversight          = 
+| counterpart        = [[United States Senate Committee on Rules and Administration]]
+| meeting_place      = 
+| meeting_image      =
+| meeting_img_size   =
+| website            = {{URL|rules.house.gov}}
+| minority_website   = 
+| chamber_rules      =
+| committee_rules    =
+| notes              =
+}}
+{{United States House of Representatives}}
+The '''Committee on Rules''', or more commonly, the '''Rules Committee''', is a [[List of United States House of Representatives committees|committee]] of the [[United States House of Representatives]]. It is responsible for the rules under which [[Bill (law)|bills]] will be presented to the House of Representatives, unlike other committees, which often deal with a specific area of policy. The committee is often considered one of the most powerful committees as it influences the introduction and process of legislation through the House. Thus it has garnered the nickname the "traffic cop of [[Congress (United States)|Congress]]". A "special rule" resolution (also referred to simply as a "rule") is a simple resolution of the House of Representatives, usually reported by the Committee on Rules, to permit the immediate consideration of a legislative measure, notwithstanding the usual order of business, and to prescribe conditions for its debate and amendment.<ref>{{cite web|url=http://www.rules.house.gov/POP/specialrule_is.htm|title=Committee on Rules|publisher=U.S. House of Representatives, Committee on Rules|access-date=November 3, 2006}}</ref>
+
+==Jurisdiction==
+When a bill is reported out of one of the other committees, it does not go straight to the House floor, because the House, unlike the [[United States Senate]], does not have unlimited debate and discussion on a bill. Instead, what may be said and done to a bill is strictly limited. This limitation is performed by the Rules Committee.
+=== Special rules ===
+When a bill is reported out of another committee with legislative jurisdiction, it is placed on the appropriate [[House Calendar]] for debate. Common practice, though, is for bills reported from committees to be considered in the Rules Committee, which then passes a so-called "special rule" (a resolution allowing for consideration of a bill, establishing how long and under what rules the full body will debate the proposition). A "special rule" resolution is [[privileged motion|privileged]] under the Standing Rules of the House, meaning it is immediately subject to a debate and a vote by the full House upon being reported by the Rules Committee. If a "special rule" resolution providing for consideration of a bill is passed, then such bill must be considered the House at such a time and under such limitations as the resolution has set. In practice, a bill can get to a floor vote only if a "special rule" resolution providing for its consideration is passed (unless the Speaker grants a vote on [[Suspension of the rules in the United States Congress|suspension of the rules]], which requires two-thirds of votes cast in order to pass). 
+
+Consideration by the full body can occur in one of two forums: the [[Committee of the Whole (United States House of Representatives)|Committee of the Whole]], or on the floor of the full House of Representatives itself. Different traditions govern whether the Committee of the Whole or the House itself will debate a given resolution, and the Rules Committee generally sets the forum under which a proposition will be debated and the amendment/time limitations for every measure, too. For instance, there might be a limit on the number or types of amendments (proposed changes to the bill). Amendments might only be allowed to specific sections of the bill, or no amendments might be allowed at all. Besides control over amendments, the rule issued by the Rules Committee also determines the amount of speaking time assigned on each bill or resolution. If the leadership wants a bill pushed forward quietly, for instance, there might be no debate time scheduled; if they want attention, they might allow time for lengthy speeches in support of the bill.
+
+Between control over amendments, debate, and when measures will be considered, the Rules Committee exerts vast power in the House. As such, the [[majority party]] will usually be very keen on controlling it tightly. While most House committees maintain membership in a rough proportion to the full chamber (if the majority party controls 55% of the House, it will tend to have 55% of committee seats), membership on the Rules Committee is disproportionately in favor of the majority party. Furthermore, the rules committee typically operates in a very partisan fashion, advancing "special rule" resolutions to the floor on straight party line votes in nearly all cases.
+
+==History==
+The Rules Committee was formed on April 2, 1789, during the first Congress. However, it had nowhere near the powerful role it has today. Instead, it merely proposed general rules for the House to follow when debating bills (rather than passing a special rule for each bill), and was dissolved after proposing these general rules. These general rules still have a great impact on the tone of the House floor today.
+
+The Rules Committee, for a long time, lay dormant. For the first fifty years of its existence, it accomplished little beyond simply reaffirming these rules, and its role was very noncontroversial. On June 16, 1841, it made a major policy change, reducing from {{frac|2|3}} to {{1/2}} the [[Fraction (mathematics)|fraction]] of votes needed in the House to close debate and vote on a bill.
+
+In 1880, the modern Rules Committee began to emerge from the reorganization of the House Committees. When the [[Republican Party of the United States|Republican Party]] took over the House in the election of 1880, they quickly realized the power that the Rules Committee possessed. One member, [[Thomas Brackett Reed]] ([[Republican Party of the United States|R]]-[[Maine]]), used a seat on the Rules Committee to vault himself to the Speakership, and gained so much power that he was referred to as "[[Czar]] Reed".
+
+In the 1890s and 1900s, Reed and his successor, [[Joseph Gurney Cannon]] (R-[[Illinois]]) used the Rules Committee to centralize the power of the Speakership. Although their power to place members in committees and perform other functions was limited by a forced rule change in 1910, the Rules Committee retained its power. However, it ceased to function as the personal project of the Speaker, as it had originally; instead, as the seniority system took root, it was captured by a coalition of [[conservatism|conservative]] Democrats and Republicans. This state of affairs would continue until the 1960s.
+
+In 1961, Speaker [[Sam Rayburn]] (D-[[Texas]]), acting on the wishes of the new [[President of the United States|President]] [[John F. Kennedy]] and the [[Democratic Study Group]], introduced a bill to enlarge the committee from 12 members to 15, to decrease the power of the arch-conservative chairman, [[Howard W. Smith]] (D-[[Virginia]]). The bill passed, 217 votes to 212. However, it was only partially successful; the Rules Committee continued to block legislation including [[civil rights]] and [[education]] bills.
+
+In the 1970s, however, the Rules Committee was firmly under the command of the Speaker once again. As before, its primary role is to come up with special rules, to help or obstruct the chances of legislation reported to it.
+
+==General types of rules==
+[[File:Bradley Byrne at United States House Committee on Rules.jpg|thumb|Representative [[Bradley Byrne]] while in session. He served on the House Committee on Rules from 2015 to 2018. ]]
+The Rules Committee issues the following types of "special rule" resolutions:<ref>{{cite web |url=https://rules.house.gov/about |title=About the Committee on Rules - History and Processes|date=19 December 2013 }}</ref>
+*'''Open rule''': Allows any member to offer any amendment in compliance with house rules under the five minute rule (a member argues for the amendment for 5 minutes, an opponent then argues against the amendment for 5 minutes, other members may then "strike the last word" to speak further on the Amendment, and the house then votes on the amendment). Debate continues until no one offers an amendment. This type of Rule has not been used since June 10, 2014.{{Citation needed|date=August 2024}}
+*'''Modified open rule''': Much like an open rule, but may require amendments to be preprinted in the congressional record beforehand, and may impose a total time limit for the consideration of all amendments, or for debate on each amendment.
+*'''Structured rule''' - Members submit amendments to the rules committee, and the rules committee selects which amendments may be considered on the floor.
+*'''Closed rule''' - Eliminates the opportunity to amend the bill on the floor, except under [[unanimous consent]].
+
+Most "special rule" resolutions offer time for "general debate" before any amendment consideration begins (it is also possible for the rules committee to issue a rule for "general debate" only and later issue a second rule for amendment consideration) and allow for one motion to send the bill back to its committee of origination, with or without instructions for how to modify the bill. Such resolutions may also include necessary authority for district work periods, and may waive or modify certain points of order or rules of the house if desired by the committee, and the committee is also allowed to self-execute amendments right in the rule rather than delegating this ability to the full house floor.<ref name="Example Rule">{{cite web |url=https://rules.house.gov/bill/115/hr-4#rule-information |title=Rule Information|date=16 April 2018 }}</ref>
+
+==Members, 118th Congress==
+{|class=wikitable
+! Majority
+! Minority
+|-
+| {{party shading/Republican}} valign=top |
+* [[Michael C. Burgess]], Texas, ''Chair''
+* [[Tom Cole]], Oklahoma, ''Chair'' (until April 10, 2024)
+* [[Guy Reschenthaler]], Pennsylvania, ''Vice Chair''
+* [[Michelle Fischbach]], Minnesota
+* [[Thomas Massie]], Kentucky
+* [[Ralph Norman]], South Carolina 
+* [[Chip Roy]], Texas
+* [[Erin Houchin]], Indiana
+* [[Nick Langworthy]], New York
+* [[Austin Scott (politician)|Austin Scott]], Georgia 
+| {{party shading/Democratic}} valign=top |
+* [[Jim McGovern (American politician)|Jim McGovern]], Massachusetts, ''Ranking Member''
+* [[Mary Gay Scanlon]], Pennsylvania
+* [[Joe Neguse]], Colorado
+* [[Teresa Leger Fernandez]], New Mexico
+|}
+
+Resolutions electing members: {{USBill|118|HRes|14}} (Chair), {{USBill|118|HRes|15}} (Ranking Member), {{USBill|118|HRes|56}} (R), {{USBill|118|HRes|57}} (D), {{USBill|118|HRes|1133}} (R)
+
+==Subcommittees==
+The Rules Committee operates with two subcommittees, one focusing on legislative and budget matters and one focusing on the internal operations of the House.
+
+{| class="wikitable"
+! Subcommittee
+! Chair
+! Ranking Member
+|- 
+| [[United States House Rules Subcommittee on Legislative and Budget Process|Legislative and Budget Process]]
+| [[Michelle Fischbach]]
+| [[Teresa Leger Fernandez]]
+|-
+| [[United States House Rules Subcommittee on Rules and the Organization of the House|Rules and the Organization of the House]]
+| [[Michael C. Burgess]]
+| [[Mary Gay Scanlon]]
+|}
+
+Source: [https://rules.house.gov/about/subcommittees Full membership]
+
+==Chairs, 1849–1853 and 1880–present==
+The Committee on Rules was created as a [[Select or special committee|select committee]] but became a [[Standing committee (United States Congress)|standing committee]] for the 31st and 32nd Congresses (1849–1853). In 1853, the panel reverted to being a select committee and remained one until 1880.<ref>''A Pre-Twentieth Century look at the House Committee on Rules'', by Walter J. Olezek (House of Representatives, Rules Committee Democrats website; accessed January 16, 2011)</ref>
+
+From 1880 to the revolt against Speaker [[Joseph Gurney Cannon]] in March 1910, the [[Speaker of the United States House of Representatives|Speaker of the House]] also served as Chairman of the Rules Committee.
+
+Beginning in 1999 with the chairmanship of [[Republican Party (United States)|Republican]] [[David Dreier]] of [[California]], the chairman of the Rules Committee became a member of the elected Republican leadership, appointed by the [[Speaker of the United States House of Representatives|Speaker of the House of Representatives]].
+
+[[Howard W. Smith]] of [[Virginia]] is the longest-serving chairman (1955–1967) since the committee's founding. [[David Dreier]] of California is the youngest chairman of the Rules Committee, assuming the position at the age of 46. He is also the longest-serving chairman (1999-2007, 2011–2013) since 1967. [[Louise Slaughter]] of [[New York (state)|New York]] is the first woman to chair the committee (2007-2011).
+
+{| class=wikitable
+! colspan=2 | Chair
+! Party
+! State
+! Years
+! Note
+|-
+| {{party color cell|Democratic Party (United States)}}
+| [[David S. Kaufman]]
+| [[United States Democratic Party|Democratic]]
+| [[Texas]]
+| 1849–1851
+| Died in office January 31, 1851<ref>{{CongBio |K000021|name=Kaufman, David Spangler|inline=1 |date=January 16, 2011}}</ref>
+|-
+| {{party color cell|Democratic Party (United States)}}
+| [[George Washington Jones (Tennessee politician)|George W. Jones]]
+| Democratic
+| [[Tennessee]]
+| 1851–1853
+| <ref>{{CongBio |J000222|name=Jones, George Washington|inline=1 |date=January 16, 2011}}</ref>
+|-
+| {{party color cell|Democratic Party (United States)}}
+| [[Samuel J. Randall]]
+| Democratic
+| [[Pennsylvania]]
+| 1880–1881
+| <ref>{{CongBio|R000039|name=Randall, Samuel Jackson|inline=1 |date=January 16, 2011}}</ref><ref>''Committee on Rules – A History'' (House of Representatives, Rules Committee Democrats website; accessed January 16, 2011 (confirms Randall was Chairman)</ref>
+|-
+| {{party color cell|Republican Party (United States)}}
+| [[J. Warren Keifer]]
+| [[United States Republican Party|Republican]]
+| [[Ohio]]
+| 1881–1883
+| <ref>{{CongBio |K000048|name=Keifer, Joseph Warren|inline=1 |date=January 14, 2011}}</ref>
+|-
+| {{party color cell|Democratic Party (United States)}}
+| [[John G. Carlisle]]
+| Democratic
+| [[Kentucky]]
+| 1883–1889
+| <ref>{{CongBio|C000152|name=Carlisle, John Griffin|inline=1 |date=January 14, 2011}}</ref>
+|-
+| {{party color cell|Republican Party (United States)}}
+| [[Thomas Brackett Reed|Thomas B. Reed]]
+| Republican
+| [[Maine]]
+| 1889–1891
+| 1st term<ref>{{CongBio|R000128|name=Reed, Thomas Brackett|inline=1 |date=January 14, 2011}}</ref>
+|-
+| {{party color cell|Democratic Party (United States)}}
+| [[Charles F. Crisp]]
+| Democratic
+| [[Georgia (U.S. state)|Georgia]]
+| 1891–1895
+| <ref>{{CongBio|C000908|name=Crisp, Charles Frederick|inline=1 |date=January 14, 2011}}</ref>
+|-
+| {{party color cell|Republican Party (United States)}}
+| Thomas B. Reed
+| Republican
+| Maine
+| 1895–1899
+| 2nd term
+|-
+| {{party color cell|Republican Party (United States)}}
+| [[David B. Henderson]]
+| Republican
+| [[Iowa]]
+| 1899–1903
+| <ref>{{CongBio|H000478|name=Henderson, David Bremner|inline=1 |date=January 14, 2011}}</ref>
+|-
+| {{party color cell|Republican Party (United States)}}
+| [[Joseph Gurney Cannon|Joseph G. Cannon]]
+| Republican
+| [[Illinois]]
+| 1903–1910
+| <ref>{{CongBio|C000121|name=Cannon, Joseph Gurney|inline=1 |date=January 14, 2011}}</ref>
+|-
+| {{party color cell|Republican Party (United States)}}
+| [[John Dalzell]]
+| Republican
+| Pennsylvania
+| 1910–1911
+| <ref>{{CongBio|D000016|name=Dalzell, John|inline=1 |date=January 14, 2011}}</ref>
+|-
+| {{party color cell|Democratic Party (United States)}}
+| [[Robert L. Henry]]
+| Democratic
+| Texas
+| 1911–1917
+| <ref>{{CongBio|H000516|name=Henry, Robert Lee|inline=1 |date=January 14, 2011}}</ref>
+|-
+| {{party color cell|Democratic Party (United States)}}
+| [[Edward W. Pou]]
+| Democratic
+| [[North Carolina]]
+| 1917–1919
+| 1st term<ref>{{CongBio|P000474|name=Pou, Edward William|inline=1 |date=January 15, 2011}}</ref>
+|-
+| {{party color cell|Republican Party (United States)}}
+| [[Philip P. Campbell]]
+| Republican
+| [[Kansas]]
+| 1919–1923
+| <ref>{{CongBio|C000097|name=Campbell, Philip Pitt|inline=1 |date=January 14, 2011}}</ref>
+|-
+| {{party color cell|Republican Party (United States)}}
+| [[Bertrand H. Snell]]
+| Republican
+| [[New York (state)|New York]]
+| 1923–1931
+| <ref>{{CongBio|S000652|name=Snell, Bertrand Hollis|inline=1 |date=January 14, 2011}}</ref>
+|-
+| {{party color cell|Democratic Party (United States)}}
+| Edward W. Pou
+| Democratic
+| North Carolina
+| 1931–1934
+| 2nd term. Died in<br />
+office April 1, 1934.
+|-
+| {{party color cell|Democratic Party (United States)}}
+| [[William B. Bankhead]]
+| Democratic
+| [[Alabama]]
+| 1934–1935
+| <ref>{{CongBio|B000113|name=Bankhead, William Brockman|inline=1 |date=January 14, 2011}}</ref>
+|-
+| {{party color cell|Democratic Party (United States)}}
+| [[John J. O'Connor (New York representative)|John J. O'Connor]]
+| Democratic
+| New York
+| 1935–1939
+| <ref>{{CongBio|O000030|name=O'Connor, John Joseph|inline=1 |date=January 14, 2011}}</ref>
+|-
+| {{party color cell|Democratic Party (United States)}}
+| [[Adolph J. Sabath]]
+| Democratic
+| Illinois
+| 1939–1947
+| 1st term<ref>{{CongBio|S000001|name=Sabath, Adolph Joachim|inline=1 |date=January 14, 2011}}</ref>
+|-
+| {{party color cell|Republican Party (United States)}}
+| [[Leo E. Allen]]
+| Republican
+| Illinois
+| 1947–1949
+| 1st term<ref>{{CongBio|A000138|name=Allen, Leo Elwood|inline=1 |date=January 14, 2011}}</ref>
+|-
+| {{party color cell|Democratic Party (United States)}}
+| Adolph J. Sabath
+| Democratic
+| Illinois
+| 1949–1952
+| 2nd term. Died in<br />office November 6, 1952.
+|-
+| {{party color cell|Republican Party (United States)}}
+| Leo E. Allen
+| Republican
+| Illinois
+| 1953–1955
+| 2nd term
+|-
+| {{party color cell|Democratic Party (United States)}}
+| [[Howard W. Smith]]
+| Democratic
+| [[Virginia]]
+| 1955–1967
+| <ref>{{CongBio|S000554|name=Smith, Howard Worth|inline=1 |date=January 14, 2011}}</ref>
+|-
+| {{party color cell|Democratic Party (United States)}}
+| [[William M. Colmer]]
+| Democratic
+| [[Mississippi]]
+| 1967–1973
+| <ref>{{CongBio|C000645|name=Colmer, William Meyers|inline=1 |date=January 14, 2011}}</ref>
+|-
+| {{party color cell|Democratic Party (United States)}}
+| [[Ray J. Madden]]
+| Democratic
+| [[Indiana]]
+| 1973–1977
+| <ref>{{CongBio|M000039|name=Madden, Ray John|inline=1 |date=January 14, 2011}}</ref>
+|-
+| {{party color cell|Democratic Party (United States)}}
+| [[James J. Delaney]]
+| Democratic
+| New York
+| 1977–1979
+| <ref>{{CongBio|D000211|name=Delaney, James Joseph|inline=1 |date=January 14, 2011}}</ref>
+|-
+| {{party color cell|Democratic Party (United States)}}
+| [[Richard Walker Bolling|Richard W. Bolling]]
+| Democratic
+| [[Missouri]]
+| 1979–1983
+| <ref>{{CongBio|B000605|name=Bolling, Richard Walker|inline=1 |date=January 14, 2011}}</ref>
+|-
+| {{party color cell|Democratic Party (United States)}}
+| [[Claude Pepper|Claude D. Pepper]]
+| Democratic
+| [[Florida]]
+| 1983–1989
+| Died in office<br />May 30, 1989<ref>{{CongBio|P000218|name=Pepper, Claude Denson|inline=1 |date=January 14, 2011}}</ref>
+|-
+| {{party color cell|Democratic Party (United States)}}
+| [[Joe Moakley]]
+| Democratic
+| [[Massachusetts]]
+| 1989–1995
+| <ref>{{CongBio|M000834|name=Moakley, John Joseph|inline=1 |date=January 14, 2011}}</ref>
+|-
+| {{party color cell|Republican Party (United States)}}
+| [[Gerald B. H. Solomon]]
+| Republican
+| New York
+| 1995–1999
+| <ref>{{CongBio|S000675|name=Solomon, Gerald Brooks Hunt|inline=1 |date=January 14, 2011}}</ref>
+|-
+| {{party color cell|Republican Party (United States)}}
+| [[David Dreier|David T. Dreier]]
+| Republican
+| [[California]]
+| 1999–2007
+| 1st term<ref>{{CongBio|D000492|name=Dreier, David Timothy|inline=1 |date=January 14, 2011}}</ref>
+|-
+| {{party color cell|Democratic Party (United States)}}
+| [[Louise Slaughter|Louise M. Slaughter]]
+| Democratic
+| New York
+| 2007–2011
+| <ref>{{CongBio|S000480|name=Slaughter, Louise McIntosh|inline=1 |date=January 14, 2011}}</ref>
+|-
+| {{party color cell|Republican Party (United States)}}
+| David T. Dreier
+| Republican
+| California
+| 2011–2013
+| 2nd term
+|-
+| {{party color cell|Republican Party (United States)}}
+| [[Pete Sessions]]
+| Republican
+| Texas
+| 2013–2019
+| <ref>{{CongBio|S000250|name=Sessions, Pete|inline=1 |date=January 26, 2013}}</ref>
+|-
+| {{party color cell|Democratic Party (United States)}}
+| [[Jim McGovern (American politician)|Jim McGovern]]
+| Democratic
+| Massachusetts 
+| 2019–2023
+| <ref>{{CongBio|M000312|name=McGovern, Jim|inline=1 |date=January 7, 2023}}</ref>
+|-
+| {{party color cell|Republican Party (United States)}}
+| [[Tom Cole]]
+| Republican
+| [[Oklahoma]]
+| 2023–2024
+| <ref>{{CongBio|C001053|name=Cole, Tom|inline=1 |date=February 6, 2023}}</ref>
+|-
+| {{party color cell|Republican Party (United States)}}
+| [[Michael C. Burgess]]
+| Republican
+| Texas
+| 2024–present
+| <ref>{{CongBio|B001248|name=Burgess, Michael C.|inline=1 |date=April 10, 2024}}</ref>
+|-
+|}
+
+== Historical members and subcommittees ==
+
+===Members, 114th Congress===
+{|class=wikitable
+! Majority
+! Minority
+|-
+| {{party shading/Republican}} valign=top |
+*[[Pete Sessions]], {{ushr|TX|32|S}}, ''Chairman ''
+* [[Virginia Foxx]], {{ushr|NC|5|S}}, ''Vice Chair'' 
+* [[Tom Cole]], {{ushr|OK|4|S}}
+* [[Rob Woodall]], {{ushr|GA|7|S}}
+* [[Michael C. Burgess]], {{ushr|TX|26|S}}
+* [[Steve Stivers]], {{ushr|OH|15|S}}
+* [[Doug Collins (politician)|Doug Collins]], {{ushr|GA|9|S}}
+* [[Bradley Byrne]], {{ushr|AL|1|S}}
+* [[Dan Newhouse]], {{ushr|WA|4|S}}
+| {{party shading/Democratic}} valign=top |
+* [[Louise Slaughter]], {{ushr|NY|25|S}}, ''Ranking Member''
+* [[James P. McGovern]], {{ushr|MA|2|S}}
+* [[Alcee Hastings]], {{ushr|FL|20|S}}
+* [[Jared Polis]], {{ushr|CO|2|S}}
+|}
+
+Sources: {{USBill|113|HRes|6}} (Chairs), {{USBill|113|HRes|7}} (D), {{USBill|113|HRes|17}} (R) and {{USBill|113|HRes|22}} (D).
+
+===Members, 115th Congress===
+{|class=wikitable
+! Majority
+! Minority
+|-
+| {{party shading/Republican}} valign=top |
+*[[Pete Sessions]], {{ushr|TX|32|S}}, ''Chair''
+* [[Tom Cole]], {{ushr|OK|4|S}}, ''Vice Chair''
+* [[Rob Woodall]], {{ushr|GA|7|S}}
+* [[Michael C. Burgess]], {{ushr|TX|26|S}}
+* [[Doug Collins (politician)|Doug Collins]], {{ushr|GA|9|S}}
+* [[Bradley Byrne]], {{ushr|AL|1|S}}
+* [[Dan Newhouse]], {{ushr|WA|4|S}}
+* [[Ken Buck]], {{ushr|CO|4|S}}
+* [[Liz Cheney]], {{ushr|WY|AL|S}}
+| {{party shading/Democratic}} valign=top |
+* [[Jim McGovern (American politician)|Jim McGovern]], {{ushr|MA|2|S}}, ''Ranking Member''
+* [[Louise Slaughter]], {{ushr|NY|25|S}}, until March 16, 2018
+* [[Alcee Hastings]], {{ushr|FL|20|S}}
+* [[Jared Polis]], {{ushr|CO|2|S}}, ''Vice Ranking Member''
+* [[Norma Torres]], {{ushr|CA|35|S}}, from April 11, 2018
+|}
+
+Sources: {{USBill|115|HRes|6}} (R), {{USBill|115|HRes|7}} (D), {{USBill|115|HRes|816}} (D)
+
+===Members, 116th Congress===
+[[File:Doris Matsui - United States House Committee on Rules - 4-22-20.jpg|thumb|Members of the Committee social distancing at a hearing during the [[COVID-19 pandemic]] in April 2020]]
+{|class=wikitable
+! Majority
+! Minority
+|-
+| {{party shading/Democratic}} valign=top |
+* [[Jim McGovern (American politician)|Jim McGovern]], {{ushr|MA|2|S}}, ''Chair''
+* [[Alcee Hastings]], {{ushr|FL|20|S}}, ''Vice Chair''
+* [[Norma Torres]], {{ushr|CA|35|S}}
+* [[Ed Perlmutter]], {{ushr|CO|7|S}}
+* [[Jamie Raskin]], {{ushr|MD|8|S}}
+* [[Mary Gay Scanlon]], {{ushr|PA|5|S}}
+* [[Joseph Morelle]], {{ushr|NY|25|S}}
+* [[Donna Shalala]], {{ushr|FL|27|S}}
+* [[Mark DeSaulnier]], {{ushr|CA|11|S}} (until April 22, 2020)
+* [[Doris Matsui]], {{ushr|CA|6|S}} (since April 22, 2020)
+| {{party shading/Republican}} valign=top |
+* [[Tom Cole]], {{ushr|OK|4|S}}, ''Ranking Member''
+* [[Rob Woodall]], {{ushr|GA|7|S}}
+* [[Michael C. Burgess]], {{ushr|TX|26|S}}
+* [[Debbie Lesko]], {{ushr|AZ|8|S}}
+|}
+
+Sources: {{USBill|116|HRes|7}} (Chair), {{USBill|116|HRes|8}} (Ranking Member), {{USBill|116|HRes|24}} (D), {{USBill|116|HRes|25}} (R), {{USBill|116|HRes|26}} (D), {{USBill|116|HRes|125}} (D), {{USBill|116|HRes|934}} (D)
+
+===Members, 117th Congress===
+{|class=wikitable
+! Majority
+! Minority
+|-
+| {{party shading/Democratic}} valign=top |
+* {{nowrap|[[Jim McGovern (American politician)|Jim McGovern]], Massachusetts, ''Chair''}}
+* [[Norma Torres]], California
+* [[Ed Perlmutter]], Colorado
+* [[Jamie Raskin]], Maryland
+* [[Mary Gay Scanlon]], Pennsylvania
+* [[Joseph Morelle]], New York
+* [[Mark DeSaulnier]], California, ''Vice-Chair''
+* [[Deborah K. Ross]], North Carolina
+* [[Joe Neguse]], Colorado (since May 12, 2021)
+
+| {{party shading/Republican}} valign=top |
+* {{nowrap| [[Tom Cole]], Oklahoma, ''Ranking Member''}}
+* [[Michael C. Burgess]], Texas
+* [[Guy Reschenthaler]], Pennsylvania
+* [[Michelle Fischbach]], Minnesota
+|}
+
+Sources: {{USBill|117|HRes|35}} (D), {{USBill|117|HRes|36}} (R), {{USBill|117|HRes|63}} (R), {{USBill|117|HRes|384}} (D), [https://rules.house.gov/press-releases/chairman-mcgovern-announces-new-vice-chair-subcommittee-chairmanship-and-assignments]
+
+;Subcommittees
+{| class="wikitable"
+! Subcommittee
+! Chair
+! Ranking Member
+|-
+| [[United States House Rules Subcommittee on Expedited Procedures|Expedited Procedures]]
+| [[Jamie Raskin]] (D-MD)
+| [[Michelle Fischbach]] (R-MN)
+|- 
+| [[United States House Rules Subcommittee on Legislative and Budget Process|Legislative and Budget Process]]
+| [[Joseph Morelle]] (D-NY)
+| [[Michael C. Burgess]] (R-TX)
+|-
+| [[United States House Rules Subcommittee on Rules and the Organization of the House|Rules and the Organization of the House]]
+| [[Norma Torres]] (D-CA)
+| [[Guy Reschenthaler]] (R-PA)
+|}
+
+==See also==
+{{Portal|United States|Politics}}
+* [[List of current United States House of Representatives committees]]
+* [[United States Senate Committee on Rules and Administration]]
+
+==References==
+{{Reflist|2}}
+
+==Further reading==
+* Brauer, Carl M. "Women Activists, Southern Conservatives, and the Prohibition of Sex Discrimination in Title VII of the 1964 Civil Rights Act", 49 ''Journal of Southern History'', February 1983 online via JSTOR
+* Dierenfield, Bruce J. ''Keeper of the Rules: Congressman Howard W. Smith of Virginia'' (1987)
+* Dion, Douglas, and [[John D. Huber]]. "Procedural choice and the house committee on rules." ''Journal of Politics'' (1996) 58#1 pp: 25–53. [http://allman.rhon.itam.mx/~emagar/ep3/rules/dion.huber.rules1996jop.pdf online]
+* Jenkins, Jeffery A., and Nathan W. Monroe. "Buying negative agenda control in the us house." ''American Journal of Political Science'' (2012) 56#4 pp: 897–912.
+* Jones, Charles O. "Joseph G. Cannon and Howard W. Smith: an Essay on the Limits of Leadership in the House of Representatives" ''[[Journal of Politics]]'' 1968 30(3): 617–646.
+* Moffett, Kenneth W. "Parties and Procedural Choice in the House Rules Committee." ''Congress & the Presidency'' (2012) 39#1 
+* Race, A. "House Rules and Procedure." in ''New Directions in Congressional Politics'' (2012): 111+
+* Robinson, James Arthur. ''The House rules committee''(1963)
+* Schickler, Eric; Pearson, Kathryn. "Agenda Control, Majority Party Power, and the House Committee on Rules, 1937-52," ''Legislative Studies Quarterly'' (2009) 34#4 pp 455–491
+* Smallwood, James. "Sam Rayburn and the Rules Committee Change of 1961." ''East Texas Historical Journal'' 11.1 (1973): 10+ [https://scholarworks.sfasu.edu/cgi/viewcontent.cgi?article=1270&context=ethj online].
+
+* Woods, Clinton Jacob, "Strange Bedfellows: Congressman Howard W. Smith and the Inclusion of Sex Discrimination in the 1964 Civil Rights Act," ''Southern Studies,'' 16 (Spring–Summer 2009), 1–32.
+
+==External links==
+{{Commons category|United States House Committee on Rules}}
+*[https://rules.house.gov/ Official website of the committee] ([https://www.loc.gov/item/lcwa00hsru00/ Archive])
+*[https://www.congress.gov/committee/house-rules/hsru00 House Rules Committee]. Legislation activity and reports, Congress.gov.
+*[https://www.congress.gov/committees/video/house-rules/hsru00 House Rules Committee Hearings and Meetings Video]. [[Congress.gov]].
+{{United States congressional committees}}
+{{Authority control}}
+
+{{DEFAULTSORT:United States House Committee On Rules}}
+[[Category:Committees of the United States House of Representatives|Rules]]
+[[Category:1789 establishments in the United States]]
+[[Category:Organizations established in 1789]]

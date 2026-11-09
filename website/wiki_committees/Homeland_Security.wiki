@@ -1,0 +1,381 @@
+{{short description|Standing committee of the United States House of Representatives}}
+{{Infobox U.S. congressional committee
+| name               = House Committee on Homeland Security
+| type               = standing
+| chamber            = house
+| congress           = 118th
+| status             = active
+| image = House Committee on Homeland Security logo.jpg
+| image_size = 140px
+| caption = Logo of the House Committee on Homeland Security Republicans
+| formed             = June 19, 2002
+| chair              = [[Mark Green (Tennessee politician)|Mark Green]] 
+| chair_party        = R
+| chair_since        = January 9, 2023 
+| ranking_member     = [[Bennie Thompson]] 
+| rm_party           = D
+| rm_since           = January 3, 2023 
+| vice_chair         = [[Michael Guest (politician)|Michael Guest]]
+| vc_party           = R
+| vc_since           = 
+| seats              = 33
+| majority1          = R
+| majority1_seats    = 18
+| minority1          = D
+| minority1_seats    = 15
+| oversight          = [[United States Department of Homeland Security|Department of Homeland Security]]
+| counterpart        = [[Senate Homeland Security Committee]]
+| subcommittees      = <div style="text-align:left;">
+* [[United States House Homeland Security Subcommittee on Border Security, Facilitation and Operations|Border Security, Facilitation and Operations]]
+* [[United States House Homeland Security Subcommittee on Cybersecurity, Infrastructure Protection and Innovation|Cybersecurity, Infrastructure Protection and Innovation]]
+* [[United States House Homeland Security Subcommittee on Emergency Preparedness, Response and Recovery|Emergency Preparedness, Response and Recovery]]
+* [[United States House Homeland Security Subcommittee on Intelligence and Counterterrorism|Intelligence and Counterterrorism]]
+* [[United States House Homeland Security Subcommittee on Oversight, Management and Accountability|Oversight, Management and Accountability]]
+* [[United States House Homeland Security Subcommittee on Transportation and Maritime Security|Transportation and Maritime Security]]
+</div>
+| website            = Republican Website: {{url|https://homeland.house.gov/}}
+Democratic Website: {{url|https://democrats-homeland.house.gov/}}
+}}
+{{United States House of Representatives}}{{Distinguish|Department of Homeland Security}}
+The '''U.S. House Committee on Homeland Security''' is a [[standing committee]] of the [[United States House of Representatives]]. Its responsibilities include U.S. security legislation and oversight of the [[Department of Homeland Security]].
+
+==Role of the committee==
+The committee conducts oversight and handles legislation (and resolutions) related to the security of the United States. The committee may [[Bill (proposed law)|amend]], approve, or [[Table (verb)|table]] [[homeland security]] related bills. It also has the power to hold hearings, conduct investigations, and [[subpoena]] witnesses. Additionally, the committee has authorization and policy oversight responsibilities over the [[Department of Homeland Security]].
+
+==Rules of the committee==
+The committee meets on the first Wednesday of each month while the House is in session. It is not permitted to conduct business unless a [[quorum]] is present, which the rules define as one third of its members. A majority of members are required for certain actions including: issuing a subpoena, entering executive session, and immunizing a witness. Committee members have access to classified information but must adhere to stringent access control procedures.
+
+==History of the committee==
+In the 109th Congress, the House Select Committee on Homeland Security was established on June 19, 2002, pursuant to H. Res. 449 (adopted by voice vote). The committee was composed of nine members of the House: Mr. Armey, chairman; Mr. DeLay; Mr. Watts of Oklahoma; Ms. Pryce of Ohio; Mr. Portman; Ms. Pelosi; Mr. Frost; Mr. Menendez; and Ms. DeLauro.
+
+The mandate of the Select Committee in the 107th Congress was to “develop recommendations and report to the House on such matters that relate to the establishment of a department of [[homeland security]].” The Select Committee accomplished its mandate on November 22, 2002, when the House concurred in the Senate amendment to H.R. 5005 by unanimous consent and cleared H.R. 5005 for the President. The bill was presented to the President on November 22, 2002, and was signed on November 25, 2002, becoming Public Law number 107-296, the "[[Homeland Security Act of 2002]]".
+
+The termination date of the House Select Committee on Homeland Security was “after final disposition of a bill including the final disposition of any veto message on such bill,” which occurred on November 25, 2002.
+
+The second select committee was formed in 2003 at the beginning of the 108th Congress as a [[Select or special committee (United States Congress)|select committee]] with [[United States Representative|Rep.]] [[Christopher Cox]] of [[California]] as its chairman and [[Jim Turner (politician)|Jim Turner]] of [[Texas]] as its [[ranking member]]. The creation of the committee was necessitated by the creation of the [[Department of Homeland Security]]. As an executive branch department, the newly formed Department of Homeland Security required congressional counterparts to facilitate legislative action and oversight.
+
+The committee was made permanent when it was elevated to [[standing committee|standing]] status by a vote of the House of Representatives on January 4, 2005, on the opening day of the [[109th United States Congress|109th Congress]], again with Rep. Chris Cox as its first permanent chairman. Rep. [[Bennie Thompson]] of [[Mississippi]] was the committee's first permanent ranking member. After Chairman Cox resigned from Congress in July 2005 to become the Chairman of the Securities and Exchange Commission, Rep. [[Peter King (American politician)|Peter King]] of [[New York (state)|New York]] served as chairman for the remainder of the 109th Congress.
+
+As Congress switched parties at the beginning of the 110th Congress, Rep. Thompson became the chairman of the committee and Rep. King the ranking member. House control switched parties again at the beginning of the 112th Congress in 2011, and King again became the chairman, and Thompson the ranking member. As the House switched parties at the beginning of the 116th Congress, Thompson again assumed the chair. The committee continues to operate in a bipartisan manner, passing almost all of its legislation out of the committee unanimously.
+
+== Hearings ==
+
+=== Airport computed tomography (CT) scanners ===
+In November 2017, the full Homeland Security Committee held a hearing to understand how fast the U.S. government could install CT scanners into every airport in the country in order to fight threats to airlines. The hearing focused on the [[Transportation Security Administration]]'s (TSA) role in keeping the country secure. The hearing was scheduled because a classified security briefing that was held earlier revealed vulnerabilities to the aviation system that concerned committee members. The latest threats, according to committee Chairman Michael McCaul, "were terrorists using electronic devices and laptops as bombs, and exploding the device on an airplane while the plane is in flight."<ref>{{Cite news|url=https://homelandprepnews.com/countermeasures/government-countermeasures/25182-house-homeland-security-committee-pushes-ct-scanning-airports-briefing-terror-threats |title=House Homeland Security Committee pushes for CT scanning at all airports after briefing on terror threats |last=Carey|first=Liz |date=2017-11-08 |website=HomelandPrepNews.com |access-date=2017-12-27 |language=en-US}}</ref>
+
+=== DHS Countering Weapons of Mass Destruction (CWMD) Office ===
+[[File:House Homeland Security Committee Democrats.png|thumb|Logo used by Committee Democrats]]
+On December 7, 2017, the Subcommittee on Emergency Preparedness, Response, and Communications held a hearing about the creation of a new office within the [[United States Department of Homeland Security|Department of Homeland Security]] (DHS) called the Countering Weapons of Mass Destruction (CWMD) Office. “The purpose of the CWMD is to work every day to prevent another catastrophic attack, one using weapons or materials that have the potential to kill our citizens in numbers that dwarf previous attacks,”<ref name=":0">{{Cite news|url=https://homelandprepnews.com/featured/25668-congress-probes-new-office-within-dhs-counter-diverse-threat-weapons-mass-destruction |title=Congress probes new office within DHS to counter diverse threat of weapons of mass destruction |last=Carey|first=Liz |date=2017-12-08 |website=HomelandPrepNews.com |access-date=2017-12-27 |language=en-US}}</ref> said James McDonnell, assistant secretary for countering weapons of mass destruction and director of the Domestic Nuclear Detection Office for within DHS. In his remarks, the subcommittee chairman Rep. [[Dan Donovan (politician)|Dan Donovan]] (R-NY) said that the threat of weapons of mass destruction "has changed and become more diverse."<ref name=":0" /> One witness discussed drone delivery of biological, chemical and nuclear weapons as one of the newest threats to [[homeland security]].<ref name=":0" />
+
+== Fiscal year 2018 budget oversight ==
+In June 2017, Homeland Security Secretary John Kelly testified before the committee regarding DHS's piece of President Trump's Fiscal Year 2018 Budget.<ref>{{Cite news|url=https://thehill.com/policy/cybersecurity/336115-week-ahead-comey-to-testify-publicly-on-trump-russia-dhs-chief-talks/|title=Week ahead: Comey to testify publicly on Trump, Russia {{!}} DHS chief talks cyber budget|last=Mali|first=Meghashyam|date=2017-06-05|work=[[The Hill (newspaper)|The Hill]]|access-date=2017-06-26}}</ref> During the hearing, members of the committee from both parties "expressed opposition to the Trump administration's proposed budget that would cut funding for training and deployment for local security programs by as much as 30 percent next year [2018]." The overall funding for the department, however, under Trump's budget would increase by almost seven percent. Congressman Peter King (R-NY) said the cuts would affect security programs for New York's [[first responder]]s, and Congressman Donald Payne (D-NJ) questioned how the cuts would help keep safe the ports of [[Port Elizabeth, New Jersey|Elizabeth]] and [[Port Newark–Elizabeth Marine Terminal|Newark]].<ref name="hpndhsbudget">{{Cite news|url=https://homelandprepnews.com/countermeasures/22754-house-homeland-security-committee-opposes-trumps-budget-cuts-local-first-responders-hearing/|title=House Homeland Security Committee opposes Trump's budget cuts to local first responders at hearing|date=2017-06-07|work=Homeland Preparedness News|access-date=2017-06-26|language=en-US}}</ref>
+
+The president's budget for 2018 would:<ref name="hpndhsbudget" />
+* Increase the DHS budget for fiscal 2018 by $2.8 billion, to $44.1 billion
+* Include funding for 500 new border patrol agents
+* Include funding for 1,000 new Immigration and Customs Enforcement agents
+* Begin construction of the border wall that Trump promised during his presidential campaign
+* Cut grants to local and state agencies by $667 million for pre-disaster mitigation and counterterrorism funding
+In November 2017, in an annual oversight hearing called “World Wide Threats: Keeping America Secure in the New Age of Terror”, leaders of the U.S. government's national security agencies “offered troubling assessments of the growing threats from terrorism, both internationally and domestically.”<ref>{{Cite news|url=https://homelandprepnews.com/stories/25517-national-security-executives-offer-dire-forecasts-homeland-security-committee-hearing/|title=National security executives offer dire forecasts during Homeland Security Committee hearing|date=2017-11-30|work=Homeland Preparedness News|access-date=2017-12-04|language=en-US}}</ref>
+
+==Members, 118th Congress==
+{| class=wikitable
+! Majority
+! Minority
+|-
+| {{party shading/Republican}} valign=top |
+* [[Mark Green (Tennessee politician)|Mark Green]], Tennessee, ''Chair''
+* [[Michael McCaul]], Texas
+* [[Clay Higgins]], Louisiana
+* [[Michael Guest (politician)|Michael Guest]], Mississippi, ''Vice Chair''
+* [[Dan Bishop]], North Carolina
+* [[Carlos A. Giménez]], Florida
+* [[August Pfluger]], Texas
+* [[Andrew Garbarino]], New York
+* [[Marjorie Taylor Greene]], Georgia
+* [[Tony Gonzales]], Texas
+* [[Nick LaLota]], New York
+* [[Mike Ezell]], Mississippi
+* [[Anthony D'Esposito]], New York
+* [[Laurel Lee]], Florida
+* [[Morgan Luttrell]], Texas
+* [[Dale Strong]], Alabama
+* [[Josh Brecheen]], Oklahoma
+* [[Eli Crane]], Arizona
+
+| {{party shading/Democratic}} valign=top |
+* [[Bennie Thompson]], Mississippi, ''Ranking Member''
+* [[Sheila Jackson Lee]], Texas (until July 19, 2024)
+* [[Donald Payne Jr.]], New Jersey (until April 24, 2024)
+* [[Eric Swalwell]], California
+* [[Lou Correa]], California
+* [[Troy Carter (politician)|Troy Carter]], Louisiana
+* [[Shri Thanedar]], Michigan
+* [[Seth Magaziner]], Rhode Island
+* [[Glenn Ivey]], Maryland
+* [[Dan Goldman]], New York
+* [[Robert Garcia (California politician)|Robert Garcia]], California
+* [[Delia Ramirez]], Illinois, ''Vice Ranking Member''
+* [[Rob Menendez]], New Jersey
+* [[Tom Suozzi]], New York (from February 29, 2024)
+* [[Tim Kennedy (politician)|Tim Kennedy]], New York (from May 7, 2024)
+* [[Yvette Clarke]], New York
+* [[Dina Titus]], Nevada
+|}
+
+Resolutions electing members: {{USBill|118|HRes|14}} (Chair), {{USBill|118|HRes|15}} (Ranking Member), {{USBill|118|HRes|79}} (D), {{USBill|118|HRes|80}} (R), {{USBill|118|HRes|1034}} (Suozzi), {{USBill|118|HRes|1204}} (Kennedy)
+
+==Subcommittees for the 118th Congress==
+{| class="wikitable"
+! Subcommittee
+! Chair<ref>{{Cite web |last=Fulop |first=Lesley |date=2023-01-27 |title=Chairman Green Announces Homeland Security Subcommittee Leaders & Membership for the 118th Congress |url=https://homeland.house.gov/chairman-green-announces-homeland-security-subcommittee-leaders-membership-for-the-118th-congress/ |access-date=2023-01-28 |website=Committee on Homeland Security {{!}} Republicans |language=en-US}}</ref>
+! Ranking Member<ref>{{Citation |title=Full Committee Organizational Meeting 118th Congress |url=https://www.youtube.com/watch?v=daPwgCHZiY4 |language=en |access-date=2023-02-20}}</ref>
+|-
+| [[United States House Homeland Security Subcommittee on Border Security and Enforcement|Border Security and Enforcement]]
+| [[Clay Higgins]] (R-LA)
+|[[Lou Correa]] (D-CA)
+|-
+| [[United States House Homeland Security Subcommittee on Counterterrorism, Law Enforcement and Intelligence|Counterterrorism, Law Enforcement and Intelligence]]
+| [[August Pfluger]] (R-TX)
+|[[Seth Magaziner]] (D-RI)
+|-
+| [[United States House Homeland Security Subcommittee on Cybersecurity and Infrastructure Protection|Cybersecurity and Infrastructure Protection]]
+| [[Andrew Garbarino]] (R-NY)
+|[[Eric Swalwell]] (D-CA)
+|-
+| [[United States House Homeland Security Subcommittee on Emergency Management and Technology|Emergency Management and Technology]]
+| [[Anthony D'Esposito]] (R-NY)
+|[[Troy Carter (politician)|Troy Carter]] (D-LA)
+|-
+| [[United States House Homeland Security Subcommittee on Oversight, Investigations, and Accountability|Oversight, Investigations and Accountability]]
+| [[Dan Bishop]] (R-NC)
+|[[Glenn Ivey]] (D-MD)
+|-
+| [[United States House Homeland Security Subcommittee on Transportation and Maritime Security|Transportation and Maritime Security]]
+| [[Carlos A. Giménez]] (R-FL)
+|[[Shri Thanedar]] (D-MI)
+|}
+
+==Committee chairs==
+* [[Dick Armey]] (R-TX), 2002–2003
+* [[Christopher Cox]] (R-CA), 2003–2005
+* [[Peter King (American politician)|Peter King]] (R-NY), 2005–2007
+* [[Bennie Thompson]] (D-MS), 2007–2011
+* [[Peter King (American politician)|Peter King]] (R-NY), 2011–2013
+* [[Michael McCaul]] (R-TX), 2013–2019
+* [[Bennie Thompson]] (D-MS), 2019–2023
+* [[Mark Green (Tennessee politician)|Mark Green]] (R-TN), 2023–present
+
+==Historical membership rosters==
+
+===115th Congress===
+{| class=wikitable
+! Majority
+! Minority
+|-
+| {{party shading/Republican}} valign=top |
+* [[Michael McCaul]], Texas, ''Chair''
+* [[Lamar Smith]], Texas
+* [[Peter King (American politician)|Peter King]], New York
+* [[Mike Rogers (Alabama politician)|Mike Rogers]], Alabama
+* [[Jeff Duncan (politician)|Jeff Duncan]], South Carolina
+* [[Tom Marino]], Pennsylvania
+* [[Lou Barletta]], Pennsylvania
+* [[Scott Perry (politician)|Scott Perry]], Pennsylvania
+* [[John Katko]], New York
+* [[Will Hurd]], Texas
+* [[Martha McSally]], Arizona
+* [[John Ratcliffe (American politician)|John Ratcliffe]], Texas
+* [[Dan Donovan (politician)|Dan Donovan]], New York
+* [[Mike Gallagher (American politician)|Mike Gallagher]], Wisconsin
+* [[Clay Higgins]], Louisiana
+* [[John Rutherford (Florida politician)|John Rutherford]], Florida
+* [[Tom Garrett (Virginia politician)|Tom Garrett]], Virginia
+* [[Brian Fitzpatrick (American politician)|Brian Fitzpatrick]], Pennsylvania
+* [[Don Bacon]], Nebraska
+| {{party shading/Democratic}} valign=top |
+* [[Bennie Thompson]], Mississippi, ''Ranking Member''
+* [[Sheila Jackson Lee]], Texas
+* [[James Langevin]], Rhode Island
+* [[Cedric Richmond]], Louisiana
+* [[Bill Keating (politician)|Bill Keating]], Massachusetts
+* [[Donald Payne Jr.]], New Jersey
+* [[Filemon Vela Jr.]], Texas
+* [[Bonnie Watson Coleman]], New Jersey, ''Vice Ranking Member''
+* [[Kathleen Rice]], New York
+* [[Lou Correa]], California
+* [[Val Demings]], Florida
+* [[Nanette Barragán]], California
+|}
+Sources: {{USBill|115|HRes|6}} (chair), {{USBill|115|HRes|7}} (Ranking Member), {{USBill|115|HRes|45}} (D) and {{USBill|115|HRes|51}} (R)
+
+===116th Congress===
+{| class=wikitable
+! Majority
+! Minority
+|-
+| {{party shading/Democratic}} valign=top |
+* [[Bennie Thompson]], Mississippi, ''Chair''
+* [[Sheila Jackson Lee]], Texas
+* [[James Langevin]], Rhode Island
+* [[Cedric Richmond]], Louisiana
+* [[Donald Payne Jr.]], New Jersey 
+* [[Kathleen Rice]], New York
+* [[Lou Correa]], California
+* [[Lauren Underwood]], Illinois, ''Vice Chair''
+* [[Max Rose (politician)|Max Rose]], New York
+* [[Xochitl Torres Small]], New Mexico
+* [[Elissa Slotkin]], Michigan
+* [[Emanuel Cleaver]], Missouri
+* [[Al Green (politician)|Al Green]], Texas
+* [[Yvette Clarke]], New York
+* [[Dina Titus]], Nevada
+* [[Bonnie Watson Coleman]], New Jersey
+* [[Nanette Barragán]], California
+* [[Val Demings]], Florida
+
+| {{party shading/Republican}} valign=top |
+* [[Mike Rogers (Alabama politician)|Mike Rogers]], Alabama, ''Ranking Member''
+* [[Peter King (American politician)|Peter King]], New York
+* [[Michael McCaul]], Texas
+* [[John Katko]], New York
+* [[Mark Walker (North Carolina politician)|Mark Walker]], North Carolina
+* [[Clay Higgins]], Louisiana
+* [[Debbie Lesko]], Arizona
+* [[Mark Green (Tennessee politician)|Mark Green]], Tennessee
+* [[John Joyce (American politician)|John Joyce]], Pennsylvania
+* [[Dan Crenshaw]], Texas
+* [[Michael Guest (politician)|Michael Guest]], Mississippi
+* [[Dan Bishop]], North Carolina (since September 26, 2019)
+* [[Jeff Van Drew]], New Jersey (since January 16, 2020)
+* [[Mike Garcia (politician)|Mike Garcia]], California (since July 30, 2020)
+|}
+Sources: {{USBill|116|HRes|24}} (chair), {{USBill|116|HRes|25}} (Ranking Member), {{USBill|116|HRes|67}} (D), {{USBill|116|HRes|68}} (R), {{USBill|116|HRes|596}} (R), {{USBill|116|HRes|801}} (R), {{USBill|116|HRes|1072}} (R)
+
+;Subcommittees
+{| class="wikitable"
+! Subcommittee
+! Chair
+! Ranking Member
+|-
+| [[United States House Homeland Security Subcommittee on Border and Maritime Security|Border Security, Facilitation, and Operations]]
+| [[Kathleen Rice]] (D-NY)
+| [[Clay Higgins]] (R-LA)
+|-
+| [[United States House Homeland Security Subcommittee on Cybersecurity and Infrastructure Protection|Cybersecurity, Infrastructure Protection, and Innovation]]
+| [[Lauren Underwood]] (D-IL)
+| [[John Katko]] (R-NY)
+|-
+| [[United States House Homeland Security Subcommittee on Emergency Preparedness, Response, and Communications|Emergency Preparedness, Response, and Recovery]]
+| [[Donald Payne Jr.]] (D-NJ)
+| [[Peter King (American politician)|Peter King]] (R-NY)
+|-
+| [[United States House Homeland Security Subcommittee on Counterterrorism and Intelligence|Intelligence and Counterterrorism]]
+| [[Max Rose (politician)|Max Rose]] (D-NY)
+| [[Mark Walker (North Carolina politician)|Mark Walker]] (R-NC)
+|-
+| [[United States House Homeland Security Subcommittee on Oversight and Management Efficiency|Oversight, Management, and Accountability]]
+| [[Xochitl Torres Small]] (D-NM)
+| [[Dan Crenshaw]] (R-TX)
+|-
+| [[United States House Homeland Security Subcommittee on Transportation and Protective Security|Transportation and Maritime Security]]
+| [[Lou Correa]] (D-CA)
+| [[Debbie Lesko]] (R-AZ)
+|}
+
+===117th Congress===
+{| class=wikitable
+! Majority
+! Minority
+|-
+| {{party shading/Democratic}} valign=top |
+* [[Bennie Thompson]], Mississippi, ''Chair''
+* [[Sheila Jackson Lee]], Texas
+* [[James Langevin]], Rhode Island
+* [[Donald Payne Jr.]], New Jersey 
+* [[Lou Correa]], California
+* [[Elissa Slotkin]], Michigan
+* [[Emanuel Cleaver]], Missouri
+* [[Al Green (politician)|Al Green]], Texas
+* [[Yvette Clarke]], New York
+* [[Dina Titus]], Nevada
+* [[Bonnie Watson Coleman]], New Jersey
+* [[Kathleen Rice]], New York
+* [[Val Demings]], Florida
+* [[Nanette Barragán]], California
+* [[Josh Gottheimer]], New Jersey
+* [[Elaine Luria]], Virginia
+* [[Tom Malinowski]], New Jersey
+* [[Ritchie Torres]], New York, ''Vice Chair''
+
+| {{party shading/Republican}} valign=top |
+* [[John Katko]], New York, ''Ranking Member''
+* [[Michael McCaul]], Texas
+* [[Clay Higgins]], Louisiana
+* [[Michael Guest (politician)|Michael Guest]], Mississippi
+* [[Dan Bishop]], North Carolina
+* [[Jeff Van Drew]], New Jersey
+* [[Ralph Norman]], South Carolina
+* [[Mariannette Miller-Meeks]], Iowa
+* [[Diana Harshbarger]], Tennessee
+* [[Andrew Clyde]], Georgia
+* [[Carlos A. Giménez]], Florida
+* [[Jake LaTurner]], Kansas
+* [[Peter Meijer]], Michigan
+* [[Kat Cammack]], Florida
+* [[August Pfluger]], Texas
+* [[Andrew Garbarino]], New York
+* [[Mayra Flores]], Texas (since June 22, 2022)
+|}
+Resolutions electing members: {{USBill|117|HRes|9}} (chair), {{USBill|117|HRes|10}} (Ranking Member), {{USBill|117|HRes|62}} (D), {{USBill|117|HRes|63}} (R), {{USBill|117|HRes|1197}} (R)
+;Subcommittees
+{| class="wikitable"
+! Subcommittee
+! Chair<ref>[https://homeland.house.gov/news/press-releases/chairman-thompson-announces-homeland-security-committee-democratic-members-and-subcommittee-chair Chairman Thompson announces Homeland Security Democratic members and subcommittee chairs]</ref>
+! Ranking Member<ref>[https://republicans-homeland.house.gov/ranking-member-katko-announces-homeland-security-republican-subcommittee-leaders/ Ranking Member Katko Announces Homeland Security Republican Subcommittee Leaders]</ref>
+|-
+| [[United States House Homeland Security Subcommittee on Border Security, Facilitation and Operations|Border Security, Facilitation and Operations]]
+| [[Nanette Barragán]] (D-CA)
+| [[Clay Higgins]] (R-LA)
+|-
+| [[United States House Homeland Security Subcommittee on Cybersecurity, Infrastructure Protection and Innovation|Cybersecurity, Infrastructure Protection and Innovation]]
+| [[Yvette Clarke]] (D-NY)
+| [[Andrew Garbarino]] (R-NY)
+|-
+| [[United States House Homeland Security Subcommittee on Emergency Preparedness, Response and Recovery|Emergency Preparedness, Response and Recovery]]
+| [[Val Demings]] (D-FL)
+| [[Kat Cammack]] (R-FL)
+|-
+| [[United States House Homeland Security Subcommittee on Intelligence and Counterterrorism|Intelligence and Counterterrorism]]
+| [[Elissa Slotkin]] (D-MI)
+| [[August Pfluger]] (R-TX)
+|-
+| [[United States House Homeland Security Subcommittee on Oversight, Management and Accountability|Oversight, Management and Accountability]]
+| [[Lou Correa]] (D-NM)
+| [[Peter Meijer]] (R-MI)
+|-
+| [[United States House Homeland Security Subcommittee on Transportation and Maritime Security|Transportation and Maritime Security]]
+| [[Bonnie Watson Coleman]] (D-NJ)
+| [[Carlos A. Giménez]] (R-FL)
+|}
+
+==See also==
+* [[List of current United States House of Representatives committees]]
+* ''[[Final Report of the Task Force on Combating Terrorist and Foreign Fighter Travel]]''
+
+==References==
+{{Reflist}}
+
+==External links==
+* [http://homeland.house.gov/ Committee on Homeland Security homepage] ([https://www.loc.gov/item/lcwa00hshm00/ Archive])
+* [https://www.congress.gov/committee/house-homeland-security/hshm00 House Homeland Security Committee]. Legislation activity and reports, Congress.gov.
+* [https://www.congress.gov/committees/video/house-homeland-security/hshm00 House Homeland Security Committee Hearings and Meetings Video]. Congress.gov.
+* [https://www.dhs.gov/dhspublic/ U.S. Department of Homeland Security homepage]
+* {{Gutenberg author | id=34718}}
+* {{Internet Archive author |search=("Committee on Homeland Security")}}
+
+{{United States congressional committees}}
+
+[[Category:Committees of the United States House of Representatives|Homeland Security]]
+[[Category:Disaster preparedness in the United States]]
+[[Category:2002 establishments in Washington, D.C.]]

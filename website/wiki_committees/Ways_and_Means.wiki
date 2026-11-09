@@ -1,0 +1,549 @@
+{{Short description|Chief tax-writing committee of the House of Representatives}}
+{{Use American English|date = April 2019}}
+{{Use mdy dates|date = April 2019}}
+{{Infobox legislature
+| background_color  = #000090
+| name              = Committee on Ways and Means
+| legislature       = [[118th United States Congress]]
+| coa_pic           = Seal of the United States House of Representatives.svg
+| coa_res           = 125px
+| coa_alt           = Seal of the U.S. House of Representatives
+| logo_pic          = Ways and Means (118th Congress).svg
+| logo_res          = 250px
+| logo_caption      = Logo of the committee
+| body              = United States Congress
+| foundation        = {{Start date|1795|12|21}}
+| new_session       = {{Start date|2023|01|09}}
+| leader1_type      = Chair
+| leader1           = [[Jason Smith (American politician)|Jason Smith]]
+| party1            = ([[Republican Party (United States)|R]])
+| election1         = January 10, 2023
+| leader2_type     = Ranking Member
+| leader2           = [[Richard Neal]]
+| election2         = January 10, 2023
+| party2            = ([[Democratic Party (United States)|D]])
+| members           = 43 members
+| political_groups1 = '''Majority'''
+*{{nowrap|{{Color box|#F33|border=darkgray}} [[Republican Party (United States)|Republican]] (25)}}
+'''Minority'''
+*{{nowrap|{{Color box|#33F|border=darkgray}} [[Democratic Party (United States)|Democratic]] (18)}}
+| policy_areas      = 
+| oversight         = 
+| joint_committees  = Senate equivalent: [[United States Senate Committee on Finance|Senate Finance Committee]]
+| website           = {{official URL}}
+}}
+The '''Committee on Ways and Means''' is the chief [[tax]]-writing [[List of current United States House of Representatives committees|committee]] of the [[United States House of Representatives]]. The committee has jurisdiction over all [[Taxation in the United States|taxation]], [[tariff]]s, and other revenue-raising measures, as well as a number of other programs including [[Social Security (United States)|Social Security]], [[unemployment benefit]]s, [[Medicare (United States)|Medicare]], the enforcement of [[child support]] laws, [[Temporary Assistance for Needy Families]], [[foster care]], and [[adoption]] programs. Members of the Ways and Means Committee are not allowed to serve on any other House Committee unless they are granted a waiver from their party's congressional leadership. It has long been regarded as the most prestigious committee of the House of Representatives.<ref>{{Cite web|url=https://www.politico.com/news/magazine/2021/04/02/john-boehner-book-memoir-excerpt-478506|title = Panic Rooms, Birth Certificates and the Birth of GOP Paranoia|website = [[Politico]]| date=April 2, 2021 }}</ref>
+
+The [[United States Constitution]] requires that all bills regarding taxation must originate in the U.S. House of Representatives, and House rules dictate that all bills regarding taxation must pass through Ways and Means.  This system imparts upon the committee and its members a significant degree of influence over other representatives, committees, and public policy. Its Senate counterpart is the [[United States Senate Committee on Finance|U.S. Senate Committee on Finance]].
+
+In the [[118th United States Congress|118th Congress]], the committee's chair is [[Jason T. Smith]].<ref>{{cite news |last=Weiss |first=Laura |date=January 9, 2023 |title=Rep. Jason Smith wins three-way contest for Ways and Means gavel |publisher=Roll Call |url=https://rollcall.com/2023/01/09/rep-jason-smith-wins-three-way-contest-for-ways-and-means-gavel/ |access-date=January 17, 2023}}</ref> Recent chairmen have included [[Bill Thomas]], [[Charlie Rangel]], [[Sander Levin]], [[Dave Camp]], [[Paul Ryan]], [[Kevin Brady]], and [[Richard Neal]].
+
+==History==
+[[File:Weighs and Means 2020.jpg|250px|thumb|Inside a Ways and Means meeting in November 2019.]]
+
+The Ways and Means Committee was first established during the first Congress, in 1789. However, this initial version was disbanded after only 8 weeks; for the next several years, only ad hoc committees were formed, to write up laws on notions already debated in the whole House. It was first established as a standing committee by resolution adopted December 21, 1795,<ref>{{Cite web |url=http://a257.g.akamaitech.net/7/257/2422/04feb20050244/www.gpoaccess.gov/serialset/cdocuments/100-244/pdf/1789-1801.pdf |title=Ways and Means Bicentennial History, Page 38 |access-date=March 12, 2007 |archive-date=September 23, 2008 |archive-url=https://web.archive.org/web/20080923192306/http://a257.g.akamaitech.net/7/257/2422/04feb20050244/www.gpoaccess.gov/serialset/cdocuments/100-244/pdf/1789-1801.pdf |url-status=live }}</ref> and first appeared among the list of regular standing committees on January 7, 1802.<ref>{{Cite web |url=http://a257.g.akamaitech.net/7/257/2422/04sept20041029/www.gpoaccess.gov/serialset/cdocuments/100-244/pdf/1801-1829.pdf |title=Ways and Means Bicentennial History, Page 58 |access-date=March 12, 2007 |archive-date=September 10, 2008 |archive-url=https://web.archive.org/web/20080910111312/http://a257.g.akamaitech.net/7/257/2422/04sept20041029/www.gpoaccess.gov/serialset/cdocuments/100-244/pdf/1801-1829.pdf |url-status=live }}</ref> Upon its original creation, it held power over both taxes and spending, until the spending power was given to the new [[United States House Committee on Appropriations|Appropriations Committee]] in 1865.<ref>[[James M. Cannon|Cannon, J. M.]], ''Time and Chance: Gerald Ford's Appointment with History'' ([[Ann Arbor, Michigan|Ann Arbor]]: [[University of Michigan Press]], 1994), [https://books.google.com/books?id=iYOhN17-rDkC&pg=PA58 p. 58].</ref>
+
+During the Civil War the key policy-maker in Congress was [[Thaddeus Stevens]], as chairman of the committee and Republican floor leader. He took charge of major legislation that funded the war effort and permanently transformed the nation's economic policies regarding tariffs, bonds, income and excise taxes, national banks, suppression of money issued by state banks, greenback currency, and western railroad land grants.<ref>{{cite book|author=Heather Cox Richardson|author-link=Heather Cox Richardson|title=The Greatest Nation of the Earth: Republican Economic Policies During the Civil War|url=https://books.google.com/books?id=RZVjReDrxKYC&pg=PA9|year=1997|publisher=[[Harvard University Press]]|pages=9, 41, 52, 111, 116, 120, 182, 202|isbn=9780674059658}}</ref> Stevens was one of the major policymakers regarding Reconstruction, and obtained a House vote of impeachment against President [[Andrew Johnson]] (who was acquitted by the Senate in 1868). [[Hans L. Trefousse]], his leading biographer, concludes that Stevens "was one of the most influential representatives ever to serve in Congress. [He dominated] the House with his wit, knowledge of parliamentary law, and sheer willpower, even though he was often unable to prevail."<ref>{{cite book|author=Trefousse, H. L.|title=Historical Dictionary of Reconstruction|url=https://books.google.com/books?id=jIEQr2ZLLhoC&pg=PA214|year=1991|publisher=Greenwood |page=214|isbn=9780313258626}}</ref>  Historiographical views of Stevens have dramatically shifted over the years, from the early 20th-century view of Stevens and the [[Radical Republicans]] as tools of enormous business  and motivated by hatred of the white South, to the perspective of the [[Neoabolitionism (race relations)|neoabolitionists]] of the 1950s and afterwards, who applauded their efforts to give equal rights to the freed slaves.{{citation needed|date=January 2017}}
+
+Three future presidents – [[James Polk]], [[Millard Fillmore]], and [[William McKinley]] – served as Committee Chairman.  Before the official roles of [[floor leader]] came about in the late 19th century, the Chairman of Ways and Means was considered the Majority Leader.  The chairman is one of very few Representatives to have office space within the Capitol building itself.<ref>Schraufnagel, S., ''Historical Dictionary of the U.S. Congress'' ([[Lanham, Maryland|Lanham]]: [[Rowman & Littlefield|The Scarecrow Press, Inc.]], 2011), [https://books.google.com/books?id=kCekVq3piTsC&pg=PA239 p. 239] {{Webarchive|url=https://web.archive.org/web/20210213035453/https://books.google.com/books?id=kCekVq3piTsC&pg=PA239 |date=February 13, 2021 }}.</ref>
+
+==Political significance==
+{{United States House of Representatives}}
+Because of its wide jurisdiction, Ways and Means has always been one of the most important committees with respect to impact on policy. Although it lacks the prospects for reelection help that comes with the [[United States House Committee on Appropriations|Appropriations Committee]], it is seen as a valuable post for two reasons: given the wide array of interests that are affected by the committee, a seat makes it easy to collect [[Campaign finance|campaign contributions]]<ref>{{cite journal |last1= Grier|first1= Kevin|last2= Munger|first2= Michael|author-link2=Michael Munger|year= 1991|title=Committee Assignments, Constituent Preferences and Campaign Contributions |journal=Economic Inquiry |volume=29 |issue=1 |pages=24–43 |doi=10.1111/j.1465-7295.1991.tb01250.x}}</ref> and since its range is broad, members with a wide array of policy concerns often seek positions to be able to influence policy decisions. Some recent major issues that have gone through the Ways and Means Committee include [[welfare reform]], a Medicare [[prescription drug]] benefit, [[Social Security reform]], [[George W. Bush]]'s tax cuts, and trade agreements including the [[North American Free Trade Agreement]] (NAFTA) and the [[Central America Free Trade Agreement]] (CAFTA).
+
+From 1911 to 1974, the Ways and Means Committee also had the responsibility to appoint members of other committees  in addition to  its legislative duties.<ref name="'70s 276">{{Cite book |last=Committee on Ways and Means |url=https://www.govinfo.gov/app/details/GPO-CDOC-100hdoc244 |title=A Bicentennial History, 1789-1989 |publisher=U.S. Government Printing Office |year=1989 |isbn=0-465-04195-7 |location=Washington, DC |pages=215, 354, 355 |language=English |url-access=registration}}</ref> When Ways and Means chair [[Wilbur Mills (politician)|Wilbur Mills]]' career ended in scandal, Congressman [[Phillip Burton]] transferred the committee's selection powers to a separate, newly created committee.<ref name="'70s 276" />
+
+==Members, 118th Congress==
+{| class=wikitable
+! Majority
+! Minority
+|-
+| valign=top {{Party shading/Republican}}|
+* [[Jason Smith (American politician)|Jason Smith]], Missouri, ''Chair''
+* [[Vern Buchanan]], Florida, ''Vice Chair''
+* [[Adrian Smith (politician)|Adrian Smith]], Nebraska
+* [[Mike Kelly (Pennsylvania politician)|Mike Kelly]], Pennsylvania
+* [[David Schweikert]], Arizona
+* [[Darin LaHood]], Illinois
+* [[Brad Wenstrup]], Ohio
+* [[Jodey Arrington]], Texas
+* [[Drew Ferguson (politician)|Drew Ferguson]], Georgia
+* [[Ron Estes]], Kansas
+* [[Lloyd Smucker]], Pennsylvania
+* [[Kevin Hern]], Oklahoma
+* [[Carol Miller (politician)|Carol Miller]], West Virginia
+* [[Greg Murphy (politician)|Greg Murphy]], North Carolina
+* [[David Kustoff]], Tennessee
+* [[Brian Fitzpatrick (American politician)|Brian Fitzpatrick]], Pennsylvania
+* [[Greg Steube]], Florida
+* [[Claudia Tenney]], New York
+* [[Michelle Fischbach]], Minnesota
+* [[Blake Moore]], Utah
+* [[Michelle Steel]], California
+* [[Beth Van Duyne]], Texas
+* [[Randy Feenstra]], Iowa
+* [[Nicole Malliotakis]], New York
+* [[Mike Carey (politician)|Mike Carey]], Ohio
+
+| valign=top {{Party shading/Democratic}}|
+* [[Richard Neal]], Massachusetts, ''Ranking Member''
+* [[Lloyd Doggett]], Texas
+* [[Mike Thompson (California politician)|Mike Thompson]], California
+* [[John B. Larson]], Connecticut
+* [[Earl Blumenauer]], Oregon
+* [[Bill Pascrell]], New Jersey (until August 21, 2024)
+* [[Danny Davis (Illinois politician)|Danny Davis]], Illinois
+* [[Linda Sánchez]], California
+* [[Brian Higgins]], New York (until February 2, 2024)
+* [[Terri Sewell]], Alabama
+* [[Suzan DelBene]], Washington
+* [[Judy Chu]], California, ''Vice Ranking Member''
+* [[Gwen Moore]], Wisconsin
+* [[Dan Kildee]], Michigan
+* [[Don Beyer]], Virginia
+* [[Dwight Evans (politician)|Dwight Evans]], Pennsylvania
+* [[Brad Schneider]], Illinois
+* [[Jimmy Panetta]], California
+* [[Jimmy Gomez]], California (from February 6, 2024)
+* [[Steven Horsford]], Nevada (from September 10, 2024)
+|}
+Resolutions electing members: {{USBill|118|HRes|14}} (chair), {{USBill|118|HRes|15}} (Ranking Member), {{USBill|118|HRes|56}} (R), {{USBill|118|HRes|57}} (D), {{USBill|118|HRes|999}} (Gomez), {{USBill|118|HRes|1431}} (Horsford)
+
+==Subcommittees==
+There are six subcommittees in the 118th Congress. In 2011, the [[United States House Ways and Means Subcommittee on Income Security and Family Support|Subcommittee on Income Security and Family Support]] was renamed the Subcommittee on Human Resources, returning to the name it held prior to the [[110th United States Congress]].<ref>{{cite web| url=http://waysandmeans.house.gov/news/documentsingle.aspx?DocumentID=316841| title=Chairman Camp Announces Republican Membership on Ways & Means Subcommittees for 113th Congress| date=January 15, 2013| access-date=2013-01-22}}</ref> In 2015, the [[United States House Ways and Means Subcommittee on Select Revenue Measures|Select Revenue Measures]] was renamed the Subcommittee on Tax Policy.<ref>{{cite web| url=http://waysandmeans.house.gov/chairman-brady-announces-republican-subcommittee-chairs-members| title=Chairman Brady Announces Republican Subcommittee Chairs, Members| date=November 18, 2015| access-date=2015-11-18}}</ref> In 2019 these two subcommittees were again renamed under Democratic control; Human Resources became Worker and Family Support and Tax Policy was renamed to Select Revenue Measures. In 2023 and under a return to Republican control, they were again renamed to Work and Welfare and Tax respectively.
+{| class="wikitable"
+! Subcommittee
+! Chair<ref>{{Cite web |last=Foster |first=Tim |date=2023-01-27 |title=Smith Announces 118th Congress Ways and Means Subcommittee Chairs |url=https://waysandmeans.house.gov/smith-announces-118th-congress-ways-and-means-subcommittee-chairs/ |access-date=2023-01-28 |website=House Committee on Ways and Means |language=en-US}}</ref>
+! Ranking Member<ref>{{Cite web |date=2023-01-27 |title=Ranking Member Neal Announces Ways and Means Democrats' Subcommittee Assignments for the 118th Congress |url=https://democrats-waysandmeans.house.gov/media-center/press-releases/ranking-member-neal-announces-ways-and-means-democrats-subcommittee |access-date=2023-01-28 |website=Ways and Means Committee - Democrats |language=en}}</ref>
+|-
+| [[United States House Ways and Means Subcommittee on Health|Health]]
+| [[Vern Buchanan]] (R-FL)
+| [[Lloyd Doggett]] (D–TX)
+|-
+| [[United States House Ways and Means Subcommittee on Oversight|Oversight]]
+| [[David Schweikert]] (R-AZ)
+| [[Bill Pascrell]] (D-NJ) (until August 21, 2024)
+[[Linda Sánchez]] (D-CA) (from September 10, 2024)<ref>{{Cite web |date=2024-09-10 |title=Neal Celebrates Sánchez Breaking a Glass Ceiling for Ways and Means Democrats {{!}} Ways and Means - Democrats |url=https://democrats-waysandmeans.house.gov/media-center/press-releases/neal-celebrates-sanchez-breaking-glass-ceiling-ways-and-means-democrats |access-date=2024-09-19 |website=democrats-waysandmeans.house.gov |language=en}}</ref>
+|-
+| [[United States House Ways and Means Subcommittee on Social Security|Social Security]]
+| [[Drew Ferguson (politician)|Drew Ferguson]] (R-GA)
+| [[John B. Larson]] (D-CT)
+|-
+| [[United States House Ways and Means Subcommittee on Select Revenue Measures|Tax]]
+| [[Mike Kelly (Pennsylvania politician)|Mike Kelly]] (R-PA)
+| [[Mike Thompson (California politician)|Mike Thompson]] (D-CA)
+|-
+| [[United States House Ways and Means Subcommittee on Trade|Trade]]
+| [[Adrian Smith (politician)|Adrian Smith]] (R-NE)
+| [[Earl Blumenauer]] (D-OR)
+|-
+| [[United States House Ways and Means Subcommittee on Worker and Family Support|Work and Welfare]]
+| [[Darin LaHood]] (R-IL)
+| [[Danny K. Davis]] (D–IL)
+|}
+
+==List of chairs==
+{| class="wikitable sortable"
+! # !! Chair !! Party !! State !! Start of service !! End of service
+|-
+|1 || [[Thomas Fitzsimons]] || {{party shading/Federalist}} | Federalist || PA || 1789 || 1789
+|-
+|2 || [[William Loughton Smith|William L. Smith]] || {{party shading/Federalist}} | Federalist || SC || 1794 || 1797
+|-
+|3 || [[Robert G. Harper]] || {{party shading/Federalist}} | Federalist || SC || 1797 || 1800
+|-
+|4 || [[Roger Griswold]] || {{party shading/Federalist}} | Federalist || CT || 1800 || 1801
+|-
+|5 || [[John Randolph of Roanoke|John Randolph]] || {{party shading/Democratic-Republican}} | Democratic-Republican || VA || 1801 || 1805
+|-
+|6 || [[Joseph Clay]] || {{party shading/Democratic-Republican}} | Democratic-Republican || PA || 1805 || 1807
+|-
+|7 || [[George W. Campbell]] || {{party shading/Democratic-Republican}} | Democratic-Republican || TN || 1807 || 1809
+|-
+|8 || [[John W. Eppes]] || {{party shading/Democratic-Republican}} | Democratic-Republican || VA || 1809 || 1811
+|-
+|9 || [[Ezekiel Bacon]] || {{party shading/Democratic-Republican}} | Democratic-Republican || MA || 1811 || 1812
+|-
+|10 || [[Langdon Cheves]] || {{party shading/Democratic-Republican}} | Democratic-Republican || SC || 1812 || 1813
+|-
+|11 || [[John W. Eppes]] || {{party shading/Democratic-Republican}} | Democratic-Republican || VA || 1813 || 1815
+|-
+|12 || [[William Lowndes (congressman)|William Lowndes]] || {{party shading/Democratic-Republican}} | Democratic-Republican || SC || 1815 || 1818
+|-
+|13 || [[Samuel Smith (Maryland politician)|Samuel Smith]] || {{party shading/Democratic-Republican}} | Democratic-Republican || MD || 1818 || 1822
+|-
+|14 || [[Louis McLane]] || {{party shading/Federalist}} | Federalist || DE || 1822 || 1827
+|-
+|15 || [[John Randolph of Roanoke|John Randolph]] || {{party shading/Democratic}} | Democratic || VA || 1827 || 1827
+|-
+|16 || [[George McDuffie]] || {{party shading/Democratic}} | Democratic || SC || 1827 || 1832
+|-
+|17 || [[Gulian C. Verplanck]] || {{party shading/Democratic}} | Democratic || NY || 1832 || 1833
+|-
+|18 || [[James K. Polk]] || {{party shading/Democratic}} | Democratic || TN || 1833 || 1835
+|-
+|19 || [[Churchill C. Cambreleng]] || {{party shading/Democratic}} | Democratic || NY || 1835 || 1839
+|-
+|20 || [[John Winston Jones|John W. Jones]] || {{party shading/Democratic}} | Democratic || VA || 1839 || 1841
+|-
+|21 || [[Millard Fillmore]] || {{party shading/Whig}} | Whig || NY || 1841 || 1843
+|-
+|22 || [[James I. McKay]] || {{party shading/Democratic}} | Democratic || NC || 1843 || 1847
+|-
+|23 || [[Samuel Finley Vinton|Samuel F. Vinton]] || {{party shading/Whig}} | Whig || OH || 1847 || 1849
+|-
+|24 || [[Thomas H. Bayly]] || {{party shading/Democratic}} | Democratic || VA || 1849 || 1851
+|-
+|25 || [[George S. Houston]] || {{party shading/Democratic}} | Democratic || AL || 1851 || 1855
+|-
+|26 || [[Lewis D. Campbell]] || {{party shading/Republican}} | Republican || OH || 1856 || 1857
+|-
+|27 || [[J. Glancy Jones]] || {{party shading/Democratic}} | Democratic || PA || 1857 || 1858
+|-
+|28 || [[John S. Phelps]] || {{party shading/Democratic}} | Democratic || MO || 1858 || 1859
+|-
+|29 || [[John Sherman (politician)|John Sherman]] || {{party shading/Republican}} | Republican || OH || 1860 || 1861
+|-
+|30 || [[Thaddeus Stevens]] || {{party shading/Republican}} | Republican || PA || 1861 || 1865
+|-
+|31 || [[Justin Morrill]] || {{party shading/Republican}} | Republican || VT || 1865 || 1867
+|-
+|32 || [[Robert C. Schenck]] || {{party shading/Republican}} | Republican || OH || 1867 || 1871
+|-
+|33 || [[Samuel Hooper]] || {{party shading/Republican}} | Republican || MA || 1871 || 1871
+|-
+|34 || [[Henry L. Dawes]] || {{party shading/Republican}} | Republican || MA || 1871 || 1875
+|-
+|35 || [[William Ralls Morrison|William R. Morrison]] || {{party shading/Democratic}} | Democratic || IL || 1875 || 1877
+|-
+|36 || [[Fernando Wood]] || {{party shading/Democratic}} | Democratic || NY || 1877 || 1881
+|-
+|37 || [[John R. Tucker]] || {{party shading/Democratic}} | Democratic || VA || 1881 || 1881
+|-
+|38 || [[William D. Kelley]] || {{party shading/Republican}} | Republican || PA || 1881 || 1883
+|-
+|39 || [[William Ralls Morrison|William R. Morrison]] || {{party shading/Democratic}} | Democratic || IL || 1883 || 1887
+|-
+|40 || [[Roger Q. Mills]] || {{party shading/Democratic}} | Democratic || TX || 1887 || 1889
+|-
+|41 || [[William McKinley]] || {{party shading/Republican}} | Republican || OH || 1889 || 1891
+|-
+|42 || [[William M. Springer]] || {{party shading/Democratic}} | Democratic || IL || 1891 || 1893
+|-
+|43 || [[William Lyne Wilson|William L. Wilson]] || {{party shading/Democratic}} | Democratic || WV || 1893 || 1895
+|-
+|44 || [[Nelson Dingley, Jr.]] || {{party shading/Republican}} | Republican || ME || 1895 || 1899
+|-
+|45 || [[Sereno E. Payne]] || {{party shading/Republican}} | Republican || NY || 1899 || 1911
+|-
+|46 || [[Oscar W. Underwood]] || {{party shading/Democratic}} | Democratic || AL || 1911 || 1915
+|-
+|47 || [[Claude Kitchin]] || {{party shading/Democratic}} | Democratic || NC || 1915 || 1919
+|-
+|48 || [[Joseph Fordney]] || {{party shading/Republican}} | Republican || MI || 1919 || 1923
+|-
+|49 || [[William R. Green]] || {{party shading/Republican}} | Republican || IA || 1923 || 1928
+|-
+|50 || [[Willis C. Hawley]] || {{party shading/Republican}} | Republican || OR || 1928 || 1931
+|-
+|51 || [[James W. Collier]] || {{party shading/Democratic}} | Democratic || MS || 1931 || 1933
+|-
+|52 || [[Robert L. Doughton]] || {{party shading/Democratic}} | Democratic || NC || 1933 || 1947
+|-
+|53 || [[Harold Knutson]] || {{party shading/Republican}} | Republican || MN || 1947 || 1949
+|-
+|54 || [[Robert L. Doughton]] || {{party shading/Democratic}} | Democratic || NC || 1949 || 1953
+|-
+|55 || [[Daniel A. Reed (politician)|Daniel A. Reed]] || {{party shading/Republican}} | Republican || NY || 1953 || 1955
+|-
+|56 || [[Jere Cooper]] || {{party shading/Democratic}} | Democratic || TN || 1955 || 1957
+|-
+|57 || [[Wilbur Mills]] || {{party shading/Democratic}} | Democratic || AR || 1957 || 1975
+|-
+| || [[Al Ullman]] (acting) || {{party shading/Democratic}} | Democratic || OR || 1973 || 1975
+|-
+|58 || [[Al Ullman]] || {{party shading/Democratic}} | Democratic || OR || 1975 || 1981
+|-
+|59 || [[Dan Rostenkowski]] || {{party shading/Democratic}} | Democratic || IL || 1981 || 1994
+|-
+| || [[Sam M. Gibbons|Sam Gibbons]] (acting) || {{party shading/Democratic}} | Democratic || FL || 1994 || 1995
+|-
+|60 || [[William Reynolds Archer, Jr.|Bill Archer]] || {{party shading/Republican}} | Republican || TX || 1995 || 2001
+|-
+|61 || [[Bill Thomas]] || {{party shading/Republican}} | Republican || CA || 2001 || 2007
+|-
+|62 || [[Charles Rangel]] || {{party shading/Democratic}} | Democratic || NY || 2007 || 2010
+|-
+| || [[Pete Stark]] (acting) || {{party shading/Democratic}} | Democratic || CA|| 2010 || 2010
+|-
+|63 || [[Sander Levin]] || {{party shading/Democratic}} | Democratic || MI || 2010 || 2011
+|-
+|64 || [[Dave Camp]] || {{party shading/Republican}} | Republican || MI || 2011 || 2015
+|-
+|65 || [[Paul Ryan]] || {{party shading/Republican}} | Republican || WI || 2015 || 2015
+|-
+|66 || [[Kevin Brady]] || {{party shading/Republican}} | Republican || TX || 2015 || 2019
+|-
+|67 || [[Richard Neal]] || {{party shading/Democratic}} | Democratic || MA || 2019 || 2023
+|-
+|68 || [[Jason Smith (American politician)|Jason Smith]] || {{party shading/Republican}} | Republican || MO || 2023 || Present
+|}
+
+==Historical membership rosters==
+===117th Congress===
+{| class=wikitable
+! Majority
+! Minority
+|-
+| valign=top {{Party shading/Democratic}}|
+* [[Richard Neal]], Massachusetts, ''Chairman''
+* [[Lloyd Doggett]], Texas
+* [[Mike Thompson (California politician)|Mike Thompson]], California
+* [[John B. Larson]], Connecticut
+* [[Earl Blumenauer]], Oregon
+* [[Ron Kind]], Wisconsin
+* [[Bill Pascrell]], New Jersey
+* [[Danny Davis (Illinois politician)|Danny Davis]], Illinois
+* [[Linda Sánchez]], California
+* [[Brian Higgins]], New York
+* [[Terri Sewell]], Alabama
+* [[Suzan DelBene]], Washington, ''Vice Chair''
+* [[Judy Chu]], California
+* [[Gwen Moore]], Wisconsin
+* [[Dan Kildee]], Michigan
+* [[Brendan Boyle]], Pennsylvania
+* [[Don Beyer]], Virginia
+* [[Dwight Evans (politician)|Dwight Evans]], Pennsylvania
+* [[Brad Schneider]], Illinois
+* [[Tom Suozzi]], New York
+* [[Jimmy Panetta]], California
+* [[Stephanie Murphy]], Florida
+* [[Jimmy Gomez]], California
+* [[Steven Horsford]], Nevada
+* [[Stacey Plaskett]], U.S. Virgin Islands
+
+| valign=top {{Party shading/Republican}}|
+* [[Kevin Brady]], Texas, ''Ranking Member''
+* [[Devin Nunes]], California (until Jan. 3, 2022)
+* [[Vern Buchanan]], Florida
+* [[Adrian Smith (politician)|Adrian Smith]], Nebraska
+* [[Tom Reed (politician)|Tom Reed]], New York (until May 10, 2022)
+* [[Mike Kelly (Pennsylvania politician)|Mike Kelly]], Pennsylvania
+* [[Jason Smith (American politician)|Jason Smith]], Missouri
+* [[Tom Rice]], South Carolina
+* [[David Schweikert]], Arizona
+* [[Jackie Walorski]], Indiana (until Aug. 3, 2022)
+* [[Darin LaHood]], Illinois
+* [[Brad Wenstrup]], Ohio
+* [[Jodey Arrington]], Texas
+* [[Drew Ferguson (politician)|Drew Ferguson]], Georgia
+* [[Ron Estes]], Kansas
+* [[Lloyd Smucker]], Pennsylvania
+* [[Kevin Hern]], Oklahoma
+* [[Carol Miller (politician)|Carol Miller]], West Virginia
+* [[Greg Murphy (politician)|Greg Murphy]], North Carolina (from Jan. 19, 2022)
+* [[David Kustoff]], Tennessee (from June 8, 2022)
+|}
+Resolutions electing members: {{USBill|117|HRes|9}} (chair), {{USBill|117|HRes|10}} (Ranking Member), {{USBill|117|HRes|62}} (D), {{USBill|117|HRes|63}} (R), {{USBill|117|HRes|875}} (R), {{USBill|117|HRes|1159}} (R)
+;Subcommittees
+{| class="wikitable"
+! Subcommittee
+! Chair
+! Ranking Member
+|-
+| [[United States House Ways and Means Subcommittee on Health|Health]]
+| [[Lloyd Doggett]] (D–TX)
+| [[Vern Buchanan]] (R–FL)
+|-
+| [[United States House Ways and Means Subcommittee on Oversight|Oversight]]
+| [[Bill Pascrell]] (D-NJ)
+| [[Tom Rice]] (R-SC)
+|-
+| [[United States House Ways and Means Subcommittee on Select Revenue Measures|Select Revenue Measures]]
+| [[Mike Thompson (California politician)|Mike Thompson]] (D-CA)
+| [[Mike Kelly (Pennsylvania politician)|Mike Kelly]] (R–PA)
+|-
+| [[United States House Ways and Means Subcommittee on Social Security|Social Security]]
+| [[John B. Larson]] (D-CT)
+| [[Tom Reed (politician)|Tom Reed]] (R-NY)
+|-
+| [[United States House Ways and Means Subcommittee on Trade|Trade]]
+| [[Earl Blumenauer]] (D-OR)
+| [[Adrian Smith (politician)|Adrian Smith]] (R–NE)
+|-
+| [[United States House Ways and Means Subcommittee on Worker and Family Support|Worker and Family Support]]
+| [[Danny Davis (Illinois politician)|Danny Davis]] (D–IL)
+| Vacant
+|}
+
+===116th Congress===
+{| class=wikitable
+! Majority
+! Minority
+|-
+| valign=top {{Party shading/Democratic}}|
+* [[Richard Neal]], Massachusetts, ''Chairman''
+* [[Lloyd Doggett]], Texas
+* [[Mike Thompson (California politician)|Mike Thompson]], California
+* [[John B. Larson]], Connecticut
+* [[Earl Blumenauer]], Oregon
+* [[Ron Kind]], Wisconsin
+* [[Bill Pascrell]], New Jersey
+* [[Danny Davis (Illinois politician)|Danny Davis]], Illinois
+* [[Linda Sánchez]], California
+* [[Brian Higgins]], New York
+* [[Terri Sewell]], Alabama, ''Vice Chair''
+* [[Suzan DelBene]], Washington
+* [[Judy Chu]], California
+* [[Gwen Moore]], Wisconsin
+* [[Dan Kildee]], Michigan
+* [[Brendan Boyle]], Pennsylvania
+* [[Don Beyer]], Virginia
+* [[Dwight Evans (politician)|Dwight Evans]], Pennsylvania
+* [[Brad Schneider]], Illinois
+* [[Tom Suozzi]], New York
+* [[Jimmy Panetta]], California
+* [[Stephanie Murphy]], Florida
+* [[Jimmy Gomez]], California
+* [[Steven Horsford]], Nevada
+* [[Cedric Richmond]], Louisiana (since September 22, 2020)
+
+| valign=top {{Party shading/Republican}}|
+* [[Kevin Brady]], Texas, ''Ranking Member''
+* [[Devin Nunes]], California
+* [[Vern Buchanan]], Florida
+* [[Adrian Smith (politician)|Adrian Smith]], Nebraska
+* [[Kenny Marchant]], Texas
+* [[Tom Reed (politician)|Tom Reed]], New York
+* [[Mike Kelly (Pennsylvania politician)|Mike Kelly]], Pennsylvania
+* [[George Holding]], North Carolina
+* [[Jason Smith (American politician)|Jason Smith]], Missouri
+* [[Tom Rice]], South Carolina
+* [[David Schweikert]], Arizona
+* [[Jackie Walorski]], Indiana
+* [[Darin LaHood]], Illinois
+* [[Brad Wenstrup]], Ohio
+* [[Jodey Arrington]], Texas
+* [[Drew Ferguson (politician)|Drew Ferguson]], Georgia
+* [[Ron Estes]], Kansas
+|}
+Resolutions electing members: {{USBill|116|HRes|7}} (chair); {{USBill|116|HRes|8}} (Ranking Member), {{USBill|116|HRes|42}} (D), {{USBill|116|HRes|68}} (R)
+
+;Subcommittee
+{| class="wikitable"
+! Subcommittee
+! Chair
+! Ranking Member
+|-
+| [[United States House Ways and Means Subcommittee on Health|Health]]
+| [[Lloyd Doggett]] (D–TX)
+| [[Devin Nunes]] (R–CA)
+|-
+| [[United States House Ways and Means Subcommittee on Worker and Family Support|Worker and Family Support]]
+| [[Danny Davis (Illinois politician)|Danny Davis]] (D–IL)
+| [[Jackie Walorski]] (R–IN)
+|-
+| [[United States House Ways and Means Subcommittee on Oversight|Oversight]]
+| [[Bill Pascrell]] (D-NJ)
+| [[Mike Kelly (Pennsylvania politician)|Mike Kelly]] (R–PA)
+|-
+| [[United States House Ways and Means Subcommittee on Select Revenue Measures|Select Revenue Measures]]
+| [[Mike Thompson (California politician)|Mike Thompson]] (D-CA)
+| [[Adrian Smith (politician)|Adrian Smith]] (R–NE)
+|-
+| [[United States House Ways and Means Subcommittee on Social Security|Social Security]]
+| [[John B. Larson]] (D-CT)
+| [[Tom Reed (politician)|Tom Reed]] (R-NY)
+|-
+| [[United States House Ways and Means Subcommittee on Trade|Trade]]
+| [[Earl Blumenauer]] (D-OR)
+| [[Vern Buchanan]] (R–FL)
+|}
+
+===115th Congress===
+{| class=wikitable
+! Majority
+! Minority
+|-
+| valign=top {{Party shading/Republican}}|
+* [[Kevin Brady]], Texas, ''Chairman''
+* [[Sam Johnson]], Texas
+* [[Devin Nunes]], California
+* [[Dave Reichert]], Washington
+* [[Peter Roskam]], Illinois
+* [[Vern Buchanan]], Florida
+* [[Adrian Smith (politician)|Adrian Smith]], Nebraska
+* [[Lynn Jenkins]], Kansas
+* [[Erik Paulsen]], Minnesota
+* [[Kenny Marchant]], Texas
+* [[Diane Black]], Tennessee
+* [[Tom Reed (politician)|Tom Reed]], New York
+* [[Mike Kelly (Pennsylvania politician)|Mike Kelly]], Pennsylvania
+* [[Jim Renacci]], Ohio
+* [[Kristi Noem]], South Dakota
+* [[George Holding]], North Carolina
+* [[Jason Smith (American politician)|Jason Smith]], Missouri
+* [[Tom Rice]], South Carolina
+* [[David Schweikert]], Arizona
+* [[Jackie Walorski]], Indiana
+* [[Carlos Curbelo (politician)|Carlos Curbelo]], Florida
+* [[Mike Bishop (politician)|Mike Bishop]], Michigan
+* [[Darin LaHood]], Illinois
+* [[Brad Wenstrup]], Ohio
+
+| valign=top {{Party shading/Democratic}}|
+* [[Richard Neal]], Massachusetts, ''Ranking Member''
+* [[Sander Levin]], Michigan
+* [[John Lewis]], Georgia
+* [[Lloyd Doggett]], Texas
+* [[Mike Thompson (California politician)|Mike Thompson]], California
+* [[John B. Larson]], Connecticut
+* [[Earl Blumenauer]], Oregon
+* [[Ron Kind]], Wisconsin
+* [[Bill Pascrell]], New Jersey
+* [[Joseph Crowley]], New York
+* [[Danny Davis (Illinois politician)|Danny Davis]], Illinois
+* [[Linda Sánchez]], California
+* [[Brian Higgins]], New York, ''Vice Ranking Member''
+* [[Terri Sewell]], Alabama
+* [[Suzan DelBene]], Washington
+* [[Judy Chu]], California
+|}
+* Resolutions electing members: {{USBill|115|HRes|6}} (chair); {{USBill|115|HRes|7}} (Ranking Member); {{USBill|115|HRes|29}}, {{USBill|115|HRes|131}}, (R); {{USBill|115|HRes|45}}, {{USBill|115|HRes|95}} (D)
+
+==See also==
+{{Portal|United States|Politics}}
+* [[List of current United States House of Representatives committees]]
+
+==References==
+{{reflist}}
+
+==Sources==
+* [https://www.govinfo.gov/app/details/GPO-CDOC-100hdoc244 H. Doc. 100–244, The Committee on Ways and Means a Bicentennial History 1789-1989]
+
+==Further reading==
+
+* Cataldo, Everett Felix. "The House Committee on Ways and Means" (PhD dissertation, The Ohio State University, 1965) [https://etd.ohiolink.edu/apexprod/rws_etd/send_file/send?accession=osu1486567559449627&disposition=inline online].
+* Curtis, Thomas B. "The House Committee on Ways and Means: Congress Seen Through a Key Committee." ''Wisconsin Law Review''(1966): 121+ [https://heinonline.org/hol-cgi-bin/get_pdf.cgi?handle=hein.journals/wlr1966&section=11 online].
+* Davidson, Roger. ''Masters of the House: Congressional leadership over two centuries'' (Routledge, 2018)
+* Kennon, Donald R., and Rebecca Mary Rogers. ''The Committee on Ways and Means: A Bicentennial History 1789–1989 '' (US Government Printing Office, 1989).
+* Manley, John F. "The House Committee on Ways and Means: Conflict management in a congressional committee." ''American Political Science Review '' 59.4 (1965): 927–939.
+* Manley, John F. ''The politics of finance: the House Committee on Ways and Means'' ( Little, Brown, 1970).
+* Sullivan, Terry. "Voter's paradox and logrolling: An initial framework for committee behavior on appropriations and ways and means." ''Public Choice'' (1976): 31–44. [https://www.jstor.org/stable/30022856 online]
+* Winfree, Paul. ''A History (and Future) of the Budget Process in the United States'' (Springer Nature, 2019).
+
+===Primary  sources===
+*[[Charles Rangel|Rangel, Charles B.]]; Wynter, Leon (2007). ''And I Haven't Had a Bad Day Since: From the Streets of Harlem to the Halls of Congress''. New York: St. Martin's Press.
+
+==External links==
+{{commons category|United States House Committee on Ways and Means}}
+* {{official website|1=https://waysandmeans.house.gov/|2=Official committee website}} ([https://www.loc.gov/item/lcwa00hswm00/ Archive])
+* [https://www.congress.gov/committee/house-ways-and-means/hswm00 House Ways and Means Committee]. Legislation activity and reports, Congress.gov.
+* [https://www.congress.gov/committees/video/house-ways-and-means/hswm00 House Ways and Means Committee Hearings and Meetings Video]. [[Congress.gov]].
+
+{{United States congressional committees}}
+{{authority control}}
+
+[[Category:Committees of the United States House of Representatives|Ways and Means]]
+[[Category:1789 establishments in the United States]]
+[[Category:United States federal taxation legislation]]

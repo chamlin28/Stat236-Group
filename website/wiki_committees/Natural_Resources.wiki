@@ -1,0 +1,588 @@
+{{short description|Standing committee of the United States House of Representatives}}
+
+{{Infobox U.S. congressional committee
+| name        = House Natural Resources Committee
+| chamber     = house
+| congress    = 118th
+| type        = standing
+| parent      = 
+| image       = 
+| image_size  = 250px
+| status      = active
+| formed      = 1991
+| succeeded   = [[United States House Committee on Interior and Insular Affairs|Committee on Interior and Insular Affairs]]
+| former_names = Committee on Resources
+| caption     =
+| chair       = [[Bruce Westerman]] 
+| chair_party = R
+| chair_since = January 3, 2023
+| ranking_member = [[Raúl Grijalva]]
+| rm_party       = D
+| rm_since       = January 4, 2023
+| vice_chair.    = 
+| vc_party       = 
+| vc_since       = 
+| chair_emeritus = 
+| ce_party       = 
+| ce_since       =
+| seats           = 45
+| majority1       = R
+| majority1_seats = 25
+| minority1       = D
+| minority1_seats = 20
+| policy_areas    = [[Energy development]], [[mining]], [[mineral rights]], [[Wildlife management|wildlife]], [[Fishing industry|fisheries]], [[public land#United States|public lands]], [[ocean governance|oceans]], [[Outline of United States federal Indian law and policy|Native Americans]]
+| oversight  = [[United States Department of Energy|Department of Energy]]
+| counterpart = [[United States Senate Committee on Energy and Natural Resources|Senate Committee on Energy and Natural Resources]]
+| subcommittees   = {{bulleted list|list_style=text-align:left|'''[[United States House Natural Resources Subcommittee on Energy and Mineral Resources|Energy and Mineral Resources]]'''|'''[[United States House Natural Resources Subcommittee on Indigenous Peoples of the United States|Indigenous Peoples of the United States]]'''|'''[[United States House Natural Resources Subcommittee on National Parks, Forests and Public Lands|National Parks, Forests and Public Lands]]'''|'''[[United States House Natural Resources Subcommittee on Oversight and Investigations|Oversight and Investigations]]'''|'''[[United States House Natural Resources Subcommittee on Water, Oceans and Wildlife|Water, Oceans and Wildlife]]'''}}
+| meeting_place   = 1324 Longworth House Office Building<br />Washington, D.C. 20515
+| website         = [https://naturalresources.house.gov/ naturalresources.house.gov]
+| minority_website         = [https://democrats-naturalresources.house.gov/ democrats-naturalresources.house.gov]
+| chamber_rules     = [https://rules.house.gov/sites/republicans.rules118.house.gov/files/documents/Rules%20and%20Resources/118-House-Rules-Clerk.pdf Rule X.1(m), Rules of the House of Representatives (118th Congress)]
+| committee_rules = [https://naturalresources.house.gov/uploadedfiles/118th_natural_resources_committee_rules_adopted.pdf Rules for the Committee on Natural Resources (118th Congress)]
+}}
+The '''U.S. House Committee on Natural Resources''' or '''Natural Resources Committee''' (often referred to as simply '''Resources''') is a [[U.S. Congressional committee|Congressional committee]] of the [[United States House of Representatives]].  Originally called the '''Committee on Interior and Insular Affairs''' (1951), the name was changed to the '''Committee on Natural Resources''' in 1991.  The name was shortened to the '''Committee on Resources''' in 1995 by the new chairman, [[Don Young]] (at the same time, the committee took over the duties of the [[List of defunct United States congressional committees|now-defunct]] Merchant Marine and Fisheries Committee). Following the Democratic takeover of the House of Representatives in 2006, the name of the committee was changed back to its title used between 1991 and 1995.<ref name=rahall/>
+
+==Jurisdiction==
+{{United States House of Representatives}}
+# [[Fisheries]] and [[wildlife]], including research, restoration, refuges, and conservation.
+# Forest reserves and national parks created from the public domain.
+# Forfeiture of land grants and [[Alien land ownership|alien ownership]], including alien ownership of mineral lands.
+# [[United States Geological Survey|Geological Survey]].
+# International fishing agreements.
+# [[Interstate compact]]s relating to apportionment of waters for irrigation purposes.
+# [[Irrigation]] and [[water reclamation|reclamation]], including water supply for reclamation projects and easements of public lands for irrigation projects; and acquisition of private lands when necessary to complete irrigation projects.
+# [[Native Americans in the United States|Native Americans]] generally, including the care and allotment of Native American lands and general and special measures relating to claims that are paid out of Native American funds.
+# [[Insular area|Insular areas of the United States]] generally (except those affecting the revenue and appropriations).
+# [[National Military Park|Military parks and battlefield]]s, [[United States National Cemetery|national cemeteries]] administered by the [[United States Secretary of the Interior|Secretary of the Interior]], parks within the [[District of Columbia]], and the erection of monuments to the memory of individuals.
+# Mineral land laws and claims and entries thereunder.
+# [[Mineral resources]] of public lands.
+# Mining interests generally.
+# [[School of Mines|Mining schools]] and experimental stations.
+# Marine affairs, including coastal zone management (except for measures relating to oil and other pollution of navigable waters).
+# Oceanography.
+# [[Petroleum]] conservation on public lands and conservation of the radium supply in the United States.
+# Preservation of prehistoric ruins and objects of interest on the public domain.
+# [[Public land]]s generally, including entry, [[easement]]s, and grazing thereon.
+# Relations of the United States with Native Americans and Native American tribes.
+# [[Trans-Alaska Pipeline System|Trans-Alaska Oil Pipeline]] (except ratemaking).<ref>{{Cite web |url=http://clerk.house.gov/legislative/house-rules.pdf |title=Office of the Clerk of the U.S. House of Representatives - 404 |access-date=2017-01-19 |archive-date=2015-10-05 |archive-url=https://web.archive.org/web/20151005220012/http://clerk.house.gov/legislative/house-rules.pdf/ |url-status=dead }}</ref><ref>{{cite web|url=https://www.congress.gov/bill/115th-congress/house-resolution/5/text|title=Text - H.Res.5 - 115th Congress (2017-2018): Adopting rules for the One Hundred Fifteenth Congress.|first=Kevin|last=McCarthy|date=3 January 2017|website=congress.gov|access-date=4 April 2018}}</ref>
+
+==Members, 118th Congress==
+{| class=wikitable 
+|-
+! Majority
+! Minority
+|-
+| {{party shading/Republican}} valign=top |
+* [[Bruce Westerman]], Arkansas, ''Chair''
+* [[Doug Lamborn]], Colorado, ''Vice Chair''
+* [[Rob Wittman]], Virginia
+* [[Tom McClintock]], California
+* [[Paul Gosar]], Arizona
+* [[Garret Graves]], Louisiana
+* [[Amata Coleman Radewagen]], American Samoa
+* [[Daniel Webster (Florida politician)|Daniel Webster]], Florida
+* [[Jenniffer González]], Puerto Rico
+* [[Russ Fulcher]], Idaho
+* [[Pete Stauber]], Minnesota
+* [[John Curtis (Utah politician)|John Curtis]], Utah
+* [[Tom Tiffany]], Wisconsin
+* [[Jerry Carl]], Alabama
+* [[Matt Rosendale]], Montana
+* [[Lauren Boebert]], Colorado
+* [[Cliff Bentz]], Oregon
+* [[Jen Kiggans]], Virginia
+* [[James Moylan]], Guam
+* [[Wesley Hunt]], Texas
+* [[Mike Collins (politician)|Mike Collins]], Georgia
+* [[Anna Paulina Luna]], Florida
+* [[John Duarte (politician)|John Duarte]], California
+* [[Harriet Hageman]], Wyoming
+
+| {{party shading/Democratic}} valign=top |
+* [[Raúl Grijalva]], Arizona, ''Ranking Member''
+* [[Grace Napolitano]], California
+* [[Jim Costa]], California (until February 27, 2023)
+* [[Gregorio Sablan]], Northern Mariana Islands
+* [[Jared Huffman]], California
+* [[Ruben Gallego]], Arizona
+* [[Joe Neguse]], Colorado
+* [[Mike Levin]], California
+* [[Katie Porter]], California
+* [[Teresa Leger Fernandez]], New Mexico
+* [[Melanie Stansbury]], New Mexico
+* [[Mary Peltola]], Alaska
+* [[Alexandria Ocasio-Cortez]], New York
+* [[Kevin Mullin]], California
+* [[Val Hoyle]], Oregon
+* [[Sydney Kamlager-Dove]], California, ''Vice Ranking Member''
+* [[Seth Magaziner]], Rhode Island
+* [[Nydia Velázquez]], New York
+* [[Ed Case]], Hawaii
+* [[Debbie Dingell]], Michigan
+* [[Susie Lee]], Nevada
+|}
+Resolutions electing members: {{USBill|118|HRes|14}} (Chair), {{USBill|118|HRes|15}} (Ranking Member), {{USBill|118|HRes|79}} (D), {{USBill|118|HRes|80}} (R), {{USBill|118|HRes|164}} (D)
+
+==Subcommittees==
+[[File:KMcCarthy.jpg|thumb|Representative [[Kevin McCarthy]] (R) at an oversight hearing of the House Natural Resources Subcommittee on Water and Power]]
+In the [[111th Congress]], the number of subcommittees was reduced from 5 to 4. The Subcommittees on Insular Affairs and Fisheries, Wildlife and Oceans were merged into the [[United States House Natural Resources Subcommittee on Insular Affairs, Oceans and Wildlife|Subcommittee on Insular Affairs, Oceans and Wildlife]]. In the [[112th Congress]], the number was again increased to 5, adding the Subcommittee on Indian and Alaska Native Affairs.
+
+During the committee's official reorganization for the [[113th Congress]], the Subcommittee on National Parks, Forests and Public Lands was renamed the Subcommittee on [[United States House Natural Resources Subcommittee on Public Lands and Environmental Regulation|Public Lands and Environmental Regulation]]<ref name=reorganization/>
+
+When former Chairman [[Doc Hastings]] of Washington retired from Congress, [[Rob Bishop]] of Utah took over as the committee's new chairman at the beginning of the 114th Congress. Congressman Bishop began the process of hiring new staff and reorganized the committee's structure as his predecessors had done.<ref name=staff1/><ref name=staff2/> The chairman eliminated the [[United States House Natural Resources Subcommittee on Fisheries, Wildlife, Oceans and Insular Affairs|Fisheries, Wildlife, Oceans and Insular Affairs subcommittee]] and split its duties between the renamed [[United States House Natural Resources Subcommittee on Indian, Insular and Alaska Native Affairs|Indian, Insular and Alaska Native Affairs]] and [[United States House Natural Resources Subcommittee on Water, Power and Oceans|Water, Power and Oceans]] subcommittees. The chairman also created a new [[United States House Natural Resources Subcommittee on Oversight and Investigations|Subcommittee on Oversight and Investigations]], keeping the total number of subcommittees at five<ref name=subcommittee/>
+
+The chairman also transferred jurisdiction over the [[National Environmental Policy Act]] and the [[Endangered Species Act]] from the former [[United States House Natural Resources Subcommittee on Public Lands and Environmental Regulation|Public Lands and Environmental Regulation]] and established a renamed the [[United States House Natural Resources Subcommittee on Federal Lands|Subcommittee on Federal Lands]].<ref name=subcommittee/>
+
+===Current subcommittees===
+{| class="wikitable"
+|-
+! Subcommittee
+! Chair<ref>{{Cite web |title=Westerman Announces Subcommittee Chairs |url=https://naturalresources.house.gov/newsroom/documentsingle.aspx?DocumentID=412750 |access-date=2023-02-02 |website=Committee on Natural Resources |language=en}}</ref>
+! Ranking Member{{efn|{{Cite tweet |user=RachelFrazin |number=1620514062525423616|title=AOC joins the House Natural Resources Committee, and becomes its top Democrat on the Energy and Mineral Resources subcommittee}} }}
+|-
+| [[United States House Natural Resources Subcommittee on Energy and Mineral Resources|Energy and Mineral Resources]]
+| [[Pete Stauber]] (R-MN)
+| [[Alexandria Ocasio-Cortez]] (D-NY)
+|-
+| [[United States House Natural Resources Subcommittee on Federal Lands|Federal Lands]]
+| [[Tom Tiffany]] (R-WI)
+| [[Joe Neguse]] (D-CO)
+|-
+| [[United States House Natural Resources Subcommittee on Indian and Insular Affairs|Indian and Insular Affairs]]
+| [[Harriet Hageman]] (R-WY)
+| [[Teresa Leger Fernandez]] (D-NM)
+|-
+| [[United States House Natural Resources Subcommittee on Oversight and Investigations|Oversight and Investigations]]
+| [[Paul Gosar]] (R-AZ)
+| [[Melanie Stansbury]] (D-NM)
+|-
+| [[United States House Natural Resources Subcommittee on Water, Wildlife and Fisheries|Water, Wildlife and Fisheries]]
+| [[Cliff Bentz]] (R-OR)
+| [[Jared Huffman]] (D-CA)
+|}
+
+==Chairs==
+{| class=wikitable
+|-
+! Chair !! Party !! State !! Start of service !! End of service
+|-
+|colspan=5 style="text-align:center;" |'''Committee on Public Lands'''
+|- {{Party shading/Democratic-Republican}}
+| [[Andrew Gregg]] || Democratic-Republican || [[Pennsylvania]] || 1805 || 1806
+|- {{Party shading/Democratic-Republican}}
+| [[John Boyle (congressman)|John Boyle]] || Democratic-Republican || [[Kentucky]] || 1806 || 1807
+|- {{Party shading/Democratic-Republican}}
+| [[Andrew Gregg]] || Democratic-Republican || Pennsylvania || colspan=2 style="text-align:center;" |1807
+|- {{Party shading/Democratic-Republican}}
+| [[John Boyle (congressman)|John Boyle]] || Democratic-Republican || Kentucky || 1807 || 1808
+|- {{Party shading/Democratic-Republican}}
+| [[Jeremiah Morrow]] || Democratic-Republican || [[Ohio]] || 1808 || 1813
+|- {{Party shading/Democratic-Republican}}
+| [[Samuel McKee (1774)|Samuel McKee]] || Democratic-Republican || Kentucky || 1813 || 1815
+|- {{Party shading/Democratic-Republican}}
+| [[Thomas B. Robertson]] || Democratic-Republican || [[Louisiana]] || 1815 || 1818
+|- {{Party shading/Democratic-Republican}}
+| [[George Poindexter]] || Democratic-Republican || [[Mississippi]] || 1818 || 1819
+|- {{Party shading/Democratic-Republican}}
+| [[Richard Clough Anderson Jr.|Richard C. Anderson]] || Democratic-Republican || Kentucky || 1819 || 1821
+|- {{Party shading/Jacksonian}}
+| [[Christopher Rankin]] || Jacksonian || Mississippi || 1821 || 1826
+|- {{Party shading/Anti-Jacksonian}}
+| [[John Scott (Missouri politician)|John Scott]] || Anti-Jacksonian || [[Missouri]] || 1826 || 1827
+|- {{Party shading/Jacksonian}}
+| [[Jacob C. Isacks]] || Jacksonian || [[Tennessee]] || 1827 || 1830
+|- {{Party shading/Jacksonian}}
+| [[Charles A. Wickliffe]] || Jacksonian || Kentucky || 1830 || 1833
+|- {{Party shading/Democratic}}
+| [[Clement Comer Clay|Clement C. Clay]] || Democratic || [[Alabama]] || 1833 || 1835
+|- {{Party shading/Democratic}}
+| [[Ratliff Boon]] || Democratic || [[Indiana]] || 1835 || 1838
+|- {{Party shading/Democratic}}
+| [[Zadok Casey]] || Democratic || [[Illinois]] || 1838 || 1839
+|- {{Party shading/Whig}}
+| [[Thomas Corwin]] || Whig || Ohio || 1839 || 1840
+|- {{Party shading/Whig}}
+| [[Samson Mason]] || Whig || Ohio || colspan=2 style="text-align:center;" |1840
+|- {{Party shading/Whig}}
+| [[Jeremiah Morrow]] || Whig || Ohio || 1840 || 1841
+|- {{Party shading/Whig}}
+| [[William Cost Johnson|William C. Johnson]] || Whig || [[Maryland]] || colspan=2 style="text-align:center;" |1841
+|- {{Party shading/Whig}}
+| [[Jeremiah Morrow]] || Whig || Ohio || 1841 || 1842
+|- {{Party shading/Democratic}}
+| [[Reuben Chapman]] || Democratic || Alabama || colspan=2 style="text-align:center;" |1842
+|- {{Party shading/Whig}}
+| [[Jeremiah Morrow]] || Whig || Ohio || 1842 || 1843
+|- {{Party shading/Democratic}}
+| [[John Wesley Davis|John W. Davis]] || Democratic || Indiana || 1843 || 1845
+|- {{Party shading/Democratic}}
+| [[John Alexander McClernand|John A. McClernand]] || Democratic || Illinois || 1845 || 1847
+|- {{Party shading/Whig}}
+| [[Jacob Collamer]] || Whig || [[Vermont]] || 1847 || 1849
+|- {{Party shading/Democratic}}
+| [[James B. Bowlin]] || Democratic || Missouri || 1849 || 1851
+|- {{Party shading/Democratic}}
+| [[Willard Preble Hall|Willard P. Hall]] || Democratic || Missouri || 1851 || 1853
+|- {{Party shading/Democratic}}
+| [[David T. Disney]] || Democratic || Ohio || 1853 || 1855
+|- {{Party shading/Opposition}}
+| [[Henry Bennett (U.S. politician)|Henry Bennett]] || Opposition || [[New York (state)|New York]] || 1855 || 1857
+|- {{Party shading/Democratic}}
+| [[Williamson Robert Winfield Cobb|Williamson R. W. Cobb]] || Democratic || Alabama || 1857 || 1859
+|- {{Party shading/Republican}}
+| [[Eli Thayer]] || Republican || [[Massachusetts]] || 1859 || 1861
+|- {{Party shading/Republican}}
+| [[John F. Potter]] || Republican || [[Wisconsin]] || 1861 || 1863
+|- {{Party shading/Republican}}
+| [[George Washington Julian|George W. Julian]] || Republican || Indiana || 1863 || 1871
+|- {{Party shading/Republican}}
+| [[John H. Ketcham]] || Republican || New York || 1871 || 1873
+|- {{Party shading/Republican}}
+| [[Washington Townsend]] || Republican || Pennsylvania || 1873 || 1875
+|- {{Party shading/Democratic}}
+| [[Milton Sayler]] || Democratic || Ohio || 1875 || 1877
+|- {{Party shading/Democratic}}
+| [[William Ralls Morrison|William R. Morrison]] || Democratic || Illinois || 1877 || 1879
+|- {{Party shading/Democratic}}
+| [[George L. Converse]] || Democratic || Ohio || 1879 || 1881
+|- {{Party shading/Republican}}
+| [[Thaddeus C. Pound]] || Republican || Wisconsin || 1881 || 1883
+|- {{Party shading/Democratic}}
+| [[Thomas R. Cobb]] || Democratic || Indiana || 1883 || 1887
+|- {{Party shading/Democratic}}
+| [[William S. Holman]] || Democratic || Indiana || 1887 || 1889
+|- {{Party shading/Republican}}
+| [[Lewis E. Payson]] || Republican || Illinois || 1889 || 1891
+|- {{Party shading/Democratic}}
+| [[Thomas Chipman McRae|Thomas C. McRae]] || Democratic || [[Arkansas]] || 1891 || 1895
+|- {{Party shading/Republican}}
+| [[John F. Lacey]] || Republican || [[Iowa]] || 1895 || 1907
+|- {{Party shading/Republican}}
+| [[Franklin Wheeler Mondell|Franklin W. Mondell]] || Republican || [[Wyoming]] || 1907 || 1911
+|- {{Party shading/Democratic}}
+| [[Joseph Taylor Robinson|Joseph T. Robinson]] || Democratic || Arkansas || 1911 || 1912
+|- {{Party shading/Democratic}}
+| [[Scott Ferris]] || Democratic || [[Oklahoma]] || 1912 || 1919
+|- {{Party shading/Republican}}
+| [[Nicholas J. Sinnott]] || Republican || [[Oregon]] || 1919 || 1928
+|- {{Party shading/Republican}}
+| [[Don B. Colton]] || Republican || [[Utah]] || 1928 || 1931
+|- {{Party shading/Democratic}}
+| [[John M. Evans]] || Democratic || [[Montana]] || 1931 || 1933
+|- {{Party shading/Democratic}}
+| [[René L. De Rouen]] || Democratic || Louisiana || 1933 || 1940
+|- {{Party shading/Democratic}}
+| [[J. W. Robinson|James W. Robinson]] || Democratic || Utah || 1940 || 1943
+|- {{Party shading/Democratic}}
+| [[J. Hardin Peterson]] || Democratic || [[Florida]] || 1943 || 1947
+|- {{Party shading/Republican}}
+| [[Richard J. Welch]] || Republican || [[California]] || 1947 || 1949
+|- {{Party shading/Democratic}}
+| [[Andrew Lawrence Somers|Andrew L. Somers]] || Democratic || New York || colspan=2 style="text-align:center;" |1949
+|- {{Party shading/Democratic}}
+| [[J. Hardin Peterson]] || Democratic || Florida || 1949 || 1951
+|-
+|colspan=5 style="text-align:center;" |'''Committee on Interior and Insular Affairs'''
+|- {{Party shading/Democratic}}
+| [[John R. Murdock (politician)|John R. Murdock]] || Democratic || [[Arizona]] || 1951 || 1953
+|- {{Party shading/Republican}}
+| [[Arthur L. Miller]] || Republican || [[Nebraska]] || 1953 || 1955
+|- {{Party shading/Democratic}}
+| [[Clair Engle]] || Democratic || California || 1955 || 1959
+|- {{Party shading/Democratic}}
+| [[Wayne N. Aspinall]] || Democratic || [[Colorado]] || 1959 || 1973
+|- {{Party shading/Democratic}}
+| [[James A. Haley]] || Democratic || Florida || 1973 || 1977
+|- {{Party shading/Democratic}}
+| [[Mo Udall]] || Democratic || Arizona || 1977 || 1991
+|-
+|colspan=5 style="text-align:center;" |'''Committee on Natural Resources'''
+|- {{Party shading/Democratic}}
+| [[George Miller (California politician)|George Miller]] || Democratic || California || 1991 || 1995
+|-
+|colspan=5 style="text-align:center;" |'''Committee on Resources'''
+|- {{Party shading/Republican}}
+| [[Don Young]] || Republican || [[Alaska]] || 1995 || 2001
+|- {{Party shading/Republican}}
+| [[James V. Hansen|James Hansen]] || Republican || Utah || 2001 || 2003
+|- {{Party shading/Republican}}
+| [[Richard Pombo]] || Republican || California || 2003 || 2007
+|-
+|colspan=5 style="text-align:center;" |'''Committee on Natural Resources'''
+|- {{Party shading/Democratic}}
+| [[Nick Rahall]] || Democratic || [[West Virginia]] || 2007 || 2011
+|- {{Party shading/Republican}}
+| [[Doc Hastings]] || Republican || [[Washington (state)|Washington]] || 2011 || 2015
+|- {{Party shading/Republican}}
+| [[Rob Bishop]] || Republican || Utah || 2015 || 2019
+|- {{Party shading/Democratic}}
+| [[Raúl Grijalva]] || Democratic || [[Arizona]] || 2019 || 2023
+|- {{Party shading/Republican}}
+| [[Bruce Westerman]] || Republican || [[Arkansas]] || 2023 || present
+|}
+
+
+==Historical membership rosters==
+===117th Congress===
+{| class=wikitable 
+|-
+! Majority
+! Minority
+|-
+| {{party shading/Democratic}} valign=top |
+* [[Raúl Grijalva]], Arizona, ''Chair''
+* [[Grace Napolitano]], California
+* [[Jim Costa]], California
+* <span {{Party shading/Independent}}> [[Gregorio Sablan]], N. Mariana Islands, ''Vice Chair {{small|(Insular Affairs)}}''</span>
+* [[Jared Huffman]], California
+* [[Alan Lowenthal]], California
+* [[Ruben Gallego]], Arizona
+* [[Joe Neguse]], Colorado
+* [[Mike Levin]], California
+* [[Katie Porter]], California
+* [[Teresa Leger Fernandez]], New Mexico
+* [[Melanie Stansbury]], New Mexico (since June 15, 2021)
+* [[Mary Peltola]], Alaska (since September 14, 2022)
+* [[Nydia Velázquez]], New York
+* [[Diana DeGette]], Colorado
+* [[Julia Brownley]], California
+* [[Debbie Dingell]], Michigan
+* [[Donald McEachin]], Virginia
+* [[Darren Soto]], Florida
+* [[Michael San Nicolas]], Guam
+* [[Chuy García]], Illinois, ''Vice Chair''
+* [[Ed Case]], Hawaii
+* [[Betty McCollum]], Minnesota
+* [[Steve Cohen (politician)|Steven Cohen]], Tennessee
+* [[Paul Tonko]], New York
+* [[Rashida Tlaib]], Michigan
+* [[Doris Matsui]], California
+* [[Lori Trahan]], Massachusetts (until September 14, 2022)<ref>{{cite web|url=https://www.politico.com/minutes/congress/09-14-2022/new-face-on-natural-resources/|title=Alaska's new member of Congress, Mary Peltola, is now on the House Natural Resources Committee — thanks to a resignation assist from Lori Trahan.|first=Nancy|last=Vu|date=September 14, 2022|work=[[Politico]]|accessdate=September 18, 2022}}</ref>
+
+| {{party shading/Republican}} valign=top |
+* [[Bruce Westerman]], Arkansas, ''Ranking Member''
+* [[Don Young]], Alaska (until March 18, 2022)
+* [[Louie Gohmert]], Texas, ''Vice Ranking Member''
+* [[Doug Lamborn]], Colorado
+* [[Rob Wittman]], Virginia
+* [[Tom McClintock]], California
+* [[Paul Gosar]], Arizona (until November 17, 2021)
+* [[Garret Graves]], Louisiana
+* [[Jody Hice]], Georgia
+* [[Amata Coleman Radewagen]], Am. Samoa, ''Vice Ranking Member {{small|(Insular Affairs)}}''
+* [[Daniel Webster (Florida politician)|Daniel Webster]], Florida
+* [[Jenniffer González]], Puerto Rico
+* [[Russ Fulcher]], Idaho
+* [[Pete Stauber]], Minnesota
+* [[Tom Tiffany]], Wisconsin
+* [[Jerry Carl]], Alabama
+* [[Matt Rosendale]], Montana
+* [[Blake Moore]], Utah
+* [[Yvette Herrell]], New Mexico
+* [[Lauren Boebert]], Colorado
+* [[Jay Obernolte]], California
+* [[Cliff Bentz]], Oregon
+* [[Connie Conway]], California (since June 22, 2022)
+|}
+Resolutions electing members: {{USBill|117|HRes|9}} (Chair), {{USBill|117|HRes|10}} (Ranking Member), {{USBill|117|HRes|62}} (D), {{USBill|117|HRes|63}} (R), {{USBill|117|HRes|92}} (D), {{USBill|117|HRes|111}} (D), {{USBill|117|HRes|475}} (D), {{USBill|117|HRes|789}} (Removing Gosar), {{USBill|117|HRes|1197}} (R), {{USBill|117|HRes|1347}} (D)
+
+;Subcommittees
+{| class="wikitable"
+|-
+! Subcommittee
+! Chair<ref>[https://naturalresources.house.gov/media/press-releases/chair-grijalva-announces-vice-chairs-subcommittee-chairs-for-117th-congress-looks-forward-to-climate-and-environmental-justice-collaboration Chair Grijalva Announces Vice Chairs, Subcommittee Chairs for 117th Congress, Looks Forward to Climate and Environmental Justice Collaboration]</ref>
+! Ranking Member<ref>[https://republicans-naturalresources.house.gov/newsroom/documentsingle.aspx?DocumentID=409465 Westerman Announces Subcommittee Ranking Members]</ref>
+|-
+| [[United States House Natural Resources Subcommittee on Energy and Mineral Resources|Energy and Mineral Resources]]
+| [[Alan Lowenthal]] (D-CA)
+| [[Pete Stauber]] (R-MN)
+|-
+| [[United States House Natural Resources Subcommittee on Indigenous Peoples of the United States|Indigenous Peoples of the United States]]
+| [[Teresa Leger Fernandez]] (D-NM)
+| [[Don Young]] (R-AK)
+|-
+| [[United States House Natural Resources Subcommittee on National Parks, Forests and Public Lands|National Parks, Forests and Public Lands]]
+| [[Joe Neguse]] (D-CO)
+| [[Russ Fulcher]] (R-ID)
+|-
+| [[United States House Natural Resources Subcommittee on Oversight and Investigations|Oversight and Investigations]]
+| [[Katie Porter]] (D-CA)
+| [[Blake Moore]] (R-UT)
+|-
+| [[United States House Natural Resources Subcommittee on Water, Oceans and Wildlife|Water, Oceans and Wildlife]]
+| [[Jared Huffman]] (D-CA)
+| [[Cliff Bentz]] (R-OR)
+|}
+
+===116th Congress===
+{| class=wikitable 
+|-
+! Majority
+! Minority
+|-
+| {{party shading/Democratic}} valign=top |
+* [[Raúl Grijalva]], Arizona, ''Chair''
+* [[Grace Napolitano]], California
+* [[Jim Costa]], California
+* <span {{Party shading/Independent}}> [[Gregorio Sablan]], N. Mariana Islands, ''Vice Chair {{small|(Insular Affairs)}}''</span>
+* [[Jared Huffman]], California
+* [[Alan Lowenthal]], California
+* [[Ruben Gallego]], Arizona
+* [[TJ Cox]], California
+* [[Joe Neguse]], Colorado
+* [[Mike Levin]], California
+* [[Deb Haaland]], New Mexico, ''Vice Chair''
+* [[Joe Cunningham (American politician)|Joe Cunningham]], South Carolina
+* [[Nydia Velázquez]], New York
+* [[Diana DeGette]], Colorado
+* [[Lacy Clay]], Missouri
+* [[Debbie Dingell]], Michigan
+* [[Anthony Brown (Maryland politician)|Anthony Brown]], Maryland
+* [[Donald McEachin]], Virginia
+* [[Darren Soto]], Florida
+* [[Ed Case]], Hawaii
+* [[Steven Horsford]], Nevada
+* [[Michael San Nicolas]], Guam
+* [[Matt Cartwright]], Pennsylvania
+* [[Paul Tonko]], New York
+* [[Chuy García]], Illinois (since January 14, 2020)
+* [[Nanette Barragán]], California (since September 22, 2020)
+
+| {{party shading/Republican}} valign=top |
+* [[Rob Bishop]], Utah, ''Ranking Member''
+* [[Don Young]], Alaska
+* [[Louie Gohmert]], Texas
+* [[Doug Lamborn]], Colorado
+* [[Rob Wittman]], Virginia
+* [[Tom McClintock]], California
+* [[Paul Gosar]], Arizona
+* [[Paul Cook (politician)|Paul Cook]], California
+* [[Bruce Westerman]], Arkansas
+* [[Garret Graves]], Louisiana
+* [[Jody Hice]], Georgia
+* [[Amata Coleman Radewagen]], American Samoa
+* [[Daniel Webster (Florida politician)|Daniel Webster]], Florida, ''Vice Ranking Member''
+* [[Liz Cheney]], Wyoming
+* [[Mike Johnson]], Louisiana
+* [[Jenniffer González]], Puerto Rico, ''Vice Ranking Member {{small|(Insular Affairs)}}''
+* [[John Curtis (Utah politician)|John Curtis]], Utah
+* [[Kevin Hern]], Oklahoma
+* [[Russ Fulcher]], Idaho
+* [[Jeff Van Drew]],{{efn|Van Drew left the Democratic Party on December 19, 2019, to join Republicans.}} New Jersey
+* [[Pete Stauber]], Minnesota (since July 30, 2020)
+|}
+Sources: {{USBill|116|HRes|24}} (Chair), {{USBill|116|HRes|25}} (Ranking Member), {{USBill|116|HRes|73}} (D), {{USBill|116|HRes|74}} (R), {{USBill|116|HRes|125}} (D), {{USBill|116|HRes|148}} (D), {{USBill|116|HRes|793}} (D), {{USBill|116|HRes|1072}} (R), {{USBill|116|HRes|1135}} (D)
+
+;Subcommittees
+{| class="wikitable"
+|-
+! Subcommittee
+! Chair
+! Ranking Member
+|-
+| [[United States House Natural Resources Subcommittee on Energy and Mineral Resources|Energy and Mineral Resources]]
+| [[Alan Lowenthal]] (D-CA)
+| [[Paul Gosar]] (R-AZ)
+|-
+| [[United States House Natural Resources Subcommittee on Indigenous Peoples of the United States|Indigenous Peoples of the United States]]
+| [[Ruben Gallego]] (D-AZ)
+| [[Paul Cook (politician)|Paul Cook]] (R-CA)
+|-
+| [[United States House Natural Resources Subcommittee on National Parks, Forests and Public Lands|National Parks, Forests and Public Lands]]
+| [[Deb Haaland]] (D-NM)
+| [[Don Young]] (R-AK)
+|-
+| [[United States House Natural Resources Subcommittee on Oversight and Investigations|Oversight and Investigations]]
+| [[TJ Cox]] (D-CA)
+| [[Louie Gohmert]] (R-TX)
+|-
+| [[United States House Natural Resources Subcommittee on Water, Oceans and Wildlife|Water, Oceans and Wildlife]]
+| [[Jared Huffman]] (D-CA)
+| [[Tom McClintock]] (R-CA)
+|}
+
+===115th Congress===
+{| class=wikitable 
+|-
+! Majority<ref name=Majority/>
+! Minority<ref name=Minority/>
+|-
+| {{party shading/Republican}} valign=top |
+* [[Rob Bishop]], Utah, ''Chair''
+* [[Don Young]], Alaska
+* [[Louie Gohmert]], Texas, ''Vice Chair''
+* [[Doug Lamborn]], Colorado
+* [[Rob Wittman]], Virginia
+* [[Tom McClintock]], California
+* [[Steve Pearce (politician)|Steve Pearce]], New Mexico
+* [[Glenn Thompson (politician)|Glenn Thompson]], Pennsylvania
+* [[Paul Gosar]], Arizona
+* [[Raúl Labrador]], Idaho
+* [[Scott Tipton]], Colorado
+* [[Doug LaMalfa]], California
+* [[Jeff Denham]], California<ref>Appointed to committee in 2015, previously served from 2011 to 2013</ref>
+* [[Paul Cook (politician)|Paul Cook]], California
+* [[Bruce Westerman]], Arkansas
+* [[Garret Graves]], Louisiana
+* [[Jody Hice]], Georgia
+* [[Amata Coleman Radewagen]], American Samoa
+* [[Darin LaHood]], Illinois
+* [[Daniel Webster (Florida politician)|Daniel Webster]], Florida
+* [[David Rouzer]], North Carolina
+* [[Jack Bergman]], Michigan
+* [[Liz Cheney]], Wyoming
+* [[Mike Johnson]], Louisiana
+* [[Jenniffer González]], Puerto Rico
+* [[Greg Gianforte]], Montana
+| {{party shading/Democratic}} valign=top |
+* [[Raúl Grijalva]], Arizona, ''Ranking Member''
+* [[Grace Napolitano]], California
+* [[Madeleine Bordallo]], Guam
+* [[Jim Costa]], California
+* <span {{Party shading/Independent}}>[[Gregorio Sablan]], Northern Mariana Islands<ref name=Sablan>Sablan is an Independent, but caucuses with the Democrats</ref></span>
+* [[Niki Tsongas]], Massachusetts
+* [[Jared Huffman]], California, ''Vice Ranking Member''
+* [[Don Beyer]], Virginia
+* [[Norma Torres]], California
+* [[Ruben Gallego]], Arizona
+* [[Colleen Hanabusa]], Hawaii
+* [[Nanette Barragán]], California
+* [[Darren Soto]], Florida
+* [[Jimmy Panetta]], California (until April 2017)
+* [[Donald McEachin]], Virginia
+* [[Anthony Brown (Maryland politician)|Anthony Brown]], Maryland
+* [[Alan Lowenthal]], California
+* [[Lacy Clay]], Missouri
+* [[Jimmy Gomez]], California
+* [[Nydia Velázquez]], New York (since April 2018)
+|}
+
+==See also==
+* [[List of current United States House of Representatives committees]]
+
+==Notes==
+{{Notelist}}
+
+==References==
+{{Reflist|refs=
+<ref name=Majority>{{USBill|115|HRes|6}}, {{USBill|114|HRes|51}}</ref> 
+<ref name=Minority>{{USBill|115|HRes|7}}, {{USBill|115|HRes|45}}, {{USBill|115|HRes|52}}, {{USBill|115|HRes|95}}</ref> 
+<ref name=reorganization>{{cite web|url=http://docs.house.gov/meetings/II/II00/20130123/100172/HMTG-113-II00-20130123-SD002.pdf|title=Rules for the Committee on Natural Resources|type=PDF|work=Committee on Natural Resources Committee|date=January 23, 2013}}</ref>
+<ref name=rahall>{{cite web|url=https://news.google.com/newspapers?nid=2245&dat=20061208&id=Kw4mAAAAIBAJ&pg=5539,4544307|title=Incoming chairman pledges new agenda for House environment panel|work=Associated Press/Lodi News Record|date=December 8, 2006|access-date=January 23, 2013}}</ref>
+<ref name=staff1>{{cite web|url=http://www.eenews.net/eedaily/stories/1060011234|last=Bravender|first=Robin|publisher=E&E Publishing, LLC |title=Staff shuffles abound across energy, enviro committees|date=January 7, 2015|work=Energy & Environment Daily|access-date=January 14, 2015}}</ref>
+<ref name=staff2>{{cite web|url=http://www.eenews.net/eedaily/stories/1060011153|last=Taylor|first=Phil|publisher=E&E Publishing, LLC |title=New chairman overhauls committee staff|date=January 6, 2015|work=Energy & Environment Daily|access-date=January 14, 2015}}</ref>
+<ref name=subcommittee>Subcommittee Changes
+* {{cite web|url=http://www.eenews.net/eedaily/2015/01/14/stories/1060011635|last=Taylor|first=Phil|publisher=E&E Publishing, LLC |title=Bishop creates new oversight panel, names GOP roster|date=January 14, 2015|work=Energy & Environment Daily|access-date=January 14, 2015}}
+* {{cite web|url=http://naturalresources.house.gov/news/documentsingle.aspx?DocumentID=398007|title=House Natural Resources Committee Chairman Rob Bishop Announces Republican Members for 114th Congress, New Subcommittee on Oversight and Investigations|work=Committee on Natural Resources|date=January 13, 2015|access-date=January 16, 2015}}</ref>
+}}
+
+==External links==
+{{commons category}}
+* [https://naturalresources.house.gov/ Committee on Natural Resources], U.S. House of Representatives ([https://www.loc.gov/item/lcwa00hsii00/ Archive])
+* [https://www.congress.gov/committee/house-natural-resources/hsii00 House Natural Resources Committee]. Legislation activity and reports, Congress.gov.
+
+{{United States congressional committees}}
+
+<!-- hidden maintenance category -->
+
+[[Category:Committees of the United States House of Representatives|Natural Resources]]

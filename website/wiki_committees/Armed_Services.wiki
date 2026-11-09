@@ -1,0 +1,602 @@
+{{Short description|Standing committee of the U.S. House of Representatives}}
+{{Use mdy dates|date=February 2023}}{{Use American English|date=February 2023}}
+{{Infobox U.S. congressional committee
+| name               = House Armed Services Committee
+| type               = standing
+| chamber            = house
+| congress           = 118th
+| image              = House Armed Services Committee logo (black).png
+| image_size         = 150
+| status             = active
+| formed             = August 2, 1946
+| preceded           = Committee on Military Affairs, Committee on Naval Affairs
+| former_names       = Committee on National Security
+| chair              = [[Mike Rogers (Alabama politician)|Mike Rogers]] 
+| chair_party        = R
+| chair_since        = January 3, 2023
+| ranking_member     = [[Adam Smith (Washington politician)|Adam Smith]]
+| rm_party           = D
+| rm_since           = January 3, 2023
+| vice_chair         = [[Rob Wittman]]
+| vc_party           = R
+| vc_since           = January 25, 2023<ref>{{cite web|url=https://wittman.house.gov/news/documentsingle.aspx?DocumentID=4802|title=Wittman Named Vice Chairman of Armed Services Committee, Chairman of Tactical Air and Land Forces Subcommittee for 118th Congress|date=January 25, 2023|access-date=September 3, 2023}}</ref>
+| seats              = 59
+| majority1          = R
+| majority1_seats    = 31
+| minority1          = D
+| minority1_seats    = 28
+| policy_areas       = [[Defense policy of the United States|Defense policy]], military operations
+| oversight          = [[United States Department of Defense|Department of Defense]], [[United States Armed Forces|Armed Forces]], [[United States Department of Energy|Department of Energy]] (partly)
+| counterpart        = [[Senate Armed Services Committee]]
+| subcommittees      = <div style="text-align:left;">
+* [[United States House Armed Services Subcommittee on Intelligence and Special Operations|Intelligence and Special Operations]]
+* [[United States House Armed Services Subcommittee on Military Personnel|Military Personnel]]
+* [[United States House Armed Services Subcommittee on Readiness|Readiness]]
+* [[United States House Armed Services Subcommittee on Seapower and Projection Forces|Seapower and Projection Forces]]
+* [[United States House Armed Services Subcommittee on Strategic Forces|Strategic Forces]]
+* [[United States House Armed Services Subcommittee on Tactical Air and Land Forces|Tactical Air and Land Forces]]
+* [[United States House Armed Services Subcommittee on Cyber, Innovative Technologies and Information Systems|Cyber, Innovative Technologies and Information Systems]]
+</div>
+| website            = {{url|armedservices.house.gov}}
+|caption=Committee logo}}
+
+The '''U.S. House Committee on Armed Services''', commonly known as the '''House Armed Services Committee''' or '''HASC''', is a [[Standing committee (United States Congress)|standing committee]] of the [[United States House of Representatives]]. It is responsible for funding and [[Congressional oversight|oversight]] of the [[United States Department of Defense|Department of Defense]] (DoD) and the [[United States Armed Forces]], as well as substantial portions of the [[United States Department of Energy|Department of Energy]]. Its regular legislative product is the [[National Defense Authorization Act]], which has been passed by Congress and signed into law each year since 1962.<ref>{{Cite web|url=https://republicans-armedservices.house.gov/ndaa/history-ndaa|title = History of the NDAA|date = February 3, 2017}}</ref>
+
+==Jurisdiction==
+The Armed Services Committee has jurisdiction over defense policy generally, ongoing military operations, the organization and reform of the Department of Defense and Department of Energy, counter-drug programs, acquisition and industrial base policy, technology transfer and export controls, joint interoperability, the Cooperative Threat Reduction program, Department of Energy nonproliferation programs, and detainee affairs and policy.<ref>{{Cite news|url=https://armedservices.house.gov/about/jurisdiction-and-rules|title=Jurisdiction and Rules|date=2014-01-06|work=Armed Services Republicans|access-date=2017-04-07|language=en}}</ref>
+
+==History==
+{{United States House of Representatives}}
+The Armed Services Committee was created by the [[Legislative Reorganization Act of 1946]], which consolidated the functions of two predecessor committees: the '''Committee on Military Affairs''' and the '''Committee on Naval Affairs''', which were established as standing committees in 1822. Another predecessor, the '''Committee on the Militia''', was created in 1835 and existed until 1911 when it was abolished and its jurisdiction transferred to the Committee on Military Affairs.<ref>[https://www.archives.gov/legislative/guide/house/chapter-04.html Chapter 4. Records of the Armed Services Committee and Its Predecessors] ''Guide to the Record of the U.S. House of Representatives at the National Archives, 1789-1989 (Record Group 233)''</ref> When Republicans took control of the House of Representatives in 1994, the committee was renamed the Committee on National Security. It was later renamed the Committee on Armed Services.
+
+==Members, 118th Congress==
+{| class=wikitable
+! Majority
+! Minority
+|-
+| {{party shading/Republican}} valign=top |
+* [[Mike Rogers (Alabama politician)|Mike Rogers]], Alabama, ''Chair''
+* [[Joe Wilson (American politician)|Joe Wilson]], South Carolina
+* [[Mike Turner]], Ohio
+* [[Doug Lamborn]], Colorado
+* [[Rob Wittman]], Virginia, ''Vice Chair''
+* [[Austin Scott (politician)|Austin Scott]], Georgia
+* [[Sam Graves]], Missouri
+* [[Elise Stefanik]], New York
+* [[Scott DesJarlais]], Tennessee
+* [[Trent Kelly]], Mississippi
+* [[Matt Gaetz]], Florida
+* [[Don Bacon]], Nebraska 
+* [[Jim Banks]], Indiana
+* [[Jack Bergman]], Michigan
+* [[Michael Waltz]], Florida
+* [[Mike Johnson]], Louisiana (until October 25, 2023)
+* [[Lisa McClain]], Michigan
+* [[Ronny Jackson]], Texas
+* [[Pat Fallon]], Texas
+* [[Carlos A. Giménez]], Florida
+* [[Nancy Mace]], South Carolina
+* [[Brad Finstad]], Minnesota
+* [[Dale Strong]], Alabama
+* [[Morgan Luttrell]], Texas
+* [[Jen Kiggans]], Virginia
+* [[Nick LaLota]], New York
+* [[James Moylan]], Guam
+* [[Mark Alford (politician)|Mark Alford]], Missouri
+* [[Cory Mills]], Florida
+* [[Rich McCormick]], Georgia
+* [[Lance Gooden]], Texas (from December 6, 2023)
+
+| {{party shading/Democratic}} valign=top |
+* [[Adam Smith (Washington politician)|Adam Smith]], Washington, ''Ranking Member''
+* [[Joe Courtney (politician)|Joe Courtney]], Connecticut
+* [[John Garamendi]], California
+* [[Donald Norcross]], New Jersey
+* [[Ruben Gallego]], Arizona
+* [[Seth Moulton]], Massachusetts
+* [[Salud Carbajal]], California
+* [[Ro Khanna]], California
+* [[Bill Keating (politician)|Bill Keating]], Massachusetts
+* [[Andy Kim (politician)|Andy Kim]], New Jersey
+* [[Chrissy Houlahan]], Pennsylvania
+* [[Jason Crow]], Colorado (until February 27, 2023)
+* [[Elissa Slotkin]], Michigan
+* [[Mikie Sherrill]], New Jersey
+* [[Veronica Escobar]], Texas
+* [[Jared Golden]], Maine
+* [[Sara Jacobs]], California
+* [[Marilyn Strickland]], Washington
+* [[Pat Ryan (politician)|Pat Ryan]], New York
+* [[Jeff Jackson (politician)|Jeff Jackson]], North Carolina
+* [[Gabe Vasquez]], New Mexico
+* [[Chris Deluzio]], Pennsylvania
+* [[Jill Tokuda]], Hawaii
+* [[Don Davis (North Carolina politician)|Don Davis]], North Carolina
+* [[Jennifer McClellan]], Virginia (from March 8, 2023)
+* [[Terri Sewell]], Alabama
+* [[Steven Horsford]], Nevada
+* [[Jimmy Panetta]], California
+* [[Marc Veasey]], Texas
+|}
+
+Resolutions electing members: {{USBill|118|HRes|14}} (Chair), {{USBill|118|HRes|15}} (Ranking Member), {{USBill|118|HRes|79}} (D), {{USBill|118|HRes|80}} (R), {{USBill|118|HRes|164}} (D), {{USBill|118|HRes|205}} (D), {{USBill|118|HRes|913}} (R)
+
+==Subcommittees==
+{| class="wikitable"
+! Subcommittee
+! Chair<ref>{{Cite web |date=2023-01-25 |title=ROGERS WELCOMES MEMBERS TO HASC FOR 118TH CONGRESS |url=https://armedservices.house.gov/news/press-releases/rogers-welcomes-members-hasc-118th-congress |access-date=2023-01-27 |website=Armed Services Republicans |language=en}}</ref>
+! Ranking Member<ref>{{Cite web |date=2023-02-01 |title=Rogers, Smith Announce Subcommittee Rosters for 118th Congress |url=https://democrats-armedservices.house.gov/2023/2/rogers-smith-announce-subcommittee-rosters-for-118th-congress |access-date=2023-02-02 |website=House Armed Services Committee - Democrats |language=en}}</ref>
+|-
+| [[United States House Armed Services Subcommittee on Cyber, Innovative Technologies and Information Systems|Cyber, Innovative Technologies and Information Systems]]
+| [[Don Bacon]] (R-NE)
+|[[Ro Khanna]] (D-CA)
+|-
+| [[United States House Armed Services Subcommittee on Intelligence, Emerging Threats and Capabilities|Intelligence and Special Operations]]
+| [[Jack Bergman]] (R-MI)
+|[[Ruben Gallego]] (D-AZ)
+|-
+| [[United States House Armed Services Subcommittee on Military Personnel|Military Personnel]]
+| [[Jim Banks]] (R-IN)
+|[[Andy Kim (politician)|Andy Kim]] (D-NJ)
+|-
+| [[United States House Armed Services Subcommittee on Readiness|Readiness]]
+| [[Michael Waltz]] (R-FL)
+|[[John Garamendi]] (D-CA)
+|-
+| [[United States House Armed Services Subcommittee on Seapower and Projection Forces|Seapower and Projection Forces]]
+| [[Trent Kelly]] (R-MS)
+|[[Joe Courtney (politician)|Joe Courtney]] (D-CT)
+|-
+| [[United States House Armed Services Subcommittee on Strategic Forces|Strategic Forces]]
+| [[Doug Lamborn]] (R-CO)
+|[[Seth Moulton]] (D-MA)
+|-
+| [[United States House Armed Services Subcommittee on Tactical Air and Land Forces|Tactical Air and Land Forces]]
+| [[Rob Wittman]] (R-VA)
+|[[Donald Norcross]] (D-NJ)
+|}
+
+==Historical membership rosters==
+
+===114th Congress===
+{| class=wikitable
+! Majority<ref name=Majority114/>
+! Minority<ref name=Minority114/>
+|-
+| {{party shading/Republican}} valign=top |
+* [[Mac Thornberry]], Texas, ''Chair''
+* [[Walter B. Jones]], North Carolina
+* [[Randy Forbes]], Virginia
+* [[Jeff Miller (Florida politician)|Jeff Miller]], Florida
+* [[Joe Wilson (American politician)|Joe Wilson]], South Carolina
+* [[Frank LoBiondo]], New Jersey
+* [[Rob Bishop]], Utah
+* [[Mike Turner]], Ohio
+* [[John Kline (politician)|John Kline]], Minnesota
+* [[Mike Rogers (Alabama politician)|Mike Rogers]], Alabama
+* [[Trent Franks]], Arizona
+* [[Bill Shuster]], Pennsylvania
+* [[Mike Conaway]], Texas
+* [[Doug Lamborn]], Colorado
+* [[Rob Wittman]], Virginia
+* [[Duncan D. Hunter]], California
+* [[John Fleming (U.S. politician)|John Fleming]], Louisiana
+* [[Mike Coffman]], Colorado
+* [[Chris Gibson (New York politician)|Chris Gibson]], New York
+* [[Vicky Hartzler]], Missouri
+* [[Joe Heck]], Nevada
+* [[Austin Scott (politician)|Austin Scott]], Georgia
+* [[Steven Palazzo]], Mississippi
+* [[Mo Brooks]], Alabama
+* [[Rich Nugent]], Florida
+* [[Paul Cook (politician)|Paul Cook]], California
+* [[Jim Bridenstine]], Oklahoma
+* [[Brad Wenstrup]], Ohio
+* [[Jackie Walorski]], Indiana
+* [[Bradley Byrne]], Alabama
+* [[Sam Graves]], Missouri
+* [[Ryan Zinke]], Montana
+* [[Elise Stefanik]], New York
+* [[Martha McSally]], Arizona
+* [[Steve Knight (politician)|Steve Knight]], California
+* [[Tom MacArthur]], New Jersey
+
+| {{party shading/Democratic}} valign=top |
+* [[Adam Smith (Washington politician)|Adam Smith]], Washington, ''Ranking Member''
+* [[Loretta Sanchez]], California
+* [[Bob Brady]], Pennsylvania
+* [[Susan Davis (politician)|Susan Davis]], California
+* [[James Langevin]], Rhode Island
+* [[Rick Larsen]], Washington
+* [[Jim Cooper]], Tennessee
+* [[Madeleine Bordallo]], Guam
+* [[Joe Courtney (politician)|Joe Courtney]], Connecticut
+* [[Niki Tsongas]], Massachusetts
+* [[John Garamendi]], California
+* [[Hank Johnson]], Georgia
+* [[Jackie Speier]], California
+* [[Joaquin Castro]], Texas
+* [[Tammy Duckworth]], Illinois
+* [[Scott Peters (politician)|Scott Peters]], California
+* [[Marc Veasey]], Texas
+* [[Tulsi Gabbard]], Hawaii
+* [[Tim Walz]], Minnesota
+* [[Beto O'Rourke]], Texas
+* [[Donald Norcross]], New Jersey
+* [[Mark Takai]], Hawaii
+* [[Gwen Graham]], Florida
+* [[Ruben Gallego]], Arizona
+* [[Brad Ashford]], Nebraska
+* [[Seth Moulton]], Massachusetts
+* [[Pete Aguilar]], California
+|}
+
+===115th Congress===
+{| class=wikitable
+! Majority<ref name=Majority115/>
+! Minority<ref name=Minority115/>
+|-
+| {{party shading/Republican}} valign=top |
+* [[Mac Thornberry]], Texas, ''Chair''
+* [[Walter B. Jones Jr.]], North Carolina
+* [[Joe Wilson (American politician)|Joe Wilson]], South Carolina
+* [[Frank LoBiondo]], New Jersey
+* [[Rob Bishop]], Utah
+* [[Mike Turner]], Ohio
+* [[Mike Rogers (Alabama politician)|Mike Rogers]], Alabama
+* [[Bill Shuster]], Pennsylvania
+* [[Mike Conaway]], Texas
+* [[Doug Lamborn]], Colorado
+* [[Rob Wittman]], Virginia
+* [[Duncan D. Hunter]], California
+* [[Mike Coffman]], Colorado
+* [[Vicky Hartzler]], Missouri
+* [[Austin Scott (politician)|Austin Scott]], Georgia
+* [[Mo Brooks]], Alabama
+* [[Paul Cook (politician)|Paul Cook]], California
+* [[Bradley Byrne]], Alabama
+* [[Sam Graves]], Missouri
+* [[Elise Stefanik]], New York
+* [[Martha McSally]], Arizona
+* [[Steve Knight (politician)|Steve Knight]], California
+* [[Steve Russell (politician)|Steve Russell]], Oklahoma
+* [[Scott DesJarlais]], Tennessee
+* [[Ralph Abraham (politician)|Ralph Abraham]], Louisiana
+* [[Trent Kelly]], Mississippi
+* [[Mike Gallagher (American politician)|Mike Gallagher]], Wisconsin
+* [[Matt Gaetz]], Florida
+* [[Don Bacon]], Nebraska 
+* [[Jim Banks]], Indiana
+* [[Liz Cheney]], Wyoming
+* [[Jody Hice]], Georgia
+* [[Paul Mitchell (politician)|Paul Mitchell]], Michigan
+* Vacancy
+| {{party shading/Democratic}} valign=top |
+* [[Adam Smith (Washington politician)|Adam Smith]], Washington, ''Ranking Member''
+* [[Bob Brady]], Pennsylvania
+* [[Susan A. Davis]], California
+* [[James R. Langevin]], Rhode Island
+* [[Rick Larsen]], Washington
+* [[Jim Cooper]], Tennessee
+* [[Madeleine Bordallo]], Guam
+* [[Joe Courtney (politician)|Joe Courtney]], Connecticut
+* [[Niki Tsongas]], Massachusetts
+* [[John Garamendi]], California
+* [[Jackie Speier]], California
+* [[Marc Veasey]], Texas
+* [[Tulsi Gabbard]], Hawaii
+* [[Beto O'Rourke]], Texas, ''Vice Ranking Member''
+* [[Donald Norcross]], New Jersey
+* [[Ruben Gallego]], Arizona
+* [[Seth Moulton]], Massachusetts
+* [[Colleen Hanabusa]], Hawaii
+* [[Carol Shea-Porter]], New Hampshire
+* [[Jacky Rosen]], Nevada
+* [[Donald McEachin]], Virginia
+* [[Salud Carbajal]], California
+* [[Anthony Brown (Maryland politician)|Anthony Brown]], Maryland
+* [[Stephanie Murphy]], Florida
+* [[Ro Khanna]], California
+* [[Tom O'Halleran]], Arizona
+* [[Tom Suozzi]], New York
+* [[Jimmy Panetta]], California
+|}
+
+===116th Congress===
+{| class=wikitable
+! Majority
+! Minority
+|-
+| {{party shading/Democratic}} valign=top |
+* [[Adam Smith (Washington politician)|Adam Smith]], Washington, ''Chair''
+* [[Susan A. Davis|Susan Davis]], California
+* [[James R. Langevin|Jim Langevin]], Rhode Island
+* [[Rick Larsen]], Washington
+* [[Jim Cooper]], Tennessee
+* [[Joe Courtney (politician)|Joe Courtney]], Connecticut
+* [[John Garamendi]], California
+* [[Jackie Speier]], California
+* [[Tulsi Gabbard]], Hawaii
+* [[Donald Norcross]], New Jersey
+* [[Ruben Gallego]], Arizona
+* [[Seth Moulton]], Massachusetts
+* [[Salud Carbajal]], California
+* [[Anthony Brown (Maryland politician)|Anthony Brown]], Maryland, ''Vice Chair''
+* [[Ro Khanna]], California
+* [[Bill Keating (politician)|Bill Keating]], Massachusetts
+* [[Filemon Vela Jr.]], Texas
+* [[Andy Kim (politician)|Andy Kim]], New Jersey
+* [[Kendra Horn]], Oklahoma
+* [[Gil Cisneros]], California
+* [[Chrissy Houlahan]], Pennsylvania
+* [[Jason Crow]], Colorado
+* [[Xochitl Torres Small]], New Mexico
+* [[Elissa Slotkin]], Michigan
+* [[Mikie Sherrill]], New Jersey
+* [[Veronica Escobar]], Texas
+* [[Deb Haaland]], New Mexico
+* [[Jared Golden]], Maine
+* [[Lori Trahan]], Massachusetts
+* [[Elaine Luria]], Virginia
+* [[Anthony Brindisi]], New York (since November 19, 2019)
+
+| {{party shading/Republican}} valign=top |
+* [[Mac Thornberry]], Texas, ''Ranking Member''
+* [[Joe Wilson (American politician)|Joe Wilson]], South Carolina
+* [[Rob Bishop]], Utah
+* [[Mike Turner]], Ohio
+* [[Mike Rogers (Alabama politician)|Mike Rogers]], Alabama
+* [[Michael Conaway]], Texas
+* [[Doug Lamborn]], Colorado
+* [[Rob Wittman]], Virginia
+* [[Vicky Hartzler]], Missouri
+* [[Austin Scott (politician)|Austin Scott]], Georgia
+* [[Mo Brooks]], Alabama
+* [[Paul Cook (politician)|Paul Cook]], California
+* [[Bradley Byrne]], Alabama
+* [[Sam Graves]], Missouri
+* [[Elise Stefanik]], New York
+* [[Scott DesJarlais]], Tennessee
+* [[Ralph Abraham (politician)|Ralph Abraham]], Louisiana
+* [[Trent Kelly]], Mississippi
+* [[Mike Gallagher (American politician)|Mike Gallagher]], Wisconsin
+* [[Matt Gaetz]], Florida
+* [[Don Bacon]], Nebraska 
+* [[Jim Banks]], Indiana
+* [[Liz Cheney]], Wyoming
+* [[Paul Mitchell (politician)|Paul Mitchell]], Michigan
+* [[Jack Bergman]], Michigan
+* [[Michael Waltz]], Florida
+|}
+
+Resolutions electing members: {{USBill|116|HRes|24}} (Chair), {{USBill|116|HRes|25}} (Ranking Member), {{USBill|116|HRes|42}} (D), {{USBill|116|HRes|68}} (R), {{USBill|116|HRes|712}} (D)
+
+===117th Congress===
+{| class=wikitable
+! Majority
+! Minority
+|-
+| {{party shading/Democratic}} valign=top |
+* [[Adam Smith (Washington politician)|Adam Smith]], Washington, ''Chair''
+* [[James Langevin]], Rhode Island
+* [[Rick Larsen]], Washington
+* [[Jim Cooper]], Tennessee
+* [[Joe Courtney (politician)|Joe Courtney]], Connecticut
+* [[John Garamendi]], California
+* [[Jackie Speier]], California
+* [[Donald Norcross]], New Jersey
+* [[Ruben Gallego]], Arizona
+* [[Seth Moulton]], Massachusetts
+* [[Salud Carbajal]], California
+* [[Anthony Brown (Maryland politician)|Anthony Brown]], Maryland
+* [[Ro Khanna]], California
+* [[Bill Keating (politician)|Bill Keating]], Massachusetts
+* [[Filemon Vela Jr.]], Texas (retired from Congress April 1, 2022)
+* [[Andy Kim (politician)|Andy Kim]], New Jersey
+* [[Chrissy Houlahan]], Pennsylvania
+* [[Jason Crow]], Colorado
+* [[Elissa Slotkin]], Michigan
+* [[Mikie Sherrill]], New Jersey
+* [[Veronica Escobar]], Texas
+* [[Jared Golden]], Maine
+* [[Elaine Luria]], Virginia, ''Vice Chair''
+* [[Joseph Morelle]], New York
+* [[Sara Jacobs]], California
+* [[Kai Kahele]], Hawaii
+* [[Marilyn Strickland]], Washington
+* [[Pat Ryan (politician)|Pat Ryan]], New York (since September 14, 2022)
+* [[Marc Veasey]], Texas
+* [[Jimmy Panetta]], California
+* [[Stephanie Murphy]], Florida
+* [[Steven Horsford]], Nevada (since May 12, 2021)
+* [[Sylvia Garcia]], Texas (since May 11, 2022)
+
+| {{party shading/Republican}} valign=top |
+* [[Mike Rogers (Alabama politician)|Mike Rogers]], Alabama, ''Ranking Member''
+* [[Joe Wilson (American politician)|Joe Wilson]], South Carolina
+* [[Mike Turner]], Ohio
+* [[Doug Lamborn]], Colorado
+* [[Rob Wittman]], Virginia, ''Vice Ranking Member''
+* [[Vicky Hartzler]], Missouri
+* [[Austin Scott (politician)|Austin Scott]], Georgia
+* [[Mo Brooks]], Alabama
+* [[Sam Graves]], Missouri
+* [[Elise Stefanik]], New York
+* [[Scott DesJarlais]], Tennessee
+* [[Trent Kelly]], Mississippi
+* [[Mike Gallagher (American politician)|Mike Gallagher]], Wisconsin
+* [[Matt Gaetz]], Florida
+* [[Don Bacon]], Nebraska 
+* [[Jim Banks]], Indiana
+* [[Liz Cheney]], Wyoming
+* [[Jack Bergman]], Michigan
+* [[Michael Waltz]], Florida
+* [[Mike Johnson]], Louisiana
+* [[Mark Green (Tennessee politician)|Mark Green]], Tennessee
+* [[Stephanie Bice]], Oklahoma
+* [[Scott Franklin (politician)|Scott Franklin]], Florida
+* [[Lisa McClain]], Michigan
+* [[Ronny Jackson]], Texas
+* [[Jerry Carl]], Alabama
+* [[Blake Moore]], Utah
+* [[Pat Fallon]], Texas
+|}
+
+Resolutions electing members: {{USBill|117|HRes|9}} (Chair), {{USBill|117|HRes|10}} (Ranking Member), {{USBill|117|HRes|62}} (D), {{USBill|117|HRes|63}} (R), {{USBill|117|HRes|384}} (D), {{USBill|117|HRes|1347}} (D)
+
+;Subcommittees
+{| class="wikitable"
+! Subcommittee<ref>{{Cite web|url=https://armedservices.house.gov/press-releases?ID=283E9BE0-65B6-4C61-880A-40E0C7CBD521|title = Smith, Langevin Announce New Subcommittee for the 117th Congress|date = February 3, 2021}}</ref>
+! Chair
+! Ranking Member
+|-
+| [[United States House Armed Services Subcommittee on Cyber, Innovative Technologies and Information Systems|Cyber, Innovative Technologies and Information Systems]]
+| [[James Langevin]] (D-RI)
+| [[Elise Stefanik]] (R-NY)
+|-
+| [[United States House Armed Services Subcommittee on Intelligence, Emerging Threats and Capabilities|Intelligence and Special Operations]]
+| [[Ruben Gallego]] (D-AZ)
+| [[Trent Kelly]] (R-MS)
+|-
+| [[United States House Armed Services Subcommittee on Military Personnel|Military Personnel]]
+| [[Jackie Speier]] (D-CA)
+| [[Jim Banks]] (R-IN)
+|-
+| [[United States House Armed Services Subcommittee on Readiness|Readiness]]
+| [[John Garamendi]] (D-CA)
+| [[Mike Waltz]] (R-FL)
+|-
+| [[United States House Armed Services Subcommittee on Seapower and Projection Forces|Seapower and Projection Forces]]
+| [[Joe Courtney (politician)|Joe Courtney]] (D-CT)
+| [[Rob Wittman]] (R-VA)
+|-
+| [[United States House Armed Services Subcommittee on Strategic Forces|Strategic Forces]]
+| [[Jim Cooper]] (D-TN)
+| [[Doug Lamborn]] (R-CO)
+|-
+| [[United States House Armed Services Subcommittee on Tactical Air and Land Forces|Tactical Air and Land Forces]]
+| [[Donald Norcross]] (D-NJ)
+| [[Vicky Hartzler]] (R-MO)
+|-
+|}
+
+==Chairmen since 1947==
+{| class=wikitable
+|-
+! Chairman !! Party !! State !! Years
+|-{{Party shading/Republican}}
+| [[Walter G. Andrews]]
+| [[Republican Party (United States)|Republican]]
+| [[New York (state)|New York]]
+| 1947–1949
+|-{{Party shading/Democratic}}
+| [[Carl Vinson]]
+| [[Democratic Party (United States)|Democratic]]
+| [[Georgia (U.S. state)|Georgia]]
+| 1949–1953
+|-{{Party shading/Republican}}
+| [[Dewey Jackson Short|Dewey J. Short]]
+| [[Republican Party (United States)|Republican]]
+| [[Missouri]]
+| 1953–1955
+|-{{Party shading/Democratic}}
+| [[Carl Vinson]]
+| [[Democratic Party (United States)|Democratic]]
+| [[Georgia (U.S. state)|Georgia]]
+| 1955–1965
+|-{{Party shading/Democratic}}
+| [[L. Mendel Rivers]]
+| [[Democratic Party (United States)|Democratic]]
+| [[South Carolina]]
+| 1965–1970
+|-{{Party shading/Democratic}}
+| [[Philip J. Philbin]]
+| [[Democratic Party (United States)|Democratic]]
+| [[Massachusetts]]
+| 1970–1971
+|-{{Party shading/Democratic}}
+| [[F. Edward Hébert]]
+| [[Democratic Party (United States)|Democratic]]
+| [[Louisiana]]
+| 1971–1975
+|-{{Party shading/Democratic}}
+| [[Melvin Price]]
+| [[Democratic Party (United States)|Democratic]]
+| [[Illinois]]
+| 1975–1985
+|-{{Party shading/Democratic}}
+| [[Les Aspin]]
+| [[Democratic Party (United States)|Democratic]]
+| [[Wisconsin]]
+| 1985–1993
+|-{{Party shading/Democratic}}
+| [[Ron Dellums]]
+| [[Democratic Party (United States)|Democratic]]
+| [[California]]
+| 1993–1995
+|-{{Party shading/Republican}}
+| [[Floyd Spence]]
+| [[Republican Party (United States)|Republican]]
+| [[South Carolina]]
+| 1995–2001
+|-{{Party shading/Republican}}
+| [[Bob Stump]]
+| [[Republican Party (United States)|Republican]]
+| [[Arizona]]
+| 2001–2003
+|-{{Party shading/Republican}}
+| [[Duncan L. Hunter|Duncan Hunter]]
+| [[Republican Party (United States)|Republican]]
+| [[California]]
+| 2003–2007
+|-{{Party shading/Democratic}}
+| [[Ike Skelton]]
+| [[Democratic Party (United States)|Democratic]]
+| [[Missouri]]
+| 2007–2011
+|-{{Party shading/Republican}}
+| [[Buck McKeon]]
+| [[Republican Party (United States)|Republican]]
+| [[California]]
+| 2011–2015
+|-{{Party shading/Republican}}
+| [[Mac Thornberry]]
+| [[Republican Party (United States)|Republican]]
+| [[Texas]]
+| 2015–2019
+|-{{Party shading/Democratic}}
+| [[Adam Smith (Washington politician)|Adam Smith]]
+| [[Democratic Party (United States)|Democratic]]
+| [[Washington (state)|Washington]]
+| 2019–2023
+|-{{Party shading/Republican}}
+| [[Mike Rogers (Alabama politician)|Mike Rogers]] 
+| [[Republican Party (United States)|Republican]]
+| [[Alabama]]
+| 2023–present
+|}
+
+==References==
+{{Reflist|refs=
+<ref name=Majority114>{{USBill|114|HRes|6}}, {{USBill|114|HRes|29}}</ref>
+<ref name=Minority114>{{USBill|114|HRes|7}}, {{USBill|114|HRes|30}}</ref>
+<ref name=Majority115>{{USBill|115|HRes|6}}, {{USBill|115|HRes|36}}</ref>
+<ref name=Minority115>{{USBill|115|HRes|7}}, {{USBill|115|HRes|45}}, {{USBill|115|HRes|95}}</ref>
+}}
+
+==External links==
+{{commons category|House Armed Services Committee|United States House Committee on Armed Services}}
+* [http://armedservices.house.gov/ House Armed Services Committee] home page
+* [https://www.congress.gov/committee/house-armed-services/hsas00 House Armed Services Committee]. Legislation activity and reports, Congress.gov.
+* [https://web.archive.org/web/20110812141614/http://www.gpoaccess.gov/cdirectory/browse.html Congressional Directory] including lists of past memberships 
+
+{{United States congressional committees}}
+{{US military navbox}}
+{{US Army navbox}}
+{{United States Air Force}}
+{{United States Space Force}}
+{{Authority control}}
+[[Category:1822 establishments in the United States]]
+[[Category:Civil–military relations]]
+[[Category:Committees of the United States House of Representatives|Armed Services]]
+[[Category:Organizations established in 1822]]

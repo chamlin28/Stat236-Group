@@ -1,0 +1,1358 @@
+{{Short description|Standing committee of the United States House of Representatives}}
+{{Use mdy dates|date=October 2023}} {{Use American English|date=October 2023}}
+{{Infobox U.S. congressional committee
+| name               = House Financial Services Committee
+| type               = standing
+| chamber            = house
+| congress           = 118th
+| status             = active
+| formed             = December 11, 1865
+| chair              = [[Patrick McHenry]]
+| chair_party        = R
+| chair_since        = January 3, 2023
+| ranking_member     = [[Maxine Waters]]
+| rm_party           = D
+| rm_since           = January 3, 2023
+| vice_chair         = [[French Hill (politician)|French Hill]]
+| vc_party           = R
+| vc_since           = January 3, 2023
+| seats              = 52
+| majority1          = R
+| majority1_seats    = 29
+| minority1          = D
+| minority1_seats    = 23
+| policy_areas       = 
+| oversight          = 
+| counterpart        = 
+| subcommittees      = 
+| meeting_place      = 
+| meeting_image      = 
+| meeting_img_size   = 
+| website            = {{url|financialservices.house.gov}}
+}}
+{{United States House of Representatives}}
+The '''United States House Committee on Financial Services''', also referred to as the '''House Banking Committee''' and previously known as the '''Committee on Banking and Currency''', is the [[United States congressional committee|committee]] of the [[United States House of Representatives]] that oversees the entire [[financial services]] industry, including the securities, insurance, banking and housing industries. The Financial Services Committee also oversees the work of the [[Federal Reserve]], the [[United States Department of the Treasury]], the [[U.S. Securities and Exchange Commission]] and other financial services regulators.
+
+The House Committee on Financial Services is considered to be one of the House's most powerful committees.<ref>{{cite news |last=Merle |first=Renae|title=Alexandria Ocasio-Cortez vs. Wall Street: Lawmaker wins spot on powerful House committee |url=https://www.washingtonpost.com/business/2019/01/16/alexandria-ocasio-cortez-versus-wall-street-lawmaker-wins-spot-powerful-house-committee/ |access-date=June 28, 2022 |newspaper=[[The Washington Post]] |date=January 16, 2019}}</ref>
+
+It is currently chaired by Republican [[Patrick McHenry]] from North Carolina, having assumed office in 2023. He previously served as the committee's Ranking Member. The Ranking Member is Democrat [[Maxine Waters]] from California, who previously chaired the committee under a Democrat majority in the House.
+
+== Jurisdiction ==
+Under the rules of the 113th Congress, the Financial Services Committee's jurisdiction includes:
+# Banks and banking, including deposit insurance and Federal monetary policy
+# Economic stabilization, defense production, renegotiation, and control of the price of commodities, rents, and services
+# Financial aid to commerce and industry (other than transportation)
+# Insurance generally
+# International finance
+# International financial and monetary organizations
+# Money and credit, including currency and the issuance of notes and redemption thereof; gold and silver, including the coinage thereof; valuation and revaluation of the dollar
+# Public and private housing
+# Securities and exchanges
+# Urban development<ref>{{cite web |title=Jurisdiction |publisher= Financial Services Committee |url=https://financialservices.house.gov/about/jurisdiction.htm |website=financialservices.house.gov |access-date=February 25, 2021}}{{PD-notice}}</ref>
+
+==History==
+The Banking and Currency Committee was created on December 11, 1865, to take over responsibilities previously handled by the [[United States House Committee on Ways and Means|Ways and Means Committee]]. It continued to function under this name until 1968, when it assumed the current name.<ref>{{cite web |url=https://www.archives.gov/legislative/guide/house/chapter-05.html |title=Chapter 5. Records of the Banking and Currency Committees |work=Guide to the Records of the U.S. House of Representatives at the National Archives, 1789–1989 (Record Group 233) |publisher=[[National Archives and Records Administration]] |access-date=November 26, 2010}}</ref>
+
+==Members, 118th Congress==
+{| class=wikitable
+! Majority
+! Minority
+|-
+| {{party shading/Republican}} valign=top |
+* [[Patrick McHenry]], North Carolina, ''Chair''
+* [[Frank Lucas (Oklahoma politician)|Frank Lucas]], Oklahoma
+* [[Pete Sessions]], Texas
+* [[Bill Posey]], Florida
+* [[Blaine Luetkemeyer]], Missouri
+* [[Bill Huizenga]], Michigan
+* [[Ann Wagner]], Missouri
+* [[Andy Barr (American politician)|Andy Barr]], Kentucky
+* [[Roger Williams (Texas politician)|Roger Williams]], Texas
+* [[French Hill (politician)|French Hill]], Arkansas, ''Vice Chair''
+* [[Tom Emmer]], Minnesota
+* [[Barry Loudermilk]], Georgia
+* [[Alex Mooney]], West Virginia
+* [[Warren Davidson]], Ohio
+* [[John Rose (Tennessee politician)|John Rose]], Tennessee
+* [[Bryan Steil]], Wisconsin
+* [[William Timmons (politician)|William Timmons]], South Carolina
+* [[Ralph Norman]], South Carolina
+* [[Dan Meuser]], Pennsylvania
+* [[Young Kim]], California
+* [[Byron Donalds]], Florida
+* [[Andrew Garbarino]], New York
+* [[Scott L. Fitzgerald]], Wisconsin
+* [[Mike Flood (politician)|Mike Flood]], Nebraska
+* [[Mike Lawler]], New York
+* [[Monica De La Cruz]], Texas
+* [[Andy Ogles]], Tennessee
+* [[Erin Houchin]], Indiana
+* [[Zach Nunn]], Iowa
+
+| {{party shading/Democratic}} valign=top |
+* [[Maxine Waters]], California, ''Ranking Member''
+* [[Nydia Velázquez]], New York
+* [[Brad Sherman]], California
+* [[Gregory Meeks]], New York
+* [[David Scott (Georgia politician)|David Scott]], Georgia
+* [[Stephen Lynch (politician)|Stephen Lynch]], Massachusetts
+* [[Al Green (politician)|Al Green]], Texas
+* [[Emanuel Cleaver]], Missouri
+* [[Jim Himes]], Connecticut
+* [[Bill Foster (Illinois politician)|Bill Foster]], Illinois
+* [[Joyce Beatty]], Ohio
+* [[Juan Vargas]], California
+* [[Josh Gottheimer]], New Jersey
+* [[Vicente Gonzalez (politician)|Vicente Gonzalez]], Texas
+* [[Sean Casten]], Illinois
+* [[Ayanna Pressley]], Massachusetts
+* [[Steven Horsford]], Nevada
+* [[Rashida Tlaib]], Michigan
+* [[Ritchie Torres]], New York
+* [[Sylvia Garcia]], Texas
+* [[Nikema Williams]], Georgia
+* [[Wiley Nickel]], North Carolina
+* [[Brittany Pettersen]], Colorado
+|}
+Resolutions electing members: {{USBill|118|HRes|14}} (Chair), {{USBill|118|HRes|15}} (Ranking Member), {{USBill|118|HRes|56}} (R), {{USBill|118|HRes|57}} (D), {{USBill|118|HRes|71}} (amending rank)
+
+==Subcommittees==
+[[Image:US House Committee.jpg|right|thumb|200px|Meeting of the House Financial Services Committee]]
+The Financial Services Committee operates with six [[United States congressional subcommittee|subcommittees]]. The jurisdiction over insurance was transferred in 2001 to the then-House Banking and Financial Services Committee from the [[House Energy and Commerce Committee]]. Since that time it had been the purview of the Subcommittee on Capital Markets, Insurance and Government Sponsored Enterprises. But "with plans to reform [[Fannie Mae]] and [[Freddie Mac]] expected to take up much of that panel's agenda, insurance instead [was] moved to a new Subcommittee on Insurance, Housing and Community Opportunity [as of the [[112th United States Congress|112th Congress]]]."<ref>{{Cite web | last = Lehmann | first = R. J. | title = Insurance gets top billing on new House subcommittee | publisher = SNL Financial | date = 2011-01-20 | archive-url = https://web.archive.org/web/20210225051837/https://www.snl.com/InteractiveX/article.aspx?CDID=A-12226134-13111&KPLT=2 | archive-date = 2021-02-25 | url = http://www.snl.com/InteractiveX/article.aspx?CDID=A-12226134-13111&KPLT=2 | access-date = 2011-01-27 | url-status = live }}</ref> In the [[115th United States Congress|115th Congress]], a new subcommittee on Terrorism and Illicit Finance was created, dedicated to disrupting the financing of terrorist organizations.<ref>{{cite news|title=Pearce to head committee on terrorism finances|url=http://www.azcentral.com/story/news/2017/01/09/pearce-head-committee-terrorism-finances/96369250/|access-date=February 27, 2017|work=The Arizona Republic|date=January 9, 2017}}</ref>
+
+===Current subcommittees===
+{| class="wikitable"
+! Subcommittee
+! Chair<ref>{{Cite web |title=McHenry Announces Financial Services Subcommittee Chairs and Jurisdiction for 118th Congress {{!}} Financial Services Committee |url=https://financialservices.house.gov/news/documentsingle.aspx?DocumentID=408500 |access-date=2023-01-18 |website=financialservices.house.gov}}</ref>
+! Ranking Member<ref>{{Cite web |date=2023-02-01 |title=Ranking Member Waters Announces Subcommittee Membership for Democratic Caucus on House Financial Services Committee |url=https://democrats-financialservices.house.gov/news/documentsingle.aspx?DocumentID=410074 |access-date=2023-02-02 |website=U.S. House Committee on Financial Services Democrats |language=en}}</ref>
+|-
+| [[United States House Financial Services Subcommittee on Capital Markets|Capital Markets]]
+| [[Ann Wagner]] (R-MO)
+| [[Brad Sherman]] (D-CA)
+|-
+| [[United States House Financial Services Subcommittee on Digital Assets, Financial Technology and Inclusion|Digital Assets, Financial Technology and Inclusion]]
+| [[French Hill (politician)|French Hill]] (R-AR)
+| [[Stephen Lynch (politician)|Stephen Lynch]] (D-MA)
+|-
+| [[United States House Financial Services Subcommittee on Financial Institutions and Monetary Policy|Financial Institutions and Monetary Policy]]
+| [[Andy Barr (American politician)|Andy Barr]] (R-KY)
+| [[Bill Foster (politician)|Bill Foster]] (D-IL)
+|-
+| [[United States House Financial Services Subcommittee on Housing and Insurance|Housing and Insurance]]
+| [[Warren Davidson]] (R-OH)
+| [[Emanuel Cleaver]] (D-MO)
+|-
+| [[United States House Financial Services Subcommittee on National Security, Illicit Finance and International Financial Institutions|National Security, Illicit Finance, and International Financial Institutions]]
+| [[Blaine Luetkemeyer]] (R-MO)
+| [[Joyce Beatty]] (D-OH)
+|-
+| [[United States House Financial Services Subcommittee on Oversight and Investigations|Oversight and Investigations]]
+| [[Bill Huizenga]] (R-MI)
+| [[Al Green (politician)|Al Green]] (D-TX)
+|}
+
+==List of chairs==
+{| class=wikitable
+! Chairman
+! Party
+! State
+! Years
+|-
+| [[Theodore M. Pomeroy]]
+| {{party shading/Republican}} | Republican
+| [[New York (state)|New York]]
+| 1865–1869
+|-
+| [[James A. Garfield]]
+| {{party shading/Republican}} | Republican
+| [[Ohio]]
+| 1869–1871
+|-
+| [[Samuel Hooper]]
+| {{party shading/Republican}} | Republican
+| [[Massachusetts]]
+| 1871–1873
+|-
+| [[Horace Maynard]]
+| {{party shading/Republican}} | Republican
+| [[Tennessee]]
+| 1873–1875
+|-
+| [[Samuel S. Cox]]
+| {{party shading/Democratic}} | Democratic
+| [[New York (state)|New York]]
+| 1875–1877
+|-
+| [[Aylett Hawes Buckner]]
+| {{party shading/Democratic}} | Democratic
+| [[Missouri]]
+| 1877–1881
+|-
+| [[William W. Crapo]]
+| {{party shading/Republican}} | Republican
+| [[Massachusetts]]
+| 1881–1883
+|-
+| [[Aylett Hawes Buckner]]
+| {{party shading/Democratic}} | Democratic
+| [[Missouri]]
+| 1883–1885
+|-
+| [[Andrew Gregg Curtin]]
+| {{party shading/Democratic}} | Democratic
+| [[Pennsylvania]]
+| 1885–1887
+|-
+| [[Beriah Wilkins]]
+| {{party shading/Democratic}} | Democratic
+| [[Ohio]]
+| 1887–1889
+|-
+| [[George Washington Emery Dorsey|George W. E. Dorsey]]
+| {{party shading/Republican}} | Republican
+| [[Nebraska]]
+| 1889–1891
+|-
+| [[Henry Bacon (New York)|Henry Bacon]]
+| {{party shading/Democratic}} | Democratic
+| [[New York (state)|New York]]
+| 1891–1893
+|-
+| [[William McKendree Springer|William McK. Springer]]
+| {{party shading/Democratic}} | Democratic
+| [[Illinois]]
+| 1893–1895
+|-
+| [[Joseph H. Walker]]
+| {{party shading/Republican}} | Republican
+| [[Massachusetts]]
+| 1895–1899
+|-
+| [[Marriott Henry Brosius]]
+| {{party shading/Republican}} | Republican
+| [[Pennsylvania]]
+| 1899–1901
+|-
+| [[Charles N. Fowler]]
+| {{party shading/Republican}} | Republican
+| [[New Jersey]]
+| 1901–1909
+|-
+| [[Edward B. Vreeland]]
+| {{party shading/Republican}} | Republican
+| [[New York (state)|New York]]
+| 1909–1911
+|-
+| [[Arsène Pujo]]
+| {{party shading/Democratic}} | Democratic
+| [[Louisiana]]
+| 1911–1913
+|-
+| [[Carter Glass]]
+| {{party shading/Democratic}} | Democratic
+| [[Virginia]]
+| 1913–1918
+|-
+| [[Michael Francis Phelan]]
+| {{party shading/Democratic}} | Democratic
+| [[Massachusetts]]
+| 1918–1919
+|-
+| [[Edmund Platt]]
+| {{party shading/Republican}} | Republican
+| [[New York (state)|New York]]
+| 1919–1920
+|-
+| [[Louis Thomas McFadden]]
+| {{party shading/Republican}} | Republican
+| [[Pennsylvania]]
+| 1920–1931
+|-
+| [[Henry B. Steagall]]
+| {{party shading/Democratic}} | Democratic
+| [[Alabama]]
+| 1931–1943
+|-
+| [[Brent Spence]]
+| {{party shading/Democratic}} | Democratic
+| [[Kentucky]]
+| 1943–1947
+|-
+| [[Jesse P. Wolcott]]
+| {{party shading/Republican}} | Republican
+| [[Michigan]]
+| 1947–1949
+|-
+| [[Brent Spence]]
+| {{party shading/Democratic}} | Democratic
+| [[Kentucky]]
+| 1949–1953
+|-
+| [[Jesse P. Wolcott]]
+| {{party shading/Republican}} | Republican
+| [[Michigan]]
+| 1953–1955
+|-
+| [[Brent Spence]]
+| {{party shading/Democratic}} | Democratic
+| [[Kentucky]]
+| 1955–1963
+|-
+| [[Wright Patman]]
+| {{party shading/Democratic}} | Democratic
+| [[Texas]]
+| 1963–1975
+|-
+| [[Henry S. Reuss]]
+| {{party shading/Democratic}} | Democratic
+| [[Wisconsin]]
+| 1975–1981
+|-
+| [[Fernand St. Germain]]
+| {{party shading/Democratic}} | Democratic
+| [[Rhode Island]]
+| 1981–1989
+|-
+| [[Henry B. Gonzalez]]
+| {{party shading/Democratic}} | Democratic
+| [[Texas]]
+| 1989–1995
+|-
+| [[Jim Leach]]
+| {{party shading/Republican}} | Republican
+| [[Iowa]]
+| 1995–2001
+|-
+| [[Mike Oxley]]
+| {{party shading/Republican}} | Republican
+| [[Ohio]]
+| 2001–2007
+|-
+| [[Barney Frank]]
+| {{party shading/Democratic}} | Democratic
+| [[Massachusetts]]
+| 2007–2011
+|-
+| [[Spencer Bachus]]
+| {{party shading/Republican}} | Republican
+| [[Alabama]]
+| 2011–2013
+|-
+| [[Jeb Hensarling]]
+| {{party shading/Republican}} | Republican
+| [[Texas]]
+| 2013–2019
+|-
+| [[Maxine Waters]]
+| {{party shading/Democratic}} | Democratic
+| [[California]]
+| 2019–2023
+|-
+| [[Patrick McHenry]]
+| {{party shading/Republican}} | Republican
+| [[North Carolina]]
+| 2023–present
+|}
+
+== List of ranking members ==
+{| class="wikitable"
+|+
+!Chairman
+!Party
+!State
+!Years
+|-
+|[[Jim Leach]]
+|{{party shading/Republican}}|Republican
+|[[Iowa]]
+|1992–1995
+|-
+|[[Henry B. González]]
+|{{party shading/Democratic}}|Democratic
+|[[Texas]]
+|1995–1999
+|-
+|[[John LaFalce]]
+|{{party shading/Democratic}}|Democratic
+|[[New York (state)|New York]]
+|1999–2003
+|-
+|[[Barney Frank]]
+|{{party shading/Democratic}}|Democratic 
+|[[Massachusetts]]
+|2003–2007
+|-
+|[[Spencer Bachus]]
+|{{party shading/Republican}} |Republican
+|[[Alabama]]
+|2007–2011
+|-
+|[[Barney Frank]]
+|{{party shading/Democratic}}|Democratic
+|[[Massachusetts]]
+|2011–2013
+|-
+|[[Maxine Waters]]
+|{{party shading/Democratic}}|Democratic
+|[[California]]
+|2013–2019
+|-
+|[[Patrick McHenry]]
+| {{party shading/Republican}} |Republican
+|[[North Carolina]]
+|2019–2023
+|-
+| [[Maxine Waters]]
+| {{party shading/Democratic}} | Democratic
+| [[California]]
+| 2023–present
+|-
+|}
+
+==Historical membership rosters==
+
+===117th Congress===
+{| class=wikitable
+! Majority
+! Minority
+|-
+| {{party shading/Democratic}} valign=top |
+* [[Maxine Waters]], California, ''Chair''
+* [[Carolyn Maloney]], New York
+* [[Nydia Velázquez]], New York
+* [[Brad Sherman]], California
+* [[Gregory Meeks]], New York
+* [[David Scott (Georgia politician)|David Scott]], Georgia
+* [[Al Green (politician)|Al Green]], Texas
+* [[Emanuel Cleaver]], Missouri
+* [[Ed Perlmutter]], Colorado
+* [[Jim Himes]], Connecticut
+* [[Bill Foster (Illinois politician)|Bill Foster]], Illinois
+* [[Joyce Beatty]], Ohio
+* [[Juan Vargas]], California
+* [[Josh Gottheimer]], New Jersey
+* [[Vicente Gonzalez (politician)|Vicente Gonzalez]], Texas
+* [[Al Lawson]], Florida
+* [[Michael San Nicolas]], Guam
+* [[Cindy Axne]], Iowa
+* [[Sean Casten]], Illinois
+* [[Ayanna Pressley]], Massachusetts
+* [[Ritchie Torres]], New York
+* [[Stephen Lynch (politician)|Stephen Lynch]], Massachusetts
+* [[Alma Adams]], North Carolina
+* [[Rashida Tlaib]], Michigan
+* [[Alexandria Ocasio-Cortez]], New York
+* [[Madeleine Dean]], Pennsylvania
+* [[Chuy García]], Illinois
+* [[Sylvia Garcia]], Texas
+* [[Nikema Williams]], Georgia
+* [[Jake Auchincloss]], Massachusetts, ''Vice Chair''
+
+| {{party shading/Republican}} valign=top |
+* [[Patrick McHenry]], North Carolina, ''Ranking Member''
+* [[Frank Lucas (Oklahoma politician)|Frank Lucas]], Oklahoma
+* [[Pete Sessions]], Texas (from June 30, 2021)
+* [[Bill Posey]], Florida
+* [[Blaine Luetkemeyer]], Missouri
+* [[Bill Huizenga]], Michigan
+* [[Ann Wagner]], Missouri, ''Vice Ranking Member''
+* [[Andy Barr (American politician)|Andy Barr]], Kentucky
+* [[Roger Williams (Texas politician)|Roger Williams]], Texas
+* [[French Hill (politician)|French Hill]], Arkansas
+* [[Tom Emmer]], Minnesota
+* [[Lee Zeldin]], New York
+* [[Barry Loudermilk]], Georgia
+* [[Alex Mooney]], West Virginia
+* [[Warren Davidson]], Ohio
+* [[Ted Budd]], North Carolina
+* [[David Kustoff]], Tennessee
+* [[Trey Hollingsworth]], Indiana
+* [[Anthony Gonzalez (politician)|Anthony Gonzalez]], Ohio
+* [[John Rose (Tennessee politician)|John Rose]], Tennessee
+* [[Bryan Steil]], Wisconsin
+* [[Lance Gooden]], Texas
+* [[William Timmons (politician)|William Timmons]], South Carolina
+* [[Van Taylor]], Texas
+* [[Ralph Norman]], South Carolina (from June 8, 2022)
+|}
+Resolutions electing members: {{USBill|117|HRes|9}} (Chair), {{USBill|117|HRes|10}} (Ranking Member), {{USBill|117|HRes|62}} (D), {{USBill|117|HRes|63}} (R), {{USBill|117|HRes|511}} (R), {{USBill|117|HRes|1159}} (R)
+;Subcommittees
+{| class="wikitable"
+! Subcommittee
+! Chair<ref>[https://financialservices.house.gov/news/documentsingle.aspx?DocumentID=407114 Waters Opening Statement at Committee Organizational Meeting and Markup to Adopt Committee Rules]</ref>
+! Ranking Member<ref>[https://republicans-financialservices.house.gov/news/documentsingle.aspx?DocumentID=407871 McHenry Announces Republican Financial Services Subcommittee Assignments]</ref>
+|-
+| [[United States House Financial Services Subcommittee on Consumer Protection and Financial Institutions|Consumer Protection and Financial Institutions]]
+| [[Ed Perlmutter]] (D-CO)
+| [[Blaine Luetkemeyer]] (R-MO)
+|-
+| [[United States House Financial Services Subcommittee on Diversity and Inclusion|Diversity and Inclusion]]
+| [[Joyce Beatty]] (D-OH)
+| [[Ann Wagner]] (R-MO)
+|-
+| [[United States House Financial Services Subcommittee on Housing, Community Development and Insurance|Housing, Community Development and Insurance]]
+| [[Emanuel Cleaver]] (D-MO)
+| [[Steve Stivers]] (R-OH)
+|-
+| [[United States House Financial Services Subcommittee on Investor Protection, Entrepreneurship and Capital Markets|Investor Protection, Entrepreneurship and Capital Markets]]
+| [[Brad Sherman]] (D-CA)
+| [[Bill Huizenga]] (R-MI)
+|-
+| [[United States House Financial Services Subcommittee on National Security, International Development and Monetary Policy|National Security, International Development and Monetary Policy]]
+| [[Jim Himes]] (D-CT)
+| [[French Hill (politician)|French Hill]] (R-AR)
+|-
+| [[United States House Financial Services Subcommittee on Oversight and Investigations|Oversight and Investigations]]
+| [[Al Green (politician)|Al Green]] (D-TX)
+| [[Andy Barr (American politician)|Andy Barr]] (R-KY)
+|}
+
+===116th Congress===
+{| class=wikitable
+! Majority
+! Minority
+|-
+| {{party shading/Democratic}} valign=top |
+* [[Maxine Waters]], California, ''Chair''
+* [[Carolyn Maloney]], New York
+* [[Nydia Velázquez]], New York
+* [[Brad Sherman]], California
+* [[Gregory Meeks]], New York
+* [[Lacy Clay]], Missouri
+* [[David Scott (Georgia politician)|David Scott]], Georgia
+* [[Al Green (politician)|Al Green]], Texas
+* [[Emanuel Cleaver]], Missouri
+* [[Ed Perlmutter]], Colorado
+* [[Jim Himes]], Connecticut
+* [[Bill Foster (Illinois politician)|Bill Foster]], Illinois
+* [[Joyce Beatty]], Ohio
+* [[Denny Heck]], Washington
+* [[Juan Vargas]], California
+* [[Josh Gottheimer]], New Jersey
+* [[Vicente Gonzalez (politician)|Vicente Gonzalez]], Texas
+* [[Al Lawson]], Florida
+* [[Michael San Nicolas]], Guam, ''Vice Chair''
+* [[Rashida Tlaib]], Michigan
+* [[Katie Porter]], California
+* [[Cindy Axne]], Iowa
+* [[Sean Casten]], Illinois
+* [[Ayanna Pressley]], Massachusetts
+* [[Ben McAdams]], Utah
+* [[Alexandria Ocasio-Cortez]], New York
+* [[Jennifer Wexton]], Virginia
+* [[Stephen Lynch (politician)|Stephen Lynch]], Massachusetts
+* [[Tulsi Gabbard]], Hawaii
+* [[Alma Adams]], North Carolina
+* [[Madeleine Dean]], Pennsylvania
+* [[Chuy García]], Illinois
+* [[Sylvia Garcia]], Texas
+* [[Dean Phillips]], Minnesota
+
+| {{party shading/Republican}} valign=top |
+* [[Patrick McHenry]], North Carolina, ''Ranking Member''
+* [[Frank Lucas (Oklahoma politician)|Frank Lucas]], Oklahoma
+* [[Bill Posey]], Florida
+* [[Blaine Luetkemeyer]], Missouri
+* [[Bill Huizenga]], Michigan
+* [[Steve Stivers]], Ohio
+* [[Ann Wagner]], Missouri, ''Vice Ranking Member''
+* [[Andy Barr (American politician)|Andy Barr]], Kentucky
+* [[Scott Tipton]], Colorado
+* [[Roger Williams (Texas politician)|Roger Williams]], Texas
+* [[French Hill (politician)|French Hill]], Arkansas
+* [[Tom Emmer]], Minnesota
+* [[Lee Zeldin]], New York
+* [[Barry Loudermilk]], Georgia
+* [[Alex Mooney]], West Virginia
+* [[Warren Davidson]], Ohio
+* [[Ted Budd]], North Carolina
+* [[David Kustoff]], Tennessee
+* [[Trey Hollingsworth]], Indiana
+* [[Anthony Gonzalez (politician)|Anthony Gonzalez]], Ohio
+* [[John Rose (Tennessee politician)|John Rose]], Tennessee
+* [[Bryan Steil]], Wisconsin
+* [[Lance Gooden]], Texas
+* [[Denver Riggleman]], Virginia
+* [[William Timmons (politician)|William Timmons]], South Carolina (since September 26, 2019)
+* [[Van Taylor]], Texas (since January 16, 2020)
+|}
+Sources: {{USBill|116|HRes|7}} (Chair), {{USBill|116|HRes|8}} (Ranking Member), {{USBill|116|HRes|57}} (D), {{USBill|116|HRes|68}} (R), {{USBill|116|HRes|596}} (R), {{USBill|116|HRes|801}} (R)
+
+;Subcommittees
+{| class="wikitable"
+! Subcommittee
+! Chair
+! Ranking Member
+|-
+| [[United States House Financial Services Subcommittee on Consumer Protection and Financial Institutions|Consumer Protection and Financial Institutions]]
+| [[Gregory Meeks]] (D-NY)
+| [[Blaine Luetkemeyer]] (R-MO)
+|-
+| [[United States House Financial Services Subcommittee on Diversity and Inclusion|Diversity and Inclusion]]
+| [[Joyce Beatty]] (D-OH)
+| [[Ann Wagner]] (R-MO)
+|-
+| [[United States House Financial Services Subcommittee on Housing, Community Development and Insurance|Housing, Community Development and Insurance]]
+| [[Lacy Clay]] (D-MO)
+| [[Steve Stivers]] (R-OH)
+|-
+| [[United States House Financial Services Subcommittee on Investor Protection, Entrepreneurship and Capital Markets|Investor Protection, Entrepreneurship and Capital Markets]]
+| [[Brad Sherman]] (D-CA)
+| [[Bill Huizenga]] (R-MI)
+|-
+| [[United States House Financial Services Subcommittee on National Security, International Development and Monetary Policy|National Security, International Development and Monetary Policy]]
+| [[Emanuel Cleaver]] (D-MO)
+| [[French Hill (politician)|French Hill]] (R-AR)
+|-
+| [[United States House Financial Services Subcommittee on Oversight and Investigations|Oversight and Investigations]]
+| [[Al Green (politician)|Al Green]] (D-TX)
+| [[Andy Barr (American politician)|Andy Barr]] (R-KY)
+|}
+
+===115th Congress===
+{| class=wikitable
+! Majority
+! Minority
+|-
+| {{party shading/Republican}} valign=top |
+* [[Jeb Hensarling]], Texas, ''Chair''
+* [[Peter King (American politician)|Peter King]], New York
+* [[Ed Royce (politician)|Ed Royce]], California
+* [[Frank Lucas (Oklahoma politician)|Frank Lucas]], Oklahoma
+* [[Patrick McHenry]], North Carolina
+* [[Steve Pearce (politician)|Steve Pearce]], New Mexico
+* [[Bill Posey]], Florida
+* [[Blaine Luetkemeyer]], Missouri
+* [[Bill Huizenga]], Michigan
+* [[Sean Duffy]], Wisconsin
+* [[Steve Stivers]], Ohio
+* [[Randy Hultgren]], Illinois
+* [[Dennis Ross (politician)|Dennis Ross]], Florida
+* [[Robert Pittenger]], North Carolina
+* [[Ann Wagner]], Missouri
+* [[Andy Barr (American politician)|Andy Barr]], Kentucky
+* [[Keith Rothfus]], Pennsylvania
+* [[Luke Messer]], Indiana
+* [[Scott Tipton]], Colorado
+* [[Roger Williams (Texas politician)|Roger Williams]], Texas
+* [[Bruce Poliquin]], Maine
+* [[Mia Love]], Utah
+* [[French Hill (politician)|French Hill]], Arkansas
+* [[Tom Emmer]], Minnesota
+* [[Lee Zeldin]], New York
+* [[Dave Trott (politician)|Dave Trott]], Michigan
+* [[Barry Loudermilk]], Georgia
+* [[Alex Mooney]], West Virginia
+* [[Tom MacArthur]], New Jersey
+* [[Warren Davidson]], Ohio
+* [[Ted Budd]], North Carolina
+* [[David Kustoff]], Tennessee
+* [[Claudia Tenney]], New York
+* [[Trey Hollingsworth]], Indiana
+| {{party shading/Democratic}} valign=top |
+* [[Maxine Waters]], California, ''Ranking Member''
+* [[Carolyn Maloney]], New York
+* [[Nydia Velázquez]], New York
+* [[Brad Sherman]], California
+* [[Gregory Meeks]], New York
+* [[Michael Capuano]], Massachusetts
+* [[Lacy Clay]], Missouri
+* [[Stephen Lynch (politician)|Stephen Lynch]], Massachusetts
+* [[David Scott (Georgia politician)|David Scott]], Georgia
+* [[Al Green (politician)|Al Green]], Texas
+* [[Emanuel Cleaver]], Missouri
+* [[Gwen Moore]], Wisconsin
+* [[Keith Ellison (politician)|Keith Ellison]], Minnesota
+* [[Ed Perlmutter]], Colorado
+* [[Jim Himes]], Connecticut
+* [[Bill Foster (Illinois politician)|Bill Foster]], Illinois
+* [[Dan Kildee]], Michigan, ''Vice Ranking Member''
+* [[John Delaney (Maryland politician)|John Delaney]], Maryland
+* [[Kyrsten Sinema]], Arizona
+* [[Joyce Beatty]], Ohio
+* [[Denny Heck]], Washington
+* [[Juan Vargas]], California
+* [[Josh Gottheimer]], New Jersey
+* [[Vicente Gonzalez (politician)|Vicente Gonzalez]], Texas
+* [[Charlie Crist]], Florida
+* [[Ruben Kihuen]], Nevada
+|}
+
+===114th Congress===
+{| class=wikitable
+! Majority
+! Minority
+|-
+| {{party shading/Republican}} valign=top |
+*[[Jeb Hensarling]], Texas, Chairman
+*[[Peter King (American politician)|Peter King]], New York
+*[[Ed Royce (politician)|Ed Royce]], California
+*[[Frank Lucas (Oklahoma politician)|Frank Lucas]], Oklahoma
+*[[Scott Garrett]], New Jersey
+*[[Randy Neugebauer]], Texas
+*[[Patrick McHenry]], North Carolina
+*[[Steve Pearce (politician)|Steve Pearce]], New Mexico
+*[[Bill Posey]], Florida
+*[[Mike Fitzpatrick]], Pennsylvania
+*[[Lynn Westmoreland]], Georgia
+*[[Blaine Luetkemeyer]], Missouri
+*[[Bill Huizenga]], Michigan
+*[[Sean Duffy]], Wisconsin
+*[[Robert Hurt (politician)|Robert Hurt]], Virginia
+*[[Steve Stivers]], Ohio
+*[[Stephen Fincher]], Tennessee
+*[[Marlin Stutzman]], Indiana
+*[[Mick Mulvaney]], South Carolina
+*[[Randy Hultgren]], Illinois
+*[[Dennis Ross (politician)|Dennis Ross]], Florida
+*[[Robert Pittenger]], North Carolina
+*[[Ann Wagner]], Missouri
+*[[Andy Barr (American politician)|Andy Barr]], Kentucky
+*[[Keith Rothfus]], Pennsylvania
+*[[Luke Messer]], Indiana
+*[[David Schweikert]], Arizona
+*[[Bob Dold]], Illinois
+*[[Frank Guinta]], New Hampshire
+*[[Scott Tipton]], Colorado
+*[[Roger Williams (Texas politician)|Roger Williams]], Texas
+*[[Bruce Poliquin]], Maine
+*[[Mia Love]], Utah
+*[[French Hill (politician)|French Hill]], Arkansas
+
+| {{party shading/Democratic}} valign=top |
+*[[Maxine Waters]], California, Ranking Member
+*[[Carolyn Maloney]], New York
+*[[Nydia Velázquez]], New York
+*[[Brad Sherman]], California
+*[[Gregory Meeks]], New York
+*[[Michael Capuano]], Massachusetts
+*[[Ruben Hinojosa]], Texas
+*[[Lacy Clay]], Missouri
+*[[Stephen Lynch (politician)|Stephen Lynch]], Massachusetts
+*[[David Scott (Georgia politician)|David Scott]], Georgia
+*[[Al Green (politician)|Al Green]], Texas
+*[[Emanuel Cleaver]], Missouri
+*[[Gwen Moore]], Wisconsin
+*[[Keith Ellison]], Minnesota
+*[[Ed Perlmutter]], Colorado
+*[[Jim Himes]], Connecticut
+*[[John Carney (Delaware politician)|John Carney]], Delaware
+*[[Terri Sewell]], Alabama
+*[[Bill Foster (politician)|Bill Foster]], Illinois
+*[[Dan Kildee]], Michigan
+*[[Patrick Murphy (Florida politician)|Patrick Murphy]], Florida
+*[[John Delaney (Maryland politician)|John Delaney]], Maryland
+*[[Kyrsten Sinema]], Arizona
+*[[Joyce Beatty]], Ohio
+*[[Denny Heck]], Washington
+*[[Juan Vargas]], California
+|}
+
+Sources: {{USBill|115|HRes|6}} (Chair), {{USBill|115|HRes|7}} (Ranking Member), {{USBill|115|HRes|29}} (R), {{USBill|115|HRes|45}} (D)
+
+=== 113th Congress ===
+{| class="wikitable"
+! Majority
+! Minority
+|-
+| {{party shading/Republican}} valign="top" |
+*[[Jeb Hensarling]], Texas, Chairman
+*[[Spencer Bachus]], Alabama
+*[[Peter King (American politician)|Peter King]], New York
+*[[Ed Royce (politician)|Ed Royce]], California
+*[[Frank Lucas (Oklahoma politician)|Frank Lucas]], Oklahoma
+*[[Gary Miller (politician)|Gary Miller]], California, ''Vice Chairman''
+*[[Shelley Moore Capito]], West Virginia
+*[[Scott Garrett]], New Jersey
+*[[Randy Neugebauer]], Texas
+*[[Patrick McHenry]], North Carolina
+*[[John Campbell (California politician)|John Campbell]], California
+*[[Michele Bachmann]], Minnesota
+*[[Steve Pearce (politician)|Steve Pearce]], New Mexico
+*[[Bill Posey]], Florida
+*[[Mike Fitzpatrick]], Pennsylvania
+*[[Lynn Westmoreland]], Georgia
+*[[Blaine Luetkemeyer]], Missouri
+*[[Bill Huizenga]], Michigan
+*[[Sean Duffy]], Wisconsin
+*[[Robert Hurt (politician)|Robert Hurt]], Virginia
+*[[Steve Stivers]], Ohio
+*[[Stephen Fincher]], Tennessee
+*[[Marlin Stutzman]], Indiana
+*[[Mick Mulvaney]], South Carolina
+*[[Randy Hultgren]], Illinois
+*[[Dennis Ross (politician)|Dennis Ross]], Florida
+*[[Robert Pittenger]], North Carolina
+*[[Ann Wagner]], Missouri
+*[[Andy Barr (American politician)|Andy Barr]], Kentucky
+*[[Keith Rothfus]], Pennsylvania
+*[[Tom Cotton]], Arkansas
+*[[Luke Messer]], Indiana
+
+| {{party shading/Democratic}} valign="top" |
+*[[Maxine Waters]], California, Ranking Member
+*[[Carolyn Maloney]], New York
+*[[Nydia Velázquez]], New York
+*[[Brad Sherman]], California
+*[[Gregory Meeks]], New York
+*[[Michael Capuano]], Massachusetts
+*[[Ruben Hinojosa]], Texas
+*[[Lacy Clay]], Missouri
+*[[Stephen Lynch (politician)|Stephen Lynch]], Massachusetts
+*[[David Scott (Georgia politician)|David Scott]], Georgia
+*[[Al Green (politician)|Al Green]], Texas
+*[[Emanuel Cleaver]], Missouri
+*[[Gwen Moore]], Wisconsin
+*[[Keith Ellison]], Minnesota
+*[[Ed Perlmutter]], Colorado
+*[[Jim Himes]], Connecticut
+*[[Gary Peters]], Michigan
+*[[John Carney (Delaware politician)|John Carney]], Delaware
+*[[Terri Sewell]], Alabama
+*[[Bill Foster (politician)|Bill Foster]], Illinois
+*[[Dan Kildee]], Michigan
+*[[Patrick Murphy (Florida politician)|Patrick Murphy]], Florida
+*[[John Delaney (Maryland politician)|John Delaney]], Maryland
+*[[Kyrsten Sinema]], Arizona
+*[[Joyce Beatty]], Ohio
+*[[Denny Heck]], Washington
+*[[Steven Horsford]], Nevada
+|}
+
+=== 112th Congress ===
+{| class="wikitable"
+! Majority
+! Minority
+|-
+| {{party shading/Republican}} valign="top" |
+*[[Spencer Bachus]], Alabama, ''Chairman''
+*[[Jeb Hensarling]], Texas, ''Vice Chairman''
+*[[Peter King (American politician)|Peter King]], New York
+*[[Ed Royce (politician)|Ed Royce]], California
+*[[Frank Lucas (Oklahoma politician)|Frank Lucas]], Oklahoma
+*[[Ron Paul]], Texas
+*[[Don Manzullo]], Illinois
+*[[Gary Miller (politician)|Gary Miller]], California
+*[[Shelley Moore Capito]], West Virginia
+*[[Scott Garrett]], New Jersey
+*[[Randy Neugebauer]], Texas
+*[[Patrick McHenry]], North Carolina
+*[[John Campbell (California politician)|John Campbell]], California
+*[[Michele Bachmann]], Minnesota
+*[[Kevin McCarthy]], California
+*[[Steve Pearce (politician)|Steve Pearce]], New Mexico
+*[[Bill Posey]], Florida
+*[[Mike Fitzpatrick]], Pennsylvania
+*[[Lynn Westmoreland]], Georgia
+*[[Blaine Luetkemeyer]], Missouri
+*[[Bill Huizenga]], Michigan
+*[[Sean Duffy]], Wisconsin
+*[[Nan Hayworth]], New York
+*[[Jim Renacci|James Renacci]], Ohio
+*[[Robert Hurt (politician)|Robert Hurt]], Virginia
+*[[Bob Dold]], Illinois
+*[[David Schweikert]], Arizona
+*[[Michael Grimm (politician)|Michael Grimm]], New York
+*[[Quico Canseco]], Texas
+*[[Steve Stivers]], Ohio
+*[[Stephen Fincher]], Tennessee
+*[[Frank Guinta]], New Hampshire
+
+| {{party shading/Democratic}} valign="top" |
+*[[Barney Frank]], Massachusetts, ''Ranking Member''
+*[[Maxine Waters]], California
+*[[Carolyn Maloney]], New York
+*[[Luis Gutiérrez]], Illinois
+*[[Nydia Velázquez]], New York
+*[[Mel Watt]], North Carolina
+*[[Gary Ackerman]], New York
+*[[Brad Sherman]], California
+*[[Gregory Meeks]], New York
+*[[Michael Capuano]], Massachusetts
+*[[Ruben Hinojosa]], Texas
+*[[Lacy Clay]], Missouri
+*[[Carolyn McCarthy]], New York
+*[[Joe Baca]], California
+*[[Stephen Lynch (politician)|Stephen Lynch]], Massachusetts
+*[[Brad Miller (politician)|Brad Miller]], North Carolina
+*[[David Scott (Georgia politician)|David Scott]], Georgia
+*[[Al Green (politician)|Al Green]], Texas
+*[[Emanuel Cleaver]], Missouri
+*[[Gwen Moore]], Wisconsin
+*[[Keith Ellison]], Minnesota
+*[[Ed Perlmutter]], Colorado
+*[[Joe Donnelly]], Indiana
+*[[André Carson]], Indiana
+*[[Jim Himes]], Connecticut
+*[[Gary Peters]], Michigan
+*[[John Carney (Delaware politician)|John Carney]], Delaware
+|}
+Source: https://financialservices.house.gov/uploadedfiles/113th_congress_membership.pdf
+
+=== 111th Congress ===
+{| class="wikitable"
+! Majority
+! Minority
+|-
+
+| {{party shading/Democratic}} valign="top" |
+*[[Barney Frank]], Massachusetts, ''Chair''
+*[[Paul Kanjorski]], Pennsylvania
+*[[Maxine Waters]], California
+*[[Carolyn Maloney]], New York
+*[[Luis Gutiérrez]], Illinois
+*[[Nydia Velázquez]], New York
+*[[Mel Watt]], North Carolina
+*[[Gary Ackerman]], New York
+*[[Brad Sherman]], California
+*[[Gregory Meeks]], New York
+*[[Dennis Moore (politician)|Dennis Moore]], Kansas
+*[[Michael Capuano]], Massachusetts
+*[[Ruben Hinojosa]], Texas
+*[[Lacy Clay]], Missouri
+*[[Carolyn McCarthy]], New York
+*[[Joe Baca]], California
+*[[Stephen Lynch (politician)|Stephen Lynch]], Massachusetts
+*[[Brad Miller (politician)|Brad Miller]], North Carolina
+*[[David Scott (Georgia politician)|David Scott]], Georgia
+*[[Al Green (politician)|Al Green]], Texas
+*[[Emanuel Cleaver]], Missouri
+*[[Melissa Bean]], Illinois
+*[[Gwen Moore]], Wisconsin
+*[[Paul Hodes]], New Hampshire
+*[[Keith Ellison]], Minnesota
+*[[Ron Klein]], Florida
+*[[Charlie Wilson (Ohio politician)|Charles Wilson]], Ohio
+*[[Ed Perlmutter]], Colorado
+*[[Joe Donnelly]], Indiana
+*[[Bill Foster (politician)|Bill Foster]], Illinois
+*[[André Carson]], Indiana
+*[[Jackie Speier]], California
+*[[Travis Childers]], Mississippi
+*[[Walt Minnick]], Idaho
+*[[John Adler]], New Jersey
+*[[Mary Jo Kilroy]], Ohio
+*[[Steve Driehaus]], Ohio
+*[[Suzanne Kosmas]], Florida
+*[[Alan Grayson]], Florida
+*[[Jim Himes]], Connecticut
+*[[Gary Peters]], Michigan
+*[[Dan Maffei]], New York
+
+| {{party shading/Republican}} valign="top" |
+*[[Spencer Bachus]], Alabama, ''Ranking Member''
+*[[Mike Castle]], Delaware
+*[[Peter King (American politician)|Peter King]], New York
+*[[Ed Royce (politician)|Ed Royce]], California
+*[[Frank Lucas (Oklahoma politician)|Frank Lucas]], Oklahoma
+*[[Ron Paul]], Texas
+*[[Don Manzullo]], Illinois
+*[[Walter B. Jones Jr.]], North Carolina
+*[[Judy Biggert]], Illinois
+*[[Gary Miller (politician)|Gary Miller]], California
+*[[Shelley Moore Capito]], West Virginia
+*[[Jeb Hensarling]], Texas
+*[[Scott Garrett]], New Jersey
+*[[Gresham Barrett]], South Carolina
+*[[Jim Gerlach]], Pennsylvania
+*[[Randy Neugebauer]], Texas
+*[[Tom Price (American politician)|Tom Price]], Georgia
+*[[Patrick McHenry]], North Carolina
+*[[John Campbell (California politician)|John Campbell]], California
+*[[Adam Putnam]], Florida
+*[[Michele Bachmann]], Minnesota
+*[[Kenny Marchant]], Texas
+*[[Thaddeus McCotter]], Michigan
+*[[Kevin McCarthy]], California
+*[[Steve Pearce (politician)|Steve Pearce]], New Mexico
+*[[Bill Posey]], Florida
+*[[Lynn Jenkins]], Kansas
+*[[Chris Lee (New York politician)|Christopher Lee]], New York
+*[[Erik Paulsen]], Minnesota
+*[[Leonard Lance]], New Jersey
+|}
+Source: https://financialservices.house.gov/uploadedfiles/111thmembers.pdf
+
+=== 110th Congress ===
+{| class="wikitable"
+! Majority
+! Minority
+|-
+
+| {{party shading/Democratic}} valign="top" |
+*[[Barney Frank]], Massachusetts, ''Chair''
+*[[Paul Kanjorski]], Pennsylvania
+*[[Maxine Waters]], California
+*[[Carolyn Maloney]], New York
+*[[Luis Gutiérrez]], Illinois
+*[[Nydia Velázquez]], New York
+*[[Mel Watt]], North Carolina
+*[[Gary Ackerman]], New York
+*[[Brad Sherman]], California
+*[[Gregory Meeks]], New York
+*[[Dennis Moore (politician)|Dennis Moore]], Kansas
+*[[Michael Capuano]], Massachusetts
+*[[Ruben Hinojosa]], Texas
+*[[Lacy Clay]], Missouri
+*[[Carolyn McCarthy]], New York
+*[[Joe Baca]], California
+*[[Stephen Lynch (politician)|Stephen Lynch]], Massachusetts
+*[[Brad Miller (politician)|Brad Miller]], North Carolina
+*[[David Scott (Georgia politician)|David Scott]], Georgia
+*[[Al Green (politician)|Al Green]], Texas
+*[[Emanuel Cleaver]], Missouri
+*[[Melissa Bean]], Illinois
+*[[Gwen Moore]], Wisconsin
+*[[Lincoln Davis]], Tennessee 
+*[[Paul Hodes]], New Hampshire
+*[[Keith Ellison]], Minnesota
+*[[Ron Klein]], Florida
+*[[Tim Mahoney]], Florida
+*[[Charlie Wilson (Ohio politician)|Charles Wilson]], Ohio
+*[[Ed Perlmutter]], Colorado
+*[[Chris Murphy]], Connecticut
+*[[Joe Donnelly]], Indiana
+*[[Bill Foster (politician)|Bill Foster]], Illinois
+*[[André Carson]], Indiana
+*[[Jackie Speier]], California
+*[[Don Cazayoux]], Louisiana
+*[[Travis Childers]], Mississippi
+
+| {{party shading/Republican}} valign="top" |
+*[[Spencer Bachus]], Alabama, ''Ranking Member''
+*[[Deborah Pryce]], Ohio
+*[[Mike Castle]], Delaware
+*[[Peter King (American politician)|Peter King]], New York
+*[[Ed Royce (politician)|Ed Royce]], California
+*[[Frank Lucas (Oklahoma politician)|Frank Lucas]], Oklahoma
+*[[Ron Paul]], Texas
+*[[Steve LaTourette]], Ohio
+*[[Don Manzullo]], Illinois
+*[[Walter B. Jones Jr.]], North Carolina
+*[[Judy Biggert]], Illinois
+*[[Chris Shays]], Connecticut
+*[[Gary Miller (politician)|Gary Miller]], California
+*[[Shelley Moore Capito]], West Virginia
+*[[Tom Feeney]], Florida 
+*[[Jeb Hensarling]], Texas
+*[[Scott Garrett]], New Jersey
+*[[Ginny Brown-Waite]], Florida
+*[[Gresham Barrett]], South Carolina
+*[[Jim Gerlach]], Pennsylvania
+*[[Steve Pearce (politician)|Steve Pearce]], New Mexico
+*[[Randy Neugebauer]], Texas
+*[[Tom Price (American politician)|Tom Price]], Georgia
+*[[Geoff Davis]], Kentucky
+*[[Patrick McHenry]], North Carolina
+*[[John Campbell (California politician)|John Campbell]], California
+*[[Adam Putnam]], Florida
+*[[Michele Bachmann]], Minnesota
+*[[Peter Roskam]], Illinois
+*[[Kenny Marchant]], Texas
+*[[Thaddeus McCotter]], Michigan
+*[[Kevin McCarthy]], California
+*[[Dean Heller]], Nevada
+|}
+
+=== 109th Congress ===
+{| class="wikitable"
+! Majority
+! Minority
+|-
+
+| {{party shading/Republican}} valign="top" |
+*[[Mike Oxley]], Ohio, ''Chair''
+*[[Jim Leach]], Iowa
+*[[Deborah Pryce]], Ohio
+*[[Spencer Bachus]], Alabama
+*[[Mike Castle]], Delaware
+*[[Peter King (American politician)|Peter King]], New York
+*[[Ed Royce (politician)|Ed Royce]], California
+*[[Frank Lucas (Oklahoma politician)|Frank Lucas]], Oklahoma
+*[[Sue Kelly]], New York, ''Vice Chair''
+*[[Ron Paul]], Texas
+*[[Paul Gillmor]], Ohio
+*[[Jim Ryun]], Kansas
+*[[Steve LaTourette]], Ohio
+*[[Don Manzullo]], Illinois
+*[[Walter B. Jones Jr.]], North Carolina
+*[[Judy Biggert]], Illinois
+*[[Chris Shays]], Connecticut
+*[[Vito Fossella]], New York
+*[[Gary Miller (politician)|Gary Miller]], California
+*[[Pat Tiberi]], Ohio
+*[[Mark Kennedy (politician)|Mark Kennedy]], Minnesota
+*[[Jeb Hensarling]], Texas
+*[[Tom Feeney]], Florida
+*[[Scott Garrett]], New Jersey
+*[[Ginny Brown-Waite]], Florida
+*[[Gresham Barrett]], South Carolina
+*[[Katherine Harris]], Florida
+*[[Rick Renzi]], Arizona
+*[[Jim Gerlach]], Pennsylvania
+*[[Steve Pearce (politician)|Steve Pearce]], New Mexico
+*[[Randy Neugebauer]], Texas
+*[[Tom Price (American politician)|Tom Price]], Georgia
+*[[Mike Fitzpatrick|Mike Fritzpatrick]], Pennsylvania
+*[[Geoff Davis]], Kentucky
+*[[Patrick McHenry]], North Carolina
+*[[John Campbell (California politician)|John Campbell]], California
+| {{party shading/Democratic}} valign="top" |
+*[[Barney Frank]], Massachusetts, ''Ranking Member''
+*[[Paul Kanjorski]], Pennsylvania
+*[[Maxine Waters]], California
+*[[Carolyn Maloney]], New York
+*[[Luis Gutiérrez]], Illinois
+*[[Nydia Velázquez]], New York
+*[[Mel Watt]], North Carolina
+*[[Gary Ackerman]], New York
+*[[Darlene Hooley]], Oregon
+*[[Julia Carson]], Indiana
+*[[Brad Sherman]], California
+*[[Gregory Meeks]], New York
+*[[Barbara Lee]], California
+*[[Dennis Moore (politician)|Dennis Moore]], Kansas
+*[[Michael Capuano]], Massachusetts
+*[[Harold Ford Jr.]], Tennessee
+*[[Ruben Hinojosa]], Texas
+*[[Joe Crowley]], New York
+*[[Lacy Clay]], Missouri
+*[[Steve Israel]], New York
+*[[Carolyn McCarthy]], New York
+*[[Joe Baca]], California
+*[[Jim Matheson]], Utah 
+*[[Stephen Lynch (politician)|Stephen Lynch]], Massachusetts
+*[[Brad Miller (politician)|Brad Miller]], North Carolina
+*[[David Scott (Georgia politician)|David Scott]], Georgia
+*[[Artur Davis]], Alabama
+*[[Emanuel Cleaver]], Missouri
+*[[Melissa Bean]], Illinois
+*[[Debbie Wasserman Schultz]], Florida
+*[[Gwen Moore]], Wisconsin
+*[[Bernie Sanders]], Vermont
+|}
+
+=== 108th Congress ===
+{| class="wikitable"
+! Majority
+! Minority
+|-
+
+| {{party shading/Republican}} valign="top" |
+*[[Mike Oxley]], Ohio, ''Chair''
+*[[Jim Leach]], Iowa
+*[[Richard Baker (American politician)|Richard Baker]], Louisiana
+*[[Spencer Bachus]], Alabama
+*[[Mike Castle]], Delaware
+*[[Peter King (American politician)|Peter King]], New York
+*[[Ed Royce (politician)|Ed Royce]], California
+*[[Frank Lucas (Oklahoma politician)|Frank Lucas]], Oklahoma
+*[[Bob Ney]], Ohio
+*[[Sue Kelly]], New York, ''Vice Chair''
+*[[Ron Paul]], Texas
+*[[Paul Gillmor]], Ohio
+*[[Jim Ryun]], Kansas
+*[[Steve LaTourette]], Ohio
+*[[Don Manzullo]], Illinois
+*[[Walter B. Jones Jr.]], North Carolina
+*[[Doug Ose]], California
+*[[Judy Biggert]], Illinois
+*[[Mark Green (Tennessee politician)|Mark Green]], Wisconsin
+*[[Pat Toomey]], Pennsylvania
+*[[Chris Shays]], Connecticut
+*[[John Shadegg]], Arizona
+*[[Vito Fossella]], New York
+*[[Gary Miller (politician)|Gary Miller]], California
+*[[Pat Tiberi]], Ohio
+*[[Mark Kennedy (politician)|Mark Kennedy]], Minnesota
+*[[Tom Feeney]], Florida
+*[[Jeb Hensarling]], Texas
+*[[Scott Garrett]], New Jersey
+*[[Tim Murphy (American politician)|Tim Murphy]], Pennsylvania
+*[[Ginny Brown-Waite]], Florida
+*[[Gresham Barrett]], South Carolina
+*[[Katherine Harris]], Florida
+*[[Rick Renzi]], Arizona
+*[[Jim Gerlach]], Pennsylvania
+| {{party shading/Democratic}} valign="top" |
+*[[Barney Frank]], Massachusetts, ''Ranking Member''
+*[[Paul Kanjorski]], Pennsylvania
+*[[Maxine Waters]], California
+*[[Carolyn Maloney]], New York
+*[[Luis Gutiérrez]], Illinois
+*[[Nydia Velázquez]], New York
+*[[Mel Watt]], North Carolina
+*[[Gary Ackerman]], New York
+*[[Darlene Hooley]], Oregon
+*[[Julia Carson]], Indiana
+*[[Brad Sherman]], California
+*[[Gregory Meeks]], New York
+*[[Barbara Lee]], California
+*[[Jay Inslee]], Washington
+*[[Dennis Moore (politician)|Dennis Moore]], Kansas
+*[[Michael Capuano]], Massachusetts
+*[[Harold Ford Jr.]], Tennessee
+*[[Ruben Hinojosa]], Texas
+*[[Ken Lucas (politician)|Ken Lucas]], Kentucky
+*[[Joe Crowley]], New York
+*[[Lacy Clay]], Missouri
+*[[Steve Israel]], New York
+*[[Mike Ross (politician)|Mike Ross]], Arizona
+*[[Carolyn McCarthy]], New York
+*[[Joe Baca]], California
+*[[Jim Matheson]], Utah
+*[[Stephen Lynch (politician)|Stephen Lynch]], Massachusetts
+*[[Brad Miller (politician)|Brad Miller]], North Carolina
+*[[Rahm Emanuel]], Illinois
+*[[David Scott (Georgia politician)|David Scott]], Georgia
+*[[Artur Davis]], Alabama
+*[[Chris Bell (politician)|Chris Bell]], Texas
+*[[Bernie Sanders]], Vermont
+|}
+
+=== 107th Congress ===
+{| class="wikitable"
+! Majority
+! Minority
+|-
+
+| {{party shading/Republican}} valign="top" |
+*[[Mike Oxley]], Ohio, ''Chair''
+*[[Jim Leach]], Iowa
+*[[Marge Roukema]], New Jersey, ''Vice Chair''
+*[[Richard Baker (American politician)|Richard Baker]], Louisiana
+*[[Spencer Bachus]], Alabama
+*[[Mike Castle]], Delaware
+*[[Peter King (American politician)|Peter King]], New York
+*[[Ed Royce (politician)|Ed Royce]], California
+*[[Frank Lucas (Oklahoma politician)|Frank Lucas]], Oklahoma
+*[[Bob Ney]], Ohio
+*[[Bob Barr]], Georgia
+*[[Sue Kelly]], New York
+*[[Ron Paul]], Texas
+*[[Paul Gillmor]], Ohio
+*[[Christopher Cox]], California
+*[[Dave Weldon]], Florida
+*[[Jim Ryun]], Kansas
+*[[Bob Riley]], Alabama 
+*[[Steve LaTourette]], Ohio
+*[[Don Manzullo]], Illinois
+*[[Walter B. Jones Jr.]], North Carolina
+*[[Doug Ose]], California
+*[[Judy Biggert]], Illinois
+*[[Mark Green (Tennessee politician)|Mark Green]], Wisconsin
+*[[Pat Toomey]], Pennsylvania
+*[[Chris Shays]], Connecticut
+*[[John Shadegg]], Arizona
+*[[Vito Fossella]], New York
+*[[Gary Miller (politician)|Gary Miller]], California
+*[[Eric Cantor]], Virginia
+*[[Felix Grucci]], New York
+*[[Melissa Hart (politician)|Melissa Hart]], Pennsylvania
+*[[Shelley Moore Capito]], West Virginia
+*[[Mike Ferguson (New Jersey politician)|Mike Ferguson]], New Jersey
+*[[Mike Rogers (Michigan politician)|Mike Rogers]], Michigan
+*[[Pat Tiberi]], Ohio
+| {{party shading/Democratic}} valign="top" |
+*[[John LaFalce]], New York, ''Ranking Member''
+*[[Barney Frank]], Massachusetts
+*[[Paul Kanjorski]], Pennsylvania
+*[[Maxine Waters]], California
+*[[Carolyn Maloney]], New York
+*[[Luis Gutiérrez]], Illinois
+*[[Nydia Velázquez]], New York
+*[[Mel Watt]], North Carolina
+*[[Gary Ackerman]], New York
+*[[Ken Bentsen]], Texas
+*[[Darlene Hooley]], Oregon
+*[[Julia Carson]], Indiana
+*[[Brad Sherman]], California
+*[[Max Sandlin]], Texas
+*[[Gregory Meeks]], New York
+*[[Barbara Lee]], California
+*[[Frank Mascara]], Pennsylvania
+*[[Jay Inslee]], Washington
+*[[Jan Schakowsky]], Illinois
+*[[Dennis Moore (politician)|Dennis Moore]], Kansas
+*[[Charlie Gonzalez]], Texas
+*[[Stephanie Tubbs Jones]], Ohio
+*[[Michael Capuano]], Massachusetts
+*[[Harold Ford Jr.]], Tennessee
+*[[Ruben Hinojosa]], Texas
+*[[Ken Lucas (politician)|Ken Lucas]], Kentucky
+*[[Joe Crowley]], New York
+*[[Lacy Clay]], Missouri
+*[[Steve Israel]], New York
+*[[Mike Ross (politician)|Mike Ross]], Arizona
+*[[Bernie Sanders]], Vermont
+|}
+
+===93rd Congress===
+{| class=wikitable
+! Majority
+! Minority
+|-
+| {{party shading/Democratic}} valign=top |
+* [[Wright Patman]], Texas, ''Chair''
+* [[Leonor Sullivan]], Missouri
+* [[Henry Reuss]], Wisconsin
+* [[Thomas L. Ashley|Thomas Ashley]], Ohio
+* [[William Moorhead]], Pennsylvania
+* [[Robert Grier Stephens Jr.|Robert Stephens]], Georgia
+* [[Fernand St. Germain]], Rhode Island
+* [[Henry B. González|Henry Gonzalez]], Texas
+* [[Joseph Minish]], New Jersey
+* [[Richard T. Hanna|Richard Hanna]], California
+* [[Tom Gettys]], South Carolina
+* [[Frank Annunzio]], Illinois
+* [[Thomas M. Rees|Thomas Rees]], California
+* [[James M. Hanley|James Hanley]], New York
+* [[Frank Brasco]], New York
+* [[Edward Koch]], New York
+* [[William R. Cotter (politician)|William Cotter]], Connecticut 
+* [[Parren Mitchell]], Maryland
+* [[Walter Fauntroy]], District of Columbia
+* [[Andrew Young]], Georgia
+* [[John Moakley]], Massachusetts
+* [[Pete Stark]], California
+* [[Lindy Boggs]], Louisiana
+
+| {{party shading/Republican}} valign=top |
+* [[William Widnall]], New Jersey
+* [[Albert W. Johnson]], Pennsylvania
+* [[J. William Stanton|William Stanton]], Ohio
+* [[Benjamin B. Blackburn|Benjamin Blackburn]], Georgia
+* [[Garry E. Brown]], Michigan
+* [[Lawrence G. Williams]], Pennsylvania
+* [[Chalmers Wylie]], Ohio
+* [[Margaret Heckler]], Massachusetts
+* [[Phil Crane]], Illinois
+* [[John Rousselot]], California
+* [[Stewart McKinney (politician)|Stewart McKinney]], Connecticut
+* [[Bill Frenzel]], Minnesota
+* [[Angelo Roncallo]], New York
+* [[John Bertrand Conlan]], Arizona
+* [[Clair Burgener]], California
+* [[Matthew Rinaldo]], New Jersey
+|}
+
+==See also==
+* [[United States Senate Committee on Banking, Housing, and Urban Affairs]]
+* [[List of current United States House of Representatives committees]]
+* Lavelle, Kathryn C. Money and Banks in the American Political System.  NY:  Cambridge.  97811017609167
+
+==References==
+{{Reflist}}
+
+==External links==
+{{commons category}}
+* [https://financialservices.house.gov/ House Committee on Financial Services Homepage] ([https://www.loc.gov/item/lcwa00hsba00/ Archive]) 
+* [https://www.congress.gov/committee/house-financial-services/hsba00 House Financial Services Committee]. Legislation activity and reports, Congress.gov. 
+* [https://www.congress.gov/committees/video/house-financial-services/hsba00 House Financial Services Committee Hearings and Meetings Video]. Congress.gov.
+
+{{US House Financial Services chairs}}
+{{United States congressional committees}}
+
+[[Category:Committees of the United States House of Representatives|Financial Services]]
+[[Category:1865 establishments in Washington, D.C.]]
+[[Category:Organizations established in 1865]]

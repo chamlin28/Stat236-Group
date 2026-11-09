@@ -1,0 +1,935 @@
+{{short description|Standing committee of the United States House of Representatives}}
+{{Use mdy dates|date=January 2017}}
+{{Infobox U.S. congressional committee
+| name               = House Judiciary Committee 
+| type               = standing
+| chamber            = house
+| congress           = 118th
+| parent             = 
+| image              = 
+| image_size         =
+| caption            =
+| status             = active
+| formed             = June 6, 1813
+| disbanded          =
+| succeeded          =
+| preceded           =
+| merged             =
+| former_names       =
+| chair              = [[Jim Jordan]]
+| chair_party        = R
+| chair_since        = January 7, 2023
+| ranking_member     = [[Jerry Nadler]]
+| rm_party           = D
+| rm_since           = January 7, 2023
+| vice_chair         = Vacant
+| vc_party           = 
+| vc_since           = 
+| chair_emeritus     = 
+| ce_party           = 
+| ce_since           =
+| seats              = 44
+| majority1          = R
+| majority1_seats    = 25
+| minority1          = D
+| minority1_seats    = 19
+| founder            = [[United States House of Representatives|House of Representatives]]
+| purpose            = 
+| policy_areas       = 
+| oversight          = 
+| counterpart        = [[United States Senate Committee on the Judiciary|Senate Committee on the Judiciary]]
+| subcommittees      = 
+| meeting_place      = 
+| meeting_image      =
+| meeting_img_size   =
+| website            = 
+| minority_website   =
+| chamber_rules      =
+| committee_rules    =
+| notes              =
+}}
+The '''U.S. House Committee on the Judiciary''', also called the '''House Judiciary Committee''', is a [[Standing committee (United States Congress)|standing committee]] of the [[United States House of Representatives]]. It is charged with overseeing the [[administration of justice]] within the [[United States federal courts|federal courts]], federal administrative agencies, and federal law enforcement entities. The Judiciary Committee is often involved in the [[Federal impeachment in the United States|impeachment]] process against federal officials. Because of the legal nature of its oversight, committee members usually have a legal background, but this is not required.
+
+In the [[118th United States Congress|118th Congress]], the chairman of the committee is [[Republican Party (United States)|Republican]] [[Jim Jordan]] of [[Ohio]], and the ranking minority member is [[Democratic Party (United States)|Democrat]] [[Jerrold Nadler|Jerry Nadler]] of [[New York (state)|New York]].
+
+== History ==
+{{United States House of Representatives}}
+The committee was created on June 3, 1813,<ref>{{Cite web|url=https://history.house.gov/Historical-Highlights/1800-1850/The-creation-of-the-Judiciary-Comm-1813_June_1/|title=The Creation of the Judiciary Committee &#124; US House of Representatives: History, Art & Archives}}</ref> for the purpose of considering legislation related to the [[judicial system]]. This committee approved impeachment resolutions/[[articles of impeachment]] against presidents in four instances: against [[Andrew Johnson]] ([[First impeachment inquiry against Andrew Johnson|in 1867]]), [[Richard Nixon]] ([[Impeachment process against Richard Nixon|in 1974]]), [[Bill Clinton]] ([[Impeachment inquiry against Bill Clinton|in 1998]]), and [[Donald Trump]] ([[Impeachment inquiry against Donald Trump|in 2019]]).
+
+In the [[115th Congress]], the chairman of the committee was [[Republican Party (United States)|Republican]] [[Bob Goodlatte]] of [[Virginia]], and the ranking minority member was initially [[United States Democratic Party|Democrat]] [[John Conyers]] of [[Michigan]]. On November 26, 2017, Conyers stepped down from his position as ranking member, while he faced an ethics investigation.<ref>{{cite news |last=Wilkinson |first=Tracy |date=November 26, 2017 |title=Rep. John Conyers quits House committee post amid sexual harassment probe |url=http://www.latimes.com/nation/la-na-pol-sexual-misconduct-politics-20171126-story.html |work=[[Los Angeles Times]] |location=Los Angeles |access-date=November 26, 2017 }}</ref> On November 28, 2017, [[Jerrold Nadler]] of [[New York (state)|New York]] was named as acting ranking member.
+
+In the [[116th Congress]], the House flipped from Republican to Democratic control. [[Doug Collins (politician)|Doug Collins]], a Republican from [[Georgia's 9th congressional district]], became ranking member and served from 2019 to 2020. In early 2020, Collins stepped down from his leadership position when he became a candidate in the [[2020–21 United States Senate special election in Georgia|2020 special election held to replace retiring U.S. Senator]] [[Johnny Isakson]]. Under House Republican rules, members must relinquish leadership positions if they launch a bid for another office.<ref>{{cite web|url=https://thehill.com/homenews/house/481933-jim-jordan-selected-to-replace-doug-collins-on-judiciary-committee|title=House Republicans move Jordan to Judiciary, Meadows to Oversight|date=2020-02-06|last1=Beavers|first1=Olivia|last2=Brufke|first2=Juliegrace|website=The Hill|access-date=2020-02-07}}</ref> Collins was succeeded as ranking member by Jordan, who represents [[Ohio's 4th congressional district]], but who has never taken a bar examination or practiced law. 
+
+=== Predecessor committees ===
+* [[United States House Committee on Claims|Claims]]: Functions merged in 1946
+* [[United States House Committee on Immigration and Naturalization|Immigration and Naturalization]]: Functions merged in 1946
+* [[United States House Committee on Internal Security|Internal Security]]: Functions merged in 1975
+** [[House Un-American Activities Committee|Un-American Activities]]: Functions merged into [[United States House Committee on Internal Security|Internal Security]] in 1969
+* [[United States House Committee on Patents|Patents]]: Functions merged in 1946
+* [[United States House Committee on Revision of Laws|Revision of Laws]]: Functions merged in 1946
+* [[United States House Committee on War Claims|War Claims]]: Functions merged in 1946
+
+== Members, 118th Congress ==
+{| class=wikitable
+! Majority
+! Minority
+|-
+| valign=top {{Party shading/Republican}}|
+* [[Jim Jordan]], Ohio, ''Chair''
+* [[Darrell Issa]], California
+* [[Ken Buck]], Colorado
+* [[Matt Gaetz]], Florida
+* [[Mike Johnson]], Louisiana (until October 25, 2023)
+* [[Andy Biggs]], Arizona
+* [[Tom McClintock]], California
+* [[Tom Tiffany]], Wisconsin
+* [[Thomas Massie]], Kentucky
+* [[Chip Roy]], Texas
+* [[Dan Bishop]], North Carolina 
+* [[Victoria Spartz]], Indiana 
+* [[Scott L. Fitzgerald]], Wisconsin 
+* [[Cliff Bentz]], Oregon
+* [[Ben Cline]], Virginia
+* [[Lance Gooden]], Texas
+* [[Jeff Van Drew]], New Jersey
+* [[Troy Nehls]], Texas
+* [[Barry Moore (Alabama politician)|Barry Moore]], Alabama
+* [[Kevin Kiley (politician)|Kevin Kiley]], California
+* [[Harriet Hageman]], Wyoming
+* [[Nathaniel Moran]], Texas
+* [[Laurel Lee]], Florida
+* [[Wesley Hunt]], Texas
+* [[Russell Fry (politician)|Russell Fry]], South Carolina
+* [[Kelly Armstrong]], North Dakota (from December 5, 2023)
+
+| valign=top {{Party shading/Democratic}}|
+* [[Jerry Nadler]], New York, ''Ranking Member''
+* [[Zoe Lofgren]], California
+* [[Sheila Jackson Lee]], Texas (until July 19, 2024)
+* [[Steve Cohen (politician)|Steve Cohen]], Tennessee
+* [[Hank Johnson]], Georgia
+* [[Adam Schiff]], California
+* [[David Cicilline]], Rhode Island (until May 31, 2023)
+* [[Eric Swalwell]], California
+* [[Ted Lieu]], California
+* [[Pramila Jayapal]], Washington 
+* [[Lou Correa]], California
+* [[Mary Gay Scanlon]], Pennsylvania 
+* [[Joe Neguse]], Colorado
+* [[Lucy McBath]], Georgia 
+* [[Madeleine Dean]], Pennsylvania 
+* [[Veronica Escobar]], Texas
+* [[Deborah K. Ross]], North Carolina
+* [[Cori Bush]], Missouri
+* [[Glenn Ivey]], Maryland
+* [[Becca Balint]], Vermont (from June 13, 2023)
+* [[Chuy García]], Illinois (from September 10, 2024)
+|}
+Resolutions electing members: {{USBill|118|HRes|14}} (Chair), {{USBill|118|HRes|15}} (Ranking Member), {{USBill|118|HRes|70}} (R), {{USBill|118|HRes|71}} (D), {{USBill|118|HRes|502}} (D), {{USBill|118|HRes|908}} (R), {{USBill|118|HRes|1431}} (García)
+
+== Subcommittees ==
+{| class="wikitable"
+! Subcommittee
+! Chair<ref>{{Cite web |date=2023-01-27 |title=Chairman Jim Jordan Announces Judiciary Subcommittee Leadership |url=http://judiciary.house.gov/media/press-releases/chairman-jim-jordan-announces-judiciary-subcommittee-leadership |access-date=2023-01-28 |website=House Judiciary Committee Republicans |language=en}}</ref>
+! Ranking Member<ref>{{Cite web |date=2023-01-31 |title=Nadler Announces Judiciary Committee Democratic Subcommittee Members |url=https://democrats-judiciary.house.gov/news/documentsingle.aspx?DocumentID=5107 |access-date=2023-02-01 |website=U.S. House Judiciary Committee Democrats |language=en}}</ref>
+|-
+| [[United States House Judiciary Subcommittee on the Administrative State, Regulatory Reform, and Antitrust|Administrative State, Regulatory Reform and Antitrust]]
+| [[Thomas Massie]] (R-KY)
+| [[David Cicilline]] (D-RI) (until 5/31/23)<br>[[Lou Correa]] (D-CA) (from 5/31/23)
+|-
+| [[United States House Judiciary Subcommittee on the Constitution and Limited Government|The Constitution and Limited Government]]
+| [[Mike Johnson]] (R-LA) (until 10/25/23)<br>[[Chip Roy]] (R-TX) (from 10/26/23)
+|[[Mary Gay Scanlon]] (D-PA)
+|-
+| [[United States House Judiciary Subcommittee on Courts, Intellectual Property, and the Internet|Courts, Intellectual Property and the Internet]]
+| [[Darrell Issa]] (R-CA)
+|[[Hank Johnson]] (D-GA)
+|-
+| [[United States House Judiciary Subcommittee on Crime and Federal Government Surveillance|Crime and Federal Government Surveillance]]
+| [[Andy Biggs]] (R-AZ)
+|[[Sheila Jackson Lee]] (D-TX) (until 7/19/24)
+|-
+| [[United States House Judiciary Subcommittee on Immigration Integrity, Security, and Enforcement|Immigration Integrity, Security, and Enforcement]]
+| [[Tom McClintock]] (R-CA)
+|[[Pramila Jayapal]] (D-WA)
+|-
+|[[United States House Judiciary Subcommittee on Responsiveness and Accountability to Oversight|Responsiveness and Accountability to Oversight]]
+|[[Ben Cline]] (R-VA)
+|[[Eric Swalwell]] (D-CA)
+|-
+|[[United States House Judiciary Select Subcommittee on the Weaponization of the Federal Government|Weaponization of the Federal Government (Select)]]
+|[[Jim Jordan]] (R-OH)
+|[[Stacey Plaskett]] (D-VI)
+|}
+
+== List of chairs ==
+{| class=wikitable
+! Chairman
+! Party
+! State
+! Years
+
+|-
+| [[Charles J. Ingersoll]]
+| {{party shading/Democratic-Republican}} | Democratic-Republican
+| {{US State Abbrev|PA}}
+| 1813 –<br />1815
+
+|-
+| [[Hugh Nelson (congressman)|Hugh Nelson]]
+| {{party shading/Democratic-Republican}} | Democratic-Republican
+| {{US State Abbrev|VA}}
+| 1815 –<br />1819
+
+|-
+| [[John Sergeant (politician)|John Sergeant]]
+| {{party shading/Democratic-Republican}} | Democratic-Republican
+| {{US State Abbrev|PA}}
+| 1819 –<br />1822
+
+|-
+| [[Hugh Nelson (congressman)|Hugh Nelson]]
+| {{party shading/Democratic-Republican}} | Democratic-Republican
+| {{US State Abbrev|VA}}
+| 1822 –<br />1823
+
+|-
+| [[Daniel Webster]]
+| {{party shading/Federalist}} | Federalist
+| {{US State Abbrev|MA}}
+| 1823 –<br />1827
+
+|-
+| [[Philip P. Barbour]]
+| {{party shading/Democratic}} | Democratic
+| {{US State Abbrev|VA}}
+| 1827 –<br />1829
+
+|-
+| [[James Buchanan]]
+| {{party shading/Democratic}} | Democratic
+| {{US State Abbrev|PA}}
+| 1829 –<br />1831
+
+|-
+| [[Warren R. Davis]]
+| {{party shading/Democratic}} | Democratic
+| {{US State Abbrev|SC}}
+| 1831 –<br />1832
+|-
+| [[John Bell (Tennessee politician)|John Bell]]
+| {{party shading/Democratic}} | Democratic
+| {{US State Abbrev|TN}}
+| 1832 –<br />1834
+
+|-
+| [[Thomas F. Foster]]
+| {{party shading/Whig}} | Whig
+| {{US State Abbrev|GA}}
+| 1834 –<br />1835
+
+|-
+| [[Samuel Beardsley]]
+| {{party shading/Democratic}} | Democratic
+| {{US State Abbrev|NY}}
+| 1835 –<br />1836
+
+|-
+| [[Francis Thomas]]
+| {{party shading/Democratic}} | Democratic
+| {{US State Abbrev|MD}}
+| 1836 –<br />1839
+
+|-
+| [[John Sergeant (politician)|John Sergeant]]
+| {{party shading/Whig}} | Whig
+| {{US State Abbrev|PA}}
+| 1839 –<br />1841
+
+|-
+| [[Daniel D. Barnard]]
+| {{party shading/Whig}} | Whig
+| {{US State Abbrev|NY}}
+| 1841 –<br />1843
+
+|-
+| [[William Wilkins (U.S. Senator)|William Wilkins]]
+| {{party shading/Democratic}} | Democratic
+| {{US State Abbrev|PA}}
+| 1843 –<br />1844
+
+|-
+| [[Romulus M. Saunders]]
+| {{party shading/Democratic}} | Democratic
+| {{US State Abbrev|NC}}
+| 1844 –<br />1845
+
+|-
+| [[George O. Rathbun]]
+| {{party shading/Democratic}} | Democratic
+| {{US State Abbrev|NY}}
+| 1845 –<br />1847
+
+|-
+| [[Joseph R. Ingersoll]]
+| {{party shading/Whig}} | Whig
+| {{US State Abbrev|PA}}
+| 1847 –<br />1849
+
+|-
+| [[James Thompson (jurist)|James Thompson]]
+| {{party shading/Democratic}} | Democratic
+| {{US State Abbrev|PA}}
+| 1849 –<br />1851
+
+|-
+| [[James X. McLanahan]]
+| {{party shading/Democratic}} | Democratic
+| {{US State Abbrev|PA}}
+| 1851 –<br />1853
+
+|-
+| [[Frederick P. Stanton]]
+| {{party shading/Democratic}} | Democratic
+| {{US State Abbrev|TN}}
+| 1853 –<br />1855
+
+|-
+| [[George A. Simmons]]
+| {{party shading/Whig}} | Whig & Republican
+| {{US State Abbrev|NY}}
+| 1855 –<br />1857
+
+|-
+| [[George S. Houston]]
+| {{party shading/Democratic}} | Democratic
+| {{US State Abbrev|AL}}
+| 1857 –<br />1859
+
+|-
+| [[John Hickman (Pennsylvania politician)|John Hickman]]
+| {{party shading/Republican}} | Republican
+| {{US State Abbrev|PA}}
+| 1859 –<br />1863
+
+|-
+| [[James F. Wilson]]
+| {{party shading/Republican}} | Republican
+| {{US State Abbrev|IA}}
+| 1863 –<br />1869
+
+|-
+| [[John A. Bingham]]
+| {{party shading/Republican}} | Republican
+| {{US State Abbrev|OH}}
+| 1869 –<br />1873
+
+|-
+| [[Benjamin Butler (politician)|Benjamin F. Butler]]
+| {{party shading/Republican}} | Republican
+| {{US State Abbrev|MA}}
+| 1873 –<br />1875
+
+|-
+| [[James P. Knott]]
+| {{party shading/Democratic}} | Democratic
+| {{US State Abbrev|KY}}
+| 1875 –<br />1881
+
+|-
+| [[Thomas Brackett Reed]]
+| {{party shading/Republican}} | Republican
+| {{US State Abbrev|ME}}
+| 1881 –<br />1883
+
+|-
+| [[John R. Tucker]]
+| {{party shading/Democratic}} | Democratic
+| {{US State Abbrev|VA}}
+| 1883 –<br />1887
+
+|-
+| [[David B. Culberson]]
+| {{party shading/Democratic}} | Democratic
+| {{US State Abbrev|TX}}
+| 1887 –<br />1889
+
+|-
+| [[Ezra B. Taylor]]
+| {{party shading/Republican}} | Republican
+| {{US State Abbrev|OH}}
+| 1889 –<br />1891
+
+|-
+| [[David B. Culberson]]
+| {{party shading/Democratic}} | Democratic
+| {{US State Abbrev|TX}}
+| 1891 –<br />1895
+
+|-
+| [[David B. Henderson]]
+| {{party shading/Republican}} | Republican
+| {{US State Abbrev|IA}}
+| 1895 –<br />1899
+
+|-
+| [[George W. Ray]]
+| {{party shading/Republican}} | Republican
+| {{US State Abbrev|NY}}
+| 1899 –<br />1903
+
+|-
+| [[John J. Jenkins]]
+| {{party shading/Republican}} | Republican
+| {{US State Abbrev|WI}}
+| 1903 –<br />1909
+
+|-
+| [[Richard W. Parker]]
+| {{party shading/Republican}} | Republican
+| {{US State Abbrev|NJ}}
+| 1909 –<br />1911
+
+|-
+| [[Henry De Lamar Clayton Jr.|Henry De Lamar Clayton]]
+| {{party shading/Democratic}} | Democratic
+| {{US State Abbrev|AL}}
+| 1911 –<br />1914
+
+|-
+| [[Edwin Y. Webb]]
+| {{party shading/Democratic}} | Democratic
+| {{US State Abbrev|NC}}
+| 1914 –<br />1919
+
+|-
+| [[Andrew J. Volstead]]
+| {{party shading/Republican}} | Republican
+| {{US State Abbrev|MN}}
+| 1919 –<br />1923
+
+|-
+| [[George S. Graham]]
+| {{party shading/Republican}} | Republican
+| {{US State Abbrev|PA}}
+| 1923 –<br />1931
+
+|-
+| [[Hatton W. Sumners]]
+| {{party shading/Democratic}} | Democratic
+| {{US State Abbrev|TX}}
+| 1931 –<br />1947
+
+|-
+| [[Earl C. Michener]]
+| {{party shading/Republican}} | Republican
+| {{US State Abbrev|MI}}
+| 1947 –<br />1949
+
+|-
+| [[Emanuel Celler]]
+| {{party shading/Democratic}} | Democratic
+| {{US State Abbrev|NY}}
+| 1949 –<br />1953
+
+|-
+| [[Chauncey W. Reed]]
+| {{party shading/Republican}} | Republican
+| {{US State Abbrev|IL}}
+| 1953 –<br />1955
+
+|-
+| [[Emanuel Celler]]
+| {{party shading/Democratic}} | Democratic
+| {{US State Abbrev|NY}}
+| 1955 –<br />1973
+
+|-
+| [[Peter W. Rodino Jr.]]
+| {{party shading/Democratic}} | Democratic
+| {{US State Abbrev|NJ}}
+| 1973 –<br />1989
+
+|-
+| [[Jack Brooks (American politician)|Jack Brooks]]
+| {{party shading/Democratic}} | Democratic
+| {{US State Abbrev|TX}}
+| 1989 –<br />1995
+
+|-
+| [[Henry Hyde]]
+| {{party shading/Republican}} | Republican
+| {{US State Abbrev|IL}}
+| 1995 –<br />2001
+
+|-
+| [[Jim Sensenbrenner]]
+| {{party shading/Republican}} | Republican
+| {{US State Abbrev|WI}}
+| 2001 –<br />2007
+
+|-
+| [[John Conyers]]
+| {{party shading/Democratic}} | Democratic
+| {{US State Abbrev|MI}}
+| 2007 –<br />2011
+
+|-
+| [[Lamar Smith]]
+| {{party shading/Republican}} | Republican
+| {{US State Abbrev|TX}}
+| 2011 –<br />2013
+
+|-
+| [[Bob Goodlatte]]
+| {{party shading/Republican}} | Republican
+| {{US State Abbrev|VA}}
+| 2013 –<br />2019
+
+|-
+| [[Jerrold Nadler]]
+| {{party shading/Democratic}} | Democratic
+| {{US State Abbrev|NY}}
+| 2019 –<br />2023
+
+|-
+| [[Jim Jordan]]
+| {{party shading/Republican}} | Republican
+| {{US State Abbrev|OH}}
+| 2023 –<br />present
+
+|}
+
+==Historical membership rosters==
+<!--===117th Congress===
+{| class=wikitable
+! Majority
+! Minority
+|-
+| valign=top {{Party shading/Republican}}|
+* [[Jim Jordan]], Ohio, ''Chair''
+* [[Darrell Issa]], California
+* [[Chip Roy]], Texas
+* [[Mike Johnson]], Louisiana 
+* [[Tom Tiffany]], Wisconsin 
+* [[Tom McClintock]], California
+* [[Victoria Spartz]], Indiana 
+* [[Matt Gaetz]], Florida
+* [[Scott L. Fitzgerald]], Wisconsin 
+* [[Cliff Bentz]], Oregon 
+* [[Ken Buck]], Colorado
+* [[Greg Steube]], Florida 
+* [[Andy Biggs]], Arizona
+* [[To be determined|TBD]],  ''Vice Chair''
+* [[Thomas Massie]], Kentucky
+* [[Michelle Fischbach]], Minnesota 
+* [[Dan Bishop]], North Carolina
+* [[Burgess Owens]], Utah
+
+| valign=top {{Party shading/Democratic}}|
+* [[Jerry Nadler]], New York, ''Ranking Member''
+* [[Zoe Lofgren]], California
+* [[Joe Neguse]], Colorado
+* [[Hank Johnson]], Georgia 
+* [[Steve Cohen (politician)|Steve Cohen]], Tennessee
+* [[David Cicilline]], Rhode Island 
+* [[Jamie Raskin]], Maryland
+* [[Greg Stanton]], Arizona
+* [[Eric Swalwell]], California
+* [[Lou Correa]], California
+* [[Lucy McBath]], Georgia 
+* [[Veronica Escobar]], Texas
+* [[Ted Lieu]], California 
+* [[Sheila Jackson Lee]], Texas
+* [[Deborah K. Ross]], North Carolina
+* [[Pramila Jayapal]], Washington 
+* [[Madeleine Dean]], Pennsylvania 
+* [[Mary Gay Scanlon]], Pennsylvania 
+* [[Sylvia Garcia]], Texas 
+* [[Cori Bush]], Missouri 
+|}
+Resolutions electing members: {{USBill|117|HRes|9}} (Chair), {{USBill|117|HRes|10}} (Ranking Member), {{USBill|117|HRes|62}} (D), {{USBill|117|HRes|63}} (R)
+
+;Subcommittees
+{| class="wikitable"
+! Subcommittee
+! Chair<ref>[https://judiciary.house.gov/news/documentsingle.aspx?DocumentID=3519 Chairman Nadler Welcomes New Democratic Members and Announces Democratic Subcommittee Assignments for 117th Congress]</ref>
+! Ranking Member<ref>[https://republicans-judiciary.house.gov/press-release/ranking-member-jordan-announces-republican-subcommittee-assignments-for-117th-congress/ Ranking Member Jordan Announces Republican Subcommittee Assignments for 117th Congress]</ref>
+|-
+| [[United States House Judiciary Subcommittee on Antitrust, Commercial and Administrative Law|Antitrust, Commercial and Administrative Law]]
+| [[Ken Buck]] (R-CO)
+| [[David Cicilline]] (D-RI)
+|-
+| [[United States House Judiciary Subcommittee on the Constitution, Civil Rights and Civil Liberties|The Constitution, Civil Rights and Civil Liberties]]
+| [[Mike Johnson]] (R-LA)
+| [[Steve Cohen (politician)|Steve Cohen]] (D-TN)
+|-
+| [[United States House Judiciary Subcommittee on Courts, Intellectual Property and the Internet|Courts, Intellectual Property and the Internet]]
+| [[Darrell Issa]] (R-CA)
+| [[Hank Johnson]] (D-GA)
+|-
+| [[United States House Judiciary Subcommittee on Crime, Terrorism and Homeland Security|Crime, Terrorism and Homeland Security]]
+| [[Andy Biggs]] (R-AZ)
+| [[Sheila Jackson Lee]] (D-TX)
+|-
+| [[United States House Judiciary Subcommittee on Immigration and Citizenship|Immigration and Citizenship]]
+| [[Tom McClintock]] (R-CA)
+| [[Zoe Lofgren]] (D-CA)
+|-
+| [[United States House Select Subcommittee on the Weaponization of the Federal Government|Weaponization of the Federal Government]]
+| [[Jim Jordan]] (R-OH)
+| {{TBA}}
+|}-->
+===116th Congress===
+{| class=wikitable
+! Majority
+! Minority
+|-
+| valign=top {{Party shading/Democratic}}|
+* [[Jerry Nadler]], New York, ''Chair''
+* [[Zoe Lofgren]], California
+* [[Sheila Jackson Lee]], Texas
+* [[Steve Cohen (politician)|Steve Cohen]], Tennessee
+* [[Hank Johnson]], Georgia
+* [[Ted Deutch]], Florida
+* [[Karen Bass]], California
+* [[Cedric Richmond]], Louisiana
+* [[Hakeem Jeffries]], New York
+* [[David Cicilline]], Rhode Island
+* [[Eric Swalwell]], California
+* [[Ted Lieu]], California
+* [[Jamie Raskin]], Maryland
+* [[Pramila Jayapal]], Washington
+* [[Val Demings]], Florida
+* [[Lou Correa]], California
+* [[Mary Gay Scanlon]], Pennsylvania, ''Vice Chair''
+* [[Sylvia Garcia]], Texas
+* [[Joe Neguse]], Colorado
+* [[Lucy McBath]], Georgia
+* [[Greg Stanton]], Arizona
+* [[Madeleine Dean]], Pennsylvania
+* [[Debbie Mucarsel-Powell]], Florida
+* [[Veronica Escobar]], Texas
+
+| valign=top {{Party shading/Republican}}|
+* [[Jim Jordan]], Ohio,  ''Ranking Member (since March 20, 2020)''
+* [[Jim Sensenbrenner]], Wisconsin
+* [[Steve Chabot]], Ohio
+* [[Louie Gohmert]], Texas
+* [[Doug Collins (politician)|Doug Collins]], Georgia, ''Ranking Member (until March 12, 2020)
+* [[Ken Buck]], Colorado
+* [[Martha Roby]], Alabama
+* [[Matt Gaetz]], Florida
+* [[Mike Johnson]], Louisiana
+* [[Andy Biggs]], Arizona
+* [[Tom McClintock]], California
+* [[Debbie Lesko]], Arizona
+* [[Guy Reschenthaler]], Pennsylvania
+* [[Ben Cline]], Virginia
+* [[Kelly Armstrong]], North Dakota
+* [[Greg Steube]], Florida
+* [[Tom Tiffany]], Wisconsin (since July 1, 2020)
+|}
+Sources: {{USBill|116|HRes|24}} (Chair), {{USBill|116|HRes|25}} (Ranking Member), {{USBill|116|HRes|46}} (D), {{USBill|116|HRes|68}} (R), {{USBill|116|HRes|903}} (R), {{USBill|116|HRes|1037}} (R)
+
+;Subcommittees
+{| class="wikitable"
+! Subcommittee
+! Chair
+! Ranking Member<ref>{{Cite web|url=https://republicans-judiciary.house.gov/press-release/collins-announces-ranking-members-for-house-judiciary-subcommittees/|title=Collins Announces Ranking Members for House Judiciary Subcommittees|website=House Judiciary Committee|language=en|access-date=2019-01-26}}</ref>
+|-
+| [[United States House Judiciary Subcommittee on Antitrust, Commercial and Administrative Law|Antitrust, Commercial and Administrative Law]]
+| [[David Cicilline]] (D-RI)
+|[[Jim Sensenbrenner]] (R-WI)
+|-
+| [[United States House Judiciary Subcommittee on the Constitution, Civil Rights and Civil Liberties|The Constitution, Civil Rights and Civil Liberties]]
+| [[Steve Cohen (politician)|Steve Cohen]] (D-TN)
+|[[Mike Johnson]] (R-LA)
+|-
+| [[United States House Judiciary Subcommittee on Courts, Intellectual Property and the Internet|Courts, Intellectual Property and the Internet]]
+| [[Hank Johnson]] (D-GA)
+|[[Martha Roby]] (R-AL)
+|-
+| [[United States House Judiciary Subcommittee on Crime, Terrorism and Homeland Security|Crime, Terrorism and Homeland Security]]
+| [[Karen Bass]] (D-CA)
+|[[John Ratcliffe (American politician)|John Ratcliffe]] (R-TX)
+|-
+| [[United States House Judiciary Subcommittee on Immigration and Citizenship|Immigration and Citizenship]]
+| [[Zoe Lofgren]] (D-CA)
+|[[Ken Buck]] (R-CO)
+|}
+
+=== 115th Congress ===
+{| class=wikitable
+! Majority
+! Minority
+|-
+| valign=top {{Party shading/Republican}}|
+* [[Bob Goodlatte]], Virginia, ''Chair''
+* [[Jim Sensenbrenner]], Wisconsin
+* [[Lamar S. Smith]], Texas
+* [[Steve Chabot]], Ohio
+* [[Darrell Issa]], California
+* [[Steve King]], Iowa
+* [[Louie Gohmert]], Texas
+* [[Jim Jordan]], Ohio
+* [[Ted Poe]], Texas
+* [[Tom Marino]], Pennsylvania
+* [[Trey Gowdy]], South Carolina
+* [[Raúl Labrador]], Idaho
+* [[Doug Collins (politician)|Doug Collins]], Georgia 
+* [[Ron DeSantis]], Florida
+* [[Ken Buck]], Colorado
+* [[John Ratcliffe (American politician)|John Ratcliffe]], Texas
+* [[Martha Roby]], Alabama
+* [[Matt Gaetz]], Florida
+* [[Mike Johnson]], Louisiana
+* [[Andy Biggs]], Arizona
+* [[John Rutherford (Florida politician)|John Rutherford]], Florida
+* [[Karen Handel]], Georgia
+* [[Keith Rothfus]], Pennsylvania
+| valign=top {{Party shading/Democratic}}|
+* [[Jerrold Nadler]], New York, ''Ranking Member''
+* [[Zoe Lofgren]], California
+* [[Sheila Jackson Lee]], Texas
+* [[Steve Cohen (politician)|Steve Cohen]], Tennessee
+* [[Hank Johnson]], Georgia
+* [[Ted Deutch]], Florida
+* [[Luis Gutiérrez]], Illinois
+* [[Karen Bass]], California
+* [[Cedric Richmond]], Louisiana
+* [[Hakeem Jeffries]], New York
+* [[David Cicilline]], Rhode Island
+* [[Eric Swalwell]], California
+* [[Ted Lieu]], California
+* [[Jamie Raskin]], Maryland, ''Vice Ranking Member''
+* [[Pramila Jayapal]], Washington
+* [[Brad Schneider]], Illinois
+* [[Val Demings]], Florida
+|}
+Sources: {{USBill|115|HRes|6}} (Chair), {{USBill|115|HRes|45}} (D), {{USBill|115|HRes|51}} (R) and {{USBill|115|HRes|95}} (D)
+
+=== 114th Congress ===
+{| class=wikitable
+! Majority
+! Minority
+|-
+| valign=top {{Party shading/Republican}}|
+* [[Bob Goodlatte]], Virginia, ''Chair'' (113th)
+* [[Jim Sensenbrenner]], Wisconsin
+* [[Lamar S. Smith]], Texas
+* [[Steve Chabot]], Ohio
+* [[Darrell Issa]], California
+* [[Randy Forbes]], Virginia
+* [[Steve King]], Iowa
+* [[Trent Franks]], Arizona
+* [[Louie Gohmert]], Texas
+* [[Jim Jordan]], Ohio
+* [[Ted Poe]], Texas
+* [[Jason Chaffetz]], Utah
+* [[Tom Marino]], Pennsylvania
+* [[Trey Gowdy]], South Carolina
+* [[Mark Amodei]], Nevada
+* [[Raúl Labrador]], Idaho
+* [[Blake Farenthold]], Texas
+* [[Doug Collins (politician)|Doug Collins]], Georgia 
+* [[Ron DeSantis]], Florida
+* [[Mimi Walters]], California
+* [[Ken Buck]], Colorado
+* [[John Ratcliffe (American politician)|John Ratcliffe]], Texas
+* [[Dave Trott (politician)|Dave Trott]], Michigan
+* [[Mike Bishop (politician)|Mike Bishop]], Michigan
+| valign=top {{Party shading/Democratic}}|
+* [[John Conyers]], Michigan, ''Ranking Member''
+* [[Jerrold Nadler]], New York
+* [[Zoe Lofgren]], California
+* [[Sheila Jackson Lee]], Texas
+* [[Steve Cohen (politician)|Steve Cohen]], Tennessee
+* [[Hank Johnson]], Georgia
+* [[Pedro Pierluisi]], Puerto Rico
+* [[Judy Chu]], California
+* [[Ted Deutch]], Florida
+* [[Luis Gutierrez]], Illinois
+* [[Karen Bass]], California
+* [[Cedric Richmond]], Louisiana
+* [[Suzan DelBene]], Washington
+* [[Hakeem Jeffries]], New York
+* [[David Cicilline]], Rhode Island
+* [[Scott Peters (politician)|Scott Peters]], California
+|}
+
+Sources:
+* Resolutions electing Republican members: {{USBill|113|HRes|6}} (Chairs) and {{USBill|113|HRes|17}} (R)<ref>Bachus news release Dec. 19</ref>
+* Resolutions electing Democratic members: {{USBill|113|HRes|7}} (D) and {{USBill|113|HRes|22}} (D)
+
+=== 112th Congress ===
+{| class=wikitable
+! Majority
+! Minority
+|-
+| valign=top {{Party shading/Republican}}|
+* [[Lamar S. Smith]], Texas, ''Chair''
+* [[Jim Sensenbrenner]], Wisconsin
+* [[Howard Coble]], North Carolina
+* [[Elton Gallegly]], California
+* [[Bob Goodlatte]], Virginia
+* [[Dan Lungren]], California
+* [[Steve Chabot]], Ohio
+* [[Darrell Issa]], California
+* [[Mike Pence]], Indiana
+* [[Randy Forbes]], Virginia
+* [[Steve King]], Iowa
+* [[Trent Franks]], Arizona
+* [[Louie Gohmert]], Texas
+* [[Jim Jordan]], Ohio
+* [[Ted Poe]], Texas
+* [[Jason Chaffetz]], Utah
+* [[Timothy Griffin]], Arkansas
+* [[Tom Marino]], Pennsylvania
+* [[Trey Gowdy]], South Carolina
+* [[Dennis A. Ross]], Florida
+* [[Sandy Adams]], Florida
+* [[Ben Quayle]], Arizona
+* [[Mark Amodei]], Nevada
+| valign=top {{Party shading/Democratic}}|
+* [[John Conyers]], Michigan, ''Ranking Member''
+* [[Howard Berman]], California
+* [[Jerrold Nadler]], New York
+* [[Bobby Scott (U.S. politician)|Bobby Scott]], Virginia
+* [[Mel Watt]], North Carolina
+* [[Zoe Lofgren]], California
+* [[Sheila Jackson Lee]], Texas
+* [[Maxine Waters]], California
+* [[Steve Cohen (politician)|Steve Cohen]], Tennessee
+* [[Hank Johnson]], Georgia
+* [[Pedro Pierluisi]], Puerto Rico
+* [[Michael Quigley (politician)|Michael Quigley]], Illinois
+* [[Judy Chu]], California
+* [[Ted Deutch]], Florida
+* [[Linda Sánchez]], California
+* [[Jared Polis]], Colorado
+|}
+Sources:
+* Resolutions electing Republican members: {{USBill|112|HRes|6}} (Chair), {{USBill|112|HRes|37}} (Members)
+* Resolutions electing Democratic members {{USBill|112|HRes|7}} (Ranking member), {{USBill|112|HRes|39}} (Members)
+
+=== 111th Congress ===
+{| class=wikitable
+! Majority
+! Minority
+|-
+| valign=top {{Party shading/Democratic}}|
+* [[John Conyers]], Michigan, ''Chair''
+* [[Howard Berman]], California
+* [[Rick Boucher]], Virginia
+* [[Jerrold Nadler]], New York
+* [[Bobby Scott (U.S. politician)|Bobby Scott]], Virginia
+* [[Mel Watt]], North Carolina
+* [[Zoe Lofgren]], California
+* [[Sheila Jackson Lee]], Texas
+* [[Maxine Waters]], California
+* [[Bill Delahunt]], Massachusetts
+* [[Steve Cohen (politician)|Steve Cohen]], Tennessee
+* [[Hank Johnson]], Georgia
+* [[Pedro Pierluisi]], Puerto Rico
+* [[Michael Quigley (politician)|Michael Quigley]], Illinois
+* [[Judy Chu]], California
+* [[Ted Deutch]], Florida
+* [[Luis Gutierrez]], Illinois
+* [[Tammy Baldwin]], Wisconsin
+* [[Charles Gonzalez]], Texas
+* [[Anthony Weiner]], New York
+* [[Adam Schiff]], California
+* [[Linda Sánchez]], California
+* [[Daniel Maffei]], New York
+* [[Jared Polis]], Colorado
+| valign=top {{Party shading/Republican}}|
+* [[Lamar S. Smith]], Texas, ''Ranking Member''
+* [[Jim Sensenbrenner]], Wisconsin
+* [[Howard Coble]], North Carolina
+* [[Elton Gallegly]], California
+* [[Bob Goodlatte]], Virginia
+* [[Dan Lungren]], California
+* [[Darrell Issa]], California
+* [[Randy Forbes]], Virginia
+* [[Steve King]], Iowa
+* [[Trent Franks]], Arizona
+* [[Louie Gohmert]], Texas
+* [[Jason Chaffetz]], Utah
+* [[Tom Rooney (Florida politician)|Tom Rooney]], Florida
+* [[Gregg Harper]], Mississippi
+|}
+
+== Task forces ==
+=== Antitrust Task Force: 108th Congress ===
+Chairman: [[Jim Sensenbrenner]] (R-WI); Ranking member: [[John Conyers]] (D-MI)
+
+The Antitrust Task Force during the 108th Congress existed from March 26, 2003, to September 26, 2003. All Judiciary Committee Members also served as members of the Task Force,<ref>{{Cite web |url=http://judiciary.house.gov/committeestructure.aspx?committee=2 |title=Judiciary Task Force on Antitrust |access-date=March 9, 2007 |archive-date=May 14, 2007 |archive-url=https://web.archive.org/web/20070514023304/http://judiciary.house.gov/committeestructure.aspx?committee=2 |url-status=dead }}</ref> and conducted hearings and investigations into consolidation of the [[Bell Telephone Company|Bell Telephone]] Companies.<ref>[http://www.antitrustreview.com/archives/864 House Antitrust Task Force], [http://www.antitrustreview.com/ Antitrust Review.com]</ref>
+
+=== Antitrust Task Force: 110th Congress ===
+Chairman: [[John Conyers]] (D-MI); Ranking member: [[Steve Chabot]] (R-OH)
+
+The Antitrust Task Force during the 110th Congress was established February 28, 2007, as a temporary subcommittee to examine the pending [[merger]] between [[XM Radio]] and [[Sirius Satellite Radio]].<ref>[http://judiciary.house.gov/newscenter.aspx?A=770 Anti-Trust Panel to Examine XM-Sirius Merger] United States House Committee on the Judiciary Press Release, February 27, 2007</ref> The task force operated like any other subcommittee, except that it only has a six-month term. House Rules limit each full committee to just five subcommittees, and any task force, special subcommittee, or other subunit of a standing committee that is established for a cumulative period longer than six months in a Congress counts against that total.<ref>[http://rules.house.gov/ruleprec/110th.pdf Rules of the House of Representatives], Rule X(b)(C), Page 12</ref> A longer term for the task force would cause the Judiciary Committee to exceed this limit.
+
+=== Judicial Impeachment: 110th and 111th Congresses ===
+Chairman: [[Adam Schiff]] (D-CA)<ref name="judiciarypr">{{cite press release |title=House Judiciary Committee Announces Retention of Alan Baron to Lead Inquiry into Possible Impeachment of Judge Porteous |publisher=U.S. House Committee on the Judiciary |date=October 2, 2008 |url=http://judiciary.house.gov/news/081015.html |access-date=June 27, 2009 |archive-url=https://web.archive.org/web/20090625193327/http://judiciary.house.gov/news/081015.html |archive-date=June 25, 2009 |url-status=dead |df=mdy-all}}</ref> Ranking member: [[Bob Goodlatte ]] (R-VA)<ref name="judiciarypr" />
+
+Established in September 2008,<ref name=ap>{{cite news |title=House panel moves toward impeaching a judge |url=https://www.usatoday.com/news/washington/2008-09-17-202675980_x.htm |agency=Associated Press |date=September 18, 2008 |access-date=June 27, 2009 }}</ref> the [[Judicial Task force on Judicial Impeachment]] was to look into charges against District Judge [[Thomas Porteous]].<ref name=ap/> The investigation was not completed by the end of the 110th Congress, and it was reestablished after the 111th Congress convened in January 2009.<ref name="porteous">{{cite web
+|url=http://hdl.loc.gov/loc.uscongress/legislation.111hres15
+|title=H. Res. 15: Authorizing and directing the Committee on the Judiciary to inquire whether the House should impeach G. Thomas Porteous, a judge of the United States District Court for the Eastern District of Louisiana.
+|access-date=June 27, 2009
+|author=Conyers, John Jr.
+|author-link=John Conyers
+|date=January 6, 2009
+|publisher=United States House of Representatives
+}}</ref> The responsibilities of the Task Force were expanded to include the case of Judge [[Samuel B. Kent]],<ref name="kent">{{cite web
+|url=http://hdl.loc.gov/loc.uscongress/legislation.111hres424
+|title=H. Res. 424: Authorizing and directing the Committee on the Judiciary to inquire whether the House should impeach Samuel B. Kent, a judge of the United States District Court for the Southern District of Texas.
+|access-date=June 27, 2009
+|author=Conyers, John Jr.
+|author-link=John Conyers
+|date=May 29, 2009
+|publisher=United States House of Representatives
+}}</ref> leading to hearings<ref name="cnn">{{cite web |url=http://www.cnn.com/2009/POLITICS/06/03/judge.impeachment/index.html |title= Victims allege years of sexual misconduct by federal judge |access-date=June 27, 2009 |publisher=CNN |date=June 3, 2009 }}</ref> and his subsequent impeachment by the full House of Representatives.<ref name=impeach>{{cite news
+ |author       = Powell, Stewart
+ |title        = U.S. House impeaches Kent
+ |newspaper    = Houston Chronicle
+ |date         = June 19, 2009
+ |url          = http://www.chron.com/disp/story.mpl/front/6488310.html
+ |access-date   = June 27, 2009
+ |quote        = In action so rare it has been carried out only 14 times since 1803, the House on Friday impeached a federal judge — imprisoned U.S. District Court Judge Samuel B. Kent...
+ |archive-url  = https://web.archive.org/web/20090621075620/http://www.chron.com/disp/story.mpl/front/6488310.html
+ |archive-date = June 21, 2009
+ |url-status     = live
+ |df           = mdy-all
+}}</ref> The Task force finally voted to impeach Porteous on January 21, 2010.
+
+== Projects ==
+* [[Administrative Law, Process and Procedure Project]] (2005–2006)
+
+== Hearings ==
+* [[The Use and Misuse of Presidential Clemency Power for Executive Branch Officials (hearing)]] (2007)
+* [https://web.archive.org/web/20110611160611/http://www.gpo.gov/fdsys/pkg/CHRG-111hhrg11150222/pdf/CHRG-111hhrg11150222.pdf Equal Justice for Our Military Act of 2009, HR 569 (111th Congress) (2009)]. Congress holds a hearing to consider granting members of the [[U.S. Armed Forces]] access to the Supreme Court of the United States.
+
+== See also ==
+* [[List of United States House committees]]
+* [[United States congressional committee]]
+* [[United States Senate Committee on the Judiciary]]
+* [[List of current United States House of Representatives committees]]
+
+== References ==
+{{Reflist|3}}
+
+== External links ==
+* [http://judiciary.house.gov/ Committee on the Judiciary website] ([https://www.loc.gov/item/lcwa00hsju00/ Archive]) 
+* [https://www.congress.gov/committee/house-judiciary/hsju00 House Judiciary Committee]. Legislation activity and reports, Congress.gov. 
+* [https://web.archive.org/web/20110812141614/http://www.gpoaccess.gov/cdirectory/browse.html Congressional Directory] including lists of past memberships
+* [https://www.gpo.gov/fdsys/pkg/GPO-CDOC-109hdoc153/content-detail.html House Document No. 109-153, A History of the Committee on the Judiciary 1813–2006]
+
+{{United States congressional committees}}
+
+[[Category:Committees of the United States House of Representatives|Judiciary]]
+[[Category:Law of the United States]]
+[[Category:1813 establishments in the United States]]
+[[Category:Organizations established in 1813]]
+[[Category:Parliamentary committees on Justice]]

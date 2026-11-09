@@ -1,0 +1,289 @@
+{{Short description|Standing committee of the United States House of Representatives}}
+{{refimprove|date=August 2009}}
+{{Infobox U.S. congressional committee
+| name               = House Administration Committee
+| type               = standing
+| chamber            = house
+| congress           = 117th
+| status             = active
+| formed             = January 2, 1947
+| chair              = [[Bryan Steil]]
+| chair_party        = R
+| chair_since        = January 13, 2023
+| ranking_member     = [[Joseph Morelle]]
+| rm_party           = D
+| rm_since           = January 13, 2023
+| vice_chair         = 
+| vc_party           = 
+| vc_since           = 
+| seats              = 12
+| majority1          = R
+| majority1_seats    = 8
+| minority1          = D
+| minority1_seats    = 4
+| policy_areas       = 
+| oversight          = 
+| counterpart        = 
+| subcommittees      = 
+| meeting_place      = 
+| meeting_image      = 
+| meeting_img_size   = 
+| website            = {{url|cha.house.gov}}
+}}
+[[File:Steil Headshot.jpg|thumb|Committee Chair Bryan Steil]]
+The '''United States House Committee on House Administration''' deals with the general administration matters of the [[United States House of Representatives]], the security of the [[United States Capitol]], and federal elections.
+
+==History==
+The Committee on House Administration was created by the [[Legislative Reorganization Act of 1946]], which merged the Committees on [[United States House Committee on Enrolled Bills|Enrolled Bills]] (created in 1789 as Joint Committee), [[United States House Committee on Elections|Elections]] (created in 1794), [[United States House Committee on Accounts|Accounts]] (created in 1803), [[United States House Committee on Printing|Printing]] (created in 1846), [[United States House Committee on the Disposition of Executive Papers|Disposition of Executive Papers]] (created in 1889), [[United States House Committee on Memorials|Memorials]] (created in 1929), and some functions of the [[United States Congress Joint Committee on the Library|Joint Committee on the Library]] (created in 1806 as a Joint Committee) into one new standing committee, the Committee on House Administration.  (''See'' National Archives's [https://www.archives.gov/legislative/guide/house/chapter-12.html Records of the House Administration Committee and Its Predecessors])
+
+In 1975 its responsibilities expanded to include oversight of parking facilities and campaign contributions to House candidates. In 1979, as part of the annual appropriations bill for the legislative branch, this committee absorbed the responsibilities of the [[United States House Select Committee on the House Beauty Shop|former Select Committee on the Beauty Shop]], which had been chaired by Rep. [[Yvonne Brathwaite Burke]] and was responsible for overseeing the operations of a beauty shop for House members, employees, and their families.<ref>{{cite web|url=https://history.house.gov/Blog/Detail/15032439907|title=Wash, Rinse, and Equal Treatment|date=2016-10-24|website=United States House of Representatives Archives|access-date=2020-01-08}}</ref>
+
+In 1995 its responsibilities expanded to include oversight of the Commission on Congressional Mailing Standards.
+
+==Jurisdiction==
+{{United States House of Representatives}}
+The Committee on House Administration is a standing committee of the [[United States House of Representatives]]. The powers and duties of the Committee include the statutory responsibilities of the Committee on House Administration, as determined primarily by the Legislative Reorganization Acts of 1946 and 1970; the [[House of Representatives Administrative Reform Technical Corrections Act]] of 1996; and the [[Procedures of the United States House of Representatives|Rules of the House of Representatives]] adopted on January 6, 1999.
+
+The Committee on House Administration, which consists of 12 members, has jurisdiction over all legislation and other matters relating to the House of Representatives, such as:
+* Appropriations from accounts (and the expenditure, auditing and settling thereof) for committee salaries and expenses, except for the Committee on Appropriations; House Information Resources; and allowances and expenses of Members, Delegates, the Resident Commissioner, Officers, and administrative offices of the House.
+* Employment of persons by the House, including staff for Members, Delegates, the Resident Commissioner, and Committees; and reporters of debates.
+* The [[Library of Congress]], including management thereof.
+* The House Library.
+* Statuary and pictures.
+* Acceptance or purchase of [[works of art]] for the Capitol.
+* [[United States Botanic Garden]].
+* Purchase of books and manuscripts.
+* The [[Smithsonian Institution]] and the incorporation of similar institutions .
+* The [[Commission on Congressional Mailing Standards]] ([[Franking Commission]]).
+* Printing and correction of the [[Congressional Record]].
+* Accounts of the House generally.
+* Assignment of office space for Members, Delegates, the Resident Commissioner, and Committees.
+* Disposition of useless executive papers.
+* Election of the President, Vice President, Members, Senators, Delegates, or the Resident Commissioner; corrupt practices; contested elections; credentials and qualifications; and Federal elections generally.
+* Services to the House, including House food services, parking facilities, and administration of the House Office Buildings and of the House wing of the Capitol.
+* Travel of Members, Delegates, and the Resident Commissioner.
+* Raising, reporting, and use of campaign contributions for candidates for office of Representative, of Delegate, and of Resident Commissioner.
+* Compensation, retirement, and other benefits of the Members, Delegates, the Resident Commissioner, Officers, and employees of Congress.
+
+Additionally, the Committee:
+* Provides policy direction for the [[Inspector General of the United States House of Representatives|Inspector General]] and oversight of the [[Clerk of the United States House of Representatives|Clerk]], [[Sergeant at Arms of the United States House of Representatives|Sergeant at Arms]], [[Chief Administrative Officer of the United States House of Representatives|Chief Administrative Officer]], and Inspector General.
+* Has the function of accepting on behalf of the [[United States House of Representatives|House of Representatives]] a gift, except as otherwise provided by law, if the gift does not involve a duty, burden, or condition, or is not made dependent on some future performance by the House; and promulgating regulations under which to do so.
+* Is responsible for considering amounts of payments of funds resulting from settlements of complaints under the [[Congressional Accountability Act]] of 1995.
+* Membership on the Joint Committee on Printing and the Joint Committee on the Library are drawn from House Administration along with Members from the [[United_States_Senate_Committee_on_Rules_and_Administration|Senate Committee on Rules and Administration]].  The Chairman of the Appropriation Committee's Legislative Branch Subcommittee is also a member of the Joint Committee on the Library.
+
+==Members, 118th Congress==
+{| class=wikitable
+! Majority
+! Minority
+|-
+| {{party shading/Republican}} valign=top |
+* [[Bryan Steil]], Wisconsin, ''Chair''
+* [[Barry Loudermilk]], Georgia
+* [[Morgan Griffith]], Virginia
+* [[Greg Murphy (politician)|Greg Murphy]], North Carolina
+* [[Stephanie Bice]], Oklahoma
+* [[Mike Carey (politician)|Mike Carey]], Ohio
+* [[Laurel Lee]], Florida
+* [[Anthony D'Esposito]], New York
+
+| {{party shading/Democratic}} valign=top |
+* [[Joseph Morelle]], New York, ''Ranking Member''
+* [[Terri Sewell]], Alabama
+* [[Derek Kilmer]], Washington
+* [[Norma Torres]], California
+|}
+Resolutions electing members: {{USBill|118|HRes|56}} (R), {{USBill|118|HRes|57}} (D)
+
+==Subcommittees==
+Due to its relatively small size, the House Administration Committee has not had subcommittees for most of its existence. For the 110th Congress, Chairwoman Millinder-McDonald recommended the creation of two new subcommittees, on [[United States House Administration Subcommittee on Elections|Elections]] and [[United States House Administration Subcommittee on Oversight|Oversight]], which were approved by the full committee on February 16, 2007.<ref>[http://cha.house.gov/mediapages/PRArticle.aspx?NewsID=1407 Committee on House Administration Opens Historic Meeting with Ambitious Agenda]</ref> However, in the 113th Congress, the committee abolished both subcommittees.<ref>[http://electionlawblog.org/?p=46958 “House Administration Committee Votes To Eliminate Subcommittee on Elections”]</ref> The Elections Subcommittee was reconstituted for the 116th Congress.
+
+For the 118th Congress:<ref>{{Cite web|title=Elections (118th Congress)|url=https://cha.house.gov/elections|access-date=2023-04-30|website=Committee on House Administration|language=en}}</ref>
+
+{| class="wikitable"
+|-
+!Subcommittee 
+!Chair
+!Ranking Member
+|-
+|[[United States House Administration Subcommittee on Elections|Elections]]
+|[[Laurel Lee]] (R-FL)
+|[[Terri Sewell]] (D-AL)
+|-
+|[[United States House Administration Subcommittee on Oversight|Oversight]]
+|[[Barry Loudermilk]] (R-GA)
+|[[Norma Torres]] (D-CA)
+|-
+|[[United States House Administration Subcommittee on Modernization|Modernization]]
+|[[Stephanie Bice]] (R-OK)
+|[[Derek Kilmer]] (D-WA)
+|}
+
+==Committee chairs==
+{| class=wikitable
+|-
+! Chair !! Party !! State !! Start of service !! End of service
+|- {{Party shading/Republican}}
+| [[Karl M. LeCompte]] || Republican || Iowa || 1947 || 1949
+|- {{Party shading/Democratic}}
+| [[Mary Teresa Norton]] || Democratic || New Jersey || 1949 || 1951
+|- {{Party shading/Democratic}}
+| [[Thomas B. Stanley]] || Democratic || Virginia || 1951 || 1953
+|- {{Party shading/Republican}}
+| [[Karl M. LeCompte]] || Republican || Iowa || 1953 || 1955
+|- {{Party shading/Democratic}}
+| [[Omar Burleson]] || Democratic || Texas || 1955 || 1968
+|- {{Party shading/Democratic}}
+| [[Samuel Friedel]] || Democratic || Maryland || 1968 || 1971
+|- {{Party shading/Democratic}}
+| [[Wayne Hays]] || Democratic || Ohio || 1971 || 1976
+|- {{Party shading/Democratic}}
+| [[Frank Thompson]] || Democratic || New Jersey || 1976 || 1980
+|- {{Party shading/Democratic}}
+| [[Lucien N. Nedzi]] || Democratic || Michigan || 1980 || 1981
+|- {{Party shading/Democratic}}
+| [[Augustus F. Hawkins]] || Democratic || California || 1981 || 1984
+|- {{Party shading/Democratic}}
+| [[Frank Annunzio]] || Democratic || Illinois || 1984 || 1991
+|- {{Party shading/Democratic}}
+| [[Charlie Rose (congressman)|Charlie Rose]] || Democratic || North Carolina || 1991 || 1995
+|- {{Party shading/Republican}}
+| [[Bill Thomas]] || Republican || California || 1995 || 2001
+|- {{Party shading/Republican}}
+| [[Bob Ney]] || Republican || Ohio || 2001 || 2006
+|- {{Party shading/Republican}}
+| [[Vern Ehlers]] || Republican || Michigan || 2006 || 2007
+|- {{Party shading/Democratic}}
+| [[Juanita Millender-McDonald]] || Democratic || California || colspan=2 style="text-align:center;" |2007
+|- {{Party shading/Democratic}}
+| [[Bob Brady]] || Democratic || Pennsylvania || 2007 || 2011
+|- {{Party shading/Republican}}
+| [[Dan Lungren]] || Republican || California || 2011 || 2013
+|- {{Party shading/Republican}}
+| [[Candice Miller]] || Republican || Michigan || 2013 || 2016
+|- {{Party shading/Republican}}
+| [[Gregg Harper]] || Republican || Mississippi || 2017 || 2019
+|- {{Party shading/Democratic}}
+| [[Zoe Lofgren]] || Democratic || California|| 2019 || 2023
+|- {{Party shading/Republican}}
+| [[Bryan Steil]] || Republican || Wisconsin || 2023 || present
+|}
+
+==Historical membership rosters==
+===117th Congress===
+{| class=wikitable
+! Majority
+! Minority
+|-
+| {{party shading/Democratic}} valign=top |
+* [[Zoe Lofgren]], California, ''Chair''
+* [[Jamie Raskin]], Maryland
+* [[G. K. Butterfield]], North Carolina
+* [[Pete Aguilar]], California
+* [[Mary Gay Scanlon]], Pennsylvania, ''Vice Chair''
+* [[Teresa Leger Fernandez]], New Mexico
+
+| {{party shading/Republican}} valign=top |
+* [[Rodney Davis (politician)|Rodney Davis]], Illinois, ''Ranking Member''
+* [[Barry Loudermilk]], Georgia
+* [[Bryan Steil]], Wisconsin
+|}
+Resolutions electing members: {{USBill|117|HRes|9}} (Chair), {{USBill|117|HRes|10}} (Ranking Member), {{USBill|117|HRes|62}} (D), {{USBill|117|HRes|63}} (R)
+
+;Subcommittees
+{| class="wikitable"
+|-
+!Subcommittee 
+!Chair
+!Ranking Member
+|-
+|[[United States House Administration Subcommittee on Elections|Elections]]
+|[[G. K. Butterfield]] (D-NC)
+|[[Bryan Steil]] (R-WI)
+|}
+
+===116th Congress===
+{| class=wikitable
+! Majority
+! Minority
+|-
+| {{party shading/Democratic}} valign=top |
+* [[Zoe Lofgren]], California, ''Chair''
+* [[Jamie Raskin]], Maryland, ''Vice Chair''
+* [[Susan Davis (politician)|Susan Davis]], California
+* [[G. K. Butterfield]], North Carolina
+* [[Marcia Fudge]], Ohio
+* [[Pete Aguilar]], California
+
+| {{party shading/Republican}} valign=top |
+* [[Rodney Davis (politician)|Rodney Davis]], Illinois, ''Ranking Member''
+* [[Mark Walker (North Carolina politician)|Mark Walker]], North Carolina, ''Vice Ranking Member''
+* [[Barry Loudermilk]], Georgia
+|}
+Sources: {{USBill|116|HRes|31}} (Chair), {{USBill|116|HRes|32}} (Ranking Member), {{USBill|116|HRes|85}} (D), {{USBill|116|HRes|103}} (R)
+
+;Subcommittees
+
+{| class="wikitable"
+|-
+!Subcommittee 
+!Chair
+!Ranking Member
+|-
+|[[United States House Administration Subcommittee on Elections|Elections]]
+|[[Marcia Fudge]] (D-OH)
+|[[Rodney Davis (politician)|Rodney Davis]] (R-IL)
+|}
+
+;Commission on Congressional Mailing Standards (Franking Commission)
+{| class=wikitable
+! Majority
+! Minority
+|-
+| {{party shading/Democratic}} valign=top |
+* [[Susan Davis (politician)|Susan Davis]], California, ''Chair''
+* [[Brad Sherman]], California
+* [[Deb Haaland]], New Mexico
+| {{party shading/Republican}} valign=top |
+* [[Bryan Steil]], Wisconsin, ''Ranking Member''
+* [[Bob Latta]], Ohio
+* [[Mark Walker (North Carolina politician)|Mark Walker]], North Carolina
+|}
+
+===115th Congress===
+
+{| class=wikitable
+! Majority
+! Minority
+|-
+| {{party shading/Republican}} valign=top |
+* [[Gregg Harper]], Mississippi, ''Chair''
+* [[Rodney Davis (politician)|Rodney Davis]], Illinois, ''Vice Chair''
+* [[Barbara Comstock]], Virginia
+* [[Mark Walker (North Carolina politician)|Mark Walker]], North Carolina
+* [[Adrian Smith (politician)|Adrian Smith]], Nebraska
+* [[Barry Loudermilk]], Georgia
+| {{party shading/Democratic}} valign=top |
+* [[Bob Brady]] Pennsylvania, ''Ranking Member''
+* [[Zoe Lofgren]], California
+* [[Jamie Raskin]], Maryland
+|}
+
+==See also==
+* [[List of current United States House of Representatives committees]]
+
+==References==
+<references />
+
+==External links==
+{{commons cat}}
+* [https://cha.house.gov/ Committee on House Administration homepage] ([https://www.loc.gov/item/lcwa00hsha00/ Archive])
+* [https://www.congress.gov/committee/house-administration/hsha00 House Administration Committee]. Legislation activity and reports, [[Congress.gov]].
+* [https://www.congress.gov/committees/video/house-administration/hsha00 House Administration Committee Hearings and Meetings Video]. Congress.gov.
+* [https://cha.house.gov/member-services/handbooks/members-congressional-handbook Members' Congressional Handbook]
+* [https://www.govinfo.gov/content/pkg/CPRT-112HPRT72170/pdf/CPRT-112HPRT72170.pdf ''A History of the Committee on House Administration, 1947-2012''.]
+
+{{United States congressional committees}}
+
+[[Category:Committees of the United States House of Representatives|House Administration]]
+[[Category:1946 establishments in Washington, D.C.]]
+[[Category:Government agencies established in 1946]]

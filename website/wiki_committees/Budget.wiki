@@ -1,0 +1,271 @@
+{{short description|Standing committee of the United States House of Representatives}}
+{{Use mdy dates|date=February 2023}}{{Use American English|date=February 2023}}
+{{Infobox U.S. congressional committee
+| name               = House Budget Committee
+| type               = standing
+| chamber            = house
+| congress           = 118th
+| image              = House Budget Committee logo.jpg
+| image_size         = 250
+| status             = active
+| formed             = 1974
+| chair              = [[Jodey Arrington]]
+| chair_party        = R
+| chair_since        = January 3, 2023
+| ranking_member     = [[Brendan Boyle]]
+| rm_party           = D
+| rm_since           = January 3, 2023
+| seats              = 37
+| majority1          = R
+| majority1_seats    = 21
+| minority1          = D
+| minority1_seats    = 16
+| policy_areas       = 
+| oversight          = 
+| counterpart        = [[Senate Budget Committee]]
+| website            = {{url|budget.house.gov}}
+}}
+The '''United States House Committee on the Budget''', commonly known as the '''House Budget Committee''', is a [[standing committee]] of the [[United States House of Representatives]]. Its responsibilities include legislative oversight of the federal budget process, reviewing all bills and resolutions on the budget, and monitoring agencies and programs funded outside of the budgetary process. The committee briefly operated as a [[Select or special committee (United States Congress)|select committee]] in 1919 and 1921, during the [[66th United States Congress|66th]] and [[67th United States Congress]]es, before being made a standing committee in 1974.<ref name=stubbs>{{citation|author=Walter Stubbs|title=Congressional Committees, 1789-1982: A Checklist|publisher=Greenwood Press|year=1985|pages=16–17}}</ref>
+
+==Role of the committee==
+{{United States House of Representatives}}
+The primary responsibility of the Budget Committee is the drafting and preparation of the [[Concurrent Resolution]] on the Budget, commonly referred to as the "[[budget resolution]]". This resolution sets the aggregate levels of revenue and spending that is expected to occur in a given [[Fiscal year#United States|fiscal year]]. A budget resolution by law must be enacted by Congress by April 15. This target date is rarely met, and in at least four years (FY1999, FY2003, FY2005, and FY2007) no budget resolution was ultimately adopted. This resolution also gives to each committee of the House an "allocation" of "new budget authority". This allocation is important in the consideration of legislation on the floor of the House. If a bill comes to the floor to be considered and it causes an increase in spending above this allocation, it is subject to a point of order (under 302(f) of the Congressional Budget Act). This is true for discretionary spending (spending that is provided to the Federal Government each year) and mandatory spending (spending such as entitlements where a beneficiary class is defined and a benefit is provided). If an entitlement is expanded and it has not been budgeted for in the budget resolution, it is subject to a point of order on the floor and, if not waived, will prevent it from being called up for consideration (if a Member of Congress stands before the body and makes the [[point of order]]).
+
+In general, legislation is cleared of such problems prior to consideration through discussions between the House Parliamentarian, the House Leadership, and the House Budget Committee.
+
+The committee holds hearings on federal budget legislation and congressional resolutions related to the [[United States budget process|federal budget process]]. The committee holds hearings on the [[President of the United States|president's]] [[United States federal budget|annual budget request]] to [[United States Congress|Congress]] and drafts the annual Congressional Budget Resolution, which sets overall spending guidelines for Congress as it develops the [[Appropriations bill (United States)|annual federal appropriations bills]]. The committee also reviews supplemental budget requests submitted by the president, which cover items which for one reason or another were not included in the original budget request, usually for emergency spending. Recently, emergency budget supplementals have been used to request funding for the wars in [[Iraq War|Iraq]] and [[War in Afghanistan (2001–present)|Afghanistan]] as well as for disaster recovery after [[Hurricane Katrina|Hurricanes Katrina]] and [[Hurricane Rita|Rita]]. The committee may [[Bill (proposed law)|amend]], approve, or [[Table (verb)|table]] budget-related bills. It also has the power to enforce established federal budget rules, hold budget-related investigations, and [[subpoena]] witnesses. Additionally, the committee has oversight of the [[Congressional Budget Office]].
+
+==Rules of the committee==
+[[File:House Budget Committee Chair Paul Ryan 2011.jpg|thumb|left|[[Paul Ryan]] (R) chairing a meeting of the Committee on the Budget]]
+The committee meets on the second Wednesday of each month while the House is in session. Though this is required, it is almost always waived and the committee only meets when a subject of sufficient importance arises. This usually occurs during the early part of the calendar year when the president's budget is issued and important budgetary decisions must be made.
+
+It is not permitted to conduct business unless a [[quorum]] is present. For hearings, two members must be present for a hearing to begin. For a business meeting, such as a "mark-up" of a legislative document, a majority of its members must be present. If a bill is passed out of committee without the requisite quorum, it may be subject to a point of order on the floor of the [[U.S. House of Representatives]].
+
+The committee may only consider measures placed before it either by the chairman or by a majority vote of its members.
+
+Each member of the committee may question witnesses during hearings, in order of seniority when the hearing is called to order. Otherwise, members are recognized in order of their arrival after the gavel has brought the committee to order.
+
+==Committee members==
+The committee is chaired by [[Republican Party (United States)|Republican]] [[Jodey Arrington]] from [[Texas]]. The [[ranking member]] is [[Democratic Party (United States)|Democrat]] [[Brendan Boyle]] from [[Pennsylvania]].
+
+Also under House rules, unlike other committees of the House of Representatives, membership on the Budget Committee is term limited. Rank-and-file members must rotate off the committee after serving for three terms. Chairmen and ranking members may serve no more than four terms. (See Clause 5 of Rule X of the Rules of the House of Representatives).<ref>{{cite web|last1=Haas|first1=Karen|title=Rules of the House of Representatives One Hundred Fifteenth Congress|url=https://rules.house.gov/sites/republicans.rules.house.gov/files/115/PDF/House-Rules-115.pdf|publisher=Clerk of the House of Representatives}}</ref> These limits are often waived, as they have been for Chairman [[John Kasich]] (R-OH), Chairman [[Jim Nussle]] (R-IA) and Chairman [[John Spratt]] (D-SC). Such a waiver requires a vote of the whole House, and is usually included in the opening day "Rules Package" that sets the rules for each successive Congress. Such a resolution is normally introduced as "House Resolution 5" or "House Resolution 6".
+
+Several high-profile budget committee members have gone on to serve as [[Office of Management and Budget#List of directors|Director of the Office of Management and Budget]]: [[Leon Panetta]] (budget committee chairman 1989–1993), [[Rob Portman]] (budget committee vice chairman) and [[Jim Nussle]] (budget committee chairman 2001–2007). Additionally, [[John Kasich]] (chairman 1995–2001) went on to serve as Governor of Ohio from 2011 to 2019, while [[Paul Ryan]] (chairman 2011–2015) was the Republican nominee for vice president in [[2012 United States presidential election|2012]] and the [[Speaker of the United States House of Representatives|House speaker]] from 2015 to 2019.
+
+==Members, 118th Congress==
+[[File:Steve Womack - March 2020.jpg|thumb|[[Steve Womack]], ranking member, and [[John Yarmuth]], chair, during a meeting in March 2020]]
+{| class=wikitable
+! Majority
+! Minority
+|-
+| {{party shading/Republican}} valign=top |
+* [[Jodey Arrington]], Texas, ''Chair''
+* [[Ralph Norman]], South Carolina
+* [[Tom McClintock]], California
+* [[Glenn Grothman]], Wisconsin
+* [[Lloyd Smucker]], Pennsylvania
+* [[Michael C. Burgess|Michael Burgess]], Texas
+* [[Buddy Carter]], Georgia
+* [[Ben Cline]], Virginia
+* [[Bob Good]], Virginia
+* [[Jack Bergman]], Michigan
+* [[Drew Ferguson (politician)|Drew Ferguson]], Georgia
+* [[Chip Roy]], Texas
+* [[Blake Moore]], Utah
+* [[David Valadao]], California
+* [[Ron Estes]], Kansas
+* [[Stephanie Bice]], Oklahoma (until January 9, 2024)
+* [[Lisa McClain]], Michigan
+* [[Michelle Fischbach]], Minnesota
+* [[Rudy Yakym]], Indiana
+* [[Josh Brecheen]], Oklahoma
+* [[Chuck Edwards]], North Carolina (from January 10, 2024)
+* [[Greg Lopez]], Colorado (from July 8, 2024)
+
+| {{party shading/Democratic}} valign=top |
+* [[Brendan Boyle]], Pennsylvania, ''Ranking Member''
+* [[Brian Higgins]], New York
+* [[Jan Schakowsky]], Illinois
+* [[Earl Blumenauer]], Oregon
+* [[Dan Kildee]], Michigan
+* [[Scott Peters (politician)|Scott Peters]], California 
+* [[Barbara Lee]], California
+* [[Lloyd Doggett]], Texas
+* [[Jimmy Panetta]], California
+* [[Jennifer Wexton]], Virginia
+* [[Sheila Jackson Lee]], Texas (until July 19, 2024)
+* [[Ilhan Omar]], Minnesota, ''Vice Ranking Member''
+* [[David Trone]], Maryland
+* [[Becca Balint]], Vermont
+* [[Bobby Scott (politician)|Bobby Scott]], Virginia
+* [[Adriano Espaillat]], New York
+|}
+Resolutions electing members: {{USBill|118|HRes|14}} (Chair), {{USBill|118|HRes|15}} (Ranking Member), {{USBill|118|HRes|102}} (D), {{USBill|118|HRes|103}} (R), {{USBill|118|HRes|164}} (D), {{USBill|118|HRes|205}} (amending rank), {{USBill|118|HRes|954}} (R)
+
+==Historical membership rosters==
+===117th Congress===
+{| class=wikitable
+! Majority
+! Minority
+|-
+| {{party shading/Democratic}} valign=top |
+*[[John Yarmuth]], Kentucky, ''Chair''
+*[[Hakeem Jeffries]], New York
+*[[Brian Higgins]], New York
+*[[Brendan Boyle]], Pennsylvania, ''Vice Chair''
+*[[Lloyd Doggett]], Texas
+*[[David Price (American politician)|David Price]], North Carolina
+*[[Jan Schakowsky]], Illinois
+*[[Dan Kildee]], Michigan
+*[[Joseph Morelle]], New York
+*[[Steven Horsford]], Nevada
+*[[Barbara Lee]], California
+* [[Judy Chu]], California
+* [[Stacey Plaskett]], U.S. Virgin Islands
+* [[Jennifer Wexton]], Virginia
+*[[Bobby Scott (politician)|Bobby Scott]], Virginia
+*[[Sheila Jackson Lee]], Texas
+*[[Jim Cooper]], Tennessee
+*[[Albio Sires]], New Jersey
+*[[Scott Peters (politician)|Scott Peters]], California
+* [[Seth Moulton]], Massachusetts
+* [[Pramila Jayapal]], Washington
+
+| {{party shading/Republican}} valign=top |
+* [[Jason Smith (American politician)|Jason Smith]], Missouri, ''Ranking Member''
+* [[Blake Moore]], Utah (since June 22, 2022)
+* [[Trent Kelly]], Mississippi
+* [[Tom McClintock]], California
+* [[Glenn Grothman]], Wisconsin
+* [[Lloyd Smucker]], Pennsylvania
+* [[Chris Jacobs (politician)|Chris Jacobs]], New York
+* [[Michael C. Burgess|Michael Burgess]], Texas
+* [[Buddy Carter]], Georgia
+* [[Ben Cline]], Virginia
+* [[Lauren Boebert]], Colorado
+* [[Byron Donalds]], Florida
+* [[Randy Feenstra]], Iowa
+* [[Bob Good]], Virginia
+* [[Ashley Hinson]], Iowa
+* [[Jay Obernolte]], California
+* [[Marjorie Taylor Greene]], Georgia (until February 4, 2021)
+* [[Carol Miller (politician)|Carol Miller]], West Virginia (since September 20, 2021)
+* [[Mike Carey (politician)|Mike Carey]], Ohio (since December 1, 2021)
+* [[Joe Sempolinski]], New York (since September 13, 2022)
+|}
+Resolutions electing members: {{USBill|117|HRes|9}} (Chair), {{USBill|117|HRes|10}} (Ranking Member), {{USBill|117|HRes|62}} (D), {{USBill|117|HRes|63}} (R), {{USBill|117|HRes|91}} (removing [[Marjorie Taylor Greene]]), {{USBill|117|HRes|95}} (R), {{USBill|117|HRes|122}} (R), {{USBill|117|HRes|658}} (R), {{USBill|117|HRes|826}} (R), {{USBill|117|HRes|1197}} (R), {{USBill|117|HRes|1340}} (R)
+
+===116th Congress===
+{| class=wikitable
+! Majority
+! Minority
+|-
+| {{party shading/Democratic}} valign=top |
+*[[John Yarmuth]], Kentucky, ''Chair''
+*[[Barbara Lee]], California
+*[[Seth Moulton]], Massachusetts
+*[[Hakeem Jeffries]], New York
+*[[Brian Higgins]], New York
+*[[Brendan Boyle]], Pennsylvania
+*[[Rosa DeLauro]], Connecticut
+*[[Lloyd Doggett]], Texas
+*[[David Price (American politician)|David Price]], North Carolina
+*[[Jan Schakowsky]], Illinois
+*[[Dan Kildee]], Michigan
+*[[Jimmy Panetta]], California
+*[[Joseph Morelle|Joe Morelle]], New York
+*[[Steven Horsford]], Nevada
+*[[Bobby Scott (politician)|Bobby Scott]], Virginia
+*[[Sheila Jackson Lee]], Texas
+*[[Pramila Jayapal]], Washington
+*[[Ilhan Omar]], Minnesota
+*[[Jim Cooper]], Tennessee
+*[[Ro Khanna]], California
+*[[Scott Peters (politician)|Scott Peters]], California
+*[[Albio Sires]], New Jersey
+
+| {{party shading/Republican}} valign=top |
+* [[Steve Womack]], Arkansas, ''Ranking Member''
+* [[Rob Woodall]], Georgia
+* [[Bill Johnson (Ohio politician)|Bill Johnson]], Ohio, ''Vice Ranking Member''
+* [[Jason T. Smith|Jason Smith]], Missouri
+* [[Bill Flores]], Texas
+* [[George Holding]], North Carolina
+* [[Chris Stewart (politician)|Chris Stewart]], Utah
+* [[Ralph Norman]], South Carolina
+* [[Kevin Hern]], Oklahoma (since July 10, 2019)
+* [[Chip Roy]], Texas
+* [[Dan Meuser]], Pennsylvania
+* [[William Timmons (politician)|William Timmons]], South Carolina
+* [[Dan Crenshaw]], Texas
+* [[Tim Burchett]], Tennessee
+* [[Chris Jacobs (politician)|Chris Jacobs]], New York (since July 21, 2020)
+|}
+Sources: {{USBill|116|HRes|7}} (Chair), {{USBill|116|HRes|8}} (Ranking Member), {{USBill|116|HRes|73}} (D), {{USBill|116|HRes|74}} (R), {{USBill|116|HRes|125}} (D), {{USBill|116|HRes|481}} (R), {{USBill|116|HRes|870}} (D), {{USBill|116|HRes|1058}} (R)
+
+===115th Congress===
+{| class=wikitable
+! Majority
+! Minority
+|-
+| {{party shading/Republican}} valign=top |
+* [[Steve Womack]], Arkansas, ''Chair''
+* [[Diane Black]], Tennessee
+* [[Mario Díaz-Balart]], Florida
+* [[Tom Cole]], Oklahoma
+* [[Tom McClintock]], California
+* [[Todd Rokita]], Indiana, ''Vice Chair''
+* [[Rob Woodall]], Georgia
+* [[Mark Sanford]], South Carolina
+* [[Dave Brat]], Virginia
+* [[Glenn Grothman]], Wisconsin
+* [[Gary Palmer (politician)|Gary Palmer]], Alabama
+* [[Bruce Westerman]], Arkansas
+* [[Jim Renacci]], Ohio
+* [[Bill Johnson (Ohio politician)|Bill Johnson]], Ohio
+* [[Jason Lewis (congressman)|Jason Lewis]], Minnesota
+* [[Jack Bergman]], Michigan
+* [[John Faso]], New York
+* [[Lloyd Smucker]], Pennsylvania
+* [[Matt Gaetz]], Florida
+* [[Jodey Arrington]], Texas
+* [[Drew Ferguson (politician)|Drew Ferguson]], Georgia
+| {{party shading/Democratic}} valign=top |
+* [[John Yarmuth]], Kentucky, ''Ranking Member''
+* [[Barbara Lee]], California
+* [[Michelle Lujan Grisham]], New Mexico
+* [[Seth Moulton]], Massachusetts
+* [[Hakeem Jeffries]], New York
+* [[Brian Higgins]], New York
+* [[Suzan DelBene]], Washington
+* [[Debbie Wasserman Schultz]], Florida
+* [[Brendan Boyle]], Pennsylvania
+* [[Ro Khanna]], California
+* [[Pramila Jayapal]], Washington, ''Vice Ranking Member''
+* [[Salud Carbajal]], California
+* [[Sheila Jackson Lee]], Texas
+* [[Jan Schakowsky]], Illinois
+|}
+
+Sources: {{USBill|115|HRes|6}} (Chair), {{USBill|115|HRes|7}} (Ranking Member), {{USBill|115|HRes|36}} (R), {{USBill|115|HRes|45}}, {{USBill|115|HRes|52}}, {{USBill|115|HRes|95}} (D), {{USBill|115|HRes|131}} (R)
+
+==Major legislation reported out of the committee==
+* [[2014 United States federal budget|U.S. House Fiscal Year 2014 Budget (H. Con. Res. 25; 113th Congress)]] - was reported out of the Budget Committee on March 15, 2013, and introduced by Committee Chairman Paul Ryan to the House floor. It passed the House on March 21, 2013, 221–207.
+
+==See also==
+* [[List of current United States House of Representatives committees]]
+
+==References==
+{{reflist}}
+
+==External links==
+{{commons category|United States House Committee on the Budget}}
+* [https://budget.house.gov House Budget Committee homepage] ([https://www.loc.gov/item/lcwa00hsbu00/ Archive])
+* [https://www.congress.gov/committee/house-budget/hsbu00 House Budget Committee]. Legislation activity and reports, Congress.gov.
+
+{{United States congressional committees}}
+
+[[Category:Committees of the United States House of Representatives|Budget]]
+[[Category:Economy of the United States]]
+[[Category:1974 establishments in Washington, D.C.]]
+[[Category:Organizations established in 1974]]

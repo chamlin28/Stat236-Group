@@ -1,0 +1,974 @@
+<title>Congress Is Non-binary</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@0;1&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap">
+<style>
+/* Layout: sticky masthead with page tabs; each page is one focused view. Home leads with the full-width tetrahedron. */
+:root{
+  --bg:#f5f6f9; --surface:#ffffff; --ink:#151b2c; --ink-2:#4a5266; --ink-3:#7a8296; --rule:#dde1ea; --tint:#eceff5;
+  --v1:#2c4fa3; --v2:#1f8f80; --v3:#c97d12; --v4:#b5302a; --accent:#6b3fa0;
+  --dem:#2c4fa3; --rep:#b5302a; --focus:#c97d12;
+  --display:"DM Serif Display", Georgia, "Times New Roman", serif;
+  --body:"IBM Plex Sans", system-ui, -apple-system, "Segoe UI", sans-serif;
+  --mono:"IBM Plex Mono", ui-monospace, Consolas, monospace;
+  color-scheme:light;
+}
+@media (prefers-color-scheme: dark){:root:not([data-theme="light"]){
+  --bg:#0f1320; --surface:#161b2b; --ink:#e7eaf2; --ink-2:#aab1c3; --ink-3:#7c849a; --rule:#2a3146; --tint:#1c2235;
+  --v1:#7c9cf0; --v2:#3fc1ad; --v3:#e9a645; --v4:#ec6a60; --dem:#7c9cf0; --rep:#ec6a60; --focus:#e9a645; --accent:#b394f0; color-scheme:dark}}
+:root[data-theme="dark"]{
+  --bg:#0f1320; --surface:#161b2b; --ink:#e7eaf2; --ink-2:#aab1c3; --ink-3:#7c849a; --rule:#2a3146; --tint:#1c2235;
+  --v1:#7c9cf0; --v2:#3fc1ad; --v3:#e9a645; --v4:#ec6a60; --dem:#7c9cf0; --rep:#ec6a60; --focus:#e9a645; --accent:#b394f0; color-scheme:dark}
+
+*{box-sizing:border-box}
+[hidden]{display:none!important}
+body{background:var(--bg);color:var(--ink);font:16px/1.6 var(--body);margin:0}
+body::before{content:"";position:fixed;inset:0 0 auto;height:env(safe-area-inset-top, 0px);z-index:10;background:var(--surface)}
+.gut{padding-left:max(16px, env(safe-area-inset-left, 0px));padding-right:max(16px, env(safe-area-inset-right, 0px))}
+.wide{max-width:1180px;margin-inline:auto}
+.col{max-width:68ch}
+h1,h2,h3{font-family:var(--display);font-weight:400;text-wrap:balance;line-height:1.1;margin:0}
+h1{font-size:clamp(2.2rem,5.5vw,3.6rem);letter-spacing:-.01em}
+h1 em{font-style:italic;color:var(--accent)}
+h2{font-size:clamp(1.6rem,3.4vw,2.2rem)}
+h3{font-size:1.3rem}
+p{margin:0}
+a{color:var(--v1)}
+:focus-visible{outline:2px solid var(--focus);outline-offset:2px}
+.eyebrow{font:500 .74rem/1 var(--mono);letter-spacing:.12em;text-transform:uppercase;color:var(--ink-3)}
+.mono{font-family:var(--mono)}
+.num{font-variant-numeric:tabular-nums}
+.stack{display:flex;flex-direction:column;gap:16px}
+.lede{font-size:1.1rem;color:var(--ink-2)}
+.muted{color:var(--ink-3)}
+.small{font-size:.86rem}
+.block{padding-block:40px;border-top:1px solid var(--rule)}
+
+/* masthead */
+.mast{position:sticky;top:env(safe-area-inset-top, 0px);z-index:9;background:var(--surface);border-bottom:1px solid var(--rule)}
+.mast .wide{display:flex;align-items:center;justify-content:space-between;gap:10px 24px;flex-wrap:wrap;padding-block:10px}
+.brand{font:400 1.25rem/1 var(--display);color:var(--ink);text-decoration:none;white-space:nowrap}
+.brand em{color:var(--accent)}
+nav ul{display:flex;gap:4px;list-style:none;margin:0;padding:0;flex-wrap:wrap}
+nav a{display:block;font:500 .88rem var(--body);color:var(--ink-2);text-decoration:none;padding:7px 12px;border-radius:6px}
+nav a:hover{background:var(--tint);color:var(--ink)}
+nav a[aria-current="page"]{background:var(--ink);color:var(--bg)}
+
+.page{padding-block:8px 24px}
+.pagehead{padding-block:36px 24px;display:flex;flex-direction:column;gap:12px}
+
+/* home intro */
+.intro{max-width:68ch;padding-block:32px 24px}
+.authors{font-family:var(--mono);font-size:.82rem;color:var(--ink-2)}
+.read{display:grid;gap:10px;font-size:.92rem;color:var(--ink-2);margin:0;padding:0;list-style:none}
+.read li{display:grid;grid-template-columns:22px 1fr;gap:8px;align-items:start}
+.read svg{margin-top:4px;color:var(--ink-3)}
+.info{position:absolute;left:12px;top:12px;z-index:3}
+.info button{width:30px;height:30px;border-radius:50%;border:1px solid var(--rule);background:var(--surface);color:var(--ink-2);font:italic 600 1rem/1 var(--display);cursor:pointer;padding:0}
+.info button:hover,.info.open button{border-color:var(--ink-3);color:var(--ink)}
+.infotip{display:none;position:absolute;left:0;top:38px;width:min(340px,calc(100vw - 56px));background:var(--surface);border:1px solid var(--rule);border-radius:6px;padding:14px 16px;box-shadow:0 6px 24px rgba(10,16,32,.14);flex-direction:column;gap:10px;font-size:.88rem;color:var(--ink-2)}
+.infotip>b:first-child{font:500 .72rem var(--mono);text-transform:uppercase;letter-spacing:.1em;color:var(--ink-3)}
+.info:hover .infotip,.info:focus-within .infotip,.info.open .infotip{display:flex}
+.chip .dot{width:9px;height:9px;border-radius:50%;display:inline-block}
+.gwrap{display:grid;grid-template-columns:minmax(0,340px) minmax(0,1fr);gap:16px;align-items:start}
+#member{scroll-margin-top:84px}
+#gcloud{width:100%;aspect-ratio:16/9;display:block}
+#fOptions{max-height:210px;overflow:auto}
+
+/* tetra */
+.controls{display:flex;flex-wrap:wrap;gap:8px;align-items:center}
+.toolbar{display:flex;flex-wrap:wrap;gap:10px 20px;align-items:center;justify-content:space-between}
+.chip{font:500 .8rem var(--body);padding:6px 11px;border-radius:999px;border:1px solid var(--rule);background:var(--surface);color:var(--ink);cursor:pointer;display:inline-flex;gap:6px;align-items:center}
+.chip:hover{border-color:var(--ink-3)}
+.chip[aria-pressed="true"]{background:var(--ink);color:var(--bg);border-color:var(--ink)}
+.chip .n{font:.72rem var(--mono);opacity:.7}
+.seg{display:inline-flex;border:1px solid var(--rule);border-radius:6px;overflow:hidden}
+.seg button{font:500 .8rem var(--body);padding:6px 12px;border:0;background:var(--surface);color:var(--ink-2);cursor:pointer}
+.seg button[aria-pressed="true"]{background:var(--ink);color:var(--bg)}
+.label{font:500 .72rem var(--mono);text-transform:uppercase;letter-spacing:.1em;color:var(--ink-3)}
+.stage{position:relative}
+#tetra{width:100%;height:640px;background:var(--surface);border:1px solid var(--rule);border-radius:4px}
+.zoom{position:absolute;right:12px;top:12px;display:flex;flex-direction:column;gap:4px}
+.zoom button{width:34px;height:34px;border-radius:6px;border:1px solid var(--rule);background:var(--surface);color:var(--ink);font:500 1rem var(--mono);cursor:pointer;display:grid;place-items:center;padding:0}
+.zoom button:hover{border-color:var(--ink-3)}
+.legend{position:absolute;left:14px;bottom:12px;display:flex;gap:12px;font:.76rem var(--mono);color:var(--ink-2);background:var(--surface);padding:4px 8px;border-radius:4px}
+.legend i{display:inline-block;width:9px;height:9px;border-radius:50%;margin-right:5px;vertical-align:-1px}
+.cstat{font-size:.9rem;color:var(--ink-2);min-height:1.4em}
+
+/* lookup */
+.lookup{display:grid;grid-template-columns:minmax(0,320px) minmax(0,1fr);gap:20px;align-items:start}
+.card{background:var(--surface);border:1px solid var(--rule);border-radius:4px;padding:18px;display:flex;flex-direction:column;gap:12px;min-width:0}
+.card h3{font-size:1.5rem}
+.who{font:.8rem var(--mono);color:var(--ink-2)}
+.pibar{display:flex;height:14px;border-radius:3px;overflow:hidden;gap:2px;background:var(--surface)}
+.pibar i{display:block;height:100%}
+.pirows{display:grid;grid-template-columns:auto 1fr auto;gap:4px 10px;font:.8rem var(--mono);align-items:center}
+.pirows .sw{width:10px;height:10px;border-radius:2px}
+.mrows{display:grid;gap:10px}
+.mrow{display:grid;grid-template-columns:92px minmax(0,1fr);gap:4px 12px;align-items:start}
+.mrow .label{padding-top:5px}
+.mgrid{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,1fr);gap:20px}
+.words{display:flex;flex-wrap:wrap;gap:6px}
+.words span{font:.8rem var(--mono);padding:3px 8px;border-radius:3px;background:var(--tint);color:var(--ink)}
+.words span b{font-weight:400;color:var(--ink-3);margin-left:4px}
+.hint{font-size:.8rem;color:var(--ink-3)}
+input[type=search],input[type=text]{font:inherit;font-size:.9rem;padding:8px 11px;border:1px solid var(--rule);border-radius:6px;background:var(--surface);color:var(--ink);min-width:0;width:100%}
+#searchList{max-height:260px;overflow:auto;display:flex;flex-direction:column}
+#searchList:empty{display:none}
+#searchList button{text-align:left;border:0;background:none;padding:6px 4px;font:inherit;font-size:.86rem;color:var(--ink);cursor:pointer;border-bottom:1px solid var(--rule)}
+#searchList button:hover{background:var(--tint)}
+.quick{display:flex;flex-wrap:wrap;gap:6px}
+
+/* community cards */
+.verts{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:12px}
+.vert{padding:14px;background:var(--surface);border:1px solid var(--rule);border-top:4px solid var(--c);border-radius:4px;display:flex;flex-direction:column;gap:8px;min-width:0}
+.vert .tag{font:500 .75rem var(--mono);color:var(--ink-3)}
+.vert h3{font-size:1.15rem}
+.vert .stats{font:.78rem/1.4 var(--mono);color:var(--ink-2)}
+.vert .near{font-size:.82rem;color:var(--ink-2)}
+.next{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:12px}
+.next a{display:flex;flex-direction:column;gap:6px;padding:16px;border:1px solid var(--rule);border-radius:4px;background:var(--surface);color:var(--ink);text-decoration:none}
+.next a:hover{border-color:var(--ink-3)}
+.next a span{font-size:.86rem;color:var(--ink-2)}
+.next a b{font:400 1.15rem var(--display)}
+.next a b::after{content:" →";color:var(--ink-3)}
+
+/* method */
+.toy{display:grid;grid-template-columns:auto 1fr;gap:6px 14px;align-items:center;font-family:var(--mono);font-size:.85rem;background:var(--surface);border:1px solid var(--rule);border-radius:4px;padding:16px;overflow-x:auto}
+.votes{display:flex;gap:4px}
+.vote{width:26px;height:26px;border-radius:3px;display:grid;place-items:center;font-size:.7rem;font-weight:500;cursor:pointer;border:1px solid var(--rule);background:var(--tint);color:var(--ink-2);user-select:none;padding:0}
+.vote.y{background:var(--accent);color:#fff;border-color:transparent}
+.vote.n{background:var(--ink-2);color:var(--bg);border-color:transparent}
+.vote.match{box-shadow:0 0 0 2px var(--focus)}
+.sres{grid-column:1/-1;border-top:1px dashed var(--rule);padding-top:10px;margin-top:4px;color:var(--ink)}
+.grid2{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:28px;align-items:start}
+.plot{width:100%;min-width:0}
+.cap{font-size:.85rem;color:var(--ink-3);margin-top:6px}
+.steps{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:16px;counter-reset:s}
+.step{background:var(--surface);border:1px solid var(--rule);border-radius:4px;padding:18px;display:flex;flex-direction:column;gap:8px;min-width:0}
+.step .eyebrow::before{counter-increment:s;content:"Step " counter(s) " · "}
+.step code,.fx{font-family:var(--mono);font-size:.82rem;color:var(--ink-2)}
+details{background:var(--surface);border:1px solid var(--rule);border-radius:4px;padding:12px 16px}
+details summary{cursor:pointer;font-weight:500}
+details .fx{display:block;margin-top:10px;line-height:1.8;overflow-x:auto;white-space:nowrap}
+.choices{display:flex;flex-direction:column;gap:18px}
+.choices div{display:flex;flex-direction:column;gap:4px}
+.choices b{font:400 1.15rem var(--display)}
+
+/* words */
+.clouds{display:grid;gap:16px;grid-template-columns:repeat(2,minmax(0,1fr))}
+.cloudbox{background:var(--surface);border:1px solid var(--rule);border-radius:4px;padding:12px 14px;display:flex;flex-direction:column;gap:6px;min-width:0}
+.cloudbox .head{display:flex;justify-content:space-between;gap:8px;align-items:baseline;flex-wrap:wrap}
+.cloudbox h3{font-size:1.1rem}
+.cloudbox canvas{width:100%;aspect-ratio:16/9;display:block}
+#tip{position:fixed;pointer-events:none;z-index:20;background:var(--ink);color:var(--bg);font:.78rem/1.45 var(--mono);padding:8px 10px;border-radius:4px;max-width:260px}
+
+/* caucuses */
+
+/* findings */
+.take{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:24px}
+.take div{display:flex;flex-direction:column;gap:6px}
+.take b{font-family:var(--display);font-weight:400;font-size:1.25rem}
+/* method + findings: story rows */
+.flow{list-style:none;margin:8px 0 0;padding:0;display:grid;grid-template-columns:repeat(5,minmax(0,1fr));gap:22px}
+.flow li{position:relative;background:var(--surface);border:1px solid var(--rule);border-radius:4px;padding:14px 16px;display:flex;flex-direction:column;gap:4px;min-width:0}
+.flow li:not(:last-child)::after{content:"→";position:absolute;right:-19px;top:50%;transform:translateY(-50%);color:var(--ink-3);font:1rem var(--mono)}
+.flow b{font:400 1.7rem/1.1 var(--display)}
+.flow span{font-size:.82rem;color:var(--ink-2);line-height:1.35}
+.story{display:grid;grid-template-columns:minmax(0,5fr) minmax(0,7fr);gap:24px 56px;padding-block:52px;border-top:1px solid var(--rule);align-items:start;margin-top:32px}
+.story:first-of-type{margin-top:24px}
+.stext{display:flex;flex-direction:column;gap:14px;position:sticky;top:96px;min-width:0}
+.svis{display:flex;flex-direction:column;gap:14px;min-width:0}
+.snum{font:400 3rem/1 var(--display);color:var(--accent)}
+.sbig{font:400 clamp(2.4rem,5vw,3.6rem)/1 var(--display);letter-spacing:-.01em}
+.slab{font:500 .74rem/1.4 var(--mono);letter-spacing:.06em;text-transform:uppercase;color:var(--ink-3)}
+.facts{list-style:none;margin:0;padding:0;display:grid;gap:8px;font-size:.9rem;color:var(--ink-2)}
+.facts li{display:grid;grid-template-columns:14px 1fr;gap:8px}
+.facts li::before{content:"";width:6px;height:6px;border-radius:50%;background:var(--accent);margin-top:.6em}
+.panel{background:var(--surface);border:1px solid var(--rule);border-radius:4px;padding:16px;min-width:0;display:flex;flex-direction:column;gap:10px}
+.panel>.label{margin-bottom:2px}
+.tiles{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:12px}
+.tile{display:flex;flex-direction:column;gap:4px}
+.tile b{font:400 1.9rem/1 var(--display)}
+.tile span{font:.72rem/1.3 var(--mono);color:var(--ink-3);text-transform:uppercase;letter-spacing:.06em}
+.chain{display:flex;align-items:center;gap:10px;flex-wrap:wrap;font-size:.86rem}
+.chain .node{background:var(--tint);border-radius:4px;padding:7px 11px}
+.chain i{font-style:normal;color:var(--ink-3)}
+.sub{display:grid;grid-template-columns:34px minmax(0,1fr);gap:4px 14px;padding-block:16px;border-top:1px solid var(--rule)}
+.sub:first-of-type{border-top:0;padding-top:0}
+.sub .n{width:28px;height:28px;border-radius:50%;background:var(--ink);color:var(--bg);display:grid;place-items:center;font:500 .8rem var(--mono)}
+.sub h3{font-size:1.2rem}
+.sub p{grid-column:2;font-size:.92rem;color:var(--ink-2)}
+.sub code{grid-column:2;font-family:var(--mono);font-size:.82rem;color:var(--ink);background:var(--tint);padding:6px 10px;border-radius:4px;overflow-x:auto;white-space:nowrap}
+.scale{height:10px;border-radius:5px;background:linear-gradient(90deg,var(--v1),var(--rule) 50%,var(--v4));margin-block:10px 6px}
+.scalelab{display:flex;justify-content:space-between;font:.78rem var(--mono);color:var(--ink-2)}
+.wcols{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:18px 14px}
+.wcol{border-top:3px solid var(--c);padding-top:10px;display:flex;flex-direction:column;gap:8px;min-width:0}
+.wcol h3{font-size:1rem}
+.quartet{display:flex;flex-wrap:wrap;gap:2px 16px;font:400 clamp(1.6rem,3.2vw,2.3rem)/1.15 var(--display)}
+.limits{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:14px 32px;margin:0;padding:0;list-style:none}
+.limits li{font-size:.9rem;color:var(--ink-2);padding-left:14px;border-left:3px solid var(--rule)}
+.wrapup{display:flex;flex-direction:column;gap:14px}
+@media (max-width:900px){
+  .flow{grid-template-columns:minmax(0,1fr);gap:26px}
+  .flow li:not(:last-child)::after{content:"↓";right:auto;left:50%;top:auto;bottom:-23px;transform:translateX(-50%)}
+  .story{grid-template-columns:minmax(0,1fr);gap:20px;padding-block:40px}
+  .stext{position:static}
+  .limits{grid-template-columns:minmax(0,1fr)}
+}
+@media (max-width:560px){.mrow{grid-template-columns:minmax(0,1fr)}.tiles{grid-template-columns:minmax(0,1fr)}.wcols{grid-template-columns:minmax(0,1fr)}}
+/* plain article sections (Method) and sub-subtitles (Findings) */
+.article{max-width:76ch}
+.article h2{font-size:clamp(1.7rem,3.2vw,2.2rem)}
+.article h3{font-size:1.25rem;margin-top:10px}
+.article ol.steps2{margin:0;padding-left:1.3em;display:flex;flex-direction:column;gap:10px}
+.fxblock{display:grid;gap:8px;background:var(--surface);border:1px solid var(--rule);border-radius:4px;padding:14px 16px;overflow-x:auto}
+.fxblock .fx{display:block;white-space:nowrap;margin:0}
+.subsub{font:400 1.25rem/1.3 var(--display);color:var(--ink-2)}
+.subsub b{font-weight:400;color:var(--ink)}
+footer{border-top:1px solid var(--rule);padding-block:28px 40px;font-size:.85rem;color:var(--ink-3)}
+footer ol{padding-left:1.2em;margin:8px 0 0}
+
+@media (max-width:900px){
+  .grid2,.lookup,.take,.mgrid,.gwrap{grid-template-columns:minmax(0,1fr)}
+  .verts{grid-template-columns:repeat(2,minmax(0,1fr))}
+  .steps,.next{grid-template-columns:minmax(0,1fr)}
+  #tetra{height:520px}
+}
+@media (max-width:560px){
+  .verts,.clouds{grid-template-columns:minmax(0,1fr)}
+  #tetra{height:420px}
+  .brand{font-size:1.1rem}
+  nav a{padding:6px 9px;font-size:.82rem}
+}
+@media (prefers-reduced-motion: reduce){*{transition:none!important;animation:none!important;scroll-behavior:auto!important}}
+</style>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/plotly.js/2.35.0/plotly.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/wordcloud2.js/1.2.2/wordcloud2.min.js"></script>
+
+<header class="mast gut">
+  <div class="wide">
+    <a class="brand" href="#home">Congress is <em>non-binary</em></a>
+    <nav aria-label="Pages"><ul>
+      <li><a href="#home">Home</a></li>
+      <li><a href="#method">Method</a></li>
+      <li><a href="#communities">Communities</a></li>
+      <li><a href="#words">Word explorer</a></li>
+      <li><a href="#findings">Findings</a></li>
+      <li><a href="#links">Links</a></li>
+    </ul></nav>
+  </div>
+</header>
+
+<main class="gut">
+
+<!-- ======================= HOME ======================= -->
+<div class="page wide" data-page="home">
+  <div class="intro">
+    <div class="stack">
+      <span class="eyebrow">STAT 236 · 118th U.S. House, 2023–2025</span>
+      <h1>Congress is <em>non-binary</em></h1>
+      <p class="lede">For each member of the 118th House we estimated a mix of four communities, using their final-passage votes and their floor speeches. Each dot below is one representative.</p>
+      <p class="authors">Cyrus Hamlin · Margaret Lee · Mateo Quintero</p>
+    </div>
+  </div>
+
+  <div class="stack">
+    <div class="stage">
+      <div class="info" id="info">
+        <button id="infoBtn" aria-label="How to read this graph" aria-describedby="infoTip">i</button>
+        <div class="infotip" id="infoTip" role="tooltip">
+          <b>How to read the shape</b>
+          <ul class="read">
+            <li><svg width="16" height="16" viewBox="0 0 16 16" aria-hidden="true"><path d="M8 1 15 14H1Z" fill="none" stroke="currentColor" stroke-width="1.4"/></svg><span>Each <b>corner</b> is a community: two Democratic (V1, V2) and two Republican (V3, V4).</span></li>
+            <li><svg width="16" height="16" viewBox="0 0 16 16" aria-hidden="true"><circle cx="8" cy="8" r="4" fill="currentColor"/></svg><span>Each <b>dot</b> is a representative. The closer it is to a corner, the more that member belongs to that community.</span></li>
+            <li><svg width="16" height="16" viewBox="0 0 16 16" aria-hidden="true"><circle cx="3" cy="8" r="2" fill="currentColor"/><circle cx="13" cy="8" r="2" fill="currentColor"/><circle cx="8" cy="8" r="2.4" fill="none" stroke="currentColor" stroke-width="1.4"/></svg><span>A dot <b>in between</b> is a blend. Only <b id="pureTxt">7.5%</b> of members sit at a corner.</span></li>
+          </ul>
+        </div>
+      </div>
+      <div id="tetra" role="img" aria-label="Rotatable 3D tetrahedron of member mixed memberships"></div>
+      <div class="zoom">
+        <button id="zIn" aria-label="Zoom in" title="Zoom in">+</button>
+        <button id="zOut" aria-label="Zoom out" title="Zoom out">−</button>
+        <button id="zReset" aria-label="Reset view" title="Reset view">⟲</button>
+      </div>
+      <div class="legend" id="legend"></div>
+    </div>
+    <p class="hint">Drag to spin. Ctrl (⌘ on Mac) and scroll, or the + and − buttons, to zoom. Click a dot for that member's words.</p>
+  </div>
+
+  <section class="filter stack" aria-label="Filter members" style="padding-top:28px">
+    <div class="controls">
+      <span class="label">Filter by</span>
+      <div class="seg" id="fType">
+        <button aria-pressed="true" data-v="none">Everyone</button>
+        <button aria-pressed="false" data-v="caucus">Caucus</button>
+        <button aria-pressed="false" data-v="vertex">Nearest community</button>
+        <button aria-pressed="false" data-v="committee">Committee</button>
+      </div>
+    </div>
+    <div class="controls" id="fOptions" hidden></div>
+    <p class="hint" id="fNote" hidden></p>
+    <p class="hint" id="fHint">Choose how to group members, then pick a group.</p>
+    <div class="gwrap" id="gwrap" hidden>
+      <div class="card" id="gsum"></div>
+      <div class="cloudbox">
+        <div class="head"><h3 id="gtitle"></h3><span class="small muted" id="gsub">words used more than everyone else</span></div>
+        <canvas id="gcloud"></canvas>
+        <p class="cap" id="gcap"></p>
+      </div>
+    </div>
+  </section>
+
+  <section class="block stack" aria-labelledby="lookupH" style="margin-top:24px">
+    <div class="stack col">
+      <h2 id="lookupH">Look up a representative</h2>
+      <p class="muted">Search by name or state, or click a dot above.</p>
+    </div>
+    <div class="lookup">
+      <div class="card">
+        <label class="label" for="search">Name or state</label>
+        <input type="search" id="search" placeholder="e.g. Chip Roy, Tlaib, CA" autocomplete="off">
+        <div id="searchList"></div>
+        <span class="label">Try</span>
+        <div class="quick" id="quick"></div>
+      </div>
+      <div class="card" id="member" aria-live="polite"></div>
+    </div>
+  </section>
+
+  <section class="block stack" aria-labelledby="deeperH">
+    <div class="stack col"><h2 id="deeperH">Keep exploring</h2></div>
+    <div class="next">
+      <a href="#communities"><b>The four communities</b><span>Who sits at each corner and which words set each community apart.</span></a>
+      <a href="#words"><b>Word explorer</b><span>Type any common floor word and see which community says it most.</span></a>
+      <a href="#method"><b>How we built it</b><span>From 360 roll calls and 20,000 floor speeches to a membership mix for every member.</span></a>
+    </div>
+  </section>
+</div>
+
+<!-- ======================= METHOD ======================= -->
+<div class="page wide" data-page="method" hidden>
+  <div class="pagehead col">
+    <span class="eyebrow">Method</span>
+    <h1>Data, model and words</h1>
+    <p class="lede">This page covers the data we used, the mixed-membership model we fit to it, and the way we pulled words out of the speeches.</p>
+  </div>
+
+  <section class="block stack article">
+    <h2>1. The data</h2>
+
+    <h3>Votes</h3>
+    <p>We used the <span id="mBills">360</span> final-passage roll calls on bills and joint resolutions in the 118th House, from Voteview. For each pair of members, the agreement weight is the share of the votes both cast, Yea or Nay, on which they voted the same way. Absences are ignored. Members who voted on fewer than half the bills, 180 of 360, were dropped, which leaves <span id="mMembers">428</span> of 445. Every pair keeps its weight, and nothing is thresholded. The result is the weighted matrix S.</p>
+    <div class="panel">
+      <span class="label">Click a vote to change it</span>
+      <div class="toy" id="toy" aria-label="Interactive example of the agreement weight between two members"></div>
+    </div>
+    <div class="panel">
+      <span class="label">The full matrix S, members sorted by strongest community</span>
+      <div class="plot" id="heat" style="aspect-ratio:1/1.02;max-width:500px;width:100%"></div>
+    </div>
+
+    <h3>Speeches</h3>
+    <p>Floor speeches come from the daily edition of the Congressional Record on GovInfo, with parsing code adapted from the boundaries-congress package (van der Does and Kolchinsky, 2021). We kept House speeches that carry a member identifier, run at least 250 characters and were given before 1 November 2024, so nothing said after the election is used. That leaves <span id="mSpeeches">20,513</span> speeches from members in the model.</p>
+    <p>Each member's speeches are embedded with a sentence model and reduced to five principal components. These enter the model as node covariates. Members with under 1,000 words after cleaning stay in the model through their votes, but they get no word list, which leaves <span id="mWords">373</span> members with word statistics.</p>
+
+    <h3>An outside check</h3>
+    <p>The left–right score on member cards and in the Findings is the first dimension of DW-NOMINATE, from the <span class="mono">nominate_dim1</span> column of Voteview's 118th-Congress member file. Voteview fits it to each member's votes over a whole career, so it does not depend on our 360 bills. We never feed it into the model.</p>
+  </section>
+
+  <section class="block stack article">
+    <h2>2. DCMM</h2>
+    <p>We model the House with a degree-corrected mixed-membership model. Member <i>i</i> has a membership vector π<sub>i</sub> over K communities, and the edge weights have expectation Ω<sub>ij</sub> = θ<sub>i</sub>θ<sub>j</sub> π<sub>i</sub><sup>⊤</sup> P π<sub>j</sub>. Since S<sub>ij</sub> is the frequency with which i and j vote alike, we treat S as a nearly noiseless estimate of Ω.</p>
+    <p>Estimation follows Mixed-SCORE (Jin, Ke and Luo), extended with node covariates as in Ji and Jin.</p>
+    <ol class="steps2">
+      <li><b>SCORE.</b> Take the top four eigenvectors of S, ordered by absolute eigenvalue, and divide the second through fourth by the first. The ratios R̂ cancel the degree parameters.</li>
+      <li><b>Covariates.</b> Standardise the five speech components and take the top four left singular vectors Ĥ. Rescale them so their total variability matches that of R̂ (the scale constant is 13.9), and stack the two blocks as Z = [R̂, τĤ] with τ = τ₀ · 13.9 and τ₀ = 1.</li>
+      <li><b>Vertex search.</b> Run k-means with 10K = 40 centres, then apply the successive projection algorithm to the centres to find the four corners v̂<sub>1</sub>, …, v̂<sub>4</sub>.</li>
+      <li><b>Memberships.</b> Write each row of Z as a convex combination of the corners by constrained least squares. Divide the weights by b̂<sub>1</sub>(k) to account for degree, then normalise each member's weights to sum to one.</li>
+    </ol>
+    <div class="fxblock">
+      <span class="fx">R̂ = [ξ̂₂/ξ̂₁, ξ̂₃/ξ̂₁, ξ̂₄/ξ̂₁]</span>
+      <span class="fx">ŵ<sub>i</sub> = argmin<sub>w ≥ 0, Σw = 1</sub> ‖z<sub>i</sub> − Σ<sub>k</sub> w<sub>k</sub> v̂<sub>k</sub>‖²</span>
+      <span class="fx">b̂<sub>1</sub>(k) = [λ̂<sub>1</sub> + v̂<sub>k</sub><sup>R⊤</sup> diag(λ̂<sub>2</sub>,…,λ̂<sub>K</sub>) v̂<sub>k</sub><sup>R</sup>]<sup>−1/2</sup>, &nbsp; π̂<sub>i</sub>*(k) = ŵ<sub>i</sub>(k)/b̂<sub>1</sub>(k), &nbsp; π̂<sub>i</sub> = π̂<sub>i</sub>*/‖π̂<sub>i</sub>*‖₁</span>
+    </div>
+
+    <h3>Choices</h3>
+    <p><b>K.</b> The scree plot of S has a large gap after the second eigenvalue, which is the party split. The third and fourth, 7.0 and 2.7, are small but well above the noise bulk, so we used K = 4. K = 3 is defensible too. We ran no formal test, because SgnQ needs a binary graph.</p>
+    <p><b>τ₀.</b> The speech block gets the same total spread as the vote block. That is a tuning choice, and the corners move when it changes.</p>
+    <p><b>The vote cutoff.</b> Members with few shared votes have noisy agreement weights, so we required at least half the bills.</p>
+    <div class="panel">
+      <span class="label">Eigenvalues of S by absolute size</span>
+      <div class="plot" id="scree" style="height:300px"></div>
+    </div>
+  </section>
+
+  <section class="block stack article">
+    <h2>3. Obtaining the words</h2>
+    <p>Each member's House floor speeches (no Extensions of Remarks, at least 250 characters, before 1 November 2024) are joined into one document. We count single words, and in the phrase version also two-word phrases, that at least 10 members use. English stop words, floor procedure terms such as "yield" and "gentleman", and state names are removed. Members with under 1,000 words after cleaning are left out of the word analysis, and the remaining members' counts are rescaled to the median document length, so a member who speaks often still counts once.</p>
+    <p>Community counts are weighted by membership. The count for community <i>k</i> is the sum over members of π<sub>ik</sub> times member <i>i</i>'s counts. To find the words that set a community apart, we compare it with everyone else using the weighted log-odds ratio with an informative Dirichlet prior (Monroe, Colaresi and Quinn, 2008), and keep words with z above 1.96. A word is dropped if a single member supplies more than 40% of a group's use of it. We also compare the two largest communities inside each party, which removes the plain Democrat-versus-Republican difference.</p>
+    <p>The lists on member cards use the same test, with the member as one group and the rest of the House as the other, and a word must appear at least three times in the member's speeches. The number beside each word is the member's rate per word spoken divided by the rest of the House's rate. Caucus, committee and nearest-community word clouds compare the group with everyone else in the same way, with member surnames removed and, for committees, the words in the committee's name.</p>
+    <p>One caveat. Speech also helped build the communities, so some of the vocabulary differences are built in.</p>
+  </section>
+</div>
+
+<!-- ======================= COMMUNITIES ======================= -->
+<div class="page wide" data-page="communities" hidden>
+  <div class="pagehead col">
+    <span class="eyebrow">Communities</span>
+    <h1>The four communities</h1>
+    <p class="lede">The model finds four corners. The names are our reading of who sits closest to each one, and the word statistics follow the method described on the Method page.</p>
+  </div>
+
+  <section class="block stack">
+    <div class="verts" id="verts"></div>
+  </section>
+
+  <section class="block stack">
+    <div class="stack col">
+      <h2>Word usage by community</h2>
+    </div>
+    <div class="controls">
+      <div class="seg" id="contrastSeg">
+        <button aria-pressed="true" data-v="rest">Each vs. the rest</button>
+        <button aria-pressed="false" data-v="D">Within Democrats</button>
+        <button aria-pressed="false" data-v="R">Within Republicans</button>
+      </div>
+      <div class="seg" id="kindSeg">
+        <button aria-pressed="true" data-v="words">Single words</button>
+        <button aria-pressed="false" data-v="phrases">With phrases</button>
+      </div>
+    </div>
+    <div class="clouds" id="clouds"></div>
+    <p class="cap" id="cloudCap"></p>
+  </section>
+
+</div>
+
+<!-- ======================= WORD EXPLORER ======================= -->
+<div class="page wide" data-page="words" hidden>
+  <div class="pagehead col">
+    <span class="eyebrow">Word explorer</span>
+    <h1>Look up a word</h1>
+    <p class="lede">Type any of the 3,000 most common words on the House floor to see how often each community uses it, per 10,000 words.</p>
+  </div>
+
+  <section class="block stack">
+    <div class="grid2">
+      <div class="stack">
+        <label class="label" for="wordIn">Word</label>
+        <input type="text" id="wordIn" list="wordList" value="border" autocomplete="off">
+        <datalist id="wordList"></datalist>
+        <span class="label">Try</span>
+        <div class="controls" id="wordChips"></div>
+      </div>
+      <div class="plot" id="wordbar" style="height:300px"></div>
+    </div>
+  </section>
+</div>
+
+<!-- ======================= FINDINGS ======================= -->
+<div class="page wide" data-page="findings" hidden>
+  <div class="pagehead col">
+    <span class="eyebrow">Findings</span>
+    <h1>Results of the four-community fit</h1>
+    <p class="lede">This page covers what the K = 4 fit to the 118th House shows: how mixed the memberships are, how the two parties divide, how the communities differ in vocabulary, and how the fit compares with a single left–right score.</p>
+  </div>
+
+  <section class="story">
+    <div class="stext">
+      <h2>Membership weights</h2>
+      <p class="subsub"><b id="f1big"></b> of members sit at a corner, with more than 90% of their weight on one community</p>
+      <p id="f1p"></p>
+    </div>
+    <div class="svis">
+      <div class="panel">
+        <span class="label">Members by share of weight on their strongest community</span>
+        <div class="plot" id="fc1" style="height:300px"></div>
+      </div>
+    </div>
+  </section>
+
+  <section class="story">
+    <div class="stext">
+      <h2>Party and community</h2>
+      <p id="f2p"></p>
+    </div>
+    <div class="svis">
+      <div class="panel">
+        <span class="label">Members by party and strongest community</span>
+        <div class="plot" id="fc2" style="height:210px"></div>
+        <p class="cap">V1 and V2 are the Democratic communities, V3 and V4 the Republican ones.</p>
+      </div>
+    </div>
+  </section>
+
+  <section class="story">
+    <div class="stext">
+      <h2>Vocabulary</h2>
+      <p>Words each community uses more than everyone else, from the same test as the Communities page. Comparing inside a party removes the ordinary Democrat-versus-Republican difference, and a split inside each party remains.</p>
+      <p><a href="#communities">See the word clouds →</a> &nbsp; <a href="#words">Try the word explorer →</a></p>
+    </div>
+    <div class="svis">
+      <div class="panel">
+        <span class="label">Words each community uses more than everyone else</span>
+        <div class="wcols" id="fc3"></div>
+      </div>
+    </div>
+  </section>
+
+  <section class="story">
+    <div class="stext">
+      <h2>The left–right line</h2>
+      <p id="f4p"></p>
+    </div>
+    <div class="svis">
+      <div class="panel">
+        <span class="label">Members on the left–right line, grouped by strongest community</span>
+        <div class="plot" id="nomline" style="height:280px"></div>
+        <p class="cap">Left–right scores from Voteview. One dot per member.</p>
+      </div>
+    </div>
+  </section>
+
+  <section class="block stack article">
+    <h2>Summary</h2>
+    <p>The four communities separate the House more finely than party does. Most members carry weight on more than one community, each party divides into two, and a single left–right score separates the parties but does not separate the two Democratic communities from each other.</p>
+    <p class="small muted">This covers one Congress, the 118th House. The communities summarise its votes and speeches, and the names are ours.</p>
+  </section>
+
+  <section class="block stack">
+    <h2>Limitations</h2>
+    <ul class="limits">
+      <li>Four communities is a judgment call. The scree plot supports three or four, and we ran no formal test.</li>
+      <li>Giving votes and speech equal weight (τ₀ = 1) is our choice, and the corners move when it changes.</li>
+      <li>Speech helps define the communities and also describes them, so some of the word differences are built in.</li>
+      <li>Floor speech is uneven. 55 of 428 members have under 1,000 words after cleaning and get no word list, and tributes to constituents put some local names into member word lists.</li>
+      <li>The community names are ours. The model produces only V1 through V4.</li>
+    </ul>
+  </section>
+</div>
+
+<!-- ======================= LINKS ======================= -->
+<div class="page wide" data-page="links" hidden>
+  <div class="pagehead col">
+    <span class="eyebrow">Links</span>
+    <h1>Code and report</h1>
+  </div>
+  <section class="block stack">
+    <div class="next">
+      <a href="https://github.com/chamlin28/Stat236-Group" target="_blank" rel="noopener"><b>Code on GitHub</b><span>The data pipeline, the Mixed-SCORE fit, the word statistics and the source for this site.</span></a>
+      <a href="report.pdf" target="_blank" rel="noopener"><b>The report</b><span>The full STAT 236 write-up of the method and results.</span></a>
+    </div>
+  </section>
+</div>
+
+<footer class="wide">
+  <p><b>Congress is Non-binary: A Mixed Membership Exploration of the 118th Congress.</b> Cyrus Hamlin, Margaret Lee, Mateo Quintero · STAT 236, Harvard, Fall 2026 · Code: <a href="https://github.com/chamlin28/Stat236-Group" target="_blank" rel="noopener">github.com/chamlin28/Stat236-Group</a></p>
+  <ol>
+    <li>Jin, Ke &amp; Luo. Mixed membership estimation for social networks (Mixed-SCORE).</li>
+    <li>Ji &amp; Jin. Community detection with node covariates (embedding [R, τH]).</li>
+    <li>Monroe, Colaresi &amp; Quinn (2008). Fightin' Words. <i>Political Analysis</i>.</li>
+    <li>Lewis et al. Voteview (voteview.com): roll-call votes and DW-NOMINATE scores (Poole &amp; Rosenthal). Congressional Record via GovInfo; parsing adapted from van der Does &amp; Kolchinsky (2021).</li>
+  </ol>
+</footer>
+</main>
+<div id="tip" hidden></div>
+
+<script id="data" type="application/json">__DATA__</script>
+<script>
+(function(){
+const D = JSON.parse(document.getElementById('data').textContent);
+const M = D.members, meta = D.meta;
+const $ = s => document.querySelector(s);
+const css = v => getComputedStyle(document.documentElement).getPropertyValue(v).trim();
+const VN = ["Progressive Democrats","Pragmatic Democrats","Governing Republicans","Freedom-wing Republicans"];
+const VC = () => [css('--v1'),css('--v2'),css('--v3'),css('--v4')];
+const partyC = p => p==='D'?css('--dem'):p==='R'?css('--rep'):css('--ink-3');
+const dom = m => m.pi.indexOf(Math.max(...m.pi));
+const fmt = (x,d=0) => (x*100).toFixed(d)+'%';
+const esc = s => String(s).replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+const CAUC_ORDER = ["Squad","Progressive Caucus","Congressional Black Caucus","Congressional Hispanic Caucus","Equality Caucus","New Democrats","Blue Dogs","Problem Solvers","Tuesday Group","Main Street","Republican Governance Group","Western Caucus","Republican Study Committee","Freedom Caucus"];
+const CAUC_DATA = Object.keys(((D.groups||{}).caucus)||{});
+const CAUC = [...CAUC_ORDER.filter(c=>CAUC_DATA.includes(c)), ...CAUC_DATA.filter(c=>!CAUC_ORDER.includes(c)).sort()];
+const caucMembers = c => M.filter(m=>m.c.includes(c));
+const meanPi = arr => [0,1,2,3].map(k=>arr.reduce((s,m)=>s+m.pi[k],0)/Math.max(arr.length,1));
+const tip = $('#tip');
+function showTip(html,x,y){tip.innerHTML=html;tip.hidden=false;const w=tip.offsetWidth,h=tip.offsetHeight;
+  tip.style.left=Math.min(x+14,innerWidth-w-8)+'px';tip.style.top=Math.max(8,Math.min(y+14,innerHeight-h-8))+'px';}
+function hideTip(){tip.hidden=true}
+function seg(id,cb){$(id).addEventListener('click',e=>{const b=e.target.closest('button');if(!b)return;
+  $(id).querySelectorAll('button').forEach(x=>x.setAttribute('aria-pressed',x===b));cb(b.dataset.v)})}
+
+/* geometry: V1 top-left, V2 bottom-left, V3 bottom-right, V4 top-right (same view as the report figure) */
+const VT = [[-1,1,-1],[-1,-1,1],[1,-1,-1],[1,1,1]];
+const pos3 = pi => [0,1,2].map(j=>pi.reduce((s,w,k)=>s+w*VT[k][j],0));
+const proj = p => [p[0]+p[2]*.25, p[1]+p[2]*.15];
+
+const baseLayout = () => ({paper_bgcolor:'rgba(0,0,0,0)',plot_bgcolor:'rgba(0,0,0,0)',font:{family:'IBM Plex Sans, system-ui, sans-serif',color:css('--ink-2'),size:12},
+  margin:{l:48,r:12,t:10,b:40},hoverlabel:{bgcolor:css('--ink'),font:{color:css('--bg'),family:'IBM Plex Mono, monospace',size:12},bordercolor:css('--ink')}});
+const axis = extra => Object.assign({gridcolor:css('--rule'),zerolinecolor:css('--rule'),linecolor:css('--rule'),tickfont:{color:css('--ink-3')}},extra||{});
+const cfg = {displayModeBar:false,responsive:true};
+
+/* ================= HOME ================= */
+$('#pureTxt').textContent = fmt(meta.pure_share,1);
+let pinned=null, current=null, ringIdx=-1;
+// 3D view: plot z is 'up' (Plotly's turntable spins about z), so map the report's (x, y, depth) to (x, -depth, y)
+const T3 = v => [v[0], -v[2], v[1]];
+const EYE0={x:0.25,y:-1.75,z:0.33}, ZMIN=1.4, ZMAX=2.6;      // zoom limits = camera distance from the centre
+const UP={x:0,y:0,z:1};
+let cam={eye:{...EYE0},up:{...UP},center:{x:0,y:0,z:0}};
+const norm=e=>Math.hypot(e.x,e.y,e.z);
+function clampEye(e,target){const n=norm(e), t=Math.min(ZMAX,Math.max(ZMIN,target==null?n:target));return {x:e.x*t/n,y:e.y*t/n,z:e.z*t/n}}
+
+function memberCard(m){
+  const vc=VC();
+  if(!m){ $('#member').innerHTML=`<p class="hint">Hover a dot in the tetrahedron, or search for a member.</p>`; return; }
+  const w=(m.w&&m.w.words)||[];
+  $('#member').innerHTML=`<div style="display:flex;justify-content:space-between;gap:12px;align-items:flex-start;flex-wrap:wrap">
+     <div><span class="label">${pinned===m?'Pinned':'Showing'}</span><h3>${esc(m.n)}</h3>
+     <span class="who">${m.p==='D'?'Democrat':m.p==='R'?'Republican':'Independent'} · ${m.s}${m.d?'-'+m.d:''} · left–right score ${m.nom!=null?(m.nom>0?'+':'')+m.nom.toFixed(2):'n/a'} · ${m.sp} floor speeches</span></div>
+     </div>
+   <div class="mrows">
+     <div class="mrow"><span class="label">Caucuses</span>${m.c.length?`<div class="words">${m.c.map(c=>`<span>${esc(c)}</span>`).join('')}</div>`:'<span class="hint">None of the caucuses we track</span>'}</div>
+     <div class="mrow"><span class="label">Committees</span>${(m.k||[]).length?`<div class="words">${m.k.map(c=>`<span>${esc(c)}</span>`).join('')}</div>`:'<span class="hint">None listed</span>'}</div>
+   </div>
+   <div class="mgrid">
+    <div class="stack" style="gap:10px"><span class="label">Membership mix</span>
+     <div class="pibar" aria-hidden="true">${m.pi.map((p,k)=>p>0.004?`<i style="width:${p*100}%;background:${vc[k]}"></i>`:'').join('')}</div>
+     <div class="pirows num">${m.pi.map((p,k)=>`<span class="sw" style="background:${vc[k]}"></span><span>V${k+1} ${VN[k]}</span><span>${fmt(p)}</span>`).join('')}</div></div>
+    <div class="stack" style="gap:10px"><span class="label">Says more than the rest of the House</span>
+     ${w.length?`<div class="words">${w.slice(0,14).map(x=>{const q=x[2]/Math.max(x[3],0.05);
+         return `<span title="${esc(x[0])}: ${x[2]} per 10,000 words for ${esc(m.n)} vs ${x[3]} for the rest of the House (z = ${x[1]})">${esc(x[0])}<b>${q>=10?Math.round(q):q.toFixed(1)}×</b></span>`}).join('')}</div>
+       <p class="hint">The number is how many times more often ${esc(m.n.split(' ')[0])} says the word than the rest of the House does, per word spoken. Words are ranked by how reliable the gap is, not by size alone. Hover a word for the exact rates.</p>`
+     :`<p class="hint">Too little floor speech (under 1,000 words after cleaning) to score words.</p>`}</div>
+   </div>`;
+}
+function legend(){
+  $('#legend').innerHTML=`<span><i style="background:${css('--dem')}"></i>Democrat</span><span><i style="background:${css('--rep')}"></i>Republican</span>`;
+}
+function drawTetra(){
+  const vc=VC(), ink=css('--ink-3'), VT3=VT.map(T3);
+  const edges=[[0,1],[1,2],[2,3],[3,0],[0,2],[1,3]];
+  const ex=[],ey=[],ez=[]; edges.forEach(([a,b])=>{ex.push(VT3[a][0],VT3[b][0],null);ey.push(VT3[a][1],VT3[b][1],null);ez.push(VT3[a][2],VT3[b][2],null)});
+  const gm=groupMembers(), hi = gm ? new Set(gm.map(m=>m.b)) : null;
+  const P=M.map(m=>T3(pos3(m.pi)));
+  const col=M.map(m=>partyC(m.p));
+  const mk=(idx,opa,size)=>({type:'scatter3d',mode:'markers',x:idx.map(i=>P[i][0]),y:idx.map(i=>P[i][1]),z:idx.map(i=>P[i][2]),
+    customdata:idx,text:idx.map(i=>`${M[i].n} (${M[i].p}-${M[i].s})`),hovertemplate:'%{text}<extra></extra>',
+    marker:{size,color:idx.map(i=>col[i]),opacity:opa,line:{width:0}}});
+  const all=M.map((_,i)=>i);
+  const traces=[{type:'scatter3d',mode:'lines',x:ex,y:ey,z:ez,line:{color:ink,width:2},hoverinfo:'skip'},
+    {type:'scatter3d',mode:'text',x:VT3.map(v=>v[0]*1.06),y:VT3.map(v=>v[1]*1.06),z:VT3.map(v=>v[2]*1.06),textposition:['top center','bottom center','bottom center','top center'],
+      text:VN.map((n,k)=>`<b>V${k+1}</b> ${n}`),textfont:{color:vc,size:13,family:'IBM Plex Sans, Segoe UI, Arial, sans-serif'},hoverinfo:'skip'}];
+  if(hi){
+    traces.push(mk(all.filter(i=>!hi.has(M[i].b)),.12,3));
+    traces.push(mk(all.filter(i=>hi.has(M[i].b)),.95,6));
+    const mp=T3(pos3(meanPi(gm)));
+    traces.push({type:'scatter3d',mode:'markers+text',x:[mp[0]],y:[mp[1]],z:[mp[2]],text:['group average'],textposition:'top center',
+      textfont:{color:css('--ink'),size:11,family:'IBM Plex Sans, Segoe UI, Arial, sans-serif'},marker:{size:9,symbol:'diamond',color:css('--focus'),line:{color:css('--surface'),width:2}},hoverinfo:'skip'});
+  } else traces.push(mk(all,.8,4));
+  const rp=pinned?T3(pos3(pinned.pi)):null;
+  ringIdx=traces.length;
+  traces.push({type:'scatter3d',mode:'markers',x:rp?[rp[0]]:[],y:rp?[rp[1]]:[],z:rp?[rp[2]]:[],hoverinfo:'skip',
+    marker:{size:12,color:'rgba(0,0,0,0)',line:{color:css('--ink'),width:3}}});
+  const ax={visible:false,showspikes:false};
+  Plotly.react('tetra',traces,Object.assign(baseLayout(),{margin:{l:0,r:0,t:0,b:0},showlegend:false,uirevision:'keep',
+    scene:{xaxis:ax,yaxis:ax,zaxis:ax,aspectmode:'cube',dragmode:'turntable',camera:cam}}),Object.assign({},cfg,{scrollZoom:false}));
+  const el=$('#tetra');
+  if(!el._wired){el._wired=true;
+    el.on('plotly_hover',e=>{const p=e.points[0];if(p.customdata==null)return;if(!pinned)memberCard(M[p.customdata])});
+    el.on('plotly_click',e=>{const p=e.points[0];if(!p||p.customdata==null)return;const i=p.customdata;
+      setTimeout(()=>{try{pick(M[i])}catch(err){console.error(err)}jumpToMember()},0)});
+    let lastLost=0;
+    el.on('plotly_webglcontextlost',()=>{const now=Date.now();if(now-lastLost<4000)return;lastLost=now;
+      Plotly.purge(el);el._wired=false;setTimeout(drawTetra,250)});
+    let fixing=false;
+    el.on('plotly_relayout',ev=>{                                   // enforce the zoom limits after any drag or pinch
+      const c=ev['scene.camera']; if(!c||fixing) return;
+      cam=JSON.parse(JSON.stringify(c)); const n=norm(cam.eye);
+      if(n<ZMIN-1e-6||n>ZMAX+1e-6){fixing=true;cam.eye=clampEye(cam.eye);
+        Plotly.relayout(el,{'scene.camera':cam}).then(()=>{fixing=false});}
+    });
+  }
+  legend();
+  renderSummary();
+}
+let zoomPending=1, zoomRaf=0;
+function zoomBy(f){
+  zoomPending*=f;
+  if(zoomRaf) return;
+  zoomRaf=requestAnimationFrame(()=>{zoomRaf=0;const k=zoomPending;zoomPending=1;
+    cam.eye=clampEye(cam.eye,norm(cam.eye)*k);Plotly.relayout('tetra',{'scene.camera':cam})});
+}
+/* Wheel over the graph scrolls the page. Ctrl (or Cmd) + wheel zooms the graph instead, within the same limits. */
+$('#tetra').parentElement.addEventListener('wheel',e=>{
+  e.stopPropagation();                                  // keep Plotly from taking the wheel
+  if(!(e.ctrlKey||e.metaKey)) return;                   // plain wheel: let the browser scroll the page
+  e.preventDefault();                                   // also stops the browser's own page zoom
+  zoomBy(Math.exp(Math.max(-60,Math.min(60,e.deltaY))*0.0035));
+},{passive:false,capture:true});
+$('#infoBtn').onclick=()=>$('#info').classList.toggle('open');
+$('#zIn').onclick=()=>zoomBy(.82); $('#zOut').onclick=()=>zoomBy(1.22);
+$('#zReset').onclick=()=>{cam={eye:{...EYE0},up:{...UP},center:{x:0,y:0,z:0}};Plotly.relayout('tetra',{'scene.camera':cam})};
+/* ---- filter: pick how to group members, then which group ---- */
+const byB=Object.fromEntries(M.map(m=>[m.b,m]));
+const G=D.groups||{caucus:{},vertex:{},committee:{}};
+const FTYPES={caucus:'Caucus',vertex:'Nearest community',committee:'Committee'};
+let filter={type:'none',key:null};
+function groupMembers(){
+  if(filter.type==='none'||!filter.key) return null;
+  const ids=(G[filter.type]||{})[filter.key];
+  return ids?ids.map(b=>byB[b]).filter(Boolean):null;
+}
+function filterOptions(){
+  if(filter.type==='caucus') return CAUC.filter(c=>G.caucus[c]).map(c=>({key:c,label:c,n:G.caucus[c].length}));
+  if(filter.type==='vertex') return [0,1,2,3].map(k=>({key:'V'+(k+1),label:`V${k+1} ${VN[k]}`,n:(G.vertex['V'+(k+1)]||[]).length,color:VC()[k]}));
+  if(filter.type==='committee') return Object.keys(G.committee).sort().map(c=>({key:c,label:c,n:G.committee[c].length}));
+  return [];
+}
+function renderFilterUI(){
+  document.querySelectorAll('#fType button').forEach(b=>b.setAttribute('aria-pressed',b.dataset.v===filter.type));
+  const box=$('#fOptions'), opts=filterOptions();
+  box.hidden=filter.type==='none';
+  const note=$('#fNote'), NOTES={
+    caucus:'Rosters are 2024 Wikipedia snapshots and official caucus sites, matched to members by name and state.',
+    committee:'Rosters are 2024 Wikipedia snapshots. Members who served under a year are left out.',
+    vertex:'Each member is assigned to the community with their largest weight.'};
+  note.hidden=filter.type==='none'; note.textContent=NOTES[filter.type]||'';
+  if(filter.type!=='none') box.innerHTML=`<span class="label">${FTYPES[filter.type]}</span>`+(opts.length?opts.map(o=>
+    `<button class="chip" data-k="${esc(o.key)}" aria-pressed="${o.key===filter.key}">${o.color?`<i class="dot" style="background:${o.color}"></i>`:''}${esc(o.label)}<span class="n">${o.n}</span></button>`).join('')
+    :'<span class="hint">No data loaded for this filter.</span>');
+}
+function setFilter(type,key){filter={type,key:key||null};renderFilterUI();if(current==='home')drawTetra();}
+seg('#fType',v=>setFilter(v,null));
+$('#fOptions').addEventListener('click',e=>{const b=e.target.closest('.chip');if(!b)return;
+  setFilter(filter.type,filter.key===b.dataset.k?null:b.dataset.k)});
+function everyoneWords(){
+  const list=Object.entries(D.explorer).map(([w,r])=>[w,r[4],r[4],0]).sort((a,b)=>b[1]-a[1]).slice(0,80);
+  return {nw:meta.n_with_words,pos:list};
+}
+function renderSummary(){
+  const all=filter.type==='none', gm=all?M:groupMembers(), vc=VC();
+  $('#gwrap').hidden=!gm; $('#fHint').hidden=!!gm;
+  $('#fHint').textContent=`Pick a ${filter.type==='vertex'?'community':filter.type} above to highlight it in the graph.`;
+  if(!gm) return;
+  const mp=meanPi(gm), k=mp.indexOf(Math.max(...mp)), nD=gm.filter(m=>m.p==='D').length, nR=gm.filter(m=>m.p==='R').length;
+  const label=all?'Everyone':filter.type==='vertex'?`V${+filter.key.slice(1)} ${VN[+filter.key.slice(1)-1]}`:filter.key;
+  const gw=all?everyoneWords():(D.group_words||{})[filter.type+'|'+filter.key];
+  const col=all?css('--ink-2'):vc[k];
+  $('#gsum').innerHTML=`<span class="label">${all?'The whole House':FTYPES[filter.type]}</span><h3>${esc(label)}</h3>
+    <span class="who">${gm.length} members · ${nD} D · ${nR} R${nD+nR<gm.length?' · '+(gm.length-nD-nR)+' other':''}${gw?` · ${gw.nw} with word statistics`:''}</span>
+    <span class="label">Average membership mix</span>
+    <div class="pibar" aria-hidden="true">${mp.map((p,j)=>p>.004?`<i style="width:${p*100}%;background:${vc[j]}"></i>`:'').join('')}</div>
+    <div class="pirows num">${mp.map((p,j)=>`<span class="sw" style="background:${vc[j]}"></span><span>V${j+1} ${VN[j]}</span><span>${fmt(p)}</span>`).join('')}</div>
+    <p class="hint">${all?'All members in the model.':`The diamond in the graph marks the group's average position.`}</p>`;
+  $('#gtitle').textContent=all?'Most-used words in the House':label; $('#gtitle').style.color=col;
+  $('#gsub').textContent=all?'most frequent words on the floor':'words used more than everyone else';
+  const cv=$('#gcloud'), cap=$('#gcap');
+  if(!gw||!gw.pos.length){cv.width=cv.width; cap.textContent='Too few members with enough floor speech (at least 1,000 words after cleaning) for a word cloud.'; return}
+  if(all){
+    cap.textContent=`Most frequent words in 118th House floor speeches, per 10,000 words. Procedural words, filler words and state names are removed.`;
+    renderCloud(cv,gw.pos,col,'the House','',x=>`<b>${esc(x[0])}</b><br>${x[1]} per 10k words across the House`);
+    return;
+  }
+  cap.textContent=`Fightin' Words z > 1.96, ${gw.nw} members against everyone else. Member surnames${filter.type==='committee'?' and the committee name':''} are left out.`;
+  renderCloud(cv,gw.pos,col,'this group','everyone else');
+}
+function moveRing(){
+  const rp=pinned?T3(pos3(pinned.pi)):null;
+  try{Plotly.restyle('tetra',{x:[rp?[rp[0]]:[]],y:[rp?[rp[1]]:[]],z:[rp?[rp[2]]:[]]},[ringIdx])}catch(err){}
+}
+function pin(m){if(!m)return;pinned=m;memberCard(m);moveRing()}
+function jumpToMember(){
+  const el=$('#member'), reduce=matchMedia('(prefers-reduced-motion: reduce)').matches;
+  const target=()=>Math.max(0,el.getBoundingClientRect().top+window.scrollY-84);
+  el.scrollIntoView({behavior:reduce?'auto':'smooth',block:'start'});
+  setTimeout(()=>{if(Math.abs(window.scrollY-target())>8)window.scrollTo(0,target())},900);   // finish the jump if the smooth scroll was interrupted
+}
+function pick(m){                                        // used by the suggestion list and the quick picks
+  if(!m)return;
+  $('#search').value=m.n;                                // text snaps to the chosen member
+  $('#searchList').innerHTML='';                         // closes the list (empty list is hidden)
+  pin(m);
+}
+$('#search').addEventListener('input',e=>{const q=e.target.value.trim().toLowerCase();
+  const hits=q.length<2?[]:M.filter(m=>m.n.toLowerCase().includes(q)||(m.s||'').toLowerCase()===q).slice(0,40);
+  $('#searchList').innerHTML=hits.map(m=>`<button data-b="${m.b}">${esc(m.n)} <span class="muted small">${m.p}-${m.s}${m.d?'-'+m.d:''}</span></button>`).join('')
+    || (q.length>=2?'<p class="hint">No member matches. Members with fewer than 180 votes are not in the model.</p>':'');});
+$('#search').addEventListener('keydown',e=>{
+  if(e.key==='Escape'){$('#searchList').innerHTML='';return}
+  if(e.key==='Enter'){const b=$('#searchList button');if(b){e.preventDefault();pick(M.find(m=>m.b===b.dataset.b))}}
+});
+$('#searchList').addEventListener('click',e=>{const b=e.target.closest('button');if(b)pick(M.find(m=>m.b===b.dataset.b))});
+const QUICK=['Chip Roy','Rashida Tlaib','Hakeem Jeffries','Henry Cuellar','Brian Fitzpatrick','Thomas Massie'];
+$('#quick').innerHTML=QUICK.map(n=>M.find(m=>m.n===n)).filter(Boolean).map(m=>`<button class="chip" data-b="${m.b}">${esc(m.n)}</button>`).join('');
+$('#quick').addEventListener('click',e=>{const b=e.target.closest('.chip');if(b)pick(M.find(m=>m.b===b.dataset.b))});
+
+function drawVerts(){
+  const W=D.words.words;
+  $('#verts').innerHTML = D.vertices.map((v,k)=>`<div class="vert" style="--c:var(--v${k+1})"><span class="tag">V${k+1} · ${Math.round(v.mass)} effective members</span>
+    <h3>${VN[k]}</h3><span class="stats num">${fmt(v.d_share)} Democratic · left–right score ${v.nom>0?'+':''}${v.nom.toFixed(2)}</span>
+    <span class="near">Closest: ${v.nearest.slice(0,4).map(esc).join(', ')}</span>
+    <div class="words">${W['V'+(k+1)].pos.slice(0,6).map(x=>`<span>${esc(x[0])}</span>`).join('')}</div></div>`).join('');
+}
+
+/* ================= METHOD ================= */
+(function toy(){
+  const A=['y','y','n','y','a','n','y','y'], B=['y','n','n','y','y','n','a','y'];
+  const el=$('#toy'); const cyc={y:'n',n:'a',a:'y'}, lab={y:'Y',n:'N',a:'–'};
+  function render(){
+    let x=0,y=0; A.forEach((a,i)=>{const b=B[i]; if(a!=='a'&&b!=='a'){a===b?x++:y++}});
+    const row=(arr,name)=>`<span>${name}</span><div class="votes">${arr.map((v,i)=>{const both=A[i]!=='a'&&B[i]!=='a'&&A[i]===B[i];
+      return `<button class="vote ${v==='y'?'y':v==='n'?'n':''} ${both?'match':''}" data-r="${name}" data-i="${i}" aria-label="${name} bill ${i+1}: ${lab[v]}">${lab[v]}</button>`}).join('')}</div>`;
+    el.innerHTML=row(A,'Member i')+row(B,'Member j')+`<div class="sres">Same vote on <b>x = ${x}</b>, different on <b>y = ${y}</b> &nbsp;→&nbsp; S<sub>ij</sub> = x/(x+y) = <b>${(x/Math.max(x+y,1)).toFixed(2)}</b></div>`;
+  }
+  el.addEventListener('click',e=>{const b=e.target.closest('.vote');if(!b)return;const arr=b.dataset.r==='Member i'?A:B;arr[b.dataset.i]=cyc[arr[b.dataset.i]];render()});
+  render();
+})();
+function drawScree(){
+  const s=D.scree.slice(0,12);
+  Plotly.react('scree',[{type:'bar',x:s.map((_,i)=>'λ'+(i+1)),y:s.map(Math.abs),marker:{color:s.map((_,i)=>i<4?css('--v1'):css('--ink-3')),line:{width:0}},
+    text:s.map((v,i)=>i<4?v.toFixed(1):''),textposition:'outside',textfont:{color:css('--ink-2'),family:'IBM Plex Mono'},cliponaxis:false,
+    hovertemplate:'%{x}: |λ| = %{y:.2f}<extra></extra>'}],
+    Object.assign(baseLayout(),{yaxis:axis({type:'log',title:{text:'|eigenvalue| (log)',font:{size:11}}}),xaxis:axis({showgrid:false}),bargap:.35}),cfg);
+}
+function drawHeat(){
+  const z=D.heat.z, n=z.length;
+  const shapes=D.heat.bounds.map(b=>[{type:'line',x0:b-.5,x1:b-.5,y0:-.5,y1:n-.5},{type:'line',y0:b-.5,y1:b-.5,x0:-.5,x1:n-.5}]).flat()
+    .map(s=>Object.assign(s,{line:{color:css('--focus'),width:1,dash:'dot'}}));
+  const ends=[0,...D.heat.bounds,n], ann=[];
+  for(let k=0;k<4;k++) ann.push({x:(ends[k]+ends[k+1])/2,y:n+2,yref:'y',text:'V'+(k+1),showarrow:false,yanchor:'top',font:{color:VC()[k],family:'IBM Plex Mono'}});
+  Plotly.react('heat',[{type:'heatmap',z,zmin:40,zmax:100,colorscale:[[0,css('--surface')],[.5,css('--accent')],[1,css('--ink')]],
+    colorbar:{thickness:10,len:.6,title:{text:'agree %',side:'right',font:{size:11}},tickfont:{color:css('--ink-3')}},hovertemplate:'agreement %{z}%<extra></extra>'}],
+    Object.assign(baseLayout(),{margin:{l:10,r:10,t:10,b:30},xaxis:{visible:false},yaxis:{visible:false,autorange:'reversed',scaleanchor:'x'},shapes,annotations:ann}),cfg);
+}
+
+/* ================= WORDS ================= */
+let contrast='rest', kind='words';
+function cloudSpecs(){
+  const W=D.words[kind];
+  if(contrast==='rest') return [0,1,2,3].map(k=>({k,title:`V${k+1} ${VN[k]}`,sub:'vs. everyone else',list:W['V'+(k+1)].pos,la:`V${k+1}`,lb:'rest'}));
+  if(contrast==='D') return [{k:0,title:'V1 Progressive Democrats',sub:'vs. V2, Democrats only',list:W.D_V1_vs_V2.pos,la:'V1',lb:'V2'},
+                             {k:1,title:'V2 Pragmatic Democrats',sub:'vs. V1, Democrats only',list:W.D_V1_vs_V2.neg,la:'V2',lb:'V1'}];
+  return [{k:2,title:'V3 Governing Republicans',sub:'vs. V4, Republicans only',list:W.R_V3_vs_V4.pos,la:'V3',lb:'V4'},
+          {k:3,title:'V4 Freedom-wing Republicans',sub:'vs. V3, Republicans only',list:W.R_V3_vs_V4.neg,la:'V4',lb:'V3'}];
+}
+function drawClouds(){
+  const specs=cloudSpecs(), vc=VC(), box=$('#clouds');
+  box.innerHTML=specs.map((s,i)=>`<div class="cloudbox"><div class="head"><h3 style="color:${vc[s.k]}">${s.title}</h3><span class="small muted">${s.sub}</span></div><canvas id="cl${i}"></canvas></div>`).join('');
+  $('#cloudCap').textContent = contrast==='rest'
+    ? 'Words with z > 1.96 against all other members, weighted by membership.'
+    : 'Comparison within one party, which removes the Democrat-versus-Republican difference.';
+  specs.forEach((s,i)=>renderCloud(document.getElementById('cl'+i),s.list,vc[s.k],s.la,s.lb));
+}
+function renderCloud(cv,all,color,la,lb,tipFn){
+  const r=cv.getBoundingClientRect(), dpr=Math.min(devicePixelRatio||1,2);
+  if(r.width<10) return;
+  cv.width=Math.round(r.width*dpr); cv.height=Math.round(r.height*dpr);
+  const list=all.slice(0,55); if(!list.length) return;
+  const zmax=list[0][1], zmin=list[list.length-1][1];
+  const big=Math.round(Math.max(24,Math.min(r.width/8.5,r.height/4.6))*dpr), small=Math.round(10*dpr);
+  const lookup=Object.fromEntries(list.map(x=>[x[0],x]));
+  WordCloud(cv,{list:list.map(x=>[x[0],x[1]]),gridSize:Math.round(6*dpr),
+    weightFactor:z=>Math.round(small+(big-small)*Math.sqrt(Math.max(0,z-zmin)/Math.max(zmax-zmin,1e-6))),
+    fontFamily:'IBM Plex Sans, system-ui, sans-serif',fontWeight:600,color:()=>color,backgroundColor:'rgba(0,0,0,0)',
+    rotateRatio:0,shuffle:false,drawOutOfBound:false,shrinkToFit:false,
+    hover:(item,dim,ev)=>{if(!item){hideTip();return}const x=lookup[item[0]];
+      showTip(tipFn?tipFn(x):`<b>${esc(x[0])}</b><br>z = ${x[1]}<br>${x[2]} per 10k words in ${esc(la)}<br>${x[3]} per 10k in ${esc(lb)}`,ev.clientX,ev.clientY)}});
+  cv.onmouseleave=hideTip;
+}
+seg('#contrastSeg',v=>{contrast=v;drawClouds()}); seg('#kindSeg',v=>{kind=v;drawClouds()});
+const EX=D.explorer;
+$('#wordList').innerHTML=Object.keys(EX).sort().map(w=>`<option value="${w}">`).join('');
+const PRESET=['border','climate','gun','spending','china','water','abortion','veterans','inflation','energy'];
+$('#wordChips').innerHTML=PRESET.filter(w=>EX[w]).map(w=>`<button class="chip" data-w="${w}" aria-pressed="false">${w}</button>`).join('');
+function drawWord(){
+  const w=$('#wordIn').value.trim().toLowerCase(), r=EX[w], vc=VC();
+  document.querySelectorAll('#wordChips .chip').forEach(b=>b.setAttribute('aria-pressed',b.dataset.w===w));
+  if(!r){Plotly.react('wordbar',[],Object.assign(baseLayout(),{xaxis:{visible:false},yaxis:{visible:false},
+    annotations:[{text:w?`“${esc(w)}” is not among the 3,000 most common words.`:'Type a word.',showarrow:false,font:{color:css('--ink-3')}}]}),cfg);return}
+  Plotly.react('wordbar',[{type:'bar',orientation:'h',y:VN.map((n,k)=>`V${k+1} ${n}`),x:r.slice(0,4),marker:{color:vc,line:{width:0}},
+    text:r.slice(0,4).map(v=>v.toFixed(1)),textposition:'outside',textfont:{family:'IBM Plex Mono',color:css('--ink-2')},cliponaxis:false,
+    hovertemplate:'%{y}: %{x:.2f} per 10k words<extra></extra>'}],
+    Object.assign(baseLayout(),{margin:{l:170,r:40,t:18,b:40},bargap:.35,
+      xaxis:axis({title:{text:`“${w}” per 10,000 words`,font:{size:11}},rangemode:'tozero'}),yaxis:axis({autorange:'reversed',showgrid:false}),
+      shapes:[{type:'line',x0:r[4],x1:r[4],yref:'paper',y0:0,y1:1,line:{color:css('--ink-3'),dash:'dot',width:1}}],
+      annotations:[{x:r[4],yref:'paper',y:1.07,text:'House average',showarrow:false,font:{size:10,color:css('--ink-3')},xanchor:'left'}]}),cfg);
+}
+$('#wordIn').addEventListener('input',drawWord);
+$('#wordChips').addEventListener('click',e=>{const b=e.target.closest('.chip');if(!b)return;$('#wordIn').value=b.dataset.w;drawWord()});
+
+/* ================= FINDINGS ================= */
+function median(a){const s=[...a].sort((x,y)=>x-y),n=s.length;return n?(n%2?s[(n-1)/2]:(s[n/2-1]+s[n/2])/2):0}
+function fillMethod(){
+  const setT=(id,v)=>{const e=document.getElementById(id);if(e)e.textContent=v};
+  setT('mBills',meta.n_bills); setT('mMembers',meta.n_members);
+  setT('mSpeeches',meta.n_speeches.toLocaleString()); setT('mWords',meta.n_with_words);
+}
+function drawFindings(){
+  const vc=VC(), N=M.length, W=D.words.words, set=(id,h)=>{const e=document.getElementById(id);if(e)e.innerHTML=h};
+  const cnt=(party,k)=>M.filter(m=>m.p===party&&dom(m)===k).length;
+  const nD=M.filter(m=>m.p==='D').length, nR=M.filter(m=>m.p==='R').length;
+  const ink=css('--ink-2'), surf=css('--surface');
+
+  /* membership weights */
+  const mx=M.map(m=>Math.max(...m.pi)), mixed=mx.filter(v=>v<.6).length;
+  set('f1big',fmt(meta.pure_share,1));
+  set('f1p',`${mixed} of ${N} members have no community above 60%. The typical member puts ${fmt(median(mx))} of their weight on the strongest one, well short of the 100% a pure member would show.`);
+  const edges=[.25,.4,.5,.6,.7,.8,.9,1.0001], lab=['25–40%','40–50%','50–60%','60–70%','70–80%','80–90%','90–100%'];
+  const hc=lab.map((_,i)=>mx.filter(v=>v>=edges[i]&&v<edges[i+1]).length);
+  Plotly.react('fc1',[{type:'bar',x:lab,y:hc,marker:{color:ink,line:{width:0}},text:hc.map(String),textposition:'outside',
+    textfont:{family:'IBM Plex Mono',color:css('--ink-2')},cliponaxis:false,hovertemplate:'%{x} on their strongest community: %{y} members<extra></extra>'}],
+    Object.assign(baseLayout(),{margin:{l:48,r:12,t:22,b:44},bargap:.3,yaxis:axis({title:{text:'members',font:{size:11}},rangemode:'tozero'}),xaxis:axis({showgrid:false,title:{text:'weight on strongest community',font:{size:11}}})}),cfg);
+
+  /* party and community */
+  const dDem=cnt('D',0)+cnt('D',1), rRep=cnt('R',2)+cnt('R',3);
+  set('f2p',`Of the ${nD} Democrats, ${cnt('D',0)} lead with the progressive community (V1) and ${cnt('D',1)} with the pragmatic one (V2). Of the ${nR} Republicans, ${cnt('R',2)} lead with the governing wing (V3) and ${cnt('R',3)} with the Freedom-wing corner (V4). ${nD-dDem} Democrats and ${nR-rRep} Republicans lead with a community from the other party.`);
+  Plotly.react('fc2',[0,1,2,3].map(k=>({type:'bar',orientation:'h',name:`V${k+1} ${VN[k]}`,y:[`Democrats (${nD})`,`Republicans (${nR})`],x:[cnt('D',k),cnt('R',k)],
+    marker:{color:vc[k],line:{color:surf,width:2}},text:[cnt('D',k),cnt('R',k)].map(v=>v>=8?String(v):''),textposition:'inside',insidetextanchor:'middle',
+    textfont:{family:'IBM Plex Mono',color:css('--bg')},hovertemplate:'%{y}: %{x} members with V'+(k+1)+' strongest<extra></extra>'})),
+    Object.assign(baseLayout(),{barmode:'stack',showlegend:true,legend:{orientation:'h',y:1.28,font:{size:11},traceorder:'normal'},margin:{l:130,r:12,t:44,b:34},
+      yaxis:axis({autorange:'reversed',showgrid:false}),xaxis:axis({title:{text:'members',font:{size:11}}}),bargap:.35}),cfg);
+
+  /* vocabulary */
+  set('fc3',[0,1,2,3].map(k=>`<div class="wcol" style="--c:${vc[k]}"><h3 style="color:${vc[k]}">V${k+1} ${VN[k]}</h3>
+    <div class="words">${W['V'+(k+1)].pos.slice(0,8).map(x=>`<span>${esc(x[0])}</span>`).join('')}</div></div>`).join(''));
+
+  /* left-right line */
+  set('f4p',`The left–right score places every member on one line from −1 to +1. On that line the two Democratic communities overlap across most of their range, and a few Democrats have a Republican community as their strongest. The tetrahedron separates the two Democratic communities in a way the single line does not, because they differ in whom they vote with and what they talk about.`);
+  drawNom();
+}
+function drawNom(){
+  const vc=VC(), tr=[];
+  for(let k=0;k<4;k++){const ms=M.filter(m=>dom(m)===k&&m.nom!=null);
+    tr.push({type:'scatter',mode:'markers',name:`V${k+1} ${VN[k]}`,x:ms.map(m=>m.nom),y:ms.map(m=>3-k+(Math.sin(m.b.charCodeAt(1)*9.1+m.b.charCodeAt(4)*3.7)*.28)),
+      text:ms.map(m=>`${m.n} (${m.p}-${m.s})`),hovertemplate:'%{text}<br>left–right score %{x:.2f}<extra></extra>',
+      marker:{color:vc[k],size:7,opacity:.75,line:{color:css('--surface'),width:1}}});}
+  Plotly.react('nomline',tr,Object.assign(baseLayout(),{showlegend:true,legend:{orientation:'h',y:1.15,font:{size:12}},margin:{l:12,r:12,t:30,b:44},
+    xaxis:axis({title:{text:'Left–right score (DW-NOMINATE dimension 1): liberal ← → conservative',font:{size:11}},zeroline:true}),yaxis:{visible:false,range:[-.6,3.6]}}),cfg);
+}
+
+/* ================= ROUTER (one page visible at a time; charts draw when their page is shown) ================= */
+const startMember=M.find(m=>m.n==='Chip Roy')||M[0];
+const PAGES={home:()=>{renderFilterUI();drawTetra();memberCard(pinned||startMember)},
+  method:()=>{fillMethod();drawHeat();drawScree()}, communities:()=>{drawVerts();drawClouds()}, words:drawWord, findings:drawFindings, links:()=>{}};
+function route(){
+  const name=(location.hash||'#home').slice(1);
+  const page=PAGES[name]?name:'home';
+  document.querySelectorAll('[data-page]').forEach(p=>{p.hidden=p.dataset.page!==page});
+  document.querySelectorAll('nav a').forEach(a=>{if(a.getAttribute('href')==='#'+page)a.setAttribute('aria-current','page');else a.removeAttribute('aria-current')});
+  const changed=current!==page; current=page;
+  PAGES[page]();
+  if(changed) window.scrollTo(0,0);
+}
+addEventListener('hashchange',route);
+route();
+let rt; addEventListener('resize',()=>{clearTimeout(rt);rt=setTimeout(()=>{if(current==='communities')drawClouds();if(current==='home')renderSummary()},250)});
+const redraw=()=>PAGES[current]&&PAGES[current]();
+new MutationObserver(redraw).observe(document.documentElement,{attributes:true,attributeFilter:['data-theme']});
+matchMedia('(prefers-color-scheme: dark)').addEventListener('change',redraw);
+})();
+</script>

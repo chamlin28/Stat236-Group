@@ -1,0 +1,393 @@
+{{Short description|Standing committee of the United States House of Representatives}}
+{{Infobox U.S. congressional committee
+| name               = House Science, Space, and Technology Committee
+| type               = standing
+| chamber            = house
+| congress           = 118th
+| status             = active
+| formed             = January 3, 1959
+| chair              = [[Frank Lucas (Oklahoma politician)|Frank Lucas]]
+| chair_party        = R
+| chair_since        = January 9, 2023
+| ranking_member     = [[Zoe Lofgren]]
+| rm_party           = D
+| rm_since           = January 3, 2023
+| vice_chair         = Vacant
+| vc_party           = 
+| vc_since           = 
+| seats              = 40
+| majority1          = R
+| majority1_seats    = 22
+| minority1          = D
+| minority1_seats    = 18
+| policy_areas       = 
+| oversight          = [[NASA]], [[National Science Foundation|NSF]], [[National Institute of Standards and Technology|NIST]], [[White House Office of Science and Technology Policy]]
+| counterpart        = 
+| subcommittees      = 
+| meeting_place      = 
+| meeting_image      = 
+| meeting_img_size   = 
+| website            = {{url|science.house.gov}}
+}}
+{{United States House of Representatives}}
+The '''Committee on Science, Space, and Technology''' is a [[standing committee|committee]] of the [[United States House of Representatives]]. It has jurisdiction over non-defense federal scientific [[research]] and development. More specifically, the committee has complete jurisdiction over the following federal agencies: [[NASA]], [[National Science Foundation|NSF]], [[National Institute of Standards and Technology|NIST]], and the [[White House Office of Science and Technology Policy|OSTP]]. The committee also has authority over R&D activities at the [[United States Department of Energy|Department of Energy]], the [[United States Environmental Protection Agency|EPA]], [[Federal Aviation Administration|FAA]], [[National Oceanic and Atmospheric Administration|NOAA]], the [[United States Department of Transportation|DOT]], the [[National Weather Service|NWS]], the [[Department of Homeland Security|DHS]] and the [[U.S. Fire Administration]].<ref>{{cite web |url=https://science.house.gov/about/history-and-jurisdiction |title=History and Jurisdiction|publisher=House Committee on Science, Space and Technology|access-date=January 20, 2019}}</ref>
+
+== History ==
+In the wake of the [[Soviet Union|Soviet]] [[Sputnik program]] in the late 1950s, Congress created the '''Select Committee on Astronautics and Space Exploration''' on 05 March 1958, chaired by majority leader [[John William McCormack]]. This select committee drafted the [[National Aeronautics and Space Act]] that created the [[NASA|National Aeronautics and Space Administration]] (NASA). A staff report of the committee, the ''Space Handbook: Astronautics and its Applications'', provided non-technical information about spaceflight to U.S. policy makers.<ref name=nasa/>
+
+The committee also chartered the permanent '''House Committee on Science and Astronautics''', which officially began on January 3, 1959, and was the first new standing committee established in the House since 1946. The name was changed in 1974 to the '''House Committee on Science and Technology'''. The name was changed again in 1987 to the '''House Committee on Science, Space and Technology'''. After the [[United States Republican Party|Republican Party]] gained a majority in Congress in 1994, the name of the committee was changed to the '''House Committee on Science'''. With the return of control to the [[United States Democratic Party|Democrats]] in 2007, the committee's name was changed back to the '''House Committee on Science and Technology'''.
+
+During the 112th Congress, which was in session from 2011-2013, Committee Chairman Ralph Hall added "Space" back into the committee's name: "The Committee on Science, Space, and Technology" – a nod to the committee's history, broad jurisdiction, and the importance of space exploration in maintaining American innovation and competitiveness.<ref name=history/>
+
+== Members, 118th Congress ==
+{| class=wikitable
+! Majority
+! Minority
+|-
+
+| {{party shading/Republican}} valign=top |
+* [[Frank Lucas (Oklahoma politician)|Frank Lucas]], Oklahoma, ''Chair''
+* [[Bill Posey]], Florida 
+* [[Randy Weber]], Texas
+* [[Brian Babin]], Texas
+* [[Jim Baird (American politician)|Jim Baird]], Indiana
+* [[Daniel Webster (Florida politician)|Daniel Webster]], Florida
+* [[Mike Garcia (politician)|Mike Garcia]], California
+* [[Stephanie Bice]], Oklahoma
+* [[Jay Obernolte]], California
+* [[Chuck Fleischmann]], Tennessee
+* [[Darrell Issa]], California
+* [[Rick Crawford (politician)|Rick Crawford]], Arkansas
+* [[Claudia Tenney]], New York
+* [[Ryan Zinke]], Montana
+* [[Scott Franklin (politician)|Scott Franklin]], Florida
+* [[Dale Strong]], Alabama
+* [[Max Miller (politician)|Max Miller]], Ohio
+* [[Rich McCormick]], Georgia
+* [[Mike Collins (politician)|Mike Collins]], Georgia
+* [[Brandon Williams (politician)|Brandon Williams]], New York
+* [[Thomas Kean Jr.]], New Jersey
+* [[Greg Lopez]], Colorado (from July 8, 2024)
+* [[Vince Fong]], California (from June 3, 2024)
+
+| {{party shading/Democratic}} valign=top |
+* [[Zoe Lofgren]], California, ''Ranking Member''
+* [[Suzanne Bonamici]], Oregon
+* [[Haley Stevens]], Michigan
+* [[Jamaal Bowman]], New York
+* [[Deborah K. Ross]], North Carolina
+* [[Eric Sorensen (politician)|Eric Sorensen]], Illinois
+* [[Andrea Salinas]], Oregon
+* [[Valerie Foushee]], North Carolina
+* [[Kevin Mullin]], California
+* [[Jeff Jackson (politician)|Jeff Jackson]], North Carolina
+* [[Emilia Sykes]], Ohio
+* [[Maxwell Frost]], Florida
+* [[Yadira Caraveo]], Colorado
+* [[Summer Lee]], Pennsylvania 
+* [[Jennifer McClellan]], Virginia
+* [[Gabe Amo]], Rhode Island (from December 13, 2023)
+* [[Ted Lieu]], California
+* [[Sean Casten]], Illinois
+* [[Paul Tonko]], New York
+|}
+Resolutions electing members: {{USBill|118|HRes|14}} (Chair), {{USBill|118|HRes|15}} (Ranking Member), {{USBill|118|HRes|80}} (R), {{USBill|118|HRes|87}} (D), {{USBill|118|HRes|164}} (D), {{USBill|118|HRes|179}} (R), {{USBill|118|HRes|205}} (D), {{USBill|118|HRes|931}} (D)
+
+== Subcommittees ==
+{| class="wikitable"
+! Subcommittee
+! Chair<ref>{{Cite web |date=2023-02-09 |title=Lucas Announces Subcommittee Rosters and Leadership |url=https://science.house.gov/2023/2/lucas-announces-subcommittee-rosters-and-leadership |access-date=2023-02-17 |website=House Committee on Science Space & Tech - Republicans |language=en}}</ref>
+! Ranking Member<ref>{{Cite web |title=Ranking Member Lofgren Announces Organization of Science Committee Democrats {{!}} House Committee on Science, Space and Technology |url=https://democrats-science.house.gov/news/press-releases/ranking-member-lofgren-announces-organization-of-science-committee-democrats |access-date=2023-02-17 |website=democrats-science.house.gov |language=en}}</ref>
+|-
+| [[United States House Science Subcommittee on Energy|Energy]]
+| [[Brandon Williams (politician)|Brandon Williams]] (R-NY)
+| [[Jamaal Bowman]] (D-NY)
+|-
+| [[United States House Science Subcommittee on Environment|Environment]]
+| [[Max Miller (politician)|Max Miller]] (R-OH)
+| [[Deborah K. Ross|Deborah Ross]] (D-NC)
+|-
+| [[United States House Science Subcommittee on Investigations and Oversight|Investigations and Oversight]]
+| [[Mike Collins (politician)|Mike Collins]] (R-GA)
+| [[Valerie Foushee]] (D-NC)
+|-
+| [[United States House Science Subcommittee on Research and Technology|Research and Technology]]
+| [[Jay Obernolte]] (R-CA)
+| [[Haley Stevens]] (D-MI)
+|-
+| [[United States House Science Subcommittee on Space and Aeronautics|Space and Aeronautics]]
+| [[Brian Babin]] (R-TX)
+| [[Eric Sorensen (politician)|Eric Sorensen]] (D-IL)
+|}
+
+== Committee chairs, 1959–present ==
+Chairmen since 1959<ref name=history/>
+* [[Overton Brooks]] (LA), 1959–1961
+* [[George P. Miller]] (CA), 1961–1973
+* [[Olin E. Teague]] (TX), 1973–1978
+* [[Don Fuqua]] (FL), 1979–1987
+* [[Robert A. Roe]] (NJ), 1987–1991
+* [[George Brown, Jr.]] (CA), 1991–1995
+* [[Robert Smith Walker]] (PA), 1995–1997
+* [[Jim Sensenbrenner]] (WI), 1997–2001
+* [[Sherwood Boehlert]] (NY), 2001–2007
+* [[Bart Gordon]] (TN), 2007–2011
+* [[Ralph Hall]] (TX), 2011–2013
+* [[Lamar S. Smith]] (TX), 2013–2019
+* [[Eddie Bernice Johnson]] (TX), 2019–2023
+* [[Frank Lucas (Oklahoma politician)|Frank Lucas]] (OK), 2023–present
+
+==Historical membership rosters==
+===117th Congress===
+{| class=wikitable
+! Majority
+! Minority
+|- joe mama.
+
+| {{party shading/Democratic}} valign=top |
+* [[Eddie Bernice Johnson]], Texas, ''Chair''
+* [[Zoe Lofgren]], California
+* [[Suzanne Bonamici]], Oregon
+* [[Ami Bera]], California
+* [[Haley Stevens]], Michigan, ''Vice Chair''<ref name="subcommittees">{{Cite web|title=House Committee on Science, Space and Technology Subcommittees|url=https://science.house.gov/subcommittees|archive-url=|archive-date=|access-date=January 26, 2021|website=House Committee on Science, Space and Technology}}</ref>
+* [[Mikie Sherrill]], New Jersey
+* [[Jamaal Bowman]], New York
+* [[Melanie Stansbury]], New Mexico (since June 15, 2021)
+* [[Brad Sherman]], California
+* [[Ed Perlmutter]], Colorado
+* [[Jerry McNerney]], California
+* [[Paul Tonko]], New York
+* [[Bill Foster (politician)|Bill Foster]], Illinois
+* [[Donald Norcross]], New Jersey
+* [[Don Beyer]], Virginia
+* [[Charlie Crist]], Florida
+* [[Sean Casten]], Illinois
+* [[Conor Lamb]], Pennsylvania
+* [[Deborah K. Ross]], North Carolina
+* [[Gwen Moore]], Wisconsin
+* [[Dan Kildee]], Michigan
+* [[Susan Wild]], Pennsylvania
+* [[Lizzie Fletcher]], Texas
+
+| {{party shading/Republican}} valign=top |
+* [[Frank Lucas (Oklahoma politician)|Frank Lucas]], Oklahoma, ''Ranking Member''
+* [[Mo Brooks]], Alabama
+* [[Bill Posey]], Florida 
+* [[Randy Weber]], Texas
+* [[Brian Babin]], Texas
+* [[Anthony Gonzalez (politician)|Anthony Gonzalez]], Ohio
+* [[Michael Waltz]], Florida
+* [[Jim Baird (American politician)|Jim Baird]], Indiana
+* [[Pete Sessions]], Texas
+* [[Daniel Webster (Florida politician)|Daniel Webster]], Florida
+* [[Mike Garcia (politician)|Mike Garcia]], California
+* [[Stephanie Bice]], Oklahoma
+* [[Young Kim]], California
+* [[Randy Feenstra]], Iowa
+* [[Jake LaTurner]], Kansas
+* [[Carlos A. Giménez|Carlos Giménez]], Florida
+* [[Jay Obernolte]], California
+* [[Peter Meijer]], Michigan
+* [[Jake Ellzey]], Texas (since August 24, 2021)
+* [[Mike Carey (politician)|Mike Carey]], Ohio (since December 1, 2021)
+|}
+Resolutions electing members: {{USBill|117|HRes|9}} (Chair), {{USBill|117|HRes|10}} (Ranking Member), {{USBill|117|HRes|62}} (D), {{USBill|117|HRes|63}} (R), {{USBill|117|HRes|111}} (D), {{USBill|117|HRes|475}} (D), {{USBill|117|HRes|602}} (R), {{USBill|117|HRes|826}} (R)
+
+;Subcommittees
+{| class="wikitable"
+! Subcommittee
+! Chair<ref>[https://science.house.gov/news/press-releases/house-science-space-and-technology-committee-democratic-caucus-organizes-for-the-117th-congress HOUSE SCIENCE, SPACE, AND TECHNOLOGY COMMITTEE DEMOCRATIC CAUCUS ORGANIZES FOR THE 117TH CONGRESS]</ref>
+! Ranking Member<ref>[https://republicans-science.house.gov/news/press-releases/lucas-announces-republican-science-committee-leaders Lucas Announces Republican Science Committee Leaders]</ref>
+|-
+| [[United States House Science Subcommittee on Energy|Energy]]
+| [[Jamaal Bowman]] (D-NY)
+| [[Randy Weber]] (R-TX)
+|-
+| [[United States House Science Subcommittee on Environment|Environment]]
+| [[Mikie Sherrill]] (D-NJ)
+| [[Stephanie Bice]] (R-OK)
+|-
+| [[United States House Science Subcommittee on Investigations and Oversight|Investigations and Oversight]]
+| [[Bill Foster (politician)|Bill Foster]] (D-IL)
+| [[Jay Obernolte]] (R-CA)
+|-
+| [[United States House Science Subcommittee on Research and Technology|Research and Technology]]
+| [[Haley Stevens]] (D-MI)
+| [[Michael Waltz]] (R-FL)
+|-
+| [[United States House Science Subcommittee on Space and Aeronautics|Space and Aeronautics]]
+| [[Don Beyer]] (D-VA)
+| [[Brian Babin]] (R-TX)
+|}
+
+===116th Congress===
+{| class=wikitable
+! Majority
+! Minority
+|- joe mama.
+
+| {{party shading/Democratic}} valign=top |
+* [[Eddie Bernice Johnson]], Texas, ''Chair''
+* [[Zoe Lofgren]], California
+* [[Dan Lipinski]], Illinois
+* [[Suzanne Bonamici]], Oregon
+* [[Ami Bera]], California, ''Vice Chair''
+* [[Lizzie Pannill Fletcher]], Texas
+* [[Haley Stevens]], Michigan
+* [[Kendra Horn]], Oklahoma
+* [[Mikie Sherrill]], New Jersey
+* [[Brad Sherman]], California
+* [[Steve Cohen (politician)|Steve Cohen]], Tennessee
+* [[Jerry McNerney]], California
+* [[Ed Perlmutter]], Colorado
+* [[Paul Tonko]], New York
+* [[Bill Foster (politician)|Bill Foster]], Illinois
+* [[Don Beyer]], Virginia
+* [[Charlie Crist]], Florida
+* [[Sean Casten]], Illinois
+* [[Katie Hill]], California (until October 27, 2019)
+* [[Ben McAdams]], Utah
+* [[Jennifer Wexton]], Virginia
+* [[Conor Lamb]], Pennsylvania (since November 19, 2019)
+
+| {{party shading/Republican}} valign=top |
+* [[Frank Lucas (Oklahoma politician)|Frank Lucas]], Oklahoma, ''Ranking Member''
+* [[Mo Brooks]], Alabama
+* [[Bill Posey]], Florida 
+* [[Randy Weber]], Texas
+* [[Brian Babin]], Texas
+* [[Andy Biggs]], Arizona
+* [[Roger Marshall (politician)|Roger Marshall]], Kansas
+* [[Neal Dunn]], Florida
+* [[Ralph Norman]], South Carolina
+* [[Michael Cloud]], Texas
+* [[Troy Balderson]], Ohio
+* [[Pete Olson]], Texas
+* [[Anthony Gonzalez (politician)|Anthony Gonzalez]], Ohio
+* [[Michael Waltz]], Florida
+* [[Jim Baird (American politician)|Jim Baird]], Indiana
+* [[Jaime Herrera Beutler]], Washington
+* [[Jenniffer González]], Puerto Rico
+* [[Francis Rooney]], Florida (since July 24, 2019)
+* [[Greg Murphy (politician)|Greg Murphy]], North Carolina (since September 26, 2019)
+* [[Mike Garcia (politician)|Mike Garcia]], California (since July 1, 2020)
+* [[Tom Tiffany]], Wisconsin (since July 1, 2020)
+|}
+Sources: {{USBill|116|HRes|24}} (Chair), {{USBill|116|HRes|25}} (Ranking Member), {{USBill|116|HRes|67}} (D), {{USBill|116|HRes|68}} (R), {{USBill|116|HRes|73}} (D), {{USBill|116|HRes|264}} (R), {{USBill|116|HRes|516}} (R), {{USBill|116|HRes|596}} (R), {{USBill|116|HRes|712}} (D), {{USBill|116|HRes|1037}} (R)
+
+;Subcommittees
+There were five subcommittees in the 116th Congress.<ref name="subcommittees" />
+
+{| class="wikitable"
+! Subcommittee
+! Chair
+! Ranking Member
+|-
+| [[United States House Science Subcommittee on Energy|Energy]]
+| [[Jamaal Bowman]] (D-NY)
+| [[Randy Weber]] (R-TX)
+|-
+| [[United States House Science Subcommittee on Environment|Environment]]
+| [[Mikie Sherrill]] (D-NJ)
+| [[Roger Marshall (politician)|Roger Marshall]] (R-KS)
+|-
+| [[United States House Science Subcommittee on Investigations and Oversight|Investigations and Oversight]]
+| [[Bill Foster (politician)|Bill Foster]] (D-IL)
+| [[Ralph Norman]] (R-SC)
+|-
+| [[United States House Science Subcommittee on Research and Technology|Research and Technology]]
+| [[Haley Stevens]] (D-MI)
+| [[Jim Baird (American politician)|Jim Baird]] (R-IN)
+|-
+| [[United States House Science Subcommittee on Space and Aeronautics|Space and Aeronautics]]
+| [[Don Beyer]] (D-VA)
+| [[Brian Babin]] (R-TX)
+|}
+
+=== 115th Congress ===
+
+{| class=wikitable
+! Majority<ref name=Majority/>
+! Minority<ref name=Minority/>
+|-
+| {{party shading/Republican}} valign=top |
+* [[Lamar Smith]], Texas, ''Chair''
+* [[Dana Rohrabacher]], California
+* [[Frank Lucas (Oklahoma politician)|Frank Lucas]], Oklahoma, ''Vice Chair''
+* [[Mo Brooks]], Alabama
+* [[Randy Hultgren]], Illinois
+* [[Bill Posey]], Florida 
+* [[Thomas Massie]], Kentucky 
+* [[Jim Bridenstine]], Oklahoma 
+* [[Randy Weber]], Texas
+* [[Steve Knight (politician)|Steve Knight]], California
+* [[Brian Babin]], Texas
+* [[Barbara Comstock]], Virginia
+* [[Gary Palmer (politician)|Gary Palmer]], Alabama
+* [[Barry Loudermilk]], Georgia
+* [[Ralph Abraham (politician)|Ralph Abraham]], Louisiana
+* [[Darin LaHood]], Illinois
+* [[Daniel Webster (Florida politician)|Daniel Webster]], Florida
+* [[Jim Banks]], Indiana
+* [[Andy Biggs]], Arizona
+* [[Roger Marshall (politician)|Roger Marshall]], Kansas
+* [[Neal Dunn]], Florida
+* [[Clay Higgins]], Louisiana
+* [[Ralph Norman]], South Carolina
+| {{party shading/Democratic}} valign=top |
+* [[Eddie Bernice Johnson]], Texas, ''Ranking Member''
+* [[Zoe Lofgren]], California
+* [[Dan Lipinski]], Illinois
+* [[Suzanne Bonamici]], Oregon
+* [[Ami Bera]], California
+* [[Elizabeth Esty]], Connecticut
+* [[Marc Veasey]], Texas
+* [[Don Beyer]], Virginia, ''Vice Ranking Member''
+* [[Jacky Rosen]], Nevada
+* [[Conor Lamb]], Pennsylvania (from April 17, 2018)
+* [[Jerry McNerney]], California
+* [[Ed Perlmutter]], Colorado
+* [[Paul Tonko]], New York
+* [[Bill Foster (politician)|Bill Foster]], Illinois
+* [[Mark Takano]], California
+* [[Colleen Hanabusa]], Hawaii
+* [[Charlie Crist]], Florida
+|}
+
+== See also ==
+* [[List of current United States House of Representatives committees]]
+
+== References ==
+{{Reflist|refs=
+<ref name=Majority>{{USBill|115|HRes|6}}, {{USBill|114|HRes|51}}</ref>
+<ref name=Minority>{{USBill|115|HRes|7}}, {{USBill|115|HRes|45}}, {{USBill|115|HRes|52}}, {{USBill|115|HRes|95}}</ref>
+<!---<ref name=subcommittee>Subcommittee assignments
+* {{cite web|url=http://www.eenews.net/eedaily/1060011637|last=Bush|first=Daniel|publisher=[[Environment & Energy Publishing]]|title=New leaders named for energy, enviro subcommittees|date=January 14, 2015|website=Energy & Environment Daily|access-date=January 14, 2015}}
+* {{cite web|url=http://science.house.gov/press-release/smith-announces-subcommittee-chairmen-and-vice-chairmen-114th-congress|title=Smith Announces Subcommittee Chairmen and Vice Chairmen for the 114th Congress|date=January 13, 2015|website=Committee on Science, Space and Technology|access-date=January 14, 2015|archive-url=https://web.archive.org/web/20150118010559/http://science.house.gov/press-release/smith-announces-subcommittee-chairmen-and-vice-chairmen-114th-congress|archive-date=January 18, 2015|url-status=dead|df=mdy-all}}
+</ref>-->
+<ref name=history>{{cite web | url = http://science.house.gov/history|format=PDF| title = A BRIEF HISTORY OF THE COMMITTEE ON SCIENCE & TECHNOLOGY | date = November 7, 2007 | publisher = United States Government }}</ref>
+<ref name=nasa>{{cite web | url = http://www.hq.nasa.gov/office/pao/History/conghand/default.htm | title = Space Handbook: Astronautics and its Applications | publisher = [[NASA]]}}</ref>
+}}
+
+== External links ==
+{{commons cat}}
+* [https://science.house.gov/ Official web site] ([https://www.loc.gov/item/lcwa00hssy00/ Archive])
+* [https://www.congress.gov/committee/house-science-space-and-technology/hssy00 House Science, Space, and Technology Committee]. Legislation activity and reports, Congress.gov.
+* [https://republicans-science.house.gov/ Republican Science Committee website]<!--
+* [http://sciencedems.house.gov/ Democratic Science Committee website]-->
+* {{Gutenberg author | id=8960}}
+* {{Internet Archive author |search=("Committee on Science and Astronautics" OR "Committee on Astronautics and Space Exploration" OR "Committee on Science and Technology" OR "Committee on Science, Space and Technology")}}
+
+{{United States congressional committees}}
+{{House Science Chairmen}}
+{{United States House Science and Technology subcommittees}}
+{{US research agencies}}
+{{Authority control}}
+
+[[Category:Committees of the United States House of Representatives|Science]]
+[[Category:Science and technology in the United States]]
+[[Category:Space policy of the United States]]
+[[Category:NASA oversight]]
+[[Category:Politics of science]]
+[[Category:1958 establishments in Washington, D.C.]]
+[[Category:Organizations established in 1958]]

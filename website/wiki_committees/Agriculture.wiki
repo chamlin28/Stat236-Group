@@ -1,0 +1,722 @@
+{{short description|Standing committee of the United States House of Representatives}}
+{{Infobox U.S. congressional committee
+| name               = House Agriculture Committee
+| type               = standing
+| chamber            = house
+| congress           = 118th
+| status             = active
+| formed             = May 3, 1820
+| chair              = [[Glenn Thompson (politician)|Glenn Thompson]]
+| chair_party        = R
+| chair_since        = January 3, 2023
+| ranking_member     = [[David Scott (Georgia politician)|David Scott]]
+| rm_party           = D
+| rm_since           = January 3, 2023
+| seats              = 52
+| majority1          = R
+| majority1_seats    = 28
+| minority1          = D
+| minority1_seats    = 24
+| policy_areas       = 
+| oversight          = [[United States Department of Agriculture|Department of Agriculture]]
+| counterpart        = [[Senate Agriculture Committee]]
+| subcommittees      = <div style="text-align:left;">
+* [[United States House Agriculture Subcommittee on Commodity Exchanges, Energy, and Credit|Commodity Exchanges, Energy, and Credit]]
+* [[United States House Agriculture Subcommittee on Conservation and Forestry|Conservation and Forestry]]
+* [[United States House Agriculture Subcommittee on Nutrition, Oversight, and Department Operations|Nutrition, Oversight, and Department Operations]]
+* [[United States House Agriculture Subcommittee on General Farm Commodities and Risk Management|General Farm Commodities and Risk Management]]
+* [[United States House Agriculture Subcommittee on Biotechnology, Horticulture, and Research|Biotechnology, Horticulture, and Research]]
+* [[United States House Agriculture Subcommittee on Livestock and Foreign Agriculture|Livestock and Foreign Agriculture]]
+</div>
+| meeting_place      = 1300 [[Longworth House Office Building]], [[Washington, D.C.]]
+| meeting_image      = Longworth House 1300.JPG
+| meeting_img_size   = 
+| website            = {{url|agriculture.house.gov}}
+}}
+The '''United States House of Representatives Committee on Agriculture''', or Agriculture Committee is a [[Standing committees|standing committee]] of the [[United States House of Representatives]]. The House Committee on Agriculture has general jurisdiction over federal [[agriculture]] policy and oversight of some federal agencies, and it can recommend funding appropriations for various governmental agencies, programs, and activities, as defined by House rules.
+
+==History of the committee==
+The Agriculture Committee was created on May 3, 1820, after [[Lewis Williams (politician)|Lewis Williams]] of [[North Carolina]] sponsored a [[resolution (law)|resolution]] to create the committee and give [[agriculture|agricultural]] issues equal weight with [[commerce|commercial]] and [[manufacturing]] interests.  The committee originally consisted of seven members, from the states of [[Maryland]], [[New Hampshire]], [[New York (state)|New York]], [[Pennsylvania]], [[South Carolina]], [[Vermont]], and [[Virginia]].  [[Thomas Forrest (politician)|Thomas Forrest]] of Pennsylvania was the first chairman.  The Agriculture Committee remained a seven-member body until 1835, when two more members were added.  It was not until 1871 that the next two members were added.  Since then it has gradually grown to its current size of 46 members.
+
+The [[United States Senate|U.S. Senate]] counterpart to the House Agriculture Committee, the [[U.S. Senate Committee on Agriculture, Nutrition and Forestry]], was created on December 9, 1825.
+
+==Role of the committee==
+The Agriculture Committee is not generally considered to be a particularly powerful one.  However, it is an important committee to be on for Representatives from many [[rural]] areas where agriculture is the main industry.  The committee has [[jurisdiction]] over agriculture, [[forestry]], [[nutrition]], water [[conservation biology|conservation]], and other agriculture-related fields.
+
+===Jurisdiction===
+[[File:House Ag belt buckle.jpg|thumb|Members of the 115th Congress House Committee on Agriculture received belt buckles for their service.]]
+As prescribed by [[U.S. House of Representatives procedures|House Rules]], the Committee on Agriculture's jurisdiction includes the following:
+
+{{colbegin}}
+* Adulteration of seeds, insect pests, and protection of birds and animals in forest reserves
+* Agriculture generally
+* Agricultural and industrial chemistry
+* Agricultural colleges and experiment stations
+* Agricultural economics and research
+* Agricultural education extension services
+* Agricultural production, marketing and stabilization of prices of agricultural products, and commodities (excluding foreign distribution)
+* Animal industry and diseases of animals
+* Commodity exchanges
+* Crop insurance and soil conservation
+* Dairy industry
+* Entomology and plant quarantine
+* Extension of farm credit and farm security
+* Inspection of livestock, poultry, meat products, and seafood and seafood products
+* Forestry in general and forest reserves other than those created from the public domain
+* Human nutrition and home economics
+* Plant industry, soils, and agricultural engineering
+* Rural electrification
+* Rural developments
+* [[Water conservation]] related to activities of the Department of Agriculture
+{{colend}}
+
+== Members, 118th Congress ==
+{{United States House of Representatives}}
+{| class=wikitable
+|-
+! Majority
+! Minority
+|-
+| {{party shading/Republican}} valign=top |
+* [[Glenn Thompson (politician)|Glenn Thompson]], Pennsylvania, ''Chair''
+* [[Frank Lucas (Oklahoma politician)|Frank Lucas]], Oklahoma
+* [[Austin Scott (politician)|Austin Scott]], Georgia
+* [[Rick Crawford (politician)|Rick Crawford]], Arkansas
+* [[Scott DesJarlais]], Tennessee
+* [[Doug LaMalfa]], California
+* [[David Rouzer]], North Carolina
+* [[Trent Kelly]], Mississippi
+* [[Don Bacon]], Nebraska
+* [[Mike Bost]], Illinois
+* [[Dusty Johnson]], South Dakota
+* [[Jim Baird (American politician)|Jim Baird]], Indiana
+* [[Tracey Mann]], Kansas
+* [[Randy Feenstra]], Iowa
+* [[Mary Miller (politician)|Mary Miller]], Illinois
+* [[Barry Moore (Alabama politician)|Barry Moore]], Alabama
+* [[Kat Cammack]], Florida
+* [[Brad Finstad]], Minnesota
+* [[John Rose (Tennessee politician)|John Rose]], Tennessee
+* [[Ronny Jackson]], Texas
+* [[Marc Molinaro]], New York
+* [[Monica De La Cruz]], Texas
+* [[Nick Langworthy]], New York
+* [[John Duarte (politician)|John Duarte]], California
+* [[Zach Nunn]], Iowa
+* [[Mark Alford (politician)|Mark Alford]], Missouri
+* [[Derrick Van Orden]], Wisconsin
+* [[Lori Chavez-DeRemer]], Oregon
+* [[Max Miller (politician)|Max Miller]], Ohio
+
+| {{party shading/Democratic}} valign=top |
+* [[David Scott (Georgia politician)|David Scott]], Georgia, ''Ranking Member''
+* [[Jim Costa]], California
+* [[Jim McGovern (American politician)|Jim McGovern]], Massachusetts
+* [[Alma Adams]], North Carolina
+* [[Abigail Spanberger]], Virginia
+* [[Jahana Hayes]], Connecticut
+* [[Shontel Brown]], Ohio
+* [[Stacey Plaskett]], Virgin Islands (until February 28, 2023)
+* [[Sharice Davids]], Kansas
+* [[Elissa Slotkin]], Michigan
+* [[Yadira Caraveo]], Colorado
+* [[Andrea Salinas]], Oregon
+* [[Marie Gluesenkamp Perez]], Washington
+* [[Don Davis (North Carolina politician)|Don Davis]], North Carolina
+* [[Jill Tokuda]], Hawaii
+* [[Nikki Budzinski]], Illinois
+* [[Eric Sorensen (politician)|Eric Sorensen]], Illinois
+* [[Gabe Vasquez]], New Mexico
+* [[Jasmine Crockett]], Texas
+* [[Jonathan Jackson (Illinois politician)|Jonathan Jackson]], Illinois
+* [[Greg Casar]], Texas
+* [[Chellie Pingree]], Maine
+* [[Salud Carbajal]], California
+* [[Angie Craig]], Minnesota
+* [[Darren Soto]], Florida
+* [[Sanford Bishop]], Georgia (from March 8, 2023)
+|}
+
+Resolutions electing members: {{USBill|118|HRes|14}} (Chair), {{USBill|118|HRes|15}} (Ranking Member), {{USBill|118|HRes|79}} (D), {{USBill|118|HRes|80}} (R), {{USBill|118|HRes|164}} (D), {{USBill|118|HRes|179}} (R), {{USBill|118|HRes|205}} (D)
+
+==Subcommittees==
+{| class="wikitable"
+|-
+! Subcommittee 
+! Chair<ref>{{Cite web |date=2023-02-02 |title=Thompson Announces Subcommittee Chairs and Jurisdiction for the 118th Congress |url=https://agriculture.house.gov/news/documentsingle.aspx?DocumentID=7531 |access-date=2023-02-03 |website=House Committee on Agriculture {{!}} Chairman GT Thompson |language=en}}</ref>
+! Ranking Member<ref>{{Cite web |date=2023-02-07 |title=Ranking Member David Scott Announces Subcommittee Ranking Members |url=https://democrats-agriculture.house.gov/news/documentsingle.aspx?DocumentID=2705 |access-date=2023-02-07 |website=House Agriculture Committee {{!}} Democrats |language=en}}</ref>
+|-
+| [[United States House Agriculture Subcommittee on Commodity Markets, Digital Assets, and Rural Development|Commodity Markets, Digital Assets, and Rural Development]]
+| [[Dusty Johnson]] (R-SD)
+|[[Yadira Caraveo]] (D-CO)
+|-
+| [[United States House Agriculture Subcommittee on Conservation, Research and Biotechnology|Conservation, Research and Biotechnology]]
+| [[Jim Baird (politician)|Jim Baird]] (R-IN)
+|[[Abigail Spanberger]] (D-VA)
+|-
+| [[United States House Agriculture Subcommittee on Forestry|Forestry]]
+| [[Doug LaMalfa]] (R-CA)
+|[[Andrea Salinas]] (D-OR)
+|-
+| [[United States House Agriculture Subcommittee on General Farm Commodities, Risk Management, and Credit|General Farm Commodities, Risk Management, and Credit]]
+| [[Austin Scott (politician)|Austin Scott]] (R-GA)
+|[[Shontel Brown]] (D-OH)
+|-
+| [[United States House Agriculture Subcommittee on Livestock, Dairy and Poultry|Livestock, Dairy and Poultry]]
+| [[Tracey Mann]] (R-KS)
+|[[Jim Costa]] (D-CA)
+|-
+| [[United States House Agriculture Subcommittee on Nutrition, Foreign Agriculture and Horticulture|Nutrition, Foreign Agriculture and Horticulture]]
+| [[Brad Finstad]] (R-MN)
+|[[Jahana Hayes]] (D-CT)
+|}
+
+==Historical membership rosters==
+===115th Congress===
+{| class=wikitable
+|-
+! Majority<ref name=Majority/>
+! Minority<ref name=Minority/>
+|-
+| {{party shading/Republican}} valign=top |
+*[[Mike Conaway]], Texas, ''Chairman''
+*[[Bob Goodlatte]], Virginia
+*[[Frank Lucas (Oklahoma politician)|Frank Lucas]], Oklahoma
+*[[Steve King]], Iowa
+*[[Mike Rogers (Alabama politician)|Mike Rogers]], Alabama
+*[[Glenn Thompson (politician)|Glenn Thompson]], Pennsylvania, ''Vice Chairman''
+*[[Bob Gibbs]], Ohio
+*[[Austin Scott (politician)|Austin Scott]], Georgia
+*[[Rick Crawford (politician)|Rick Crawford]], Arkansas
+*[[Scott DesJarlais]], Tennessee
+*[[Vicky Hartzler]], Missouri
+*[[Jeff Denham]], California
+*[[Doug LaMalfa]], California
+*[[Rodney Davis (politician)|Rodney Davis]], Illinois
+*[[Ted Yoho]], Florida
+*[[Rick Allen (politician)|Rick Allen]], Georgia
+*[[Mike Bost]], Illinois
+*[[David Rouzer]], North Carolina
+*[[Ralph Abraham (politician)|Ralph Lee Abraham]], Louisiana
+*[[Trent Kelly (politician)|Trent Kelly]], Mississippi
+*[[James Comer (politician)|James Comer]], Kentucky
+*[[Roger Marshall (politician)|Roger W. Marshall]], Kansas
+*[[Don Bacon]], Nebraska
+*[[John Faso]], New York
+*[[Neal Dunn]], Florida
+*[[Jodey Arrington]], Texas
+| {{party shading/Democratic}} valign=top |
+*[[Collin Peterson]], Minnesota, ''Ranking Member''
+*[[David Scott (Georgia politician)|David Scott]], Georgia
+*[[Jim Costa]], California
+*[[Tim Walz]], Minnesota
+*[[Marcia Fudge]], Ohio
+*[[Jim McGovern (American politician)|Jim McGovern]], Massachusetts
+*[[Filemon Vela Jr.]], Texas, ''Vice Ranking Member''
+*[[Michelle Lujan Grisham]], New Mexico
+*[[Ann Kuster]], New Hampshire
+*[[Rick Nolan]], Minnesota
+*[[Cheri Bustos]], Illinois
+*[[Sean Patrick Maloney]], New York
+*[[Stacey Plaskett]], U.S. Virgin Islands
+*[[Alma Adams]], North Carolina
+*[[Dwight Evans (politician)|Dwight Evans]], Pennsylvania
+*[[Al Lawson]], Florida
+*[[Tom O'Halleran]], Arizona
+*[[Jimmy Panetta]], California
+*[[Darren Soto]], Florida
+*[[Lisa Blunt Rochester]], Delaware
+|}
+
+===116th Congress===
+{| class=wikitable
+|-
+! Majority
+! Minority
+|-
+| {{party shading/Democratic}} valign=top |
+*[[Collin Peterson]], Minnesota, ''Chair''
+*[[David Scott (Georgia politician)|David Scott]], Georgia
+*[[Jim Costa]], California
+*[[Marcia Fudge]], Ohio
+*[[Jim McGovern (American politician)|Jim McGovern]], Massachusetts
+*[[Filemon Vela Jr.]], Texas
+*[[Stacey Plaskett]], U.S. Virgin Islands
+*[[Alma Adams]], North Carolina, ''Vice Chair''
+* [[Abigail Spanberger]], Virginia
+* [[Jahana Hayes]], Connecticut
+* [[Antonio Delgado (politician)|Antonio Delgado]], New York
+* [[TJ Cox]], California
+* [[Angie Craig]], Minnesota
+* [[Anthony Brindisi]], New York
+* [[Josh Harder]], California
+* [[Kim Schrier]], Washington
+* [[Chellie Pingree]], Maine
+* [[Cheri Bustos]], Illinois
+* [[Sean Patrick Maloney]], New York
+* [[Salud Carbajal]], California
+* [[Al Lawson]], Florida
+* [[Tom O'Halleran]], Arizona
+* [[Jimmy Panetta]], California
+* [[Ann Kirkpatrick]], Arizona
+* [[Cindy Axne]], Iowa
+* [[Xochitl Torres Small]], New Mexico (since February 27, 2020)
+
+| {{party shading/Republican}} valign=top |
+*[[Mike Conaway]], Texas, ''Ranking Member''
+* [[Glenn Thompson (politician)|Glenn Thompson]], Pennsylvania
+* [[Austin Scott (politician)|Austin Scott]], Georgia
+* [[Rick Crawford (politician)|Rick Crawford]], Arkansas
+* [[Scott DesJarlais]], Tennessee
+* [[Vicky Hartzler]], Missouri
+* [[Doug LaMalfa]], California
+* [[Rodney Davis (politician)|Rodney Davis]], Illinois
+* [[Ted Yoho]], Florida
+* [[Rick W. Allen|Rick Allen]], Georgia
+* [[Mike Bost]], Illinois
+* [[David Rouzer]], North Carolina
+* [[Ralph Abraham (politician)|Ralph Abraham]], Louisiana
+* [[Trent Kelly]], Mississippi
+* [[James Comer (politician)|James Comer]], Kentucky
+* [[Roger Marshall (politician)|Roger Marshall]], Kansas
+* [[Don Bacon]], Nebraska
+* [[Neal Dunn]], Florida
+* [[Dusty Johnson]], South Dakota
+* [[Jim Baird (American politician)|Jim Baird]], Indiana
+* [[Jim Hagedorn]], Minnesota
+* [[Chris Jacobs (politician)|Chris Jacobs]], New York (since July 21, 2020)
+* [[Troy Balderson]], Ohio (since July 30, 2020)
+|}
+
+;Subcommittees
+{| class="wikitable"
+|-
+! Subcommittee 
+! Chair<ref>[https://agriculture.house.gov/press/PRArticle.aspx?NewsID=1361 Peterson Announces House Agriculture Subcommittee Chairs for the 116th Congress]</ref>
+! Ranking Member<ref>[https://republicans-agriculture.house.gov/news/documentsingle.aspx?DocumentID=4488 Conaway Announces Republican Agriculture Subcommittee Leadership for 116th Congress]</ref>
+|-
+| [[United States House Agriculture Subcommittee on Commodity Exchanges, Energy, and Credit|Commodity Exchanges, Energy, and Credit]]
+| [[David Scott (Georgia politician)|David Scott]] (D-GA)
+| [[Austin Scott (politician)|Austin Scott]] (R-GA)
+|-
+| [[United States House Agriculture Subcommittee on Conservation and Forestry|Conservation and Forestry]]
+| [[Abigail Spanberger]] (D-VA)
+| [[Doug LaMalfa]] (R-CA)
+|-
+| [[United States House Agriculture Subcommittee on Nutrition, Oversight, and Department Operations|Nutrition, Oversight, and Department Operations]]
+| [[Marcia Fudge]] (D-OH)
+| [[Dusty Johnson]] (R-SD)
+|-
+| [[United States House Agriculture Subcommittee on General Farm Commodities and Risk Management|General Farm Commodities and Risk Management]]
+| [[Filemon Vela Jr.]] (D-TX)
+| [[Glenn Thompson (politician)|Glenn Thompson]] (R-PA)
+|-
+| [[United States House Agriculture Subcommittee on Biotechnology, Horticulture, and Research|Biotechnology, Horticulture, and Research]]
+| [[Stacey Plaskett]] (D-VI)
+| [[Neal Dunn]] (R-FL)
+|-
+| [[United States House Agriculture Subcommittee on Livestock and Foreign Agriculture|Livestock and Foreign Agriculture]]
+| [[Jim Costa]] (D-CA)
+| [[David Rouzer]] (R-NC)
+|}
+===117th Congress ===
+{| class=wikitable
+|-
+! Majority
+! Minority
+|-
+| {{party shading/Democratic}} valign=top |
+* [[David Scott (Georgia politician)|David Scott]], Georgia, ''Chair''
+* [[Jim Costa]], California
+* [[Jim McGovern (American politician)|Jim McGovern]], Massachusetts
+* [[Filemon Vela Jr.]], Texas (until March 31, 2022)<ref>{{Cite web|url=https://clerk.house.gov/members/V000132|title=Filemon Vela (Texas (TX)), 117th Congress Profile}}</ref>
+* [[Alma Adams]], North Carolina, ''Vice Chair''
+* [[Abigail Spanberger]], Virginia
+* [[Jahana Hayes]], Connecticut
+* [[Antonio Delgado (politician)|Antonio Delgado]], New York (until May 25, 2022)<ref>{{Cite web|url=https://clerk.house.gov/members/D000630|title=Antonio Delgado (New York (NY)), 117th Congress Profile}}</ref>
+* [[Shontel Brown]], Ohio (since November 4, 2021)
+* [[Bobby Rush]], Illinois
+* [[Chellie Pingree]], Maine
+* <span {{Party shading/Independent}}>[[Gregorio Sablan]], Northern Mariana Islands{{efn|Del. Sablan was an Independent who caucused with the Democratic majority.}}</span>
+* [[Ann McLane Kuster]], New Hampshire
+* [[Cheri Bustos]], Illinois
+* [[Sean Patrick Maloney]], New York
+* [[Stacey Plaskett]], U.S. Virgin Islands
+* [[Tom O'Halleran]], Arizona
+* [[Salud Carbajal]], California
+* [[Ro Khanna]], California
+* [[Al Lawson]], Florida
+* [[Lou Correa]], California
+* [[Angie Craig]], Minnesota
+* [[Josh Harder]], California
+* [[Cindy Axne]], Iowa
+* [[Kim Schrier]], Washington
+* [[Jimmy Panetta]], California
+* [[Ann Kirkpatrick]], Arizona (until November 29, 2021)<ref>{{Cite web | url=https://www.congress.gov/117/crec/2021/12/01/167/207/CREC-2021-12-01-pt1-PgH6726-6.pdf | title=Congressional Record — House | date=2021-12-01 | website=www.congress.gov}}</ref>
+* [[Sanford Bishop]], Georgia
+* [[Marcy Kaptur]], Ohio (since May 10, 2022)
+* [[Sharice Davids]], Kansas (since June 14, 2022)
+
+| {{party shading/Republican}} valign=top |
+* [[Glenn Thompson (politician)|Glenn Thompson]], Pennsylvania, ''Ranking Member''
+* [[Austin Scott (politician)|Austin Scott]], Georgia
+* [[Rick Crawford (politician)|Rick Crawford]], Arkansas
+* [[Scott DesJarlais]], Tennessee
+* [[Vicky Hartzler]], Missouri
+* [[Doug LaMalfa]], California
+* [[Rodney Davis (politician)|Rodney Davis]], Illinois
+* [[Rick W. Allen]], Georgia
+* [[David Rouzer]], North Carolina
+* [[Trent Kelly]], Mississippi
+* [[Don Bacon]], Nebraska
+* [[Dusty Johnson]], South Dakota
+* [[Jim Baird (American politician)|Jim Baird]], Indiana
+* [[Jim Hagedorn]], Minnesota (until February 17, 2022)
+* [[Chris Jacobs (politician)|Chris Jacobs]], New York
+* [[Troy Balderson]], Ohio
+* [[Michael Cloud]], Texas
+* [[Tracey Mann]], Kansas
+* [[Randy Feenstra]], Iowa
+* [[Mary Miller (politician)|Mary Miller]], Illinois
+* [[Barry Moore (Alabama politician)|Barry Moore]], Alabama
+* [[Kat Cammack]], Florida
+* [[Michelle Fischbach]], Minnesota
+* [[Julia Letlow]], Louisiana (until May 2022)<ref>{{cite web | url=https://letlow.house.gov/media/press-releases/letlow-named-appropriations-committee-0 | title=Letlow Named to the Appropriations Committee | date=11 May 2022 }}</ref>
+* [[Mayra Flores]], Texas (since June 22, 2022)
+* [[Brad Finstad]], Minnesota (since September 13, 2022)
+|}
+
+Resolutions electing members: {{USBill|117|HRes|9}} (Chair), {{USBill|117|HRes|10}} (Ranking Member), {{USBill|117|HRes|62}} (D), {{USBill|117|HRes|63}} (R), {{USBill|117|HRes|92}} (D), {{USBill|117|HRes|154}} (D), {{USBill|117|HRes|244}} (D), {{USBill|117|HRes|311}} (R), {{USBill|117|HRes|825}} (D), {{USBill|117|HRes|1173}} (D), {{USBill|117|HRes|1197}} (R), {{USBill|117|HRes|1340}} (R)
+;Subcommittees
+
+==Subcommittees==
+{| class="wikitable"
+|-
+! Subcommittee 
+! Chair<ref>[https://agriculture.house.gov/news/documentsingle.aspx?DocumentID=2101 Chairman Scott Announces House Agriculture Subcommittee Chairs for the 117th Congress]</ref>
+! Ranking Member<ref>[https://republicans-agriculture.house.gov/news/documentsingle.aspx?DocumentID=6795 Thompson Announces Republican Agriculture Subcommittee Leadership for 117th Congress]</ref>
+|-
+| [[United States House Agriculture Subcommittee on Biotechnology, Horticulture, and Research|Biotechnology, Horticulture, and Research]]
+| [[Stacey Plaskett]] (D-VI)
+| [[Jim Baird (American politician)|Jim Baird]] (R-IN)
+|-
+| [[United States House Agriculture Subcommittee on Commodity Exchanges, Energy, and Credit|Commodity Exchanges, Energy, and Credit]]
+| [[Antonio Delgado (politician)|Antonio Delgado]] (D-NY)
+| [[Michelle Fischbach]] (R-MN)
+|-
+| [[United States House Agriculture Subcommittee on Conservation and Forestry|Conservation and Forestry]]
+| [[Abigail Spanberger]] (D-VA)
+| [[Doug LaMalfa]] (R-CA)
+|-
+| [[United States House Agriculture Subcommittee on General Farm Commodities and Risk Management|General Farm Commodities and Risk Management]]
+| [[Cheri Bustos]] (D-IL)
+| [[Austin Scott (politician)|Austin Scott]] (R-GA)
+|-
+| [[United States House Agriculture Subcommittee on Livestock and Foreign Agriculture|Livestock and Foreign Agriculture]]
+| [[Jim Costa]] (D-CA)
+| [[Dusty Johnson]] (R-SD)
+|-
+| [[United States House Agriculture Subcommittee on Nutrition, Oversight, and Department Operations|Nutrition, Oversight, and Department Operations]]
+| [[Jahana Hayes]] (D-CT)
+| [[Don Bacon]] (R-NE)
+|-
+|}
+
+==List of chairs==
+
+{| class=wikitable
+|-
+! Chairman !! Party !! State !! Years
+|-{{Party shading/Federalist}}
+| [[Thomas Forrest (politician)|Thomas Forrest]]
+| [[Federalist Party (United States)|Federalist]]
+| [[Pennsylvania]]
+| 1820–1821
+|-{{Party shading/Democratic-Republican}}
+| [[Josiah Butler]]
+| [[Democratic-Republican Party|Democratic-Republican]]
+| [[New Hampshire]]
+| 1821–1823
+|-{{Party shading/Anti-Jacksonian}}
+| [[Stephen Van Rensselaer]]
+| [[National Republican Party|National Republican]]
+| [[New York (state)|New York]]
+| 1823–1829
+|-{{Party shading/Anti-Jacksonian}}
+| [[Ambrose Spencer]]
+| [[National Republican Party|National Republican]]
+| [[New York (state)|New York]]
+| 1829–1831
+|-{{Party shading/Democratic}}
+| [[Erastus Root]]
+| [[Democratic Party (United States)|Democratic]]
+| [[New York (state)|New York]]
+| 1831–1833
+|-{{Party shading/Democratic}}
+| [[Abraham Bockee]]
+| [[Democratic Party (United States)|Democratic]]
+| [[New York (state)|New York]]
+| 1833–1837
+|-{{Party shading/Whig}}
+| [[Edmund Deberry]]
+| [[Whig Party (United States)|Whig]]
+| [[North Carolina]]
+| 1837–1845
+|-{{Party shading/Democratic}}
+| [[Joseph H. Anderson]]
+| [[Democratic Party (United States)|Democratic]]
+| [[New York (state)|New York]]
+| 1845–1847
+|-{{Party shading/Whig}}
+| [[Hugh White (New York politician)|Hugh White]]
+| [[Whig Party (United States)|Whig]]
+| [[New York (state)|New York]]
+| 1847–1849
+|-{{Party shading/Democratic}}
+| [[Nathaniel S. Littlefield]]
+| [[Democratic Party (United States)|Democratic]]
+| [[Maine]]
+| 1849–1851
+|-{{Party shading/Democratic}}
+| [[John G. Floyd]]
+| [[Democratic Party (United States)|Democratic]]
+| [[New York (state)|New York]]
+| 1851–1853
+|-{{Party shading/Democratic}}
+| [[John L. Dawson]]
+| [[Democratic Party (United States)|Democratic]]
+| [[Pennsylvania]]
+| 1853–1855
+|-{{Party shading/Opposition}}
+| [[David P. Holloway]]
+| [[Opposition Party (Northern U.S.)|Opposition]]
+| [[Indiana]]
+| 1855–1857
+|-{{Party shading/Democratic}}
+| [[William G. Whiteley]]
+| [[Democratic Party (United States)|Democratic]]
+| [[Delaware]]
+| 1857–1859
+|-{{Party shading/Republican}}
+| [[Martin Butterfield]]
+| [[Republican Party (United States)|Republican]]
+| [[New York (state)|New York]]
+| 1859–1861
+|-{{Party shading/Republican}}
+| [[Owen Lovejoy]]
+| [[Republican Party (United States)|Republican]]
+| [[Illinois]]
+| 1861–1863
+|-{{Party shading/Unionist}}
+| [[Brutus J. Clay]]
+| [[Unionist politician (American Civil War)|Union Democratic]]
+| [[Kentucky]]
+| 1863–1865
+|-{{Party shading/Republican}}
+| [[John Bidwell]]
+| [[Republican Party (United States)|Republican]]
+| [[California]]
+| 1865–1867
+|-{{Party shading/Republican}}
+| [[Rowland E. Trowbridge]]
+| [[Republican Party (United States)|Republican]]
+| [[Michigan]]
+| 1867–1869
+|-{{Party shading/Republican}}
+|[[John Thomas Wilson]]
+| [[Republican Party (United States)|Republican]]
+| [[Ohio]]
+| 1869–1873
+|-{{Party shading/Republican}}
+| [[Charles Hays]]
+| [[Republican Party (United States)|Republican]]
+| [[Alabama]]
+| 1873–1875
+|-{{Party shading/Democratic}}
+|[[John Henry Caldwell]]
+| [[Democratic Party (United States)|Democratic]]
+| [[Alabama]]
+| 1875–1877
+|-{{Party shading/Democratic}}
+| [[Augustus W. Cutler]]
+| [[Democratic Party (United States)|Democratic]]
+| [[New Jersey]]
+| 1877–1879
+|-{{Party shading/Democratic}}
+| [[James W. Covert]]
+| [[Democratic Party (United States)|Democratic]]
+| [[New York (state)|New York]]
+| 1879–1881
+|-{{Party shading/Republican}}
+| [[Edward K. Valentine]]
+| [[Republican Party (United States)|Republican]]
+| [[Nebraska]]
+| 1881–1883
+|-{{Party shading/Democratic}}
+| [[William H. Hatch]]
+| [[Democratic Party (United States)|Democratic]]
+| [[Missouri]]
+| 1883–1889
+|-{{Party shading/Republican}}
+| [[Edward H. Funston]]
+| [[Republican Party (United States)|Republican]]
+| [[Kansas]]
+| 1889–1891
+|-{{Party shading/Democratic}}
+| [[William H. Hatch]]
+| [[Democratic Party (United States)|Democratic]]
+| [[Missouri]]
+| 1891–1895
+|-{{Party shading/Republican}}
+| [[James Wolcott Wadsworth|James W. Wadsworth]]
+| [[Republican Party (United States)|Republican]]
+| [[New York (state)|New York]]
+| 1895–1907
+|-{{Party shading/Republican}}
+| [[Charles Frederick Scott|Charles F. Scott]]
+| [[Republican Party (United States)|Republican]]
+| [[Kansas]]
+| 1907–1911
+|-{{Party shading/Democratic}}
+| [[John Lamb (congressman)|John Lamb]]
+| [[Democratic Party (United States)|Democratic]]
+| [[Virginia]]
+| 1911–1913
+|-{{Party shading/Democratic}}
+| [[Asbury F. Lever]]
+| [[Democratic Party (United States)|Democratic]]
+| [[South Carolina]]
+| 1913–1919
+|-{{Party shading/Republican}}
+| [[Gilbert N. Haugen]]
+| [[Republican Party (United States)|Republican]]
+| [[Iowa]]
+| 1919–1931
+|-{{Party shading/Democratic}}
+| [[John Marvin Jones|Marvin Jones]]
+| [[Democratic Party (United States)|Democratic]]
+| [[Texas]]
+| 1931–1941
+|-{{Party shading/Democratic}}
+| [[Hampton P. Fulmer]]
+| [[Democratic Party (United States)|Democratic]]
+| [[South Carolina]]
+| 1941–1945
+|-{{Party shading/Democratic}}
+| [[John W. Flannagan, Jr.]]
+| [[Democratic Party (United States)|Democratic]]
+| [[Virginia]]
+| 1945–1947
+|-{{Party shading/Republican}}
+| [[Clifford R. Hope]]
+| [[Republican Party (United States)|Republican]]
+| [[Kansas]]
+| 1947–1949
+|-{{Party shading/Democratic}}
+| [[Harold D. Cooley]]
+| [[Democratic Party (United States)|Democratic]]
+| [[North Carolina]]
+| 1949–1953
+|-{{Party shading/Republican}}
+| [[Clifford R. Hope]]
+| [[Republican Party (United States)|Republican]]
+| [[Kansas]]
+| 1953–1955
+|-{{Party shading/Democratic}}
+| [[Harold D. Cooley]]
+| [[Democratic Party (United States)|Democratic]]
+| [[North Carolina]]
+| 1955–1967
+|-{{Party shading/Democratic}}
+| [[William R. Poage]]
+| [[Democratic Party (United States)|Democratic]]
+| [[Texas]]
+| 1967–1975
+|-{{Party shading/Democratic}}
+| [[Thomas S. Foley]]
+| [[Democratic Party (United States)|Democratic]]
+| [[Washington (state)|Washington]]
+| 1975–1981
+|-{{Party shading/Democratic}}
+| [[Kika de la Garza]]
+| [[Democratic Party (United States)|Democratic]]
+| [[Texas]]
+| 1981–1995
+|-{{Party shading/Republican}}
+| [[Pat Roberts]]
+| [[Republican Party (United States)|Republican]]
+| [[Kansas]]
+| 1995–1997
+|-{{Party shading/Republican}}
+| [[Robert Freeman Smith|Robert F. Smith]]
+| [[Republican Party (United States)|Republican]]
+| [[Oregon]]
+| 1997–1999
+|-{{Party shading/Republican}}
+| [[Larry Combest]]
+| [[Republican Party (United States)|Republican]]
+| [[Texas]]
+| 1999–2003
+|-{{Party shading/Republican}}
+| [[Bob Goodlatte]]
+| [[Republican Party (United States)|Republican]]
+| [[Virginia]]
+| 2003–2007
+|-{{Party shading/Democratic}}
+| [[Collin Peterson]]
+| [[Democratic Party (United States)|Democratic]]
+| [[Minnesota]]
+| 2007–2011
+|-{{Party shading/Republican}}
+| [[Frank Lucas (Oklahoma politician)|Frank Lucas]]
+| [[Republican Party (United States)|Republican]]
+| [[Oklahoma]]
+| 2011–2015
+|-{{Party shading/Republican}}
+| [[Mike Conaway]]
+| [[Republican Party (United States)|Republican]]
+| [[Texas]]
+| 2015–2019
+|-{{Party shading/Democratic}}
+| [[Collin Peterson]]
+| [[Democratic Party (United States)|Democratic]]
+| [[Minnesota]]
+| 2019–2021
+|-{{Party shading/Democratic}}
+| [[David Scott (Georgia politician)|David Scott]]
+| [[Democratic Party (United States)|Democratic]]
+| [[Georgia (U.S. state)|Georgia]]
+| 2021–2023
+|-{{Party shading/Republican}}
+|  [[Glenn Thompson (politician)|Glenn Thompson]]
+| [[Republican Party (United States)|Republican]]
+| [[Pennsylvania]]
+| 2023–present
+|}
+
+==Notes==
+{{Notelist}}
+
+==References==
+{{Reflist|refs=
+<ref name=Majority>{{USBill|115|HRes|6}} (Chair), {{USBill|115|HRes|51}}</ref> 
+<ref name=Minority>{{USBill|115|HRes|45}}, {{USBill|115|HRes|52}}</ref> 
+}}
+
+==See also==
+* [[List of current United States House of Representatives committees]]
+
+==External links==
+{{commons category}}
+*[https://agriculture.house.gov Agriculture Committee Homepage], official website ([https://www.loc.gov/item/lcwa00hsag00/ Archive])
+*[https://agriculture.house.gov/about/rules.htm Committee Rules] (PDF), Agriculture Committee, official website
+*[https://www.congress.gov/committee/house-agriculture/hsag00 House Agriculture Committee]. Legislation activity and reports, Congress.gov.
+*[https://www.congress.gov/committees/video/house-agriculture/hsag00 House Agriculture Committee Hearings and Meetings Video]. Congress.gov
+*[https://web.archive.org/web/20090129231321/http://agriculture.house.gov/inside/history/chairmen.html Past Committee Chairs], Agriculture Committee, official website
+
+{{United States congressional committees}}
+{{Authority control}}
+
+[[Category:Committees of the United States House of Representatives|Agriculture]]
+[[Category:Agriculture in the United States|House Committee on Agriculture]]
+[[Category:1820 establishments in Washington, D.C.]]

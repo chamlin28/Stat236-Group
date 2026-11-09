@@ -1,0 +1,729 @@
+{{short description|Standing committee of the United States House of Representatives}}
+{{Infobox U.S. congressional committee
+| name               = House Foreign Affairs Committee
+| type               = standing
+| chamber            = house
+| congress           = 118th
+| status             = active
+| formed             = 1822
+| chair              = [[Michael McCaul]]
+| chair_party        = R
+| chair_since        = January 3, 2023
+| ranking_member     = [[Gregory Meeks]]
+| rm_party           = D
+| rm_since           = January 3, 2023
+| vice_chair         = Vacant
+| vc_party           = 
+| vc_since           = 
+| seats              = 51
+| majority1          = R
+| majority1_seats    = 27
+| minority1          = D
+| minority1_seats    = 23
+| policy_areas       = [[Foreign policy]], [[aid]], [[diplomacy]]
+| oversight          = [[United States Department of State|Department of State]]<br>[[United States Agency for International Development|Agency for International Development]]
+| counterpart        = [[Senate Committee on Foreign Relations]]
+| subcommittees      = 
+| meeting_place      = 
+| meeting_image      = 
+| meeting_img_size   = 
+| website            = {{url|foreignaffairs.house.gov}}
+}}
+{{United States House of Representatives}}
+The '''United States House Committee on Foreign Affairs''', also known as the '''House Foreign Affairs Committee''', is a [[Standing committee (United States Congress)|standing committee]] of the [[United States House of Representatives|U.S. House of Representatives]] with jurisdiction over bills and investigations concerning the [[International relations|foreign affairs]] of the [[Foreign policy of the United States|United States]].<ref name=":0">{{Cite web|title=About|url=https://foreignaffairs.house.gov/about|access-date=2021-01-22|website=House Foreign Affairs Committee|language=en}}</ref> Since 2023, the chair of the Foreign Affairs Committee has been [[Michael McCaul]] of Texas.
+
+The committee has a broad mandate to oversee legislation regarding the impact of national security developments on foreign policy; [[War Powers Clause|war powers]], treaties, executive agreements, and military deployments abroad; foreign assistance; arms control; international economic policy; and other matters.<ref name=":0" /> Many of its responsibilities are delegated to one of six standing subcommittees, which have jurisdiction over issues related to their respective region in the world. The committee also oversees the [[U.S. Department of State]], American embassies and diplomats, and the [[U.S. Agency for International Development]].
+
+During two separate periods, 1975 to 1978 and 1995 to 2007, the Foreign Affairs Committee was renamed the '''Committee on International Relations''';<ref>{{Cite web|url=https://www.congress.gov/committee/house-foreign-affairs/hsfa00|title =Committee Activity |website= House Foreign Affairs Committee}}</ref> its duties and jurisdiction remained unchanged.
+
+Its counterpart in the Senate is the [[United States Senate Committee on Foreign Relations|Committee on Foreign Relations]].
+
+==Members, 118th Congress==
+{| class=wikitable
+! Majority
+! Minority
+|-
+| {{party shading/Republican}} valign=top |
+* [[Michael McCaul]], Texas, ''Chair''
+* [[Chris Smith (New Jersey politician)|Chris Smith]], New Jersey
+* [[Joe Wilson (American politician)|Joe Wilson]], South Carolina
+* [[Scott Perry (politician)|Scott Perry]], Pennsylvania
+* [[Darrell Issa]], California
+* [[Ann Wagner]], Missouri, ''Vice Chair''
+* [[Brian Mast]], Florida
+* [[Ken Buck]], Colorado (until March 22, 2024)
+* [[Tim Burchett]], Tennessee
+* [[Mark Green (Tennessee politician)|Mark Green]], Tennessee
+* [[Andy Barr (American politician)|Andy Barr]], Kentucky
+* [[Ronny Jackson]], Texas
+* [[Young Kim]], California
+* [[Maria Elvira Salazar]], Florida
+* [[Bill Huizenga]], Michigan
+* [[Amata Coleman Radewagen]], American Samoa
+* [[French Hill (politician)|French Hill]], Arkansas
+* [[Warren Davidson]], Ohio
+* [[Jim Baird (politician)|Jim Baird]], Indiana
+* [[Michael Waltz]], Florida
+* [[Thomas Kean Jr.]], New Jersey
+* [[Mike Lawler]], New York
+* [[Cory Mills]], Florida
+* [[Rich McCormick]], Georgia
+* [[Nathaniel Moran]], Texas
+* [[John James (Michigan politician)|John James]], Michigan
+* [[Keith Self]], Texas
+
+| {{party shading/Democratic}} valign=top |
+* [[Gregory Meeks]], New York, ''Ranking Member''
+* [[Brad Sherman]], California
+* [[Gerry Connolly]], Virginia
+* [[Bill Keating (politician)|Bill Keating]], Massachusetts
+* [[David Cicilline]], Rhode Island (until May 31, 2023)
+* [[Ami Bera]], California
+* [[Joaquin Castro]], Texas
+* [[Dina Titus]], Nevada
+* [[Ted Lieu]], California
+* [[Susan Wild]], Pennsylvania
+* [[Dean Phillips]], Minnesota
+* [[Colin Allred]], Texas
+* [[Andy Kim (politician)|Andy Kim]], New Jersey
+* [[Sara Jacobs]], California
+* [[Kathy Manning]], North Carolina, ''Vice Ranking Member''
+* [[Sheila Cherfilus-McCormick]], Florida
+* [[Greg Stanton]], Arizona
+* [[Madeleine Dean]], Pennsylvania
+* [[Jared Moskowitz]], Florida
+* [[Jonathan Jackson (Illinois politician)|Jonathan Jackson]], Illinois
+* [[Sydney Kamlager-Dove]], California
+* [[Jim Costa]], California
+* [[Jason Crow]], Colorado
+* [[Gabe Amo]], Rhode Island (from November 15, 2023)
+* [[Brad Schneider]], Illinois (from March 8, 2023)
+|}
+Resolutions electing members: {{USBill|118|HRes|14}} (Chair), {{USBill|118|HRes|15}} (Ranking Member), {{USBill|118|HRes|80}} (R), {{USBill|118|HRes|87}} (D), {{USBill|118|HRes|76}} (removing Omar), {{USBill|118|HRes|102}} (D), {{USBill|118|HRes|205}} (D), {{USBill|118|HRes|871}} (D)
+
+==Subcommittees==
+Whereas until the 118th Congress, subcommittees tended to combine jurisdiction over particular regions of the globe with jurisdiction over broader policy areas (e.g. terrorism or energy policy), in the 118th Congress, the subcommittees were reconfigured to strictly focus on geographical areas, with the exception of global issues and international organisations which received their own subcommittee.
+{| class="wikitable"
+! Subcommittee
+! Chair<ref>{{Cite web |title=Chairman McCaul Announces Committee Leadership Team |url=https://foreignaffairs.house.gov/press-release/chairman-mccaul-announces-committee-leadership-team/ |access-date=2023-02-04 |website=Committee on Foreign Affairs |language=en}}</ref>
+! Ranking Member<ref>{{Cite web |date=2023-02-08 |title=Ranking Member Gregory W. Meeks Announces HFAC Subcommittee Membership for the 118th Congress |url=https://democrats-foreignaffairs.house.gov/2023/2/ranking-member-gregory-w-meeks-announces-hfac-subcommittee-membership-for-the-118th-congress |access-date=2023-02-08 |website=democrats-foreignaffairs.house.gov |language=en}}</ref>
+|-
+| [[United States House Foreign Affairs Subcommittee on Africa|Africa]]
+| [[John James (Michigan politician)|John James]] (R-MI)
+|[[Sara Jacobs]] (D-CA)
+|-
+| [[United States House Foreign Affairs Subcommittee on Europe|Europe]]
+| [[Thomas Kean Jr.]] (R-NJ)
+|[[Bill Keating (politician)|Bill Keating]] (D-MA)
+|-
+| [[United States House Foreign Affairs Subcommittee on the Indo-Pacific|The Indo-Pacific]]
+| [[Young Kim]] (R-CA)
+|[[Ami Bera]] (D-CA)
+|-
+| [[United States House Foreign Affairs Subcommittee on the Middle East, North Africa and Central Asia|The Middle East, North Africa and Central Asia]]
+| [[Joe Wilson (American politician)|Joe Wilson]] (R-SC)
+|[[Dean Phillips]] (D-MN)
+|-
+| [[United States House Foreign Affairs Subcommittee on Western Hemisphere|Western Hemisphere]]
+| [[María Elvira Salazar|Maria Elvira Salazar]] (R-FL)
+|[[Joaquin Castro]] (D-TX)
+|-
+| [[United States House Foreign Affairs Subcommittee on Global Health, Global Human Rights, and International Organizations|Global Health, Global Human Rights and International Organizations]]
+| [[Chris Smith (New Jersey politician)|Chris Smith]] (R-NJ)
+|[[Susan Wild]] (D-PA)
+|-
+|[[United States House Foreign Affairs Subcommittee on Oversight and Accountability|Oversight and Accountability]]
+|[[Brian Mast]] (R-FL)
+|[[Jason Crow]] (D-CO)
+|}
+
+==List of chairs==
+Data from the committee's official website:<ref name="officialHistory00">{{cite web |url=http://www.internationalrelations.house.gov/about.asp?sec=history |title=Past Chairs of the Committee |work=History of the Committee |publisher=U.S. House Committee on Foreign Affairs |access-date=February 5, 2012 |archive-date=January 9, 2012 |archive-url=https://web.archive.org/web/20120109002352/http://www.internationalrelations.house.gov/about.asp?sec=history |url-status=dead }}</ref>
+{| class=wikitable
+|- valign=bottom
+! Chairman
+! Party
+! Dates of service
+! Home state
+|-
+| [[Jonathan Russell]]
+| {{Party shading/Democratic-Republican}}|[[Democratic-Republican Party|Democratic-Republican]]
+| 1821–1823
+| [[Massachusetts]]
+|-
+| [[John Forsyth (Georgia)|John Forsyth]]
+| {{Party shading/Democratic-Republican}}|Democratic-Republican
+| 1823–1827
+| [[Georgia (U.S. state)|Georgia]]
+|-
+| [[Edward Everett]]
+| {{Party shading/National Republican}}|[[National Republican Party|National Republican]]
+| 1827–1829
+| [[Massachusetts]]
+|-
+| [[William S. Archer]]
+| {{Party shading/Democratic}}|Democratic
+| 1829–1834
+| [[Virginia]]
+|-
+| [[James Moore Wayne]]
+| {{Party shading/Democratic}}|Democratic
+| 1834–1835
+| [[Georgia (U.S. state)|Georgia]]
+|-
+| [[John Y. Mason|John Young Mason]]
+| {{Party shading/Democratic}}|Democratic
+| 1835
+| [[Virginia]]
+|-
+| [[Benjamin Chew Howard]]
+| {{Party shading/Democratic}}|Democratic
+| 1835–1839
+| [[Maryland]]
+|-
+| [[Francis Wilkinson Pickens]]
+| {{Party shading/Democratic}}|Democratic
+| 1839–1841
+| [[South Carolina]]
+|-
+| [[Caleb Cushing]]
+| {{Party shading/Democratic}}|Democratic
+| 1841–1842
+| [[Massachusetts]]
+|-
+| [[John Quincy Adams]]
+| {{Party shading/Whig}}|[[Whig Party (United States)|Whig]]
+| 1842–1843
+| [[Massachusetts]]
+|-
+| [[Charles Jared Ingersoll]]
+| {{Party shading/Democratic}}|Democratic
+| 1843–1847
+| [[Pennsylvania]]
+|-
+| [[Truman Smith]]
+| {{Party shading/Whig}}|Whig
+| 1847–1849
+| [[Connecticut]]
+|-
+| [[John Alexander McClernand]]
+| {{Party shading/Democratic}}|Democratic
+| 1849–1851
+| [[Illinois]]
+|-
+| [[Thomas H. Bayly|Thomas Henry Bayly]]
+| {{Party shading/Democratic}}|Democratic
+| 1851–1855
+| [[Virginia]]
+|-
+| [[Alexander C. M. Pennington]]
+| {{Party shading/Opposition}}|[[Opposition Party (Northern U.S.)|Opposition]]
+| 1855–1857
+| [[New Jersey]]
+|-
+| [[Thomas Lanier Clingman]]
+| {{Party shading/Democratic}}|Democratic
+| 1857–1858
+| [[North Carolina]]
+|-
+| [[George Washington Hopkins]]
+| {{Party shading/Democratic}}|Democratic
+| 1858–1859
+| [[Virginia]]
+|-
+| [[Thomas Corwin]]
+| {{Party shading/Republican}}|Republican
+| 1859–1861
+| [[Ohio]]
+|-
+| [[John J. Crittenden]]
+| {{Party shading/Unionist}}|[[Unionist politician (American Civil War)|Union Democratic]]
+| 1861–1863
+| [[Kentucky]]
+|-
+| [[Henry Winter Davis]]
+| {{Party shading/Unconditional Unionist}}|[[Unconditional Union Party|Unconditional Union]]
+| 1863–1865
+| [[Maryland]]
+|-
+| [[Nathaniel P. Banks]]
+| {{Party shading/Republican}}|Republican
+| 1865–1872
+| [[Massachusetts]]
+|-
+| [[Leonard Myers (politician)|Leonard Myers]]
+| {{Party shading/Republican}}|Republican
+| 1872–1873
+| [[Pennsylvania]]
+|-
+| [[Godlove Stein Orth]]
+| {{Party shading/Republican}}|Republican
+| 1873–1875
+| [[Indiana]]
+|-
+| [[Thomas Swann]]
+| {{Party shading/Democratic}}|Democratic
+| 1875–1879
+| [[Maryland]]
+|-
+| [[Samuel S. Cox]]
+| {{Party shading/Democratic}}|Democratic
+| 1879–1881
+| [[New York (state)|New York]]
+|-
+| [[Charles G. Williams]]
+| {{Party shading/Republican}}|Republican
+| 1881–1883
+| [[Wisconsin]]
+|-
+| [[Andrew Gregg Curtin]]
+| {{Party shading/Democratic}}|Democratic
+| 1883–1885
+| [[Pennsylvania]]
+|-
+| [[Perry Belmont]]
+| {{Party shading/Democratic}}|Democratic
+| 1885–1888
+| [[New York (state)|New York]]
+|-
+| [[James B. McCreary]]
+| {{Party shading/Democratic}}|Democratic
+| 1888–1889
+| [[Kentucky]]
+|-
+| [[Robert R. Hitt]]
+| {{Party shading/Republican}}|Republican
+| 1889–1891
+| [[Illinois]]
+|-
+| [[James Henderson Blount]]
+| {{Party shading/Democratic}}|Democratic
+| 1891–1893
+| [[Georgia (U.S. state)|Georgia]]
+|-
+| [[James B. McCreary]]
+| {{Party shading/Democratic}}|Democratic
+| 1893–1895
+| [[Kentucky]]
+|-
+| [[Robert R. Hitt]]
+| {{Party shading/Republican}}|Republican
+| 1895–1906
+| [[Illinois]]
+|-
+| [[Robert G. Cousins]]
+| {{Party shading/Republican}}|Republican
+| 1907–1909
+| [[Iowa]]
+|-
+| [[James Breck Perkins]]
+| {{Party shading/Republican}}|Republican
+| 1909–1910
+| [[New York (state)|New York]]
+|-
+| [[David J. Foster]]
+| {{Party shading/Republican}}|Republican
+| 1910–1911
+| [[Vermont]]
+|-
+| [[William Sulzer]]
+| {{Party shading/Democratic}}|Democratic
+| 1911–1912
+| [[New York (state)|New York]]
+|-
+| [[Charles Bennett Smith]]
+| {{Party shading/Democratic}}|Democratic
+| 1912–1913
+| [[New York (state)|New York]]
+|-
+| [[Henry D. Flood]]
+| {{Party shading/Democratic}}|Democratic
+| 1913–1919
+| [[Virginia]]
+|-
+| [[Stephen G. Porter]]
+| {{Party shading/Republican}}|Republican
+| 1919–1930
+| [[Pennsylvania]]
+|-
+| [[Henry Wilson Temple]]
+| {{Party shading/Republican}}|Republican
+| 1930–1931
+| [[Pennsylvania]]
+|-
+| [[John Charles Linthicum]]
+| {{Party shading/Democratic}}|Democratic
+| 1931–1932
+| [[Maryland]]
+|-
+| [[Sam D. McReynolds]]
+| {{Party shading/Democratic}}|Democratic
+| 1932–1939
+| [[Tennessee]]
+|-
+| [[Sol Bloom]]
+| {{Party shading/Democratic}}|Democratic
+| 1939–1947
+| [[New York (state)|New York]]
+|-
+| [[Charles Aubrey Eaton]]
+| {{Party shading/Republican}}|Republican
+| 1947–1949
+| [[New Jersey]]
+|-
+| [[Sol Bloom]]
+| {{Party shading/Democratic}}|Democratic
+| 1949
+| [[New York (state)|New York]]
+|-
+| [[John Kee]]
+| {{Party shading/Democratic}}|Democratic
+| 1949–1951
+| [[West Virginia]]
+|-
+| [[James P. Richards]]
+| {{Party shading/Democratic}}|Democratic
+| 1951–1953
+| [[South Carolina]]
+|-
+| [[Robert B. Chiperfield]]
+| {{Party shading/Republican}}|Republican
+| 1953–1955
+| [[Illinois]]
+|-
+| [[James P. Richards]]
+| {{Party shading/Democratic}}|Democratic
+| 1955–1957
+| [[South Carolina]]
+|-
+| [[Thomas S. Gordon]]
+| {{Party shading/Democratic}}|Democratic
+| 1957–1959
+| [[Illinois]]
+|-
+| [[Thomas E. Morgan]]
+| {{Party shading/Democratic}}|Democratic
+| 1959–1977
+| [[Pennsylvania]]
+|-
+| [[Clement J. Zablocki]]
+| {{Party shading/Democratic}}|Democratic
+| 1977–1983
+| [[Wisconsin]]
+|-
+| [[Dante Fascell]]
+| {{Party shading/Democratic}}|Democratic
+| 1983–1993
+| [[Florida]]
+|-
+| [[Lee H. Hamilton]]
+| {{Party shading/Democratic}}|Democratic
+| 1993–1995
+| [[Indiana]]
+|-
+| [[Benjamin A. Gilman]]
+| {{Party shading/Republican}}|Republican
+| 1995–2001
+| [[New York (state)|New York]]
+|-
+| [[Henry Hyde]]
+| {{Party shading/Republican}}|Republican
+| 2001–2007
+| [[Illinois]]
+|-
+| [[Tom Lantos]]
+| {{Party shading/Democratic}}|Democratic
+| 2007–2008
+| [[California]]
+|-
+| [[Howard Berman]]
+| {{Party shading/Democratic}}|Democratic
+| 2008–2011
+| [[California]]
+|-
+| [[Ileana Ros-Lehtinen]]
+| {{Party shading/Republican}}|Republican
+| 2011–2013
+| [[Florida]]
+|-
+| [[Ed Royce (politician)|Ed Royce]]
+| {{Party shading/Republican}}|[[Republican Party (United States)|Republican]]
+| 2013–2019
+| [[California]]
+|-
+| [[Eliot Engel]]
+| {{Party shading/Democratic}}|Democratic
+| 2019–2021
+| [[New York (state)|New York]]
+|-
+| [[Gregory Meeks]]
+| {{Party shading/Democratic}}|[[Democratic Party (United States)|Democratic]]
+| 2021–2023
+| [[New York (state)|New York]]
+|-
+| [[Michael McCaul]]
+| {{Party shading/Republican}}|[[Republican Party (United States)|Republican]]
+| 2023–present
+| [[Texas (state)|Texas]]
+|}
+
+==Previous members==
+===117th Congress===
+{| class=wikitable
+! Majority
+! Minority
+|-
+| {{party shading/Democratic}} valign=top |
+* [[Gregory Meeks]], New York, ''Chair''
+* [[Brad Sherman]], California
+* [[Albio Sires]], New Jersey
+* [[Gerry Connolly]], Virginia
+* [[Ted Deutch]], Florida
+* [[Karen Bass]], California
+* [[Bill Keating (politician)|Bill Keating]], Massachusetts
+* [[David Cicilline]], Rhode Island 
+* [[Ami Bera]], California
+* [[Joaquin Castro]], Texas
+* [[Dina Titus]], Nevada
+* [[Ted Lieu]], California
+* [[Susan Wild]], Pennsylvania
+* [[Dean Phillips]], Minnesota
+* [[Ilhan Omar]], Minnesota
+* [[Colin Allred]], Texas
+* [[Andy Levin]], Michigan
+* [[Abigail Spanberger]], Virginia
+* [[Chrissy Houlahan]], Pennsylvania
+* [[Tom Malinowski]], New Jersey, ''Vice Chair''
+* [[Andy Kim (politician)|Andy Kim]], New Jersey
+* [[Sara Jacobs]], California
+* [[Kathy Manning]], North Carolina
+* [[Sheila Cherfilus-McCormick]], Florida (since November 15, 2022)
+* [[Jim Costa]], California
+* [[Juan Vargas]], California
+* [[Vicente Gonzalez (politician)|Vicente Gonzalez]], Texas
+* [[Brad Schneider]], Illinois
+
+| {{party shading/Republican}} valign=top |
+* [[Michael McCaul]], Texas, ''Ranking Member''
+* [[Chris Smith (New Jersey politician)|Chris Smith]], New Jersey
+* [[Steve Chabot]], Ohio
+* [[Joe Wilson (American politician)|Joe Wilson]], South Carolina
+* [[Scott Perry (politician)|Scott Perry]], Pennsylvania
+* [[Darrell Issa]], California
+* [[Adam Kinzinger]], Illinois
+* [[Lee Zeldin]], New York
+* [[Ann Wagner]], Missouri, ''Vice Ranking Member''
+* [[Brian Mast]], Florida
+* [[Brian Fitzpatrick (American politician)|Brian Fitzpatrick]], Pennsylvania
+* [[Ken Buck]], Colorado
+* [[Ron Wright (politician)|Ron Wright]], Texas (until February 7, 2021)
+* [[Tim Burchett]], Tennessee
+* [[Mark Green (Tennessee politician)|Mark Green]], Tennessee
+* [[Andy Barr (American politician)|Andy Barr]], Kentucky
+* [[Greg Steube]], Florida
+* [[Dan Meuser]], Pennsylvania
+* [[Claudia Tenney]], New York
+* [[August Pfluger]], Texas
+* [[Nicole Malliotakis]], New York
+* [[Peter Meijer]], Michigan
+* [[Ronny Jackson]], Texas
+* [[Young Kim]], California
+* [[Maria Elvira Salazar]], Florida
+|}
+Resolutions electing members: {{USBill|117|HRes|9}} (Chair), {{USBill|117|HRes|10}} (Ranking Member), {{USBill|117|HRes|62}} (D), {{USBill|117|HRes|63}} (R), {{USBill|117|HRes|146}} (R), {{USBill|117|HRes|1471}} (D)
+
+;Subcommittees
+{| class="wikitable"
+! Subcommittee
+! Chair
+! Ranking Member
+|-
+| [[United States House Foreign Affairs Subcommittee on Africa, Global Health and Global Human Rights|Africa, Global Health and Global Human Rights]]
+| [[Karen Bass]] (D-CA)
+| [[Chris Smith (New Jersey politician)|Chris Smith]] (R-NJ)
+|-
+| [[United States House Foreign Affairs Subcommittee on Asia, the Pacific, Central Asia and Nonproliferation|Asia, the Pacific, Central Asia and Nonproliferation]]
+| [[Ami Bera]] (D-CA)
+| [[Steve Chabot]] (R-OH)
+|-
+| [[United States House Foreign Affairs Subcommittee on Europe, Energy, the Environment and Cyber|Europe, Energy, the Environment and Cyber]]
+| [[Bill Keating (politician)|Bill Keating]] (D-MA)
+| [[Brian Fitzpatrick (American politician)|Brian Fitzpatrick]] (R-PA)
+|-
+| [[United States House Foreign Affairs Subcommittee on the Middle East, North Africa and Global Counterterrorism|Middle East, North Africa and Global Counterterrorism]]
+| [[Ted Deutch]] (D-FL)
+| [[Joe Wilson (American politician)|Joe Wilson]] (R-SC)
+|-
+| [[United States House Foreign Affairs Subcommittee on International Development, International Organizations and Global Corporate Social Impact|International Development, International Organizations and Global Corporate Social Impact]]
+| [[Joaquin Castro]] (D-TX)
+| [[Nicole Malliotakis]] (R-NY)
+|-
+| [[United States House Foreign Affairs Subcommittee on Western Hemisphere, Civilian Security, Migration and International Economic Policy|Western Hemisphere, Civilian Security, Migration and International Economic Policy]]
+| [[Albio Sires]] (D-NJ)
+| [[Mark Green (Tennessee politician)|Mark Green]] (R-TN)
+|}
+
+===116th Congress===
+{| class=wikitable
+! Majority
+! Minority
+|-
+| {{party shading/Democratic}} valign=top |
+* [[Eliot Engel]], New York, ''Chair''
+* [[Brad Sherman]], California
+* [[Gregory Meeks]], New York
+* [[Albio Sires]], New Jersey
+* [[Gerry Connolly]], Virginia
+* [[Ted Deutch]], Florida
+* [[Karen Bass]], California
+* [[Bill Keating (politician)|Bill Keating]], Massachusetts
+* [[David Cicilline]], Rhode Island 
+* [[Ami Bera]], California
+* [[Joaquin Castro]], Texas, ''Vice Chair''
+* [[Dina Titus]], Nevada
+* [[Adriano Espaillat]], New York
+* [[Ted Lieu]], California
+* [[Susan Wild]], Pennsylvania
+* [[Dean Phillips]], Minnesota
+* [[Ilhan Omar]], Minnesota
+* [[Colin Allred]], Texas
+* [[Andy Levin]], Michigan
+* [[Abigail Spanberger]], Virginia
+* [[Chrissy Houlahan]], Pennsylvania
+* [[Tom Malinowski]], New Jersey
+* [[David Trone]], Maryland
+* [[Jim Costa]], California
+* [[Juan Vargas]], California
+* [[Vicente Gonzalez (politician)|Vicente Gonzalez]], Texas
+
+| {{party shading/Republican}} valign=top |
+* [[Michael McCaul]], Texas, ''Ranking Member''
+* [[Chris Smith (New Jersey politician)|Chris Smith]], New Jersey
+* [[Steve Chabot]], Ohio
+* [[Joe Wilson (American politician)|Joe Wilson]], South Carolina
+* [[Scott Perry (politician)|Scott Perry]], Pennsylvania
+* [[Ted Yoho]], Florida
+* [[Adam Kinzinger]], Illinois
+* [[Lee Zeldin]], New York
+* [[Jim Sensenbrenner]], Wisconsin
+* [[Ann Wagner]], Missouri, ''Vice Ranking Member''
+* [[Brian Mast]], Florida
+* [[Francis Rooney]], Florida
+* [[Brian Fitzpatrick (American politician)|Brian Fitzpatrick]], Pennsylvania
+* [[John Curtis (Utah politician)|John Curtis]], Utah
+* [[Ken Buck]], Colorado
+* [[Ron Wright (politician)|Ron Wright]], Texas
+* [[Guy Reschenthaler]], Pennsylvania
+* [[Tim Burchett]], Tennessee
+* [[Greg Pence]], Indiana
+* [[Steve Watkins (politician)|Steve Watkins]], Kansas
+* [[Michael Guest (politician)|Michael Guest]], Mississippi
+* [[Mark Green (Tennessee politician)|Mark Green]], Tennessee (since July 30, 2020)
+|}
+Sources: {{USBill|116|HRes|24}} (Chair), {{USBill|116|HRes|25}} (Ranking Member), {{USBill|116|HRes|57}} (D), {{USBill|116|HRes|68}} (R), {{USBill|116|HRes|1072}} (R)
+
+;Subcommittees
+{| class="wikitable"
+! Subcommittee<ref>{{Cite web|title=Subcommittees|url=https://foreignaffairs.house.gov/subcommittees|access-date=2020-07-16|website=House Foreign Affairs Committee|language=en}}</ref>
+! Chair<ref>{{Cite web|date=2019-01-29|title=Engel Announces Foreign Affairs Subcommittee Democrats and Committee Vice Chair|url=https://foreignaffairs.house.gov/2019/1/engel|access-date=2020-07-16|website=House Foreign Affairs Committee|language=en}}</ref><ref>{{Cite web|date=2019-12-13|title=Engel Announces Changes to Foreign Affairs Subcommittee Leadership|url=https://foreignaffairs.house.gov/2019/12/engel-announces-changes-to-foreign-affairs-subcommittee-leadership|access-date=2020-07-16|website=House Foreign Affairs Committee|language=en}}</ref>
+! Ranking Member<ref>{{Cite web|title=McCaul Announces Republican Subcommittee Leadership and Membership Rosters at 116th Committee Organizational Meeting|url=https://gop-foreignaffairs.house.gov/press-release/mccaul-announces-republican-subcommittee-leadership-and-membership-rosters-at-116th-committee-organizational-meeting/|access-date=2020-07-16|website=Committee on Foreign Affairs|language=en}}</ref>
+|-
+| [[United States House Foreign Affairs Subcommittee on Africa, Global Health, Global Human Rights and International Organizations|Africa, Global Health, Global Human Rights, and International Organizations]]
+| [[Karen Bass]] (D-CA)
+| [[Chris Smith (New Jersey politician)|Chris Smith]] (R-NJ)
+|-
+| [[United States House Foreign Affairs Subcommittee on Asia, the Pacific and Nonproliferation|Asia, the Pacific and Nonproliferation]]
+| [[Ami Bera]] (D-CA)
+| [[Ted Yoho]] (R-FL)
+|-
+| [[United States House Foreign Affairs Subcommittee on Europe, Eurasia, Energy, and the Environment|Europe, Eurasia, Energy, and the Environment]]
+| [[Bill Keating (politician)|Bill Keating]] (D-MA)
+| [[Adam Kinzinger]] (R-IL)
+|-
+| [[United States House Foreign Affairs Subcommittee on the Middle East, North Africa and International Terrorism|Middle East, North Africa and International Terrorism]]
+| [[Ted Deutch]] (D-FL)
+| [[Joe Wilson (American politician)|Joe Wilson]] (R-SC)
+|-
+| [[United States House Foreign Affairs Subcommittee on Oversight and Investigations|Oversight and Investigations]]
+| [[Joaquin Castro]] (D-TX)
+| [[Lee Zeldin]] (R-NY)
+|-
+| [[United States House Foreign Affairs Subcommittee on the Western Hemisphere, Civilian Security and Trade|Western Hemisphere, Civilian Security, and Trade]]
+| [[Albio Sires]] (D-NJ)
+| [[Francis Rooney]] (R-FL)
+|}
+
+===115th Congress===
+{| class=wikitable
+! Majority
+! Minority
+|-
+| {{party shading/Republican}} valign=top |
+* [[Ed Royce (politician)|Ed Royce]], California, ''Chair''
+* [[Chris Smith (New Jersey politician)|Chris Smith]], New Jersey
+* [[Ileana Ros-Lehtinen]], Florida
+* [[Dana Rohrabacher]], California
+* [[Steve Chabot]], Ohio
+* [[Joe Wilson (U.S. politician)|Joe Wilson]], South Carolina
+* [[Michael McCaul]], Texas
+* [[Ted Poe]], Texas
+* [[Darrell Issa]], California
+* [[Tom Marino]], Pennsylvania
+* [[Mo Brooks]], Alabama
+* [[Paul Cook (politician)|Paul Cook]], California 
+* [[Scott Perry (politician)|Scott Perry]], Pennsylvania 
+* [[Ron DeSantis]], Florida
+* [[Mark Meadows (North Carolina politician)|Mark Meadows]], North Carolina
+* [[Ted Yoho]], Florida
+* [[Adam Kinzinger]], Illinois
+* [[Lee Zeldin]], New York
+* [[Dan Donovan (politician)|Dan Donovan]], New York
+* [[Jim Sensenbrenner]], Wisconsin
+* [[Ann Wagner]], Missouri
+* [[Brian Mast]], Florida
+* [[Francis Rooney]], Florida, ''Vice Chair''
+* [[Brian Fitzpatrick (American politician)|Brian Fitzpatrick]], Pennsylvania
+* [[Tom Garrett (Virginia politician)|Tom Garrett]], Virginia
+* [[John Curtis (Utah politician)|John Curtis]], Utah
+| {{party shading/Democratic}} valign=top |
+* [[Eliot Engel]], New York, ''Ranking Member''
+* [[Brad Sherman]], California
+* [[Gregory Meeks]], New York
+* [[Albio Sires]], New Jersey
+* [[Gerry Connolly]], Virginia
+* [[Ted Deutch]], Florida
+* [[Karen Bass]], California
+* [[William R. Keating]], Massachusetts
+* [[David Cicilline]], Rhode Island 
+* [[Ami Bera]], California, ''Vice Ranking Member''
+* [[Lois Frankel]], Florida
+* [[Tulsi Gabbard]], Hawaii
+* [[Joaquin Castro]], Texas
+* [[Robin Kelly]], Illinois
+* [[Brendan Boyle]], Pennsylvania
+* [[Dina Titus]], Nevada
+* [[Norma Torres]], California
+* [[Brad Schneider]], Illinois
+* [[Tom Suozzi]], New York
+* [[Adriano Espaillat]], New York
+* [[Ted Lieu]], California
+|}
+
+Sources: {{USBill|115|HRes|6}} (Chair), {{USBill|115|HRes|7}} (Ranking Member), {{USBill|115|HRes|45}} (D), {{USBill|115|HRes|51}} (R) and {{USBill|115|HRes|52}} (D)<ref>{{cite web|title=Full Committee|url=https://foreignaffairs.house.gov/subcommittee/full-committee/|website=Foreign Affairs Committee}}</ref>
+
+==See also==
+* [[List of current United States House of Representatives committees]]
+
+==References==
+{{Reflist}}
+
+==External links==
+{{commonscatinline}}
+* {{Official|https://foreignaffairs.house.gov/ }} ([https://www.loc.gov/item/lcwa00hsfa00/ Archive])
+* [https://www.congress.gov/committee/house-foreign-affairs/hsfa00 House Foreign Affairs Committee]. Legislation activity and reports, Congress.gov.
+{{United States congressional committees}}
+
+[[Category:Committees of the United States House of Representatives|Foreign Affairs]]
+[[Category:Foreign relations of the United States]]
+[[Category:United States diplomacy]]
+[[Category:Parliamentary committees on Foreign Affairs]]

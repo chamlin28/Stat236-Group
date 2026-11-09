@@ -1,0 +1,976 @@
+{{Short description|Standing committee of the United States House of Representatives}}
+{{pp-pc1}}
+{{Infobox U.S. congressional committee
+| name               = House Appropriations Committee
+| type               = standing
+| chamber            = house
+| congress           = 118th
+| status             = active
+| formed             = December 11, 1865
+| chair              = [[Tom Cole]]
+| chair_party        = R
+| chair_since        = April 10, 2024
+| ranking_member     = [[Rosa DeLauro]]
+| rm_party           = D
+| rm_since           = January 3, 2023
+| vice_chair         = ''Vacant''
+| vc_party           = R
+| vc_since           = April 10, 2024
+| seats              = 61
+| majority1          = R
+| majority1_seats    = 34
+| minority1          = D
+| minority1_seats    = 27
+| policy_areas       = [[Appropriations bill (United States)|Appropriations bills]], [[Discretionary spending]], [[Rescission bill]]s
+| oversight          = [[Federal government of the United States]]
+| counterpart        = [[Senate Committee on Appropriations]]
+| subcommittees      = 
+| meeting_place      = 
+| meeting_image      = 
+| meeting_img_size   = 
+| website            = {{URL|appropriations.house.gov}}
+|image=House Appropriations Committee logo, 118th Congress.svg|image_size=250|caption=Committee logo}}
+
+{{Use American English|date=February 2023}}
+{{Use mdy dates|date=February 2023}}{{United States House of Representatives}}
+The '''United States House Committee on Appropriations''' is a [[List of current United States House of Representatives committees|committee]] of the [[United States House of Representatives]] that is responsible for passing [[Appropriations bill (United States)|appropriation bills]] along with its [[United States Senate Committee on Appropriations|Senate counterpart]].<ref>{{cite web|last1=Tollestrup|first1=Jessica|title=The Congressional Appropriations Process: An Introduction|url=https://www.senate.gov/CRSReports/crs-publish.cfm?pid=%260BL%2BP%3C%3B3%0A|website=Senate.gov|access-date=23 November 2014}}</ref> The bills passed by the Appropriations Committee regulate expenditures of money by the government of the United States. As such, it is one of the most powerful committees, and its members are seen as influential.
+
+== History ==
+The [[United States Constitution|constitutional]] basis for the Appropriations Committee comes from [[Article One of the United States Constitution|Article one]], Section nine, Clause seven of the U.S. Constitution, which says:
+:No money shall be drawn from the treasury, but in consequence of appropriations made by law; and a regular statement and account of receipts and expenditures of all public money shall be published from time to time.
+
+This clearly delegated the power of appropriating money to Congress, but was vague beyond that. Originally, the power of appropriating was taken by the [[United States House Committee on Ways and Means|Committee on Ways and Means]], but the [[United States Civil War]] placed a large burden on the Congress, and at the end of that conflict, a reorganization occurred.{{vague|date=March 2024}}{{citation needed|date=March 2024}}
+
+===Early years===
+The Committee on Appropriations was created on December 11, 1865, when the U.S. House of Representatives separated the tasks of the Committee on Ways and Means into three parts.<ref name=about/> The passage of legislation affecting taxes remained with Ways and Means. The power to regulate banking was transferred to the [[U.S. House Committee on Banking and Commerce|Committee on Banking and Commerce]]. The power to appropriate money—to control the federal purse strings—was given to the newly created Appropriations Committee.
+
+At the time of creation the membership of the committee stood at nine; it currently has 61 members.<ref name=about/> The power of the committee has only grown since its founding; many of its members and chairmen have gone on to even higher posts. Four of them—[[Samuel J. Randall|Samuel Randall]] ([[Democratic Party of the United States|D]]-[[Pennsylvania|PA]]), [[Joseph Gurney Cannon|Joseph Cannon]] ([[Republican Party of the United States|R]]-[[Illinois|IL]]), [[Joseph Byrns]] (D-[[Tennessee|TN]]) and [[Nancy Pelosi]] (D-[[California|CA]])—have gone on to become the [[Speaker of the United States House of Representatives]]; one, [[James Garfield]], has gone on to become [[President of the United States]].
+
+The root of the Appropriations Committee's power is its ability to disburse funds, and thus as the [[United States federal budget]] has risen, so has the power of the Appropriations Committee. The first federal budget of the United States, in 1789, was for $639,000—a hefty sum for the time, but a much smaller amount relative to the economy than the federal budget would later become. By the time the Appropriations committee was founded, the Civil War and [[inflation]] had raised expenditures to roughly $1.3&nbsp;billion, increasing the clout of Appropriations. Expenditures continued to follow this pattern—rising sharply during wars before settling down—for over 100 years.
+
+Another important development for Appropriations occurred in the [[presidency of Warren G. Harding]]. Harding was the first president of the United States to deliver a budget proposal to Congress.
+
+===Recent times===
+In May 1945, when U.S. Representative [[Albert J. Engel]] queried extra funds for the [[Manhattan Project]], the administration approved a visit to the [[Clinton Engineer Works]] at Oak Ridge (CEW) (and one to [[Hanford Engineer Works|HEW]] if desired) by selected legislators, including Engel, Mahon, Snyder, [[John Taber]] and [[Clarence Cannon]] (the committee chairman). About a month earlier Taber and Cannon had nearly come to blows over the expenditure but, after visiting CEW, Taber asked General [[Leslie Groves|Groves]] and Colonel [[Kenneth Nichols|Nichols]] "Are you sure you're asking for enough money?'' Cannon commented "Well, I never expected to hear that from you, John."<ref>{{cite book
+ | last = Nichols
+ | first = Kenneth D.
+ | author-link = Kenneth Nichols
+ | title = The Road to Trinity: A Personal Account of How America's Nuclear Policies Were Made
+ | url = https://archive.org/details/roadtotrinity0000nich
+ | url-access = registration
+ | year = 1987
+ | publisher = William Morrow and Company
+ | location = New York
+ | isbn =  0-688-06910-X
+ | oclc = 15223648
+ | page = [https://archive.org/details/roadtotrinity0000nich/page/174 174]
+}}
+</ref>
+
+In the early 1970s, the Appropriations Committee faced a crisis. President [[Richard Nixon]] began "impounding" funds, not allowing them to be spent, even when Congress had specifically appropriated money for a cause. This was essentially a [[line-item veto]]. Numerous court cases were filed by outraged interest groups and members of Congress. Eventually, the sense that Congress needed to regain control of the budget process led to the adoption of the [[Congressional Budget and Impoundment Control Act of 1974]], which finalized the budget process in its current form.
+
+== Role ==
+{{Unreferenced section|date=April 2021}}
+The Appropriations committee is widely recognized by political scientists as one of the "power committees",{{Citation needed|reason=What are the other "power committees"?|date=September 2016}} since it holds the [[power of the purse]]. Openings on the Appropriations committee are often hotly demanded, and are doled out as rewards. It is one of the "exclusive" committees of the House, meaning its members typically sit on no other committee. Under House Rules, an exception to this is that five Members of the Appropriations Committee must serve on the [[United States House Committee on the Budget|House Budget Committee]]—three for the majority and two for the minority. Much of the power of the committee comes from the inherent utility of controlling spending. Its subcommittee chairs are often called "Cardinals", likening them to [[Cardinal (Catholic Church)|the most senior members]] of the [[Catholic Church]], because of the power they wield over the budget.
+
+Since the House is elected from single-member districts, securing financing for projects in the district can help a member to be reelected as the funds can create jobs and raise economic performance. This type of spending is derided by critics as [[pork barrel spending]], while those who engage in it generally defend it as necessary and appropriate expenditure of government funds. The members of the Appropriations committee can do this better than most, and better direct funding towards another member's district, increasing the stature of committee members in the House and helping them gain support for their priorities, including seeking leadership positions or other honors.
+
+The committee tends to be less partisan than other committees or the House overall. While the minority party will offer amendments during committee consideration, appropriations bills often get significant bipartisan support, both in committee and on the House floor. This atmosphere can be attributed to the fact that all committee members have a compelling interest in ensuring legislation will contain money for their own districts. Conversely, because members of this committee can easily steer money to their home districts, it is considered very difficult to unseat a member of this committee at an election—especially if he or she is a "Cardinal".
+
+In addition, the ability to appropriate money is useful to [[lobbyist]]s and interest groups; as such, being on Appropriations makes it easier to collect campaign contributions (see: [[campaign finance]]).
+
+== Jurisdiction ==
+The Appropriations Committee has one of the largest jurisdictions of any federal committee. Under Rule 10 of the House rules, the committee's jurisdiction is defined as:
+# Appropriation of the revenue for the support of the Government
+# Rescissions of appropriations contained in appropriations Acts
+# Transfers of unexpected balances
+# Bills and joint resolutions reported by other committees that provide new entitlement authority as defined in section 3(9) of the Congressional Budget Act of 1974 and referred to the committee under clause 4(a)(2)
+
+== Members, 118th Congress ==
+[[File:United States House Committee on Appropriations - Steve Womack - 2020.jpg|thumb|A committee meeting in July 2020]]
+{| class=wikitable
+|-
+! Majority
+! Minority
+|-
+| {{party shading/Republican}} valign=top |
+* [[Tom Cole]], Oklahoma, ''Chair''
+* [[Hal Rogers]], Kentucky
+* [[Kay Granger]], Texas (Chair until April 10, 2024)
+* [[Robert Aderholt]], Alabama
+* [[Mike Simpson]], Idaho
+* [[John Carter (Texas politician)|John Carter]], Texas
+* [[Ken Calvert]], California
+* [[Mario Díaz-Balart]], Florida
+* [[Steve Womack]], Arkansas
+* [[Chuck Fleischmann]], Tennessee
+* [[David Joyce (politician)|David Joyce]], Ohio
+* [[Andrew P. Harris|Andy Harris]], Maryland
+* [[Mark Amodei]], Nevada
+* [[Chris Stewart (politician)|Chris Stewart]], Utah (until September 18, 2023)
+* [[David Valadao]], California
+* [[Dan Newhouse]], Washington
+* [[John Moolenaar]], Michigan
+* [[John Rutherford (Florida politician)|John Rutherford]], Florida
+* [[Ben Cline]], Virginia
+* [[Guy Reschenthaler]], Pennsylvania
+* [[Mike Garcia (politician)|Mike Garcia]], California
+* [[Ashley Hinson]], Iowa
+* [[Tony Gonzales]], Texas
+* [[Julia Letlow]], Louisiana
+* [[Michael Cloud]], Texas
+* [[Michael Guest (politician)|Michael Guest]], Mississippi
+* [[Ryan Zinke]], Montana
+* [[Andrew Clyde]], Georgia
+* [[Jake LaTurner]], Kansas
+* [[Jerry Carl]], Alabama
+* [[Stephanie Bice]], Oklahoma
+* [[Scott Franklin (politician)|Scott Franklin]], Florida
+* [[Jake Ellzey]], Texas
+* [[Juan Ciscomani]], Arizona
+* [[Chuck Edwards]], North Carolina (from December 6, 2023)
+
+| {{party shading/Democratic}} valign=top |
+* [[Rosa DeLauro]], Connecticut, ''Ranking Member''
+* [[Steny Hoyer]], Maryland
+* [[Marcy Kaptur]], Ohio
+* [[Sanford Bishop]], Georgia
+* [[Barbara Lee]], California
+* [[Betty McCollum]], Minnesota
+* [[Dutch Ruppersberger]], Maryland
+* [[Debbie Wasserman Schultz]], Florida
+* [[Henry Cuellar]], Texas
+* [[Chellie Pingree]], Maine
+* [[Mike Quigley (politician)|Mike Quigley]], Illinois
+* [[Derek Kilmer]], Washington
+* [[Matt Cartwright]], Pennsylvania
+* [[Grace Meng]], New York, ''Vice Ranking Member''
+* [[Mark Pocan]], Wisconsin
+* [[Pete Aguilar]], California
+* [[Lois Frankel]], Florida
+* [[Bonnie Watson Coleman]], New Jersey
+* [[Norma Torres]], California
+* [[Ed Case]], Hawaii
+* [[Adriano Espaillat]], New York
+* [[Josh Harder]], California
+* [[Jennifer Wexton]], Virginia
+* [[David Trone]], Maryland
+* [[Lauren Underwood]], Illinois
+* [[Susie Lee]], Nevada
+* [[Joseph Morelle]], New York
+|}
+Resolutions electing members: {{USBill|118|HRes|14}} (Chair), {{USBill|118|HRes|15}} (Ranking Member), {{USBill|118|HRes|56}} (R), {{USBill|118|HRes|60}} (D), {{USBill|118|HRes|913}} (R), {{USBill|118|HRes|1133}} (New chair)
+
+==Subcommittees==
+===Reorganization in 2007===
+In 2007, the number of subcommittees was increased to 12 at the start of the [[110th United States Congress|110th Congress]].  This reorganization, developed by Chairman [[David Obey]] and his Senate counterpart, [[Robert Byrd]], for the first time provided for common subcommittee structures between both houses, a move that both chairmen hoped will allow Congress to "complete action on each of the government funding on time for the first time since 1994".<ref name=reorganization/>
+
+The new structure added the Subcommittee on Financial Services and General Government, and transferred jurisdiction over Legislative Branch appropriations from the full committee to a newly reinstated Legislative Branch Subcommittee, which had not existed since the [[108th United States Congress|108th Congress]].
+
+===List of subcommittees===
+{| class="wikitable"
+! Subcommittee
+! Chair<ref>{{Cite web |date=2023-01-16 |title=Granger Announces Leaders of Appropriations Committee |url=https://appropriations.house.gov/news/press-releases/granger-announces-leaders-appropriations-committee |access-date=2023-01-19 |website=House Committee on Appropriations - Republicans |language=en}}</ref>
+! Ranking Member<ref>{{Cite web |date=2023-01-31 |title=DeLauro Announces Appropriations Committee Roster for the 118th Congress |url=https://democrats-appropriations.house.gov/news/press-releases/delauro-announces-appropriations-committee-roster-for-the-118th-congress |access-date=2023-02-01 |website=House Committee on Appropriations |language=en}}</ref>
+|-
+| [[United States House Appropriations Subcommittee on Agriculture, Rural Development, Food and Drug Administration, and Related Agencies|Agriculture, Rural Development, Food and Drug Administration, and Related Agencies]]
+|[[Andy Harris (politician)|Andy Harris]] (R-MD)
+|[[Sanford Bishop]] (D-GA)
+|-
+| [[United States House Appropriations Subcommittee on Commerce, Justice, Science, and Related Agencies|Commerce, Justice, Science, and Related Agencies]]
+|[[Hal Rogers]] (R-KY)
+|[[Matt Cartwright]] (D-PA)
+|-
+| [[United States House Appropriations Subcommittee on Defense|Defense]]
+|[[Ken Calvert]] (R-CA)
+|[[Betty McCollum]] (D-MN)
+|-
+| [[United States House Appropriations Subcommittee on Energy and Water Development|Energy and Water Development]]
+|[[Chuck Fleischmann]] (R-TN)
+|[[Marcy Kaptur]] (D-OH)
+|-
+| [[United States House Appropriations Subcommittee on Financial Services and General Government|Financial Services and General Government]]
+|[[David Joyce (politician)|David Joyce]] (R-OH)
+|[[Steny Hoyer]] (D-MD)
+|-
+| [[United States House Appropriations Subcommittee on Homeland Security|Homeland Security]]
+|[[Mark Amodei]] (R-NV)
+|[[Henry Cuellar]] (D-TX)
+|-
+| [[United States House Appropriations Subcommittee on Interior, Environment, and Related Agencies|Interior, Environment, and Related Agencies]]
+|[[Mike Simpson]] (R-ID)
+|[[Chellie Pingree]] (D-ME)
+|-
+| [[United States House Appropriations Subcommittee on Labor, Health and Human Services, Education, and Related Agencies|Labor, Health and Human Services, Education, and Related Agencies]]
+|[[Robert Aderholt]] (R-AL)
+|[[Rosa DeLauro]] (D-CT)
+|-
+| [[United States House Appropriations Subcommittee on the Legislative Branch|Legislative Branch]]
+|[[David Valadao]] (R-CA)
+|[[Adriano Espaillat]] (D-NY)
+|-
+| [[United States House Appropriations Subcommittee on Military Construction, Veterans Affairs, and Related Agencies|Military Construction, Veterans Affairs, and Related Agencies]]
+|[[John Carter (Texas politician)|John Carter]] (R-TX)
+|[[Debbie Wasserman Schultz]] (D-FL)
+|-
+| [[United States House Appropriations Subcommittee on State, Foreign Operations, and Related Programs|State, Foreign Operations, and Related Programs]]
+|[[Mario Díaz-Balart|Mario Diaz-Balart]] (R-FL)
+|[[Barbara Lee]] (D-CA)
+|-
+| [[United States House Appropriations Subcommittee on Transportation, Housing and Urban Development, and Related Agencies|Transportation, Housing and Urban Development, and Related Agencies]]
+|[[Steve Womack]] (R-AR)
+|[[Mike Quigley (politician)|Mike Quigley]] (D-IL)
+|}
+
+==Historical rosters==
+[[File:Steve Womack - 7.9.20.png|thumb|A [[social distancing]]-style meeting of the committee in July 2020]]
+===117th Congress===
+{| class=wikitable
+|-
+! Majority
+! Minority
+|-
+| {{party shading/Democratic}} valign=top |
+* [[Rosa DeLauro]], Connecticut, ''Chair''
+* [[Marcy Kaptur]], Ohio
+* [[David Price (U.S. politician)|David Price]], North Carolina
+* [[Lucille Roybal-Allard]], California
+* [[Sanford Bishop]], Georgia
+* [[Barbara Lee]], California
+* [[Betty McCollum]], Minnesota
+* [[Tim Ryan (Ohio politician)|Tim Ryan]], Ohio
+* [[Dutch Ruppersberger]], Maryland
+* [[Debbie Wasserman Schultz]], Florida
+* [[Henry Cuellar]], Texas
+* [[Chellie Pingree]], Maine
+* [[Mike Quigley (politician)|Mike Quigley]], Illinois
+* [[Derek Kilmer]], Washington
+* [[Matt Cartwright]], Pennsylvania
+* [[Grace Meng]], New York
+* [[Mark Pocan]], Wisconsin
+* [[Katherine Clark]], Massachusetts
+* [[Pete Aguilar]], California
+* [[Lois Frankel]], Florida
+* [[Cheri Bustos]], Illinois
+* [[Bonnie Watson Coleman]], New Jersey
+* [[Brenda Lawrence]], Michigan, ''Vice Chair''
+* [[Norma Torres]], California
+* [[Charlie Crist]], Florida
+* [[Ann Kirkpatrick]], Arizona
+* [[Ed Case]], Hawaii
+* [[Adriano Espaillat]], New York
+* [[Josh Harder]], California
+* [[Jennifer Wexton]], Virginia
+* [[David Trone]], Maryland
+* [[Lauren Underwood]], Illinois
+* [[Susie Lee]], Nevada
+* [[Joseph Morelle]], New York (from September 14, 2022)
+
+| {{party shading/Republican}} valign=top |
+* [[Kay Granger]], Texas, ''Ranking Member''
+* [[Hal Rogers]], Kentucky
+* [[Robert Aderholt]], Alabama
+* [[Mike Simpson]], Idaho
+* [[John Carter (Texas politician)|John Carter]], Texas
+* [[Ken Calvert]], California
+* [[Tom Cole]], Oklahoma<!--, ''Vice Ranking Member''-->
+* [[Mario Díaz-Balart]], Florida
+* [[Steve Womack]], Arkansas
+* [[Jeff Fortenberry]], Nebraska
+* [[Chuck Fleischmann]], Tennessee
+* [[Jaime Herrera Beutler]], Washington
+* [[David Joyce (politician)|David Joyce]], Ohio
+* [[Andrew P. Harris|Andy Harris]], Maryland
+* [[Mark Amodei]], Nevada
+* [[Chris Stewart (politician)|Chris Stewart]], Utah
+* [[Steven Palazzo]], Mississippi
+* [[David Valadao]], California
+* [[Dan Newhouse]], Washington
+* [[John Moolenaar]], Michigan
+* [[John Rutherford (Florida politician)|John Rutherford]], Florida
+* [[Ben Cline]], Virginia
+* [[Guy Reschenthaler]], Pennsylvania
+* [[Mike Garcia (politician)|Mike Garcia]], California
+* [[Ashley Hinson]], Iowa
+* [[Tony Gonzales]], Texas
+* [[Julia Letlow]], Louisiana
+|}
+Resolutions electing members: {{USBill|117|HRes|9}} (Chair), {{USBill|117|HRes|10}} (Ranking Member), {{USBill|117|HRes|62}} (D), {{USBill|117|HRes|63}} (R), {{USBill|117|HRes|1347}} (D)
+
+;Subcommittees
+{| class="wikitable"
+! Subcommittee
+! Chair<ref>{{Cite web|url=https://appropriations.house.gov/news/press-releases/delauro-announces-appropriations-committee-roster|title=DeLauro Announces Appropriations Committee Roster|date=25 January 2021}}</ref>
+! Ranking Member<ref>{{Cite web|url=https://republicans-appropriations.house.gov/news/press-releases/granger-announces-republican-subcommittee-assignments-117th-congress|title = Granger Announces Republican Subcommittee Assignments for 117th Congress|date = 28 January 2021}}</ref>
+|-
+| [[United States House Appropriations Subcommittee on Agriculture, Rural Development, Food and Drug Administration, and Related Agencies|Agriculture, Rural Development, Food and Drug Administration, and Related Agencies]]
+|[[Sanford Bishop]] (D-GA)
+|[[Jeff Fortenberry]] (R-NE)
+|-
+| [[United States House Appropriations Subcommittee on Commerce, Justice, Science, and Related Agencies|Commerce, Justice, Science, and Related Agencies]]
+|[[Matt Cartwright]] (D-PA)
+|[[Robert Aderholt]] (R-AL)
+|-
+| [[United States House Appropriations Subcommittee on Defense|Defense]]
+|[[Betty McCollum]] (D-MN)
+|[[Ken Calvert]] (R-CA)
+|-
+| [[United States House Appropriations Subcommittee on Energy and Water Development|Energy and Water Development]]
+|[[Marcy Kaptur]] (D-OH)
+|[[Mike Simpson]] (R-ID)
+|-
+| [[United States House Appropriations Subcommittee on Financial Services and General Government|Financial Services and General Government]]
+|[[Mike Quigley (politician)|Mike Quigley]] (D-IL)
+|[[Steve Womack]] (R-AR)
+|-
+| [[United States House Appropriations Subcommittee on Homeland Security|Homeland Security]]
+|[[Lucille Roybal-Allard]] (D-CA)
+|[[Chuck Fleischmann]] (R-TN)
+|-
+| [[United States House Appropriations Subcommittee on Interior, Environment, and Related Agencies|Interior, Environment, and Related Agencies]]
+|[[Chellie Pingree]] (D-ME)
+|[[David Joyce (politician)|Dave Joyce]] (R-OH)
+|-
+| [[United States House Appropriations Subcommittee on Labor, Health and Human Services, Education, and Related Agencies|Labor, Health and Human Services, Education, and Related Agencies]]
+|[[Rosa DeLauro]] (D-CT)
+|[[Tom Cole]] (R-OK)
+|-
+| [[United States House Appropriations Subcommittee on the Legislative Branch|Legislative Branch]]
+|[[Tim Ryan (Ohio politician)|Tim Ryan]] (D-OH)
+|[[Jaime Herrera Beutler]] (R-WA)
+|-
+| [[United States House Appropriations Subcommittee on Military Construction, Veterans Affairs, and Related Agencies|Military Construction, Veterans Affairs, and Related Agencies]]
+|[[Debbie Wasserman Schultz]] (D-FL)
+|[[John Carter (Texas politician)|John Carter]] (R-TX)
+|-
+| [[United States House Appropriations Subcommittee on State, Foreign Operations, and Related Programs|State, Foreign Operations, and Related Programs]]
+|[[Barbara Lee]] (D-CA)
+|[[Hal Rogers]] (R-KY)
+|-
+| [[United States House Appropriations Subcommittee on Transportation, Housing and Urban Development, and Related Agencies|Transportation, Housing and Urban Development, and Related Agencies]]
+|[[David Price (American politician)|David Price]] (D-NC)
+|[[Mario Díaz-Balart]] (R-FL)
+|-
+|}
+
+===116th Congress===
+{| class=wikitable
+|+ Membership
+|-
+! Majority
+! Minority
+|-
+| {{party shading/Democratic}} valign=top |
+* [[Nita Lowey]], New York, ''Chair''
+* [[Marcy Kaptur]], Ohio
+* [[Pete Visclosky]], Indiana
+* [[José E. Serrano]], New York
+* [[Rosa DeLauro]], Connecticut
+* [[David Price (U.S. politician)|David Price]], North Carolina
+* [[Lucille Roybal-Allard]], California
+* [[Sanford Bishop]], Georgia
+* [[Barbara Lee]], California
+* [[Betty McCollum]], Minnesota
+* [[Tim Ryan (Ohio politician)|Tim Ryan]], Ohio
+* [[Dutch Ruppersberger]], Maryland
+* [[Debbie Wasserman Schultz]], Florida
+* [[Henry Cuellar]], Texas
+* [[Chellie Pingree]], Maine
+* [[Mike Quigley (politician)|Mike Quigley]], Illinois
+* [[Derek Kilmer]], Washington
+* [[Matt Cartwright]], Pennsylvania
+* [[Grace Meng]], New York
+* [[Mark Pocan]], Wisconsin
+* [[Katherine Clark]], Massachusetts
+* [[Pete Aguilar]], California, ''Vice Chair''
+* [[Lois Frankel]], Florida
+* [[Cheri Bustos]], Illinois
+* [[Bonnie Watson Coleman]], New Jersey
+* [[Brenda Lawrence]], Michigan
+* [[Norma Torres]], California
+* [[Charlie Crist]], Florida
+* [[Ann Kirkpatrick]], Arizona
+* [[Ed Case]], Hawaii
+
+| {{party shading/Republican}} valign=top |
+* [[Kay Granger]], Texas, ''Ranking Member''
+* [[Hal Rogers]], Kentucky
+* [[Robert Aderholt]], Alabama
+* [[Mike Simpson]], Idaho
+* [[John Carter (Texas politician)|John Carter]], Texas
+* [[Ken Calvert]], California
+* [[Tom Cole]], Oklahoma, ''Vice Ranking Member''
+* [[Mario Díaz-Balart]], Florida
+* [[Tom Graves (politician)|Tom Graves]], Georgia
+* [[Steve Womack]], Arkansas
+* [[Jeff Fortenberry]], Nebraska
+* [[Chuck Fleischmann]], Tennessee
+* [[Jaime Herrera Beutler]], Washington
+* [[David Joyce (politician)|David Joyce]], Ohio
+* [[Andrew P. Harris|Andy Harris]], Maryland
+* [[Martha Roby]], Alabama
+* [[Mark Amodei]], Nevada
+* [[Chris Stewart (politician)|Chris Stewart]], Utah
+* [[Steven Palazzo]], Mississippi
+* [[Dan Newhouse]], Washington
+* [[John Moolenaar]], Michigan
+* [[John Rutherford (Florida politician)|John Rutherford]], Florida
+* [[Will Hurd]], Texas
+|}
+Resolutions electing members: {{USBill|116|HRes|7}} (Chair), {{USBill|116|HRes|8}} (Ranking Member), {{USBill|116|HRes|42}} (D), {{USBill|116|HRes|68}} (R)
+
+;Subcommittees
+
+{| class="wikitable"
+! Subcommittee
+! Chair
+! Ranking Member
+|-
+| [[United States House Appropriations Subcommittee on Agriculture, Rural Development, Food and Drug Administration, and Related Agencies|Agriculture, Rural Development, Food and Drug Administration, and Related Agencies]]
+|[[Sanford Bishop]] (D-GA)
+|[[Jeff Fortenberry]] (R-NE)
+|-
+| [[United States House Appropriations Subcommittee on Commerce, Justice, Science, and Related Agencies|Commerce, Justice, Science, and Related Agencies]]
+|[[José E. Serrano]] (D-NY)
+|[[Robert Aderholt]] (R-AL)
+|-
+| [[United States House Appropriations Subcommittee on Defense|Defense]]
+|[[Pete Visclosky]] (D-IN)
+|[[Ken Calvert]] (R-CA)
+|-
+| [[United States House Appropriations Subcommittee on Energy and Water Development|Energy and Water Development]]
+|[[Marcy Kaptur]] (D-OH)
+|[[Mike Simpson]] (R-ID)
+|-
+| [[United States House Appropriations Subcommittee on Financial Services and General Government|Financial Services and General Government]]
+|[[Mike Quigley (politician)|Mike Quigley]] (D-IL)
+|[[Steve Womack]] (R-AR)
+|-
+| [[United States House Appropriations Subcommittee on Homeland Security|Homeland Security]]
+|[[Lucille Roybal-Allard]] (D-CA)
+|[[Chuck Fleischmann]] (R-TN)
+|-
+| [[United States House Appropriations Subcommittee on Interior, Environment, and Related Agencies|Interior, Environment, and Related Agencies]]
+|[[Betty McCollum]] (D-MN)
+|[[David Joyce (politician)|Dave Joyce]] (R-OH)
+|-
+| [[United States House Appropriations Subcommittee on Labor, Health and Human Services, Education, and Related Agencies|Labor, Health and Human Services, Education, and Related Agencies]]
+|[[Rosa DeLauro]] (D-CT)
+|[[Tom Cole]] (R-OK)
+|-
+| [[United States House Appropriations Subcommittee on the Legislative Branch|Legislative Branch]]
+|[[Tim Ryan (Ohio politician)|Tim Ryan]] (D-OH)
+|[[Jaime Herrera Beutler]] (R-WA)
+|-
+| [[United States House Appropriations Subcommittee on Military Construction, Veterans Affairs, and Related Agencies|Military Construction, Veterans Affairs, and Related Agencies]]
+|[[Debbie Wasserman Schultz]] (D-FL)
+|[[John Carter (Texas politician)|John Carter]] (R-TX)
+|-
+| [[United States House Appropriations Subcommittee on State, Foreign Operations, and Related Programs|State, Foreign Operations, and Related Programs]]
+|[[Nita Lowey]] (D-NY)
+|[[Hal Rogers]] (R-KY)
+|-
+| [[United States House Appropriations Subcommittee on Transportation, Housing and Urban Development, and Related Agencies|Transportation, Housing and Urban Development, and Related Agencies]]
+|[[David Price (American politician)|David Price]] (D-NC)
+|[[Mario Díaz-Balart]] (R-FL)
+|}
+
+===115th Congress===
+{| class=wikitable
+|+ Membership, 115th Congress
+|-
+! Majority <ref name=Majority />
+! Minority <ref name=Minority />
+|-
+| {{party shading/Republican}} valign=top |
+* [[Rodney Frelinghuysen]], New Jersey, ''Chairman''
+* [[Hal Rogers]], Kentucky
+* [[Robert Aderholt]], Alabama
+* [[Kay Granger]], Texas
+* [[Mike Simpson]], Idaho
+* [[John Culberson]], Texas
+* [[John Carter (Texas politician)|John Carter]], Texas
+* [[Ken Calvert]], California
+* [[Tom Cole]], Oklahoma
+* [[Mario Díaz-Balart]], Florida
+* [[Charlie Dent]], Pennsylvania
+* [[Tom Graves (politician)|Tom Graves]], Georgia
+* [[Kevin Yoder]], Kansas
+* [[Steve Womack]], Arkansas
+* [[Jeff Fortenberry]], Nebraska
+* [[Tom Rooney (Florida politician)|Tom Rooney]], Florida
+* [[Chuck Fleischmann]], Tennessee
+* [[Jaime Herrera Beutler]], Washington
+* [[David Joyce (politician)|David Joyce]], Ohio
+* [[David Valadao]], California
+* [[Andrew P. Harris|Andy Harris]], Maryland
+* [[Martha Roby]], Alabama
+* [[Mark Amodei]], Nevada
+* [[Chris Stewart (politician)|Chris Stewart]], Utah
+* [[David Young (Iowa politician)|David Young]], Iowa
+* [[Evan Jenkins (politician)|Evan Jenkins]], West Virginia
+* [[Steven Palazzo]], Mississippi
+* [[Dan Newhouse]], Washington
+* [[John Moolenaar]], Michigan
+* [[Scott Taylor (politician)|Scott Taylor]], Virginia
+| {{party shading/Democratic}} valign=top |
+* [[Nita Lowey]], New York, ''Ranking Member''
+* [[Marcy Kaptur]], Ohio
+* [[Pete Visclosky]], Indiana
+* [[José E. Serrano|José Serrano]], New York
+* [[Rosa DeLauro]], Connecticut
+* [[David Price (U.S. politician)|David Price]], North Carolina
+* [[Lucille Roybal-Allard]], California
+* [[Sanford Bishop]], Georgia
+* [[Barbara Lee]], California
+* [[Betty McCollum]], Minnesota
+* [[Tim Ryan (Ohio politician)|Tim Ryan]], Ohio
+* [[Dutch Ruppersberger]], Maryland
+* [[Debbie Wasserman Schultz]], Florida
+* [[Henry Cuellar]], Texas
+* [[Chellie Pingree]], Maine
+* [[Mike Quigley (politician)|Mike Quigley]], Illinois
+* [[Derek Kilmer]], Washington, ''Vice Ranking Member''
+* [[Matt Cartwright]], Pennsylvania
+* [[Grace Meng]], New York
+* [[Mark Pocan]], Wisconsin
+* [[Katherine Clark]], Massachusetts
+* [[Pete Aguilar]], California
+|}
+
+===114th Congress===
+{| class=wikitable
+|+ Members, 114th Congress
+|-
+! Majority
+! Minority
+|-
+| {{party shading/Republican}} valign=top |
+* [[Hal Rogers]], Kentucky, ''Chairman''<ref name=Chair>{{USBill|115|HRes|6}}</ref>
+* [[Rodney Frelinghuysen]], New Jersey
+* [[Robert Aderholt]], Alabama
+* [[Kay Granger]], Texas
+* [[Mike Simpson]], Idaho
+* [[John Culberson]], Texas
+* [[Ander Crenshaw]], Florida
+* [[John Carter (Texas)|John Carter]], Texas
+* [[Ken Calvert]], California
+* [[Tom Cole]], Oklahoma
+* [[Mario Díaz-Balart]], Florida
+* [[Charlie Dent]], Pennsylvania
+* [[Tom Graves]], Georgia
+* [[Kevin Yoder]], Kansas
+* [[Steve Womack]], Arkansas
+* [[Jeff Fortenberry]], Nebraska
+* [[Tom Rooney (Florida politician)|Tom Rooney]], Florida
+* [[Chuck Fleischmann]], Tennessee
+* [[Jaime Herrera Beutler]], Washington
+* [[David Joyce (politician)|David Joyce]], Ohio
+* [[David Valadao]], California
+* [[Andy Harris (politician)|Andy Harris]], Maryland
+* [[Martha Roby]], Alabama
+* [[Mark Amodei]], Nevada
+* [[Chris Stewart (politician)|Chris Stewart]], Utah
+* [[Scott Rigell]], Virginia
+* [[David Jolly]], Florida
+* [[David Young (Iowa politician)|David Young]], Iowa
+* [[Evan Jenkins (politician)|Evan Jenkins]], West Virginia
+* [[Steven Palazzo]], Mississippi
+| {{party shading/Democratic}} valign=top |
+* [[Nita Lowey]], New York, ''Ranking Member''
+* [[Marcy Kaptur]], Ohio
+* [[Pete Visclosky]], Indiana
+* [[José E. Serrano|José Serrano]], New York
+* [[Rosa DeLauro]], Connecticut
+* [[David Price (U.S. politician)|David Price]], North Carolina
+* [[Lucille Roybal-Allard]], California
+* [[Sam Farr]], California
+* [[Sanford Bishop]], Georgia
+* [[Barbara Lee]], California
+* [[Mike Honda]], California
+* [[Betty McCollum]], Minnesota
+* [[Steve Israel]], New York
+* [[Tim Ryan (Ohio politician)|Tim Ryan]], Ohio
+* [[Dutch Ruppersberger]], Maryland
+* [[Debbie Wasserman Schultz]], Florida
+* [[Henry Cuellar]], Texas
+* [[Chellie Pingree]], Maine
+* [[Mike Quigley (politician)|Mike Quigley]], Illinois
+* [[Derek Kilmer]], Washington
+* [[Matt Cartwright]], Pennsylvania<ref>{{cite web| title =Matt Cartwright named to House spending panel=The Morning Call| url =http://www.mcall.com/news/nationworld/pennsylvania/mc-pa-cartwright-house-appropriations-20160913-story.html| access-date =December 11, 2016| archive-date =February 3, 2017| archive-url =https://web.archive.org/web/20170203144110/http://www.mcall.com/news/nationworld/pennsylvania/mc-pa-cartwright-house-appropriations-20160913-story.html| url-status =dead}}</ref>
+|}
+
+=== 113th Congress ===
+{| class="wikitable"
+|-
+! Majority
+! Minority
+|-
+| {{party shading/Republican}} valign="top" |
+* [[Hal Rogers]], Kentucky, ''Chairman'' <ref>{{Cite web|title=House Report 113-724 - COMMITTEE ON APPROPRIATIONS HOUSE OF REPRESENTATIVES A N N U A L|url=https://www.govinfo.gov/content/pkg/CRPT-113hrpt724/html/CRPT-113hrpt724.htm|access-date=2021-03-02|website=www.govinfo.gov}}</ref>
+* [[Frank Wolf (politician)|Frank Wolf]], Virginia
+* [[Jack Kingston]], Georgia
+* [[Rodney Frelinghuysen]], New Jersey
+* [[Tom Latham (politician)|Tom Latham]], Iowa
+* [[Robert Aderholt]], Alabama
+* [[Kay Granger]], Texas
+* [[Mike Simpson]], Idaho
+* [[John Culberson]], Texas
+* [[Ken Calvert]], California
+* [[Tom Cole]], Oklahoma
+* [[Mario Díaz-Balart|Mario Diaz-Balart]], Florida
+* [[Charlie Dent|Charles Dent]], Pennsylvania
+* [[Tom Graves]], Georgia
+* [[Kevin Yoder]], Kansas
+* [[Steve Womack]], Arkansas
+* [[Alan Nunnelee]], Mississippi
+* [[Jeff Fortenberry]], Nebraska
+* [[Tom Rooney (Florida politician)|Thomas Rooney]], Florida
+* [[Chuck Fleischmann|Charles Fleichmann]], Tennessee
+* [[Jaime Herrera Beutler|Jamie Herrera Butler]], Washington
+* [[David Joyce (politician)|David Joyce]], Ohio
+* [[David Valadao]], California
+* [[Andy Harris (politician)|Andy Harris]], Maryland
+* [[Martha Roby]], Alabama
+* [[Mark Amodei]], Nevada
+* [[Chris Stewart (politician)|Chris Stewart]], Utah
+
+| {{party shading/Democratic}} valign="top" |
+* [[Nita Lowey]], New York, ''Ranking Member''
+* [[Marcy Kaptur]], Ohio
+* [[Pete Visclosky]], Indiana
+* [[José E. Serrano|José Serrano]], New York
+*[[Jim Moran|James Moran]], Virginia
+*[[Ed Pastor]], Arizona
+* [[Rosa DeLauro]], Connecticut
+* [[David Price (U.S. politician)|David Price]], North Carolina
+* [[Lucille Roybal-Allard]], California
+* [[Sam Farr]], California
+*[[Chaka Fattah]], Pennsylvania
+* [[Sanford Bishop]], Georgia
+*[[Barbara Lee]], California
+*[[Adam Schiff]], California
+* [[Mike Honda]], California
+* [[Betty McCollum]], Minnesota
+* [[Steve Israel]], New York
+* [[Tim Ryan (Ohio politician)|Tim Ryan]], Ohio
+* [[Debbie Wasserman Schultz]], Florida
+* [[Henry Cuellar]], Texas
+* [[Chellie Pingree]], Maine
+* [[Mike Quigley (politician)|Mike Quigley]], Illinois
+* [[Bill Owens (New York politician)|William Owens]], New York
+|}
+
+==List of chairs==
+{| class=wikitable
+! Chairman
+! Party
+! State
+! Years
+
+|-
+| [[Thaddeus Stevens]]
+| {{party shading/Republican}} | Republican
+| [[List of United States representatives from Pennsylvania|Pennsylvania]]
+| 1865–1868
+
+|-
+| [[Elihu B. Washburne]]
+| {{party shading/Republican}} | Republican
+| [[List of United States representatives from Illinois|Illinois]]
+| 1868–1869
+
+|-
+| [[Henry L. Dawes]]
+| {{party shading/Republican}} | Republican
+| [[List of United States representatives from Massachusetts|Massachusetts]]
+| 1869–1871
+
+|-
+| [[James A. Garfield]]
+| {{party shading/Republican}} | Republican
+| [[List of United States representatives from Ohio|Ohio]]
+| 1871–1875
+
+|-
+| [[Samuel J. Randall]]
+| {{party shading/Democratic}} | Democratic
+| [[List of United States representatives from Pennsylvania|Pennsylvania]]
+| 1875–1876
+
+|-
+| [[William S. Holman]]
+| {{party shading/Democratic}} | Democratic
+| [[List of United States representatives from Indiana|Indiana]]
+| 1876–1877
+
+|-
+| [[Hiester Clymer]]
+| {{party shading/Democratic}} | Democratic
+| [[List of United States representatives from Pennsylvania|Pennsylvania]]
+| 1877
+
+|-
+| [[John D. C. Atkins]]
+| {{party shading/Democratic}} | Democratic
+| [[List of United States representatives from Tennessee|Tennessee]]
+| 1877–1881
+
+|-
+| [[Frank Hiscock]]
+| {{party shading/Republican}} | Republican
+| [[List of United States representatives from New York|New York]]
+| 1881–1883
+
+|-
+| [[Samuel J. Randall]]
+| {{party shading/Democratic}} | Democratic
+| [[List of United States representatives from Pennsylvania|Pennsylvania]]
+| 1883–1889
+
+|-
+| [[Joseph G. Cannon]]
+| {{party shading/Republican}} | Republican
+| [[List of United States representatives from Illinois|Illinois]]
+| 1889–1891
+
+|-
+| [[William S. Holman]]
+| {{party shading/Democratic}} | Democratic
+| [[List of United States representatives from Indiana|Indiana]]
+| 1891–1893
+
+|-
+| [[Joseph D. Sayers]]
+| {{party shading/Democratic}} | Democratic
+| [[List of United States representatives from Texas|Texas]]
+| 1893–1895
+
+|-
+| [[Joseph G. Cannon]]
+| {{party shading/Republican}} | Republican
+| [[List of United States representatives from Illinois|Illinois]]
+| 1895–1903
+
+|-
+| [[James A. Hemenway]]
+| {{party shading/Republican}} | Republican
+| [[List of United States representatives from Indiana|Indiana]]
+| 1903–1905
+
+|-
+| [[James Albertus Tawney]]
+| {{party shading/Republican}} | Republican
+| [[List of United States representatives from Minnesota|Minnesota]]
+| 1905–1911
+
+|-
+| [[John J. Fitzgerald]]
+| {{party shading/Democratic}} | Democratic
+| [[List of United States representatives from New York|New York]]
+| 1911–1917
+
+|-
+| [[J. Swagar Sherley]]
+| {{party shading/Democratic}} | Democratic
+| [[List of United States representatives from Kentucky|Kentucky]]
+| 1917–1919
+
+|-
+| [[James W. Good]]
+| {{party shading/Republican}} | Republican
+| [[List of United States representatives from Iowa|Iowa]]
+| 1919–1921
+
+|-
+| [[Charles Russell Davis]]
+| {{party shading/Republican}} | Republican
+| [[List of United States representatives from Minnesota|Minnesota]]
+| 1921–1923
+
+|-
+| [[Martin B. Madden]]
+| {{party shading/Republican}} | Republican
+| [[List of United States representatives from Illinois|Illinois]]
+| 1923–1928
+
+|-
+| [[Daniel R. Anthony, Jr.]]
+| {{party shading/Republican}} | Republican
+| [[List of United States representatives from Kansas|Kansas]]
+| 1928–1929
+
+|-
+| [[William R. Wood (Indiana politician)|William R. Wood]]
+| {{party shading/Republican}} | Republican
+| [[List of United States representatives from Indiana|Indiana]]
+| 1929–1931
+
+|-
+| [[Joseph W. Byrns]]
+| {{party shading/Democratic}} | Democratic
+| [[List of United States representatives from Tennessee|Tennessee]]
+| 1931–1933
+
+|-
+| [[James P. Buchanan]]
+| {{party shading/Democratic}} | Democratic
+| [[List of United States representatives from Texas|Texas]]
+| 1933–1937
+
+|-
+| [[Edward T. Taylor]]
+| {{party shading/Democratic}} | Democratic
+| [[List of United States representatives from Colorado|Colorado]]
+| 1937–1941
+
+|-
+| [[Clarence Cannon]]
+| {{party shading/Democratic}} | Democratic
+| [[List of United States representatives from Missouri|Missouri]]
+| 1941–1947
+
+|-
+| [[John Taber]]
+| {{party shading/Republican}} | Republican
+| [[List of United States representatives from New York|New York]]
+| 1947–1949
+
+|-
+| [[Clarence Cannon]]
+| {{party shading/Democratic}} | Democratic
+| [[List of United States representatives from Missouri|Missouri]]
+| 1949–1953
+
+|-
+| [[John Taber]]
+| {{party shading/Republican}} | Republican
+| [[List of United States representatives from New York|New York]]
+| 1953–1955
+
+|-
+| [[Clarence Cannon]]
+| {{party shading/Democratic}} | Democratic
+| [[List of United States representatives from Missouri|Missouri]]
+| 1955–1964
+
+|-
+| [[George H. Mahon]]
+| {{party shading/Democratic}} | Democratic
+| [[List of United States representatives from Texas|Texas]]
+| 1964–1979
+
+|-
+| [[Jamie L. Whitten]]
+| {{party shading/Democratic}} | Democratic
+| [[List of United States representatives from Mississippi|Mississippi]]
+| 1979–1993
+
+|-
+| [[William H. Natcher]]
+| {{party shading/Democratic}} | Democratic
+| [[List of United States representatives from Kentucky|Kentucky]]
+| 1993–1994
+
+|-
+| [[Dave Obey]]
+| {{party shading/Democratic}} | Democratic
+| [[List of United States representatives from Wisconsin|Wisconsin]]
+| 1994–1995
+
+|-
+| [[Bob Livingston]]
+| {{party shading/Republican}} | Republican
+| [[List of United States representatives from Louisiana|Louisiana]]
+| 1995–1999
+
+|-
+| [[Bill Young (Florida politician)|Bill Young]]
+| {{party shading/Republican}} | Republican
+| [[List of United States representatives from Florida|Florida]]
+| 1999–2005
+
+|-
+| [[Jerry Lewis (California politician)|Jerry Lewis]]
+| {{party shading/Republican}} | Republican
+| [[List of United States representatives from California|California]]
+| 2005–2007
+
+|-
+| [[Dave Obey]]
+| {{party shading/Democratic}} | Democratic
+| [[List of United States representatives from Wisconsin|Wisconsin]]
+| 2007–2011
+
+|-
+| [[Hal Rogers]]
+| {{party shading/Republican}} | Republican
+| [[List of United States representatives from Kentucky|Kentucky]]
+| 2011–2017
+
+|-
+| [[Rodney Frelinghuysen]]
+| {{party shading/Republican}} | Republican
+| [[List of United States representatives from New Jersey|New Jersey]]
+| 2017–2019
+
+|-
+| [[Nita Lowey]]
+| {{party shading/Democratic}} | Democratic
+| [[List of United States representatives from New York|New York]]
+| 2019–2021
+
+|-
+| [[Rosa DeLauro]]
+| {{party shading/Democratic}} | Democratic
+| [[List of United States representatives from Connecticut|Connecticut]]
+| 2021–2023
+
+|-
+| [[Kay Granger]]
+| {{party shading/Republican}} | Republican
+| [[List of United States representatives from Texas|Texas]]
+| 2023–2024
+|-
+|[[Tom Cole]]
+|{{party shading/Republican}} |Republican
+|[[Oklahoma]]
+|2024–present
+|}
+
+
+==See also==
+* [[2015 United States federal appropriations]]
+
+==References==
+{{Reflist|refs=
+<ref name=about>{{cite web|url=http://appropriations.house.gov/About/|access-date=February 25, 2012|title=About the Committee|publisher=house.gov}}</ref>
+
+<ref name=Majority>{{USBill|115|HRes|6}} (Chair), {{USBill|115|HRes|29}}</ref>
+
+<<ref name=Minority>{{USBill|115|HRes|7}} (Ranking Member), {{USBill|115|HRes|45}}</ref>
+
+<!--not used
+<ref name=subcommittees>{{cite web|url=http://appropriations.house.gov/news/documentsingle.aspx?DocumentID=315979|title=Chairman Rogers Announces Subcommittee Chairs for the 113th Congress |work=Committee on Appropriations|date=December 31, 2012|access-date=January 4, 2013}}</ref>-->
+
+<ref name=reorganization>{{cite web|url=http://appropriations.house.gov/News/pr_070104.shtml |title=Senate, House Appropriations Set Subcommittee Plans for New Congress |work=Committee on Appropriations |date=January 4, 2007 |access-date=January 4, 2013 |url-status=dead |archive-url=https://web.archive.org/web/20070131202605/http://appropriations.house.gov/News/pr_070104.shtml |archive-date=January 31, 2007 }}</ref>
+
+}}
+
+==External links==
+{{commons category|United States House Committee on Appropriations}}
+* [https://appropriations.house.gov/ Committee on Appropriations], U.S. House of Representatives ([https://www.loc.gov/item/lcwa00hsap00/ Archive])
+* [https://appropriations.house.gov/sites/democrats.appropriations.house.gov/files/migrated/uploads/House_Approps_Concise_History.pdf A Concise History of the House of Representatives Committee on Appropriations] (PDF; December 2010)
+* [https://sgp.fas.org/crs/misc/RL31572.pdf Appropriations Subcommittee Structure: History of Changes from 1920 to 2021] by [[Congressional Research Service]] (PDF).
+* [https://www.congress.gov/committee/house-appropriations/hsap00 House Appropriations Committee]. Legislation activity and reports, Congress.gov.
+* [https://www.congress.gov/committees/video/house-appropriations/hsap00 House Appropriations Committee Hearings and Meetings Video]. Congress.gov.
+
+{{United States congressional committees}}
+{{House Appropriations Chairmen}}
+
+{{DEFAULTSORT:United States House Committee On Appropriations}}
+[[Category:United States federal budgets|House Committee on Appropriations]]
+[[Category:Committees of the United States House of Representatives|Appropriations]]
+[[Category:United States federal appropriations legislation| :]]
+[[Category:1865 establishments in the United States]]
+[[Category:Organizations established in 1865]]

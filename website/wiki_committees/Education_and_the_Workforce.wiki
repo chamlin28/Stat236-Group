@@ -1,0 +1,513 @@
+{{short description|Standing committee of the United States House of Representatives}}
+{{Use mdy dates|date=February 2023}}{{Use American English|date=February 2023}}
+
+{{Infobox U.S. congressional committee|name={{PAGENAME}}|type=standing|chamber=house|congress=118th|image=Edworkforce2.png|image_size=250|caption=Committee logo|formed=March 21, 1867|former_names={{bulleted list |Committee on Education and Labor|Committee on Education|Committee on Labor|Committee on Economic and Educational Opportunities}}|chair=[[Virginia Foxx]]|ranking_member=[[Bobby Scott (politician)|Bobby Scott]]|rm_party=D|rm_since=January 3, 2023|chair_party=R|chair_since=January 3, 2023|seats= 45 members|majority1=R|majority1_seats=25|minority1=D|minority1_seats=20|website=https://edworkforce.house.gov/|senate_counterpart=[[United States Senate Committee on Health, Education, Labor and Pensions]]}}{{United States House of Representatives}}
+The '''Committee on Education and the Workforce''' is a [[Standing committee (United States Congress)|standing committee]] of the [[United States House of Representatives]]. There are 45 members of this committee. Since 2023, the chair of the Education and the Workforce committee is [[Virginia Foxx]] of [[North Carolina]].
+
+==History of the committee==
+Attempts were made to create a congressional committee on education and labor starting with the early congresses but issues over Congress's constitutional ability to oversee such issues delayed the committee's formation. Finally, on March 21, 1867, the '''Committee on Education and Labor''' was founded following the end of the [[American Civil War|Civil War]] and during the rapid industrialization of America. On December 19, 1883, the committee was divided into two, the '''Committee on Education''' and the '''Committee on Labor'''. The committees again merged on January 2, 1947, after the passage of the [[Legislative Reorganization Act of 1946]], becoming the Committee on Education and Labor again.  
+
+=== Name changes ===
+On January 4, 1995, when the Republicans took over the House, the committee was renamed the '''Committee on Economic and Educational Opportunities'''. It was renamed again as the '''Committee on Education and the Workforce''' two years later on January 7, 1997. On January 4, 2007, with the Democrats once again in the majority, the committee's name was changed back to Committee on Education and Labor.<ref>[https://www.archives.gov/legislative/guide/house/chapter-09.html Chapter 9. Records of the Committees on Education and Labor], ''Guide to the Records of the U.S. House of Representatives at the National Archives, 1789-1989'' (Record Group 233), [[National Archives and Records Administration]]</ref> After Republicans recaptured the House majority in the 2010 elections, they returned to the name, Committee on Education and the Workforce, effective with the opening of the [[112th Congress]] in 2011.<ref>[https://blogs.wsj.com/washwire/2010/12/24/republicans-labor-to-avoid-labor/ Wall Street Journal: Republicans Labor to Avoid ‘Labor’]</ref> After Democrats recaptured the House majority in the 2018 elections, they similarly returned to the previous name, Committee on Education and Labor, effective with the opening of the [[116th Congress]] in 2019.{{cn|date=September 2022}} 
+With the passing of the new House Rules associated to the Speaker negotiations in January of 2023, the 118th Congress renamed the committee as the Committee on Education and the Workforce again.<ref>[https://www.pbs.org/newshour/politics/there-are-new-house-rules-under-gop-leadership-heres-a-short-guide PBS: There are new House rules under GOP leadership. Here’s a short guide]</ref>
+
+== Activity ==
+In December 2023, the Committee held a [[2023 United States Congress hearing on antisemitism|hearing on antisemitism]] at which three university presidents were invited to speak about their handling of antisemitism on their campuses, and later pressured to resign.<ref>{{Cite web |last=Borter |first=Gabriella |last2=Morgan |first2=David |date=December 8, 2023 |title=U.S. lawmakers demand Harvard, MIT, Penn remove presidents after antisemitism hearing |url=https://www.reuters.com/world/us/wharton-letter-adds-pressure-penn-president-resign-2023-12-08/ |publisher=Reuters}}</ref><ref>{{Cite web |date=2024-01-02 |title=New York Post: Harvard President Claudine Gay's resignation 'just the beginning of reckoning' amid House antisemitism probe: Stefanik |url=https://stefanik.house.gov/2024/1/icymi-new-york-post-harvard-president-claudine-gay-s-resignation-just-the-beginning-of-reckoning-amid-house-antisemitism-probe-stefanik |access-date=2024-01-11 |website=Congresswoman Elise Stefanik |language=en}}</ref> Ultimately, within weeks the [[List of presidents of the University of Pennsylvania|president of the University of Pennsylvania]], [[M. Elizabeth Magill]], resigned as direct consequence of the hearing, and Claudine Gay, [[president of Harvard University]] was forced out because of plagiarism accusations amplified in part due to the hearing.
+
+An April 2024 hearing with [[President of Columbia University|Columbia University president]] [[Minouche Shafik]] was held later in the morning of the first day of the [[2024 Columbia University pro-Palestinian campus occupation]]. Shafik resigned as President on August 14th of that same year.
+
+==Members, 118th Congress==
+{| class=wikitable
+|-
+! Majority
+! Minority
+|-
+| {{party shading/Republican}} valign=top |
+* [[Virginia Foxx]], North Carolina, ''Chair''
+* [[Joe Wilson (American politician)|Joe Wilson]], South Carolina
+* [[Glenn Thompson (politician)|Glenn Thompson]], Pennsylvania
+* [[Tim Walberg]], Michigan
+* [[Glenn Grothman]], Wisconsin
+* [[Elise Stefanik]], New York
+* [[Rick Allen (politician)|Rick Allen]], Georgia
+* [[Jim Banks]], Indiana
+* [[James Comer (politician)|James Comer]], Kentucky
+* [[Lloyd Smucker]], Pennsylvania
+* [[Burgess Owens]], Utah
+* [[Bob Good]], Virginia
+* [[Lisa McClain]], Michigan
+* [[Mary Miller (politician)|Mary Miller]], Illinois
+* [[Michelle Steel]], California
+* [[Ron Estes]], Kansas
+* [[Julia Letlow]], Louisiana
+* [[Kevin Kiley (politician)|Kevin Kiley]], California
+* [[Aaron Bean]], Florida
+* [[Eric Burlison]], Missouri
+* [[Nathaniel Moran]], Texas
+* [[John James (Michigan politician)|John James]], Michigan
+* [[Lori Chavez-DeRemer]], Oregon
+* [[Brandon Williams (politician)|Brandon Williams]], New York
+* [[Erin Houchin]], Indiana
+
+| {{party shading/Democratic}} valign=top |
+* [[Bobby Scott (politician)|Bobby Scott]], Virginia, ''Ranking Member''
+* [[Raúl Grijalva]], Arizona
+* [[Joe Courtney (politician)|Joe Courtney]], Connecticut
+* [[Gregorio Sablan]], Northern Mariana Islands
+* [[Frederica Wilson]], Florida
+* [[Suzanne Bonamici]], Oregon
+* [[Mark Takano]], California
+* [[Alma Adams]], North Carolina
+* [[Mark DeSaulnier]], California
+* [[Donald Norcross]], New Jersey
+* [[Pramila Jayapal]], Washington
+* [[Susan Wild]], Pennsylvania
+* [[Lucy McBath]], Georgia
+* [[Jahana Hayes]], Connecticut
+* [[Ilhan Omar]], Minnesota
+* [[Haley Stevens]], Michigan
+* [[Teresa Leger Fernandez]], New Mexico
+* [[Kathy Manning]], North Carolina
+* [[Frank J. Mrvan]], Indiana
+* [[Jamaal Bowman]], New York
+|}
+Resolutions electing members: {{USBill|118|HRes|14}} (Chair), {{USBill|118|HRes|15}} (Ranking Member), {{USBill|118|HRes|80}} (R), {{USBill|118|HRes|87}} (D)
+
+==Subcommittees==
+{| class="wikitable"
+|-
+! Subcommittee
+! Chair<ref>{{Cite web |date=2023-01-31 |title=Education And The Workforce Committee Adopts Rules And Oversight Plan For 118th Congress |url=https://edworkforce.house.gov/news/documentsingle.aspx?DocumentID=408797 |access-date=2023-02-01 |website=Committee on Education & the Workforce |language=en}}</ref>
+! Ranking Member<ref>{{Cite web |title=NEW: 118th Congress Democratic Committee Assignments {{!}} Education & The Workforce Committee Democrats |url=https://democrats-edworkforce.house.gov/media/press-releases/new-118th-congress-democratic-committee-assignments |access-date=2023-02-01 |website=democrats-edworkforce.house.gov |language=en}}</ref>
+|-
+| [[United States House Education Subcommittee on Early Childhood, Elementary and Secondary Education|Early Childhood, Elementary and Secondary Education]]
+| [[Aaron Bean]] (R-FL)
+| [[Suzanne Bonamici]] (D-OR)
+|-
+| [[United States House Education Subcommittee on Health, Employment, Labor, and Pensions|Health, Employment, Labor, and Pensions]]
+| [[Bob Good]] (R-VA)
+| [[Mark DeSaulnier|Mark Desaulnier]] (D-CA)
+|-
+| [[United States House Education Subcommittee on Higher Education and Workforce Investment|Higher Education and Workforce Investment]]
+| [[Burgess Owens]] (R-UT)
+| [[Frederica Wilson]] (D-FL)
+|-
+| [[United States House Education Subcommittee on Workforce Protections|Workforce Protections]]
+| [[Kevin Kiley (politician)|Kevin Kiley]] (R-CA)
+| [[Alma Adams]] (D-NC)
+|}
+
+==Historical membership rosters==
+===115th Congress===
+{| class=wikitable
+|-
+! Majority
+! Minority
+|-
+| {{party shading/Republican}} valign=top |
+* [[Virginia Foxx]], North Carolina, ''Chair''
+* [[Joe Wilson (U.S. politician)|Joe Wilson]], South Carolina, ''Vice Chair''
+* [[Duncan D. Hunter]], California
+* [[Phil Roe (politician)|Phil Roe]], Tennessee
+* [[Glenn Thompson (politician)|Glenn Thompson]], Pennsylvania
+* [[Tim Walberg]], Michigan
+* [[Brett Guthrie]], Kentucky
+* [[Todd Rokita]], Indiana
+* [[Lou Barletta]], Pennsylvania
+* [[Luke Messer]], Indiana
+* [[Bradley Byrne]], Alabama 
+* [[Dave Brat]], Virginia
+* [[Glenn Grothman]], Wisconsin
+* [[Elise Stefanik]], New York
+* [[Rick W. Allen]], Georgia
+* [[Jason Lewis (congressman)|Jason Lewis]], Minnesota
+* [[Francis Rooney]], Florida
+* [[Paul Mitchell (politician)|Paul Mitchell]], Michigan
+* [[Tom Garrett (Virginia politician)|Tom Garrett]], Virginia
+* [[Lloyd Smucker]], Pennsylvania
+* [[Drew Ferguson (politician)|Drew Ferguson]], Georgia
+* [[Ron Estes]], Kansas
+* [[Karen Handel]], Georgia
+| {{party shading/Democratic}} valign=top |
+* [[Bobby Scott (politician)|Bobby Scott]], Virginia, ''Ranking Member''
+* [[Susan Davis (politician)|Susan Davis]], California
+* [[Raúl Grijalva]], Arizona
+* [[Joe Courtney (politician)|Joe Courtney]], Connecticut
+* [[Marcia Fudge]], Ohio
+* [[Jared Polis]], Colorado
+* <span {{Party shading/Independent}}>[[Gregorio Sablan]], Northern Mariana Islands<ref>Sablan is an Independent, but caucuses with the Democrats.</ref></span>
+* [[Frederica Wilson]], Florida
+* [[Suzanne Bonamici]], Oregon, ''Vice Ranking Member''
+* [[Mark Takano]], California
+* [[Alma Adams]], North Carolina
+* [[Mark DeSaulnier]], California
+* [[Donald Norcross]], New Jersey
+* [[Lisa Blunt Rochester]], Delaware
+* [[Raja Krishnamoorthi]], Illinois
+* [[Carol Shea-Porter]], New Hampshire
+* [[Adriano Espaillat]], New York
+|}
+
+Sources: {{USBill|115|HRes|6}} (Chair), {{USBill|115|HRes|7}} (Ranking Member), {{USBill|115|HRes|45}} (D), {{USBill|115|HRes|51}} (R), {{USBill|115|HRes|59}} (D), {{USBill|115|HRes|131}} (R)
+
+===116th Congress===
+{| class=wikitable
+|-
+! Majority
+! Minority
+|-
+| {{party shading/Democratic}} valign=top |
+* [[Bobby Scott (politician)|Bobby Scott]], Virginia, ''Chair''
+* [[Susan Davis (politician)|Susan Davis]], California
+* [[Raúl Grijalva]], Arizona
+* [[Joe Courtney (politician)|Joe Courtney]], Connecticut
+* [[Marcia Fudge]], Ohio
+* <span {{Party shading/Independent}}>[[Gregorio Sablan]], Northern Mariana Islands<ref>Sablan is an Independent, but caucuses with the Democrats.</ref></span>
+* [[Frederica Wilson]], Florida
+* [[Suzanne Bonamici]], Oregon
+* [[Mark Takano]], California
+* [[Alma Adams]], North Carolina
+* [[Mark DeSaulnier]], California
+* [[Donald Norcross]], New Jersey
+* [[Pramila Jayapal]], Washington
+* [[Joseph Morelle]], New York
+* [[Susan Wild]], Pennsylvania
+* [[Josh Harder]], California
+* [[Lucy McBath]], Georgia
+* [[Kim Schrier]], Washington
+* [[Lauren Underwood]], Illinois
+* [[Jahana Hayes]], Connecticut
+* [[Donna Shalala]], Florida
+* [[Andy Levin]], Michigan, ''Vice Chair''
+* [[Ilhan Omar]], Minnesota
+* [[David Trone]], Maryland
+* [[Haley Stevens]], Michigan
+* [[Susie Lee]], Nevada
+* [[Joaquin Castro]], Texas
+* [[Lori Trahan]], Massachusetts
+
+| {{party shading/Republican}} valign=top |
+* [[Virginia Foxx]], North Carolina, ''Ranking Member''
+* [[Phil Roe (politician)|Phil Roe]], Tennessee
+* [[Glenn Thompson (politician)|Glenn Thompson]], Pennsylvania
+* [[Tim Walberg]], Michigan
+* [[Brett Guthrie]], Kentucky
+* [[Bradley Byrne]], Alabama 
+* [[Glenn Grothman]], Wisconsin
+* [[Elise Stefanik]], New York
+* [[Rick W. Allen]], Georgia
+* [[Lloyd Smucker]], Pennsylvania
+* [[Jim Banks]], Indiana
+* [[Mark Walker (North Carolina politician)|Mark Walker]], North Carolina
+* [[James Comer (politician)|James Comer]], Kentucky
+* [[Ben Cline]], Virginia
+* [[Russ Fulcher]], Idaho
+* [[Van Taylor]], Texas
+* [[Steve Watkins (politician)|Steve Watkins]], Kansas
+* [[Ron Wright (politician)|Ron Wright]], Texas
+* [[Dan Meuser]], Pennsylvania
+* [[Dusty Johnson]], South Dakota
+* [[Fred Keller (politician)|Fred Keller]], Pennsylvania (since July 10, 2019)
+* [[Greg Murphy (politician)|Greg Murphy]], North Carolina (since September 26, 2019)
+* [[Jeff Van Drew]], New Jersey (since January 16, 2020)
+|}
+Sources: {{USBill|116|HRes|24}} (Chair), {{USBill|116|HRes|25}} (Ranking Member), {{USBill|116|HRes|42}} (D), {{USBill|116|HRes|68}} (R), {{USBill|116|HRes|73}} (D), {{USBill|116|HRes|481}} (R), {{USBill|116|HRes|596}} (R), {{USBill|116|HRes|801}} (R)
+
+;Subcommittees
+
+{{As of|2019}}:<ref>{{cite web|title=Members, Subcommittees & Jurisdictions|url=https://edlabor.house.gov/imo/media/doc/2019-01-29%20Committee%20Roster.pdf|publisher=Committee on Education and Labor, U.S. House of Representatives|access-date=January 30, 2019}}</ref>
+ 
+{| class="wikitable"
+|-
+! Subcommittee
+! Chair
+! Ranking Member
+|-
+| [[United States House Education Subcommittee on Civil Rights and Human Services|Civil Rights and Human Services]]
+| [[Suzanne Bonamici]] (D-OR)
+| [[James Comer (politician)|James Comer]] (R-KY)
+|-
+| [[United States House Education Subcommittee on Early Childhood, Elementary and Secondary Education|Early Childhood, Elementary and Secondary Education]]
+| [[Gregorio Sablan]] (I-MP)
+| [[Rick W. Allen]] (R-GA)
+|-
+| [[United States House Education Subcommittee on Health, Employment, Labor, and Pensions|Health, Employment, Labor, and Pensions]]
+| [[Frederica Wilson]] (D-FL)
+| [[Tim Walberg]] (R-MI)
+|-
+| [[United States House Education Subcommittee on Higher Education and Workforce Investment|Higher Education and Workforce Investment]]
+| [[Susan Davis (politician)|Susan Davis]] (D-CA)
+| [[Lloyd Smucker]] (R-PA)
+|-
+| [[United States House Education Subcommittee on Workforce Protections|Workforce Protections]]
+| [[Alma Adams]] (D-NC)
+| [[Bradley Byrne]] (R-AL)
+|}
+
+===117th Congress===
+{| class=wikitable
+|-
+! Majority
+! Minority
+|-
+| {{party shading/Democratic}} valign=top |
+* [[Bobby Scott (politician)|Bobby Scott]], Virginia, ''Chair''
+* [[Raúl Grijalva]], Arizona
+* [[Joe Courtney (politician)|Joe Courtney]], Connecticut
+* [[Gregorio Sablan]], Northern Mariana Islands
+* [[Frederica Wilson]], Florida
+* [[Suzanne Bonamici]], Oregon
+* [[Mark Takano]], California
+* [[Alma Adams]], North Carolina
+* [[Mark DeSaulnier]], California
+* [[Donald Norcross]], New Jersey
+* [[Pramila Jayapal]], Washington
+* [[Joseph Morelle]], New York
+* [[Susan Wild]], Pennsylvania
+* [[Lucy McBath]], Georgia
+* [[Jahana Hayes]], Connecticut
+* [[Andy Levin]], Michigan
+* [[Ilhan Omar]], Minnesota
+* [[Haley Stevens]], Michigan
+* [[Teresa Leger Fernandez]], New Mexico
+* [[Mondaire Jones]], New York
+* [[Kathy Manning]], North Carolina
+* [[Frank J. Mrvan]], Indiana
+* [[Jamaal Bowman]], New York, ''Vice Chair''
+* [[Sheila Cherfilus-McCormick]], Florida (since February 2, 2022)
+* [[Mary Peltola]], Alaska (since September 29, 2022)
+* [[Mark Pocan]], Wisconsin
+* [[Joaquin Castro]], Texas
+* [[Mikie Sherrill]], New Jersey
+* [[John Yarmuth]], Kentucky
+* [[Adriano Espaillat]], New York
+* [[Kweisi Mfume]], Maryland (since February 11, 2021)
+
+| {{party shading/Republican}} valign=top |
+* [[Virginia Foxx]], North Carolina, ''Ranking Member''
+* [[Joe Wilson (American politician)|Joe Wilson]], South Carolina
+* [[Glenn Thompson (politician)|Glenn Thompson]], Pennsylvania
+* [[Tim Walberg]], Michigan
+* [[Glenn Grothman]], Wisconsin
+* [[Elise Stefanik]], New York
+* [[Rick W. Allen]], Georgia
+* [[Jim Banks]], Indiana
+* [[James Comer (politician)|James Comer]], Kentucky
+* [[Russ Fulcher]], Idaho
+* [[Ron Wright (politician)|Ron Wright]], Texas (until February 7, 2021)
+* [[Fred Keller (politician)|Fred Keller]], Pennsylvania
+* [[Greg Murphy (politician)|Greg Murphy]], North Carolina
+* [[Mariannette Miller-Meeks]], Iowa
+* [[Michelle Steel]], California
+* [[Burgess Owens]], Utah
+* [[Bob Good]], Virginia
+* [[Lisa McClain]], Michigan
+* [[Marjorie Taylor Greene]], Georgia (until February 4, 2021)
+* [[Diana Harshbarger]], Tennessee
+* [[Mary Miller (politician)|Mary Miller]], Illinois
+* [[Victoria Spartz]], Indiana
+* [[Scott L. Fitzgerald]], Wisconsin
+* [[Madison Cawthorn]], North Carolina
+* [[Kelly Armstrong]], North Dakota
+* [[Brad Finstad]], Minnesota (since September 13, 2022)
+* [[Joe Sempolinski]], New York (since September 13, 2022)
+|}
+Resolutions electing members: {{USBill|117|HRes|9}} (Chair), {{USBill|117|HRes|10}} (Ranking Member), {{USBill|117|HRes|62}} (D), {{USBill|117|HRes|63}} (R), {{USBill|117|HRes|72}} (removing Rep. Greene), {{USBill|117|HRes|92}} (D), {{USBill|117|HRes|111}} (D), {{USBill|117|HRes|311}} (R), {{USBill|117|HRes|902}} (D), {{USBill|117|HRes|1340}} (R), {{USBill|117|HRes|1404}} (D)
+;Subcommittees
+{| class="wikitable"
+|-
+! Subcommittee<ref>{{cite web|title=Chairman Scott Statement Announces New Subcommittee and Vice Chairs|url=https://edlabor.house.gov/media/press-releases/chairman-scott-statement-announces-new-subcommittee-and-vice-chairs|publisher=Committee on Education and Labor, U.S. House of Representatives|access-date=February 8, 2021}}</ref>
+! Chair
+! Ranking Member
+|-
+| [[United States House Education Subcommittee on Civil Rights and Human Services|Civil Rights and Human Services]]
+| [[Suzanne Bonamici]] (D-OR)
+| [[Russ Fulcher]] (R-ID)
+|-
+| [[United States House Education Subcommittee on Early Childhood, Elementary and Secondary Education|Early Childhood, Elementary and Secondary Education]]
+| [[Gregorio Sablan]] (I-MP)
+| [[Burgess Owens]] (R-UT)
+|-
+| [[United States House Education Subcommittee on Health, Employment, Labor, and Pensions|Health, Employment, Labor and Pensions]]
+| [[Mark DeSaulnier]] (D-CA)
+| [[Rick W. Allen]] (R-GA)
+|-
+| [[United States House Education Subcommittee on Higher Education and Workforce Investment|Higher Education and Workforce Investment]]
+| [[Frederica Wilson]] (D-FL)
+| [[Greg Murphy (politician)|Greg Murphy]] (R-NC)
+|-
+| [[United States House Education Subcommittee on Workforce Protections|Workforce Protections]]
+| [[Alma Adams]] (D-NC)
+| [[Fred Keller (politician)|Fred Keller]] (R-PA)
+|}
+
+== Chairs ==
+
+;Committee on Education and Labor (1867–1883)
+{| class=wikitable
+|-
+! Chair !! Party !! State !! Start of service !! End of service
+|- {{Party shading/Republican}}
+| [[Jehu Baker]] || Republican || IL || 1867 || 1860
+
+|- {{Party shading/Republican}}
+| [[Samuel Fenton Cary|Samuel F. Cary]] || Republican || OH || colspan=2 style="text-align:center;" |1869
+|- {{Party shading/Republican}}
+| [[Samuel Mayes Arnell|Samuel M. Arnell]] || Republican || TN || 1869 || 1871
+|- {{Party shading/Republican}}
+| [[Legrand W. Perce]] || Republican || MS || 1871 || 1873
+|- {{Party shading/Republican}}
+| [[James Monroe (congressman)|James Monroe]] || Republican || OH || 1873 || 1875
+|- {{Party shading/Democratic}}
+| [[Gilbert Carlton Walker|Gilbert C. Walker]] || Democratic || VA || 1875 || 1877
+|- {{Party shading/Democratic}}
+| [[John Goode (Virginia politician)|John Goode]] || Democratic || VA || 1877 || 1881
+|- {{Party shading/Republican}}
+| [[Jonathan T. Updegraff]] || Republican || OH || 1881 || 1882
+|- {{Party shading/Republican}}
+| [[John C. Sherwin]] || Republican || IL || 1882 || 1883
+|}
+
+;Committee on Education and Committee on Labor (1883–1947)
+{| class=wikitable
+!colspan=5|Committee on Education !! rowspan=100| !! colspan=5|Committee on Labor
+|-
+! Chair !! Party !! State !! Start of service !! End of service !! Chair !! Party !! State !! Start of service !! End of service
+|- {{Party shading/Democratic}}
+| [[D. Wyatt Aiken]] || Democratic || SC || 1883 || 1887 || [[James Herron Hopkins|James H. Hopkins]] || Democratic || PA || 1883 || 1885
+|- {{Party shading/Democratic}}
+| [[Allen D. Candler]] || Democratic || GA || 1887 || 1889 || [[John Joseph O'Neill (U.S. politician)|John J. O'Neill]] || Democratic || MO || 1885 || 1889
+|- {{Party shading/Republican}}
+| [[James O'Donnell (politician)|James O'Donnell]] || Republican || MI || 1889 || 1891 || [[William H. Wade]] || Republican || MO || 1889 || 1891
+|- {{Party shading/Democratic}}
+| [[Walter I. Hayes]] || Democratic || IA || 1891 || 1892 || [[John Charles Tarsney|John C. Tarsney]] || Democratic || MO || 1891 || 1893
+|- {{Party shading/Democratic}}
+| [[David B. Brunner]] || Democratic || PA || colspan=2 align=center|1892 || [[Lawrence E. McGann]] || Democratic || IL || 1893 || 1895
+|- {{Party shading/Democratic}}
+| [[Benjamin A. Enloe]] || Democratic || TN || 1892 || 1895 || {{Party shading/Republican}}| [[Thomas Wharton Phillips|Thomas W. Phillips]] || {{Party shading/Republican}}| Republican || {{Party shading/Republican}}| PA || {{Party shading/Republican}}| 1895 || {{Party shading/Republican}}| 1897
+|- {{Party shading/Republican}}
+| [[Galusha A. Grow]] || Republican || PA || 1895 || 1903 || [[John J. Gardner]] || Republican || NJ || 1897 || 1911
+|- {{Party shading/Republican}}
+| [[George N. Southwick]] || Republican || NY || 1903 || 1909 || {{Party shading/Democratic}}| [[William Bauchop Wilson|William B. Wilson]] || {{Party shading/Democratic}}|Democratic || {{Party shading/Democratic}}|PA || {{Party shading/Democratic}}|1911 || {{Party shading/Democratic}}|1913
+|- {{Party shading/Republican}}
+| [[James F. Burke (politician)|James F. Burke]] || Republican || PA || 1909 || 1911 || {{Party shading/Democratic}}| [[David John Lewis|David J. Lewis]] || {{Party shading/Democratic}}| Democratic || {{Party shading/Democratic}}| MD || {{Party shading/Democratic}}| 1913 || {{Party shading/Democratic}}| 1917
+|- {{Party shading/Democratic}}
+| [[Asbury Francis Lever|Asbury F. Lever]] || Democratic || SC || 1911 || 1913 || [[James P. Maher]] || Democratic || NY || 1917 || 1919
+|- {{Party shading/Democratic}}
+| [[Dudley Mays Hughes|Dudley M. Hughes]] || Democratic || GA || 1913 || 1917 || {{Party shading/Republican}}| [[John M. C. Smith]] || {{Party shading/Republican}}| Republican || {{Party shading/Republican}}| MI || {{Party shading/Republican}}| 1919 || {{Party shading/Republican}}| 1921
+|- {{Party shading/Democratic}}
+| [[William J. Sears]] || Democratic || FL || 1917 || 1919 || {{Party shading/Republican}}| [[John I. Nolan]] || {{Party shading/Republican}}| Republican || {{Party shading/Republican}}| CA || {{Party shading/Republican}}| 1921 || {{Party shading/Republican}}| 1922
+|- {{Party shading/Republican}}
+| [[Simeon D. Fess]] || Republican || OH || 1919 || 1923 || [[Frederick Nicholas Zihlman|Frederick N. Zihlman]] || Republican || MD || 1922 || 1925
+|- {{Party shading/Republican}}
+| [[Frederick W. Dallinger]] || Republican || MA || 1923 || 1925 || [[William F. Kopp]] || Republican || IA || 1925 || 1930
+|- {{Party shading/Republican}}
+| [[Daniel A. Reed (politician)|Daniel A. Reed]] || Republican || NY || 1925 || 1931 || [[Richard J. Welch]] || Republican || CA || 1930 || 1931
+|- {{Party shading/Democratic}}
+| [[John J. Douglass]] || Democratic || MA || 1931 || 1935 || [[William P. Connery Jr.]] || Democratic || MA || 1931 || 1937
+|- {{Party shading/Democratic}}
+| [[Vincent Luke Palmisano|Vincent L. Palmisano]] || Democratic || MD || 1935 || 1937 || [[Mary Teresa Norton]] || Democratic || NJ || 1937 || 1947
+|- {{Party shading/Democratic}}
+| [[William Larrabee (Indiana)|William H. Larrabee]] || Democratic || IN || 1937 || 1943 || bgcolor=EAECF0 colspan=5 rowspan=2|
+|- {{Party shading/Democratic}}
+| [[Graham Arthur Barden|Graham A. Barden]] || Democratic || NC || 1943 || 1947
+|}
+
+;Committee on Education and Labor (1947–1995)
+{| class=wikitable
+|-
+! Chair !! Party !! State !! Start of service !! End of service
+|- {{Party shading/Republican}}
+| [[Fred A. Hartley Jr.|Fred A. Hartley]] || Republican || NJ || 1947 || 1949
+|- {{Party shading/Democratic}}
+| [[John Lesinski Sr.]] || Democratic || MI || 1949 || 1950
+|- {{Party shading/Democratic}}
+| [[Graham Arthur Barden|Graham A. Barden]] || Democratic || NC || 1950 || 1953
+|- {{Party shading/Republican}}
+| [[Samuel K. McConnell Jr.|Samuel K. McConnell]] || Republican || PA || 1953 || 1955
+|- {{Party shading/Democratic}}
+| [[Graham Arthur Barden|Graham A. Barden]] || Democratic || NC || 1955 || 1961
+|- {{Party shading/Democratic}}
+| [[Adam Clayton Powell Jr.|Adam Clayton Powell]] || Democratic || NY || 1961 || 1967
+|- {{Party shading/Democratic}}
+| [[Carl D. Perkins]] || Democratic || KY || 1967 || 1984
+|- {{Party shading/Democratic}}
+| [[Augustus F. Hawkins]] || Democratic || CA || 1984 || 1991
+|- {{Party shading/Democratic}}
+| [[William D. Ford]] || Democratic || MI || 1991 || 1995
+|}
+
+;Committee on Economic and Educational Opportunities (1995–1997)
+{| class=wikitable
+|-
+! Chair !! Party !! State !! Start of service !! End of service
+|- {{Party shading/Republican}}
+| [[William F. Goodling]] || Republican || PA || 1995 || 1997
+|}
+
+;Committee on Education and the Workforce (1997–2007)
+{| class=wikitable
+|-
+! Chair !! Party !! State !! Start of service !! End of service
+|- {{Party shading/Republican}}
+| [[William F. Goodling]] || Republican || PA || 1997 || 2001
+|- {{Party shading/Republican}}
+| [[John Boehner]] || Republican || OH || 2001 || 2006
+|- {{Party shading/Republican}}
+| [[Buck McKeon]] || Republican || CA || 2006 || 2007
+|}
+
+;Committee on Education and Labor (2007–2011)
+{| class=wikitable
+|-
+! Chair !! Party !! State !! Start of service !! End of service
+|- {{Party shading/Democratic}}
+| [[George Miller (California politician)|George Miller]] || Democratic || CA || 2007 || 2011
+|}
+
+;Committee on Education and the Workforce (2011–2019)
+{| class=wikitable
+|-
+! Chair !! Party !! State !! Start of service !! End of service
+|- {{Party shading/Republican}}
+| [[John Kline (politician)|John Kline]] || Republican || MN || 2011 || 2017
+|- {{Party shading/Republican}}
+| [[Virginia Foxx]] || Republican || NC || 2017 || 2019
+|}
+
+;Committee on Education and Labor (2019–2023)
+{| class=wikitable
+|-
+! Chair !! Party !! State !! Start of service !! End of service
+|- {{Party shading/Democratic}}
+| [[Bobby Scott (politician)|Bobby Scott]] || Democratic || VA || 2019 || 2023
+|}
+
+;Committee on Education and the Workforce (2023–present)
+{| class=wikitable
+|-
+! Chair !! Party !! State !! Start of service !! End of service
+|- {{Party shading/Republican}}
+| [[Virginia Foxx]] || Republican || NC || 2023 || present
+|}
+
+== See also ==
+*[[Employee Free Choice Act]]
+* [[List of current United States House of Representatives committees]]
+
+== References ==
+{{reflist}}
+
+==External links==
+* [https://edlabor.house.gov/ Official homepage] ([https://www.loc.gov/item/lcwa00hsed00/ Archive])
+* [https://www.congress.gov/committee/house-education-and-the-workforce/hsed00 House Education and the Workforce Committee]. Legislation activity and reports, Congress.gov.
+
+{{clear}}
+{{United States House Education and the Workforce Subcommittees}}
+{{United States congressional committees}}
+
+[[Category:Committees of the United States House of Representatives|Education and the Workforce]]
+[[Category:Education in the United States]]
+[[Category:1867 establishments in the United States]]
+[[Category:Organizations established in 1867]]
+[[Category:Labor in the United States]]

@@ -1,0 +1,396 @@
+{{Short description|Standing committee of the United States House of Representatives}}
+{{Infobox U.S. congressional committee
+| name               = House Small Business Committee
+| type               = standing
+| chamber            = house
+| congress           = 118th
+| status             = active
+| formed             = December 4, 1941
+| chair              = [[Roger Williams (Texas politician)|Roger Williams]]
+| chair_party        = R
+| chair_since        = January 3, 2023
+| ranking_member     = [[Nydia Velázquez]]
+| rm_party           = D
+| rm_since           = January 3, 2023
+| vice_chair         = [[To be determined|TBD]]
+| vc_party           = 
+| vc_since           = 
+| seats              = 27
+| majority1          = R
+| majority1_seats    = 15
+| minority1          = D
+| minority1_seats    = 12
+| policy_areas       = 
+| oversight          = [[Small Business Administration]]
+| counterpart        = [[United States Senate Committee on Small Business and Entrepreneurship|Senate Small Business Committee]]
+| subcommittees      = 
+| meeting_place      = 
+| meeting_image      = 
+| meeting_img_size   = 
+| website            = {{url|smallbusiness.house.gov}}
+}}
+{{United States House of Representatives}}
+The '''United States House Committee on Small Business''' is a standing committee of the [[United States House of Representatives]]. It was established in 1941 as the House Select Committee on Small Business.<ref>{{Cite web|url=https://smallbusiness.house.gov/about/history-jurisdiction.htm|title=History and Jurisdiction &#124; Small Business Committee}}</ref>
+
+==History==
+On December 4, 1941, the U. S. House of Representatives created the first House Select Committee on Small Business in response to a growing number of small business activists and organizations advocating for more protections and better government policies for America's small businesses. While it had no legislative authority, the select committee became popular with House members and was reauthorized every following Congress until January 5, 1975, when it was made a permanent standing committee. House members then granted the new standing committee with certain areas of legislative jurisdiction and oversight functions, increasing its scope and influence.
+
+Specifically, the House Small Business Committee is charged with assessing and investigating the problems of small businesses and examining the impact of general business practices and trends on small businesses. The committee has oversight and legislative authority over the Small Business Administration (SBA) and its programs, as well as provides assistance to and protection of small businesses, including financial aid and the participation of small business enterprises in federal procurement and government contracts.
+
+==Jurisdiction==
+The Small Business Committee has oversight and legislative jurisdiction over the [[Small Business Administration]] and its programs, as well as provides assistance to and protection of small business, including financial aid and the participation of small business enterprises in federal procurement and government contracts. The committee also oversees matters related to the [[Regulatory Flexibility Act]] and the [[Paperwork Reduction Act]]. The jurisdiction extends to other programs and initiatives addressing small business outside of the confines of these two specific acts.<ref>Rep. [[Louise Slaughter]], {{USCongRec|2007|H9}}</ref><ref>{{Cite web |url=http://www.rules.house.gov/ruleprec/110th.pdf |title=Rules of the House for the 110th Congress |access-date=2010-07-25 |archive-url=https://web.archive.org/web/20100528025556/http://www.rules.house.gov/ruleprec/110th.pdf |archive-date=2010-05-28 |url-status=dead }}</ref>
+
+==Members, 118th Congress==
+{| class=wikitable
+|-
+! Majority
+! Minority
+|-
+| {{party shading/Republican}} valign=top |
+* [[Roger Williams (Texas politician)|Roger Williams]], Texas, ''Chair''
+* [[Blaine Luetkemeyer]], Missouri
+* [[Pete Stauber]], Minnesota
+* [[Dan Meuser]], Pennsylvania
+* [[Beth Van Duyne]], Texas
+* [[María Elvira Salazar]], Florida
+* [[Tracey Mann]], Kansas
+* [[Jake Ellzey]], Texas
+* [[Marc Molinaro]], New York
+* [[Mark Alford (politician)|Mark Alford]], Missouri
+* [[Eli Crane]], Arizona
+* [[Aaron Bean]], Florida
+* [[Wesley Hunt]], Texas
+* [[Nick LaLota]], New York
+* [[Celeste Maloy]], Utah (from December 6, 2023)
+
+| {{party shading/Democratic}} valign=top |
+* [[Nydia Velázquez]], New York, ''Ranking Member''
+* [[Jared Golden]], Maine
+* [[Kweisi Mfume]], Maryland
+* [[Dean Phillips]], Minnesota
+* [[Greg Landsman]], Ohio
+* [[Marie Gluesenkamp Perez]], Washington
+* [[Shri Thanedar]], Michigan
+* [[Morgan McGarvey]], Kentucky
+* [[Hillary Scholten]], Michigan
+* [[Judy Chu]], California
+* [[Sharice Davids]], Kansas
+* [[Chris Pappas (American politician)|Chris Pappas]], New Hampshire
+|}
+Resolutions electing members: {{USBill|118|HRes|14}} (Chair), {{USBill|118|HRes|15}} (Ranking Member), {{USBill|118|HRes|80}} (R), {{USBill|118|HRes|87}} (D), {{USBill|118|HRes|913}} (R)
+
+==Subcommittees==
+{| class="wikitable"
+|-
+! Subcommittee<ref name=":0" /><ref name=":1" />
+! Chair<ref>{{Cite web |date=2023-02-02 |title=Chairman Williams Announces Small Business Subcommittee Chairs and Assignments |url=https://smallbusiness.house.gov/news/documentsingle.aspx?DocumentID=404454 |access-date=2023-02-03 |website=Small Business Committee Republicans |language=en}}</ref>
+! Ranking Member<ref>{{Cite web |date=2023-02-08 |title=Ranking Member Velázquez Announces 118th Congress Subcommittee Ranking Members and Assignments |url=https://democrats-smallbusiness.house.gov/news/documentsingle.aspx?DocumentID=4473 |access-date=2023-02-08 |website=Small Business Committee {{!}} Democrats |language=en}}</ref>
+|-
+| [[United States House Small Business Subcommittee on Contracting and Workforce|Contracting and Infrastructure]]
+| [[Nick LaLota]] (R-NY)
+|[[Hillary Scholten]] (D-MI)
+|-
+| [[United States House Small Business Subcommittee on Economic Growth, Tax and Capital Access|Economic Growth, Tax and Capital Access]]
+| [[Dan Meuser]] (R-PA)
+|[[Greg Landsman]] (D-OH)
+|-
+| [[United States House Small Business Subcommittee on Innovation, Entrepreneurship, and Workforce Development|Innovation, Entrepreneurship, and Workforce Development]]
+| [[Marc Molinaro]] (R-NY)
+|[[Morgan McGarvey]] (D-KY)
+|-
+| [[United States House Small Business Subcommittee on Investigations, Oversight and Regulations|Oversight, Investigations and Regulations]]
+| [[Beth Van Duyne]] (R-TX)
+|[[Kweisi Mfume]] (D-MD)
+|-
+| [[United States House Small Business Subcommittee on Rural Development, Energy, and Supply Chains|Rural Development, Energy and Supply Chains]]
+| [[Wesley Hunt]] (R-TX)
+|[[Marie Gluesenkamp Perez]] (D-WA)
+|}
+
+==Chairmen==
+{| class=wikitable
+! Chairman
+! Party
+! State
+! Years
+|-
+| [[Walter C. Ploeser]]
+| {{party shading/Republican}} | Republican
+| [[Missouri]]
+| 1947–1949
+|-
+| [[Wright Patman]]
+| {{party shading/Democratic}} | Democratic
+| [[Texas]]
+| 1949–1953
+|-
+| [[William S. Hill]]
+| {{party shading/Republican}} | Republican
+| [[Colorado]]
+| 1953–1955
+|-
+| [[Wright Patman]]
+| {{party shading/Democratic}} | Democratic
+| [[Texas]]
+| 1955–1963
+|-
+| [[Joe L. Evins]]
+| {{party shading/Democratic}} | Democratic
+| [[Tennessee]]
+| 1963–1975
+|-
+| [[Tom Steed]]
+| {{party shading/Democratic}} | Democratic
+| [[Oklahoma]]
+| 1975–1977
+|-
+| [[Neal Edward Smith]]
+| {{party shading/Democratic}} | Democratic
+| [[Iowa]]
+| 1977–1981
+|-
+| [[Parren Mitchell]]
+| {{party shading/Democratic}} | Democratic
+| [[Maryland]]
+| 1981–1987
+|-
+| [[John J. LaFalce]]
+| {{party shading/Democratic}} | Democratic
+| [[New York (state)|New York]]
+| 1987–1995
+|-
+| [[Jan Meyers]]
+| {{party shading/Republican}} | Republican
+| [[Kansas]]
+| 1995–1997
+|-
+| [[Jim Talent]]
+| {{party shading/Republican}} | Republican
+| [[Missouri]]
+| 1997–2001
+|-
+| [[Don Manzullo]]
+| {{party shading/Republican}} | Republican
+| [[Illinois]]
+| 2001–2007
+|-
+| [[Nydia Velázquez]]
+| {{party shading/Democratic}} | Democratic
+| [[New York (state)|New York]]
+| 2007–2011
+|-
+| [[Sam Graves]]
+| {{party shading/Republican}} | Republican
+| [[Missouri]]
+| 2011–2015
+|-
+| [[Steve Chabot]]
+| {{party shading/Republican}} | Republican
+| [[Ohio]]
+| 2015–2019
+|-
+| [[Nydia Velázquez]]
+| {{party shading/Democratic}} | Democratic
+| [[New York (state)|New York]]
+| 2019–2023
+|-
+| [[Roger Williams (Texas politician)|Roger Williams]]
+| {{party shading/Republican}} | Republican
+| [[Texas]]
+| 2023–present
+|}
+
+==Historical membership rosters==
+===117th Congress===
+{| class=wikitable
+|-
+! Majority
+! Minority
+|-
+| {{party shading/Democratic}} valign=top |
+* [[Nydia Velázquez]], New York, ''Chair''
+* [[Jared Golden]], Maine
+* [[Jason Crow]], Colorado
+* [[Sharice Davids]], Kansas
+* [[Kweisi Mfume]], Maryland, ''Vice Chair''<ref>{{Cite web|url=https://smallbusiness.house.gov/news/documentsingle.aspx?DocumentID=3496|title=Chairwoman Velázquez Announces Subcommittee Chairs and Assignments for 117th Congress|date=27 January 2021}}</ref>
+* [[Dean Phillips]], Minnesota
+* [[Marie Newman]], Illinois
+* [[Carolyn Bourdeaux]], Georgia
+* [[Troy Carter (politician)|Troy Carter]], Louisiana (since May 12, 2021)
+* [[Judy Chu]], California
+* [[Dwight Evans (politician)|Dwight Evans]], Pennsylvania
+* [[Antonio Delgado (politician)|Antonio Delgado]], New York (until May 25, 2022)
+* [[Chrissy Houlahan]], Pennsylvania
+* [[Andy Kim (politician)|Andy Kim]], New Jersey
+* [[Angie Craig]], Minnesota
+* [[Scott Peters (politician)|Scott Peters]], California (since June 14, 2022)
+
+| {{party shading/Republican}} valign=top |
+* [[Blaine Luetkemeyer]], Missouri, ''Ranking Member''
+* [[Jim Hagedorn]], Minnesota (until February 17, 2022)
+* [[Pete Stauber]], Minnesota
+* [[Roger Williams (Texas politician)|Roger Williams]], Texas, ''Vice Ranking Member''
+* [[Dan Meuser]], Pennsylvania
+* [[Claudia Tenney]], New York
+* [[Andrew Garbarino]], New York
+* [[Young Kim]], California
+* [[Beth Van Duyne]], Texas
+* [[Byron Donalds]], Florida
+* [[María Elvira Salazar]], Florida
+* [[Scott L. Fitzgerald]], Wisconsin
+* [[Mike Flood (politician)|Mike Flood]], Nebraska (since July 13, 2022)
+|}
+Resolutions electing members: {{USBill|117|HRes|9}} (Chair), {{USBill|117|HRes|10}} (Ranking Member), {{USBill|117|HRes|62}} (D), {{USBill|117|HRes|63}} (R), {{USBill|117|HRes|146}} (R), {{USBill|117|HRes|384}} (D), {{USBill|117|HRes|1173}} (D), {{USBill|117|HRes|1225}} (R)
+
+;Subcommittees
+{| class="wikitable"
+|-
+! Subcommittee<ref name=":0">{{Cite web|url=https://smallbusiness.house.gov/news/documentsingle.aspx?DocumentID=3496|title=Chairwoman Velázquez Announces Subcommittee Chairs and Assignments for 117th Congress|date=27 January 2021}}</ref><ref name=":1">{{Cite web|url=https://smallbusiness.house.gov/issues/|title=Subcommittees Home &#124; Small Business Committee}}</ref>
+! Chair
+! Ranking Member
+|-
+| [[United States House Small Business Subcommittee on Contracting and Workforce|Contracting and Infrastructure]]
+| [[Kweisi Mfume]] (D-MD)
+| [[Maria Elvira Salazar]] (R-FL)
+|-
+| [[United States House Small Business Subcommittee on Economic Growth, Tax and Capital Access|Economic Growth, Tax and Capital Access]]
+| [[Sharice Davids]] (D-KS)
+| [[Dan Meuser]] (R-PA)
+|-
+| [[United States House Small Business Subcommittee on Health and Technology|Innovation, Entrepreneurship, and Workforce Development]]
+| [[Jason Crow]] (D-CO)
+| [[Young Kim]] (R-CA)
+|-
+| [[United States House Small Business Subcommittee on Investigations, Oversight and Regulations|Oversight, Investigations and Regulations]]
+| [[Dean Phillips]] (D-MN)
+| [[Beth Van Duyne]] (R-TX)
+|-
+| [[United States House Small Business Subcommittee on Underserved, Agricultural, and Rural Business Development|Rural Development, Agriculture, Trade and Entrepreneurship]]
+| [[Jared Golden]] (D-ME)
+| [[Jim Hagedorn]] (R-MN)
+|}
+
+===116th Congress===
+{| class=wikitable
+|-
+! Majority
+! Minority
+|-
+| {{party shading/Democratic}} valign=top |
+* [[Nydia Velázquez]], New York, ''Chair''
+* [[Abby Finkenauer]], Iowa
+* [[Jared Golden]], Maine
+* [[Andy Kim (politician)|Andy Kim]], New Jersey
+* [[Jason Crow]], Colorado
+* [[Sharice Davids]], Kansas
+* [[Kweisi Mfume]], Maryland (since May 7, 2020)
+* [[Judy Chu]], California
+* [[Marc Veasey]], Texas
+* [[Dwight Evans (politician)|Dwight Evans]], Pennsylvania, ''Vice Chair''
+* [[Brad Schneider]], Illinois
+* [[Adriano Espaillat]], New York
+* [[Antonio Delgado (politician)|Antonio Delgado]], New York
+* [[Chrissy Houlahan]], Pennsylvania
+* [[Angie Craig]], Minnesota
+
+| {{party shading/Republican}} valign=top |
+* [[Steve Chabot]], Ohio, ''Ranking Member''
+* [[Amata Coleman Radewagen]], American Samoa, ''Vice Ranking Member''
+* [[Trent Kelly (politician)|Trent Kelly]], Mississippi
+* [[Troy Balderson]], Ohio
+* [[Kevin Hern]], Oklahoma
+* [[Jim Hagedorn]], Minnesota
+* [[Pete Stauber]], Minnesota
+* [[Tim Burchett]], Tennessee
+* [[Ross Spano]], Florida
+* [[John Joyce (American politician)|John Joyce]], Pennsylvania
+* [[Dan Bishop]], North Carolina (since September 26, 2019)
+|}
+
+Sources: {{USBill|116|HRes|24}} (Chair), {{USBill|116|HRes|25}} (Ranking Member), {{USBill|116|HRes|73}} (D), {{USBill|116|HRes|74}} (R), {{USBill|116|HRes|148}} (D), {{USBill|116|HRes|596}} (R), {{USBill|116|HRes|954}} (D)
+
+;Subcommittees
+{| class="wikitable" 	
+|-	
+! Subcommittee
+! Chair
+! Ranking Member
+|-	
+| [[United States House Small Business Subcommittee on Agriculture, Energy and Trade|Rural Development, Agriculture, Trade, and Entrepreneurship]]
+| [[Abby Finkenauer]] (D-IA)	
+| [[John Joyce (American politician)|John Joyce]] (R-PA)
+|-
+| [[United States House Small Business Subcommittee on Economic Growth, Tax and Capital Access|Economic Growth, Tax and Capital Access]]
+| [[Andy Kim (politician)|Andy Kim]] (D-NJ)	
+| [[Kevin Hern]] (R-OK)
+|-
+| [[United States House Small Business Subcommittee on Contracting and Workforce|Contracting and Infrastructure]]
+| [[Jared Golden]] (D-ME)
+| [[Pete Stauber]] (R-MN)
+|-
+| [[United States House Small Business Subcommittee on Health and Technology|Innovation and Workforce Development]]
+| [[Jason Crow]] (D-CO)
+| [[Troy Balderson]] (R-OH)
+|-
+| [[United States House Small Business Subcommittee on Investigations, Oversight and Regulations|Investigations, Oversight and Regulations]]
+| [[Judy Chu]] (D-CA)
+| [[Ross Spano]] (R-FL)
+|}
+
+===115th Congress===
+
+{| class=wikitable
+|-
+! Majority
+! Minority
+|-
+| {{party shading/Republican}} valign=top |
+* [[Steven Chabot]], Ohio, ''Chair''
+* [[Steve King]], Iowa
+* [[Blaine Luetkemeyer]], Missouri, ''Vice Chair''
+* [[Dave Brat]], Virginia
+* [[Amata Coleman Radewagen]], American Samoa
+* [[Steve Knight (politician)|Steve Knight]], California
+* [[Trent Kelly (politician)|Trent Kelly]], Mississippi
+* [[Rod Blum]], Iowa
+* [[James Comer (politician)|James Comer]], Kentucky
+* [[Jenniffer González]], Puerto Rico
+* [[Don Bacon]], Nebraska
+* [[Brian Fitzpatrick (American politician)|Brian Fitzpatrick]], Pennsylvania
+* [[Roger Marshall (politician)|Roger Marshall]], Kansas
+* [[Ron Estes]], Kansas
+* [[Ralph Norman]], South Carolina
+* [[John Curtis (Utah politician)|John Curtis]], Utah
+| {{party shading/Democratic}} valign=top |
+* [[Nydia Velázquez]], New York, ''Ranking Member''
+* [[Dwight Evans (politician)|Dwight Evans]], Pennsylvania
+* [[Stephanie Murphy]], Florida
+* [[Al Lawson]], Florida
+* [[Yvette Clarke]], New York
+* [[Judy Chu]], California 
+* [[Alma Adams]], North Carolina, ''Vice Ranking Member''
+* [[Adriano Espaillat]], New York
+* [[Brad Schneider]], Illinois
+|}
+Sources: {{USBill|115|HRes|6}} (Chair), {{USBill|115|HRes|7}} (Ranking Member), {{USBill|115|HRes|45}} (D), {{USBill|115|HRes|51}} (R), {{USBill|115|HRes|52}}, {{USBill|115|HRes|59}}, {{USBill|115|HRes|95}}, {{USBill|115|HRes|127}} (D)
+
+==See also==
+* [[United States Senate Committee on Small Business and Entrepreneurship|U.S. Senate Committee on Small Business and Entrepreneurship]]
+* [[List of current United States House of Representatives committees]]
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://smallbusiness.house.gov Official site] ([https://www.loc.gov/item/lcwa00hssm00/ Archive])
+* [https://www.congress.gov/committee/house-small-business/hssm00 House Small Business Committee]. Legislation activity and reports, Congress.gov.
+* [https://www.congress.gov/committees/video/house-small-business/hssm00 House Small Business Committee Hearings and Meetings Video]. [[Congress.gov]].
+{{United States congressional committees}}
+
+[[Category:Committees of the United States House of Representatives|Small Business]]
+[[Category:Economy of the United States]]
+[[Category:1941 establishments in Washington, D.C.]]
+[[Category:Organizations established in 1941]]
+
+
+{{US-Congress-stub}}

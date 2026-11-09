@@ -10,6 +10,11 @@ Run from the repo root: `uv run python mixed_membership/run_118.py`
 | `common.py` | Loads votes, builds the agreement matrix S, loads speech PCs |
 | `mixed_score.py` | SCORE, covariates, vertex hunting, barycentric coordinates |
 | `run_118.py` | Fits K=3 and K=4, makes the two plots below |
+| `plot_agreement_graph.py` | Draws the agreement network and the matrix S |
+| `agreement_network_118.png` | The weighted agreement graph (network layout and heatmap of S) |
+| `agreement_matrix_118.png` | The weighted agreement matrix S on its own |
+| `plot_scree_118.py`, `scree_118.png` | Scree plot (absolute eigenvalues of S, linear and log scale) |
+| `scree_speech_118.png` | Scree plot of the speech covariates (raw and standardized) |
 | `simplex_K3_118.png` | 3-vertex model (triangle) |
 | `simplex_K4_118.png` | 4-vertex model (tetrahedron, two views) |
 
@@ -22,9 +27,11 @@ Run from the repo root: `uv run python mixed_membership/run_118.py`
    eigenvectors of S; H = top K left singular vectors of the covariates; embed rows of [R, tau*H] with tau = 1
    (covariate block scaled to the same total robust spread as the graph block); vertex hunting by k-means
    denoising then SPA (SVS*-style); barycentric coordinates by constrained least squares; pi proportional to w / b_1.
-4. **Choosing K.** Scree plot of S (eigengap rationale, Lecture 9): lambda_2 = 75.0, lambda_3 = 7.0,
-   lambda_4 = 2.7, lambda_5 = 0.6. K=2 (the parties) is clear; K=3 is a weak elbow; K=4 is not supported by the
-   scree plot and is shown for exploration only.
+4. **Choosing K.** Scree plot of S (eigengap rationale, Lecture 9; `scree_118.png`): the top eigenvalues are
+   316.8, 75.0, 7.0, 2.7. K=2 (the parties) is the clear gap. Lambda_3 and lambda_4 are also well above the noise
+   bulk (S has a zero diagonal, which shifts every eigenvalue down by 1: the bulk sits near -1, and near 0, with
+   maximum about 0.4, once the diagonal is set to 1). Lambda_5 and lambda_6 are only slightly above it. So K=3 and
+   K=4 are both defensible; the scree plot does not single one out.
 
 ## Reading the vertices
 Labels are from member names and NOMINATE scores; the repo has no caucus data. Nearest members are by pi.
@@ -46,6 +53,9 @@ so most are mixtures.
 - K=3 is a descriptive choice, not a tested one. The SgnQ test needs a binary graph and was not used.
 - tau = 1 is our choice. The notes only call tau a tuning parameter. With the speech block weighted this
   heavily, vertex positions are sensitive to it.
+- The speech block has no scree gap once standardized (`scree_speech_118.png`): the 5 PCs carry 26%, 22%, 20%,
+  18%, 14% of the variance, so H (top K singular vectors) is K of 5 near-equally weighted directions. Unstandardized,
+  PC1 carries 61%. We used the standardized version; K is not chosen separately for the speech block.
 - The vertex members depend on the vote cutoff. With a cutoff of 40 votes, members who served briefly
   (for example Rulli, Fong) became vertices.
 - Speech features exist only for the 115th, 116th and 118th, so only the 118th is shown here.

@@ -1,0 +1,670 @@
+{{Use mdy dates|date=June 2021}}
+{{short description|Standing committee of the United States House of Representatives}}
+{{Infobox U.S. congressional committee
+| name               = House Oversight Committee
+| type               = standing
+| chamber            = house
+| congress           = 118th
+| image              = Oversight & Accountability.svg
+| image_size         = 200
+| status             = active
+| formed             = 1927
+| disbanded          =
+| succeeded          =
+| preceded           =
+| merged             =
+| former_names       = 
+| chair              = [[James Comer (politician)|James Comer]]
+| chair_party        = R
+| chair_since        = January 10, 2023
+| ranking_member     = [[Jamie Raskin]]
+| rm_party           = D
+| rm_since           = January 10, 2023
+| vice_chair         = 
+| vc_party          = 
+| vc_since           = 
+| seats             = 47
+| majority1          = R
+| majority1_seats    = 26
+| minority1          = D
+| minority1_seats    = 21
+| purpose            =
+| policy_areas       = 
+| oversight          = 
+| subcommittees      = <div style="text-align:left;">
+* [[United States House Oversight Subcommittee on Cybersecurity, Information Technology and Government Innovation|Cyber Security, Information Technology and Government Innovation]]
+* [[United States House Oversight Subcommittee on National Security, the Border and Foreign Affairs|National Security, the Border, and Foreign Affairs]]
+* [[United States House Oversight Subcommittee on Government Operations and the Federal Workforce|Government Operations and the Federal Workforce]]
+* [[United States House Oversight Subcommittee on Economic Growth, Energy Policy and Regulatory Affairs|Economic Growth, Energy Policy and Regulatory Affairs]]
+* [[United States House Oversight Subcommittee on Health Care and Financial Services|Health Care and Financial Services]]
+* [[United States House Select Subcommittee on the Coronavirus Pandemic|Coronavirus Crisis (Select)]] (118th Congress)
+</div>
+| meeting_place      = 
+| meeting_image      =
+| meeting_img_size   =
+| website            = {{url|oversight.house.gov}}
+| minority_website   = {{url|https://oversightdemocrats.house.gov/}}
+| chamber_rules      =
+| committee_rules    = {{url|https://oversightdemocrats.house.gov/about/committee-jurisdiction|House Rule X}}
+* {{url|https://oversight.house.gov/wp-content/uploads/2023/01/118th-Committee-Rules.pdf|Committee Rules (118th Congress)}}
+| notes              =
+}}
+{{United States House of Representatives}}
+The '''Committee on Oversight and Accountability''' is the main investigative [[United States congressional committee|committee]] of the [[United States House of Representatives]]. The committee's broad [[jurisdiction]] and legislative authority make it one of the most influential and powerful panels in the House. Its chair is one of only three in the House with the authority to issue [[subpoenas]] without a committee vote or consultation with the [[ranking member]].<ref name=":4">{{cite web|last=Koempel |first=Michael |url=https://fas.org/sgp/crs/misc/R44247.pdf |title=A Survey of House and Senate Committee Rules on Subpoenas |publisher=Congressional Research Service |date=March 16, 2017 |access-date=April 25, 2017}}</ref> However, in recent history, it has become practice to refrain from unilateral subpoenas.<ref>{{cite web|url=http://democrats.oversight.house.gov/images/stories/2011_0124_Cummings_to_Issa_access_to_records.pdf |title=Cummings to Issa: Unilateral subpoenas, access to records |date=January 24, 2011 |access-date=June 20, 2012}}</ref>
+
+[[Carolyn Maloney]] ([[Democratic Party (United States)|D]]-New York) served as acting chair of the committee following the death of [[Elijah Cummings]] ([[Democratic Party (United States)|D]]-Maryland) on October 17, 2019;<ref name = MaloneyActing>{{cite news|url = https://www.reuters.com/article/us-usa-trump-whistleblower-cummings-repl/maloney-to-be-acting-house-oversight-chair-after-cummings-death-aide-idUSKBN1WW1YG|title = Maloney to be acting House oversight chair after Cummings death|work = [[Reuters]]|date = October 17, 2019|access-date = October 17, 2019|last1 = Chiacu|first1 = Doina|last2 = Heavey|first2 = Susan|editor-last = Lambert|editor-first = Lisa}}</ref><ref>{{cite press release|author=<!--Staff writer(s); no by-line.-->|title=Cummings Named Oversight Committee Chairman|url=https://oversight.house.gov/news/press-releases/cummings-named-oversight-committee-chairman|agency=Committee on Oversight and Reform|date=January 4, 2019|access-date=January 11, 2019}}</ref><ref name=":0">{{Cite web|url=https://oversight.house.gov/members|title=Oversight and Reform Members|date=January 28, 2015|website=House Committee on Oversight and Reform|language=en|access-date=March 7, 2019}}</ref> she was elected chair a month later.<ref>{{Cite web|url=https://oversight.house.gov/news/press-releases/maloney-elected-chair-of-house-committee-on-oversight-and-reform|title=Maloney Elected Chair of House Committee on Oversight and Reform|date=November 20, 2019|website=House Committee on Oversight and Reform|language=en|access-date=March 23, 2020}}</ref><ref>{{Cite web|url=https://wcti12.com/news/nation-world/maloney-chosen-as-first-woman-to-lead-house-oversight-panel|title=Maloney chosen as first woman to lead House Oversight panel|last=Daly|first=Matthew|date=November 20, 2019|website=[[WCTI-TV]]|publisher=[[Associated Press]]|access-date=March 23, 2020}}</ref> Representative [[Jim Jordan]] served as ranking member from January 3, 2019, until March 12, 2020. On March 31, 2020, Jordan switched to become the ranking member of the Judiciary committee instead. Representative [[Mark Meadows]] served as ranking member from March 13, 2020, until March 30, 2020, when he resigned his congressional seat to become [[White House Chief of Staff]].<ref name=":0" /><ref name=Meadows>{{cite web|url=https://www.nbcnews.com/politics/politics-news/rep-mark-meadows-resigns-congress-take-chief-staff-role-n1172621|title=Rep. Mark Meadows resigns from Congress to become Trump's chief of staff|date=March 30, 2020|access-date=February 16, 2021|first1=Alex|last1=Moe|first2=Phil|last2=Helsel|work=[[NBC News]]}}</ref> Representative [[James Comer (politician)|James Comer]] (R-Kentucky) was selected to succeed Meadows on June 29, 2020. Comer became Chair when Republicans regained control of the House majority,<ref>{{cite web | url=https://comer.house.gov/press-release?id=B22F725B-E19B-4C33-A929-12B6C07CF0B5 | title=Comer Selected as Chairman of Oversight Committee | date=December 7, 2022 }}</ref> with Representative [[Jamie Raskin]] (D-Maryland) being elected as Ranking Member.<ref>{{cite web | url=https://raskin.house.gov/2022/12/rep-jamie-raskin-to-lead-democrats-on-house-oversight-committee | title=Rep. Jamie Raskin to Lead Democrats on House Oversight Committee | date=December 22, 2022 }}</ref> ''[[Politico]]'' reported in late January that Representative [[Alexandria Ocasio-Cortez]] (D-New York) would be appointed as the Vice Ranking Member.<ref>{{cite web | url=https://www.politico.com/news/2023/01/27/rep-alexandria-ocasio-cortez-could-become-number-two-democrat-on-oversight-panel-00079938 | title=AOC in line to become her party's No. 2 on Oversight panel | website=[[Politico]] | date=January 27, 2023 }}</ref>
+
+==History==
+The panel now known as the Committee on Oversight and Accountability was originally the Committee on Expenditures in the Executive Departments, created in 1927 to consolidate 11 separate Committees on Expenditures that had previously overseen the spending of various departments of the federal government.<ref name=":1">{{Cite web|url=http://www.princeton.edu/~pmc/oldsite/committee/H-GR.html|title=House Committee on Government Reform|website=princeton.edu|access-date=March 7, 2019}}</ref><ref name=":2">{{Cite web|url=http://lobby.la.psu.edu/021_Postal_Service_Reform/Congressional_Statements/House/H_GovtReform_Oversight_Plan.htm|title=Oversight Plan|website=lobby.la.psu.edu|access-date=March 7, 2019}}</ref>
+
+The Committee on Expenditures became the Committee on Government Operations in 1952.<ref name=":1" /> The new name was intended to reflect the committee's broad mission: to oversee "the operations of Government activities at all levels with a view to determining their economy and efficiency".<ref name=":2" />
+
+After Republicans gained control of the House in the [[1994 United States elections|1994 elections]], the committee was reorganized to include seven subcommittees instead of 14. This reorganization consolidated the jurisdiction previously covered by three full committees and resulted in a 50 percent cut in staff.<ref>{{cite web|url=http://reform.house.gov/UploadedFiles/grchistory.pdf|title=Committee on Government Reform: Background/History|date=May 20, 2006|publisher=House.gov|archive-url=https://web.archive.org/web/20061208151229/http://reform.house.gov/UploadedFiles/grchistory.pdf|archive-date=December 8, 2006|url-status=dead|access-date=June 20, 2012}}</ref> In 2007, a reorganization under [[2006 United States House of Representatives elections|a new Democratic majority]] combined the duties of the seven subcommittees into five.<ref>{{Cite web|url=http://oversight.house.gov/Documents/20070118152342-51607.pdf|archive-url=https://web.archive.org/web/20070131202759/http://oversight.house.gov/Documents/20070118152342-51607.pdf|url-status=dead|title=Chairman Waxman Announces Committee Organization|archive-date=January 31, 2007|access-date=August 11, 2020}}</ref>
+
+In the [[106th United States Congress|106th Congress]], the panel was renamed the Committee on Government Reform. While retaining the agenda of the former Committee on Government Operations, the new committee also took on the responsibilities of the former House Committee on the [[United States Postal Service|Post Office]] and [[United States Office of Personnel Management|Civil Service]] and the Committee on the [[Washington, D.C.|District of Columbia]]. On January 4, 2007, the [[110th United States Congress|110th Congress]] renamed it the Committee on Oversight and Government Reform. The name was changed again by the [[116th United States Congress|116th Congress]] to the Committee on Oversight and Reform. For the [[118th United States Congress|118th Congress]], Republicans changed the name to "Committee on Oversight and Accountability, which is the current iteration. Since 2007, it has simply been called the "Oversight Committee" for short.
+
+===Subpoena usage===
+In 1997, the Republican majority on the committee changed its rules to allow the chairman, [[Dan Burton]] (R-Indiana), to issue subpoenas without the consent of the committee's ranking Democrat.<ref>{{Cite news|url=https://www.bloomberg.com/news/articles/2018-11-07/republicans-weaponized-the-house-now-democrats-will-use-it-against-trump|title=Republicans Weaponized the House. Now, Democrats Will Use It Against Trump|last=Green|first=Joshua|date=November 7, 2018|work=Bloomberg Businessweek|access-date=March 7, 2019|language=en}}</ref> From 1997 to 2002, Burton used this authority to issue 1,052 unilateral subpoenas, many of them related to alleged misconduct by President [[Bill Clinton]], at a cost of more than $35 million.<ref name=":3">{{cite news|url=https://www.washingtonpost.com/wp-dyn/content/article/2005/12/17/AR2005121700992.html|title=Bush's Fumbles Spur New Talk of Oversight on Hill|last=Milbank|first=Dana|date=December 18, 2005|newspaper=The Washington Post|access-date=June 20, 2012}}</ref>
+
+By contrast, from 2003 to 2005, under the chairmanship of [[Tom Davis (Virginia politician)|Tom Davis]] (R-Virginia), the committee issued only three subpoenas to the [[Presidency of George W. Bush|Bush administration]].<ref name=":3" />
+
+After Republicans retook the House in the [[2010 United States elections|2010 elections]], the new chairman, [[Darrell Issa]] (R-California), escalated the use of subpoenas again, issuing more than 100 in four years during the [[Presidency of Barack Obama|Obama administration]].<ref>{{Cite web|url=https://www.latimes.com/politics/la-pol-ca-issa-future-20170716-story.html|title=Darrell Issa was Obama's toughest critic. Here's why he's suddenly sounding like a moderate|last=Wire|first=Sarah D.|date=July 17, 2017|website=Los Angeles Times|access-date=March 7, 2019}}</ref> That was more than the combined total issued by the previous three chairmen—Davis, [[Henry Waxman]] (D-California), and [[Edolphus Towns]] (D-New York)—from 2003 to 2010.<ref>{{Cite web|url=https://oversight.house.gov/news/press-releases/cummings-objects-to-issa-subpoena-binge-after-benghazi-taken-away-from-oversight|title=Cummings Objects To Issa 'Subpoena Binge' After Benghazi Taken Away From Oversight Committee|date=July 9, 2014|website=House Committee on Oversight and Reform|language=en|access-date=March 7, 2019}}</ref>
+
+== Prominent hearings and investigations ==
+Between 2000 and 2006, many major events and scandals in the Bush administration generated few or no subpoenas from the Republican-led committee. These events included the [[September 11 attacks]]; the leaking of classified information identifying [[Central Intelligence Agency]] agent [[Valerie Plame]]; CIA-backed abuses at [[Abu Ghraib prison]]; the Bush administration claim that Iraq possessed [[Weapon of mass destruction|weapons of mass destruction]]; illegal campaign contributions by lobbyists, including [[Jack Abramoff]]; deaths and damage due to the [[Federal Emergency Management Agency]]'s weak response to [[Hurricane Katrina]]; and [[Philip Cooney]]'s suppression of data demonstrating the existence of [[global warming]]. After the release of the [[Downing Street memo]], which contained incriminating information on the buildup to the [[Iraq War]], Democrats in the minority were refused a hearing chamber and were forced to meet in the basement of the [[United States Capitol]].<ref>{{cite web|last=Kuhn |first=David Paul |url=http://www.salon.com/news/feature/2005/06/17/forum/index_np.html |title=Just hearsay, or the new Watergate tapes? |work=Salon |date=June 17, 2005 |access-date=June 20, 2012}}</ref>
+
+However, under Davis's chairmanship from 2003 to 2007, the committee launched two controversial investigations. One of those investigations—triggered by the publication of [[Jose Canseco]]'s memoir, ''[[Juiced (book)|Juiced]]—''concerned the use of [[anabolic steroid]]s by [[Major League Baseball]] players.{{cn|date=December 2021}}
+
+An inquiry was also made into the case of Terry Schiavo. In that investigation, which concerned the removal of a [[feeding tube]] from a woman in a [[persistent vegetative state]], the committee issued a subpoena requiring Schiavo to "appear" so that members could "examine nutrition and hydration which incapacitated patients receive as part of their care".<ref>{{cite web|url=http://abstractappeal.com/schiavo/HouseSubpoenas.pdf|title=Davis to Schiavo subpoena|date=March 18, 2005|publisher=Abstractappeal.com|access-date=June 20, 2012}}</ref> The apparent objective of this, beyond providing information to committee members, was to delay the pending withdrawal of life support from Schiavo, whose wishes were in dispute, while Congress considered legislation specifically targeted at her case. Members of the Democratic minority opposed the action. Chairman Davis said it was "a legitimate legislative inquiry".<ref name="sptimes.com">{{cite web|last1=Adair |first1=Bill |last2=Nohlgren |first2=Stephen |url=http://www.sptimes.com/2005/03/19/Tampabay/Republicans_flex_subp.shtml |title=Republicans flex subpoena muscle |publisher=Tampa Bay Times |date=March 19, 2005 |access-date=June 20, 2012}}</ref>
+
+The committee also investigated [[WWE|World Wrestling Entertainment]]'s wellness and drug policies, amid speculation about a possible link between steroid use and [[Chris Benoit double-murder and suicide|the death]] of WWE performer [[Chris Benoit]].<ref>{{cite web|url=http://www.msnbc.msn.com/id/20002071/ |archive-url=https://web.archive.org/web/20071117012701/http://www.msnbc.msn.com/id/20002071/ |url-status=dead |archive-date=November 17, 2007 |title=Congress wants WWE's info on steroids, doping |publisher=MSNBC |date=July 28, 2007 |access-date=June 20, 2012}}</ref>
+
+On July 8, 2009, committee Republicans released an investigative staff report discussing the [[financial crisis of 2007–2008]]. The report alleged that the government had caused the collapse by meddling in the United States' housing and lending market in the name of "affordable housing".<ref>[http://republicans.oversight.house.gov/media/pdfs/20090707HousingCrisisReport.pdf The Role of Government Affordable Housing Policy in Creating the Global Financial Crisis of 2008] {{webarchive|url=https://web.archive.org/web/20090711082645/http://republicans.oversight.house.gov/media/pdfs/20090707HousingCrisisReport.pdf|date=July 11, 2009}}</ref>
+
+In February 2012, the committee held a hearing on the [[Patient Protection and Affordable Care Act]]'s mandate that would "require all employers to cover birth control free of cost to women". Specifically, Republicans on the committee alleged that the [[United States Department of Health and Human Services|Department of Health and Human Services]]'s rules governing exemptions for religious institutions violated the [[Free Exercise Clause]] of the Constitution.<ref>{{Cite news|url=https://www.nytimes.com/2012/02/17/us/politics/birth-control-coverage-rule-debated-at-house-hearing.html|title=Birth Control Coverage Rule Debated at House Hearing|last=Pear|first=Robert|date=February 16, 2012|work=The New York Times|access-date=March 7, 2019|language=en-US|issn=0362-4331}}</ref> The chairman, Darrell Issa, said the hearing was "meant to be more broadly about religious freedom and not specifically about the contraception mandate in the Health Reform law".<ref name="Issa-bars">{{cite web|url=https://abcnews.go.com/blogs/politics/2012/02/rep-darrell-issa-bars-minority-witness-a-woman-on-contraception-2/|title=Rep. Darrell Issa Bars Minority Witness, a Woman, on Contraception|last=Shine|first=Tom|date=February 16, 2012|publisher=ABC News|access-date=June 20, 2012}}</ref>
+
+After [[Aaron Swartz]] committed suicide on January 11, 2013, the committee investigated the Justice Department's actions in prosecuting Swartz on hacking charges.<ref name="Hill">{{cite web|last= Sasso | first = Brendan |url=https://thehill.com/policy/technology/139354-lawmakers-slam-doj-prosecution-of-swartz-as-ridiculous-absurd/ |title=Lawmakers slam DOJ prosecution of Swartz as 'ridiculous, absurd' | work = Hillicon Valley | date = January 16, 2013 | publisher = [[Thehill.com|The hill]] |access-date=January 16, 2013}}</ref> On January 28, Issa and ranking member [[Elijah Cummings]] published a letter to Attorney General [[Eric Holder]], questioning whether prosecutors had intentionally added felony counts to increase the amount of prison time Swartz faced.<ref>{{cite magazine|last=Zetter |first=Kim |url=https://www.wired.com/threatlevel/2013/01/doj-briefing-on-aaron-swartz/ |title=Congress Demands Justice Department Explain Aaron Swartz Prosecution &#124; Threat Level |magazine=Wired |publisher=Wired.com |access-date=February 1, 2013}}</ref>
+
+On July 10, 2019, a hearing was held by the [[United States House Oversight Subcommittee on Civil Rights and Civil Liberties]] entitled "Kids in Cages: Inhumane Treatment at the Border" on the "inhumane treatment of children and families" inside child detention centers on the southern US border. [[Jamie Raskin]] (D-MD) chaired the session which included testimony from Yazmin Juarez, the mother of Mariee who died at the age of nineteen months while detained in a [[United States Immigration and Customs Enforcement]] (ICE) center in Dilley, Texas.<ref name="Oversight_20190710">{{cite AV media| people =[[Jamie Raskin]] | title =House hearing on conditions in child detention centers | medium =video | publisher =[[The Guardian|Guardian News]] | location =Washington, DC | date =July 10, 2019 |access-date=July 11, 2019 | url = https://www.youtube.com/watch?v=_JUp_gvza2Y|series=[[United States House Oversight Subcommittee on Civil Rights and Civil Liberties]]|quote="Ronald Vitiello, former chief of US Border Patrol and former acting director of Immigration and Customs Enforcement, also testifies."}}</ref> In his opening statement Raskin said that "hundreds of thousands of people" have responded to the "harsh policies" by deciding to "migrate now before things get even worse".<ref name="Raskin_20190710">{{Cite web| title = Chairman Raskin's Opening Statement at Subcommittee on Civil Rights and Civil Liberties Hearing on Treatment of Immigrant Children| first = Jamie |last=Raskin| date =July 10, 2019 |access-date=July 11, 2019 | url = https://raskin.house.gov/media/press-releases/chairman-raskin-s-opening-statement-subcommittee-civil-rights-and-civil}}</ref>
+
+==Jurisdiction==
+According to House rules, the committee has jurisdiction over the following areas:<ref>{{cite web |title=Rules of the United States House of Representatives |url=https://rules.house.gov/sites/republicans.rules118.house.gov/files/documents/Rules%20and%20Resources/118-House-Rules-Clerk.pdf |publisher=United States House of Representatives |access-date=25 April 2023}}</ref>
+# [[United States federal civil service|Federal civil service]], including intergovernmental personnel; and the status of officers and employees of the United States, including their compensation, classification, and retirement.
+# Municipal affairs of the [[Washington, D.C.|District of Columbia]] in general (other than appropriations).
+# Federal paperwork reduction.
+# Government management and accounting measures generally.
+# Holidays and celebrations.
+# Overall economy, efficiency, and management of government operations and activities, including Federal procurement.
+# [[National Archives and Records Administration|National archives]].
+# Population and demography generally, including the [[United States census|Census]].
+# [[United States Postal Service|Postal service]] generally, including transportation of the mails.
+# Public information and records.
+# Relationship of the [[federal government of the United States|Federal Government]] to the States and municipalities generally.
+# Reorganizations in the executive branch of the Government.
+
+==Members, 118th Congress==
+{| class=wikitable
+|-
+! Majority
+! Minority
+|-
+| {{party shading/Republican}} valign=top |
+* [[James Comer (politician)|James Comer]], Kentucky, ''Chair''
+* [[Jim Jordan]], Ohio
+* [[Mike Turner]], Ohio
+* [[Paul Gosar]], Arizona
+* [[Virginia Foxx]], North Carolina
+* [[Glenn Grothman]], Wisconsin
+* [[Michael Cloud]], Texas (from December 6, 2023)
+* [[Gary Palmer (politician)|Gary Palmer]], Alabama
+* [[Clay Higgins]], Louisiana 
+* [[Pete Sessions]], Texas
+* [[Andy Biggs]], Arizona 
+* [[Nancy Mace]], South Carolina
+* [[Jake LaTurner]], Kansas
+* [[Pat Fallon]], Texas
+* [[Byron Donalds]], Florida
+* [[Kelly Armstrong]], North Dakota
+* [[Scott Perry (politician)|Scott Perry]], Pennsylvania
+* [[William Timmons (politician)|William Timmons]], South Carolina
+* [[Tim Burchett]], Tennessee
+* [[Marjorie Taylor Greene]], Georgia
+* [[Lisa McClain]], Michigan
+* [[Lauren Boebert]], Colorado
+* [[Russell Fry (politician)|Russell Fry]], South Carolina
+* [[Anna Paulina Luna]], Florida
+* [[Chuck Edwards]], North Carolina (until December 6, 2023)
+* [[Nick Langworthy]], New York
+* [[Eric Burlison]], Missouri
+* [[Michael Waltz]], Florida (from December 6, 2023)
+
+| {{party shading/Democratic}} valign=top |
+* [[Jamie Raskin]], Maryland, ''Ranking Member''
+* [[Eleanor Holmes Norton]], District of Columbia
+* [[Stephen Lynch (politician)|Stephen Lynch]], Massachusetts 
+* [[Gerry Connolly]], Virginia
+* [[Raja Krishnamoorthi]], Illinois
+* [[Ro Khanna]], California 
+* [[Kweisi Mfume]], Maryland
+* [[Alexandria Ocasio-Cortez]], New York, ''Vice Ranking Member''
+* [[Katie Porter]], California 
+* [[Cori Bush]], Missouri
+* [[Jimmy Gomez]], California
+* [[Shontel Brown]], Ohio
+* [[Melanie Stansbury]], New Mexico
+* [[Robert Garcia (California politician)|Robert Garcia]], California
+* [[Maxwell Frost]], Florida
+* [[Becca Balint]], Vermont (until June 22, 2023)
+* [[Summer Lee]], Pennsylvania
+* [[Greg Casar]], Texas
+* [[Jasmine Crockett]], Texas
+* [[Dan Goldman]], New York
+* [[Jared Moskowitz]], Florida
+* [[Rashida Tlaib]], Michigan (from September 20, 2023)
+* [[Ayanna Pressley]], Massachusetts (from February 29, 2024)
+|}
+Resolutions electing members: {{USBill|118|HRes|14}} (Chair), {{USBill|118|HRes|15}} (Ranking Member), {{USBill|118|HRes|70}} (R), {{USBill|118|HRes|71}} (D), {{USBill|118|HRes|704}} (D), {{USBill|118|HRes|913}} (R), {{USBill|118|HRes|1034}} (D)
+
+== Subcommittees ==
+{| class="wikitable"
+!Subcommittee
+!Chair<ref>{{Cite web |title=Comer Announces Subcommittee Chairs and Membership for 118th Congress |url=https://oversight.house.gov/release/comer-announces-subcommittee-chairs-and-membership-for-118th-congress/ |access-date=2023-03-10 |website=United States House Committee on Oversight and Accountability |language=en}}</ref>
+!Ranking Member<ref>{{Cite web |date=2023-02-23 |title=Ranking Member Raskin Announces Democrats' 118th Congress Ranking Member and Subcommittee Assignments |url=https://oversightdemocrats.house.gov/news/press-releases/ranking-member-raskin-announces-democrats-118th-congress-ranking-member-and |access-date=2023-03-10 |website=House Committee on Oversight and Reform |language=en}}</ref>
+|-
+|[[United States House Oversight Subcommittee on Cybersecurity, Information Technology and Government Innovation|Cyber Security, Information Technology and Government Innovation]]
+|[[Nancy Mace]] (R-SC)
+|[[Gerry Connolly]] (D-VA)
+|-
+|[[United States House Oversight Subcommittee on Economic Growth, Energy Policy and Regulatory Affairs|Economic Growth, Energy Policy and Regulatory Affairs]]
+|[[Pat Fallon]] (R-TX)
+|[[Cori Bush]] (D-MO)
+|-
+|[[United States House Oversight Subcommittee on Government Operations and the Federal Workforce|Government Operations and the Federal Workforce]]
+|[[Pete Sessions]] (R-TX)
+|[[Kweisi Mfume]] (D-MD)
+|-
+|[[United States House Oversight Subcommittee on Health Care and Financial Services|Health Care and Financial Services]]
+|[[Lisa McClain]] (R-MI)
+|[[Katie Porter]] (D-CA)
+|-
+|[[United States House Oversight Subcommittee on National Security, the Border, and Foreign Affairs|National Security, the Border, and Foreign Affairs]]
+|[[Glenn Grothman]] (R-WI)
+|[[Robert Garcia (California politician)|Robert Garcia]] (D-CA)
+|-
+|[[United States House Select Subcommittee on the Coronavirus Pandemic|Coronavirus Pandemic (Select)]]
+|[[Brad Wenstrup]] (R-OH)
+|[[Raul Ruiz (politician)|Raul Ruiz]] (D-CA)
+|}
+
+==Former subcommittees==
+*[[United States House Oversight Subcommittee on Civil Rights and Civil Liberties]] (116th Congress-117th Congress)
+**Dissolved by Chairman James Comer during the 118th Congress
+*[[United States House Oversight Subcommittee on Environment]] (115th Congress-117th Congress)
+**Dissolved by Chairman James Comer during the 118th Congress
+*[[United States House Oversight Subcommittee on Intergovernmental Affairs]] (115th Congress)
+**Dissolved by Chairman Elijah Cummings during the 116th Congress
+*[[United States House Oversight Subcommittee on Transportation and Public Assets]] (111th Congress-113th Congress)
+**Dissolved the end of the 114th United States Congress.
+
+==Chair==
+{| class=wikitable
+!
+! Chair
+! Party
+! State
+! Years
+|-
+|[[File:WilliamWilliamson.jpg|frameless|129x129px]]
+| [[William Williamson (American politician)|William Williamson]]
+| {{party shading/Republican}} | Republican
+| [[South Dakota]]
+| 1927–1931
+|-
+|[[File:John J. Cochran.jpeg|frameless|141x141px]]
+| [[John J. Cochran]]
+| {{party shading/Democratic}} | Democratic
+| [[Missouri]]
+| 1931–1940
+|-
+|[[File:James A. O'Leary.jpg|frameless|128x128px]]
+| [[James A. O'Leary]]
+| {{party shading/Democratic}} | Democratic
+| [[New York (state)|New York]]
+| 1940–1944
+|-
+|
+| [[Carter Manasco]]
+| {{party shading/Democratic}} | Democratic
+| [[Alabama]]
+| 1944–1947
+|-
+|[[File:Rep. Clare Hoffman, Repub. of Mich. LCCN2016877632 (cropped).jpg|frameless|114x114px]]
+| [[Clare Hoffman]]
+| {{party shading/Republican}} | Republican
+| [[Michigan]]
+| 1947–1949
+|-
+|[[File:William L. Dawson.jpg|frameless|136x136px]]
+| [[William L. Dawson (politician)|William L. Dawson]]
+| {{party shading/Democratic}} | Democratic
+| [[Illinois]]
+| 1949–1953
+|-
+|[[File:Rep. Clare Hoffman, Repub. of Mich. LCCN2016877632 (cropped).jpg|frameless|114x114px]]
+| [[Clare Hoffman]]
+| {{party shading/Republican}} | Republican
+| [[Michigan]]
+| 1953–1955
+|-
+|[[File:William L. Dawson.jpg|frameless|136x136px]]
+| [[William L. Dawson (politician)|William L. Dawson]]
+| {{party shading/Democratic}} | Democratic
+| [[Illinois]]
+| 1955–1970
+|-
+|[[File:ChesterEHolifield.jpg|frameless|105x105px]]
+| [[Chester E. Holifield]]
+| {{party shading/Democratic}} | Democratic
+| [[California]]
+| 1970–1974
+|-
+|[[File:JackBrooksCP.png|frameless|111x111px]]
+| [[Jack Brooks (American politician)|Jack Brooks]]
+| {{party shading/Democratic}} | Democratic
+| [[Texas]]
+| 1975–1989
+|-
+|[[File:John conyers.jpg|frameless|119x119px]]
+| [[John Conyers]]
+| {{party shading/Democratic}} | Democratic
+| [[Michigan]]
+| 1989–1995
+|-
+|[[File:BillClinger.jpg|frameless|116x116px]]
+| [[William F. Clinger Jr.|William F. Clinger]]
+| {{party shading/Republican}} | Republican
+| [[Pennsylvania]]
+| 1995–1997
+|-
+|[[File:Burton Dan.jpg|frameless|122x122px]]
+| [[Dan Burton]]
+| {{party shading/Republican}} | Republican
+| [[Indiana]]
+| 1997–2003
+|-
+|[[File:Tom Davis, official 109th Congress photo portrait, pictorial.jpg|frameless|116x116px]]
+|[[Tom Davis (Virginia politician)|Thomas M. Davis]]
+| {{party shading/Republican}} | Republican
+| [[Virginia]]
+| 2003–2007
+|-
+|[[File:Henry Waxman, official photo portrait color.jpg|frameless|111x111px]]
+| [[Henry Waxman]]
+| {{party shading/Democratic}} | Democratic
+| [[California]]
+| 2007–2009
+|-
+|[[File:Edolphus Towns portrait.jpg|frameless|120x120px]]
+| [[Edolphus Towns]]
+| {{party shading/Democratic}} | Democratic
+| [[New York (state)|New York]]
+| 2009–2011
+|-
+|[[File:Congressman Darrell Issa.jpg|frameless|143x143px]]
+| [[Darrell Issa]]
+| {{party shading/Republican}} | Republican
+| [[California]]
+| 2011–2015
+|-
+|[[File:Jason Chaffetz, official portrait, 111th Congress.jpg|frameless|127x127px]]
+| [[Jason Chaffetz]]
+| {{party shading/Republican}} | Republican
+| [[Utah]]
+| 2015–2017
+|-
+|[[File:Trey Gowdy official congressional photo.jpg|frameless|142x142px]]
+| [[Trey Gowdy]]
+| {{party shading/Republican}} | Republican
+| [[South Carolina]]
+| 2017–2019
+|-
+|[[File:Elijah Cummings23.jpg|frameless|143x143px]]
+| [[Elijah Cummings]]
+| {{party shading/Democratic}} | Democratic
+| [[Maryland]]
+| 2019
+|-
+|[[File:Carolyn Maloney, official portrait, 116th congress.jpg|frameless|142x142px]]
+| [[Carolyn Maloney]] 
+| {{party shading/Democratic}} | Democratic
+| [[New York (state)|New York]]
+| 2019–2023
+|-
+| [[File:Rep. James Comer.jpg|frameless|142x142px]]
+| [[James Comer (politician)|James Comer]]
+| {{party shading/Republican}} | Republican
+| [[Kentucky]]
+| 2023–present
+|-
+|}
+
+==Historical membership rosters==
+<!--===117 Congress===
+{| class=wikitable
+|-
+! Majority
+! Minority
+|-
+| {{party shading/Republican}} valign=top |
+* [[James Comer (politician)|James Comer]], Kentucky, ''Chair''
+* [[Jim Jordan]], Ohio
+* [[Paul Gosar]], Arizona
+* [[Virginia Foxx]], North Carolina
+* [[Jody Hice]], Ohio
+* [[Glenn Grothman]], Wisconsin
+* [[Bob Gibbs]], Ohio
+* [[Clay Higgins]], Louisiana 
+* [[Ralph Norman]], South Carolina
+* [[Michael Cloud]], Texas
+* [[Pete Sessions]], Texas
+* [[Andy Biggs]], Arizona 
+* [[Andrew Clyde]], Georgia
+* [[Nancy Mace]], South Carolina
+* [[Scott Franklin (politician)|Scott Franklin]], Florida
+* [[Jake LaTurner]], Kansas
+* [[Pat Fallon]], Texas
+* [[Byron Donalds]], Florida
+* [[To be determined|TBD]], ''Vice Chair''
+* [[Mike Flood (politician)|Mike Flood]], Nebraska (since July 13, 2022)
+
+| {{party shading/Democratic}} valign=top |
+* [[Jamie Raskin]], Maryland, ''Ranking Member''
+* [[Eleanor Holmes Norton]], District of Columbia
+* [[Stephen Lynch (politician)|Stephen Lynch]], Massachusetts 
+* [[Gerry Connolly]], Virginia
+* [[Raja Krishnamoorthi]], Illinois
+* [[Ro Khanna]], California 
+* [[Kweisi Mfume]], Maryland
+* [[Alexandria Ocasio-Cortez]], New York
+* [[Rashida Tlaib]], Michigan
+* [[Katie Porter]], California 
+* [[Cori Bush]], Missouri 
+* [[Shontel Brown]], Ohio (since November 4, 2021)
+* [[Danny K. Davis]], Illinois 
+* [[Debbie Wasserman Schultz]], Florida
+* [[Hank Johnson]], Georgia
+* [[John Sarbanes]], Maryland
+* [[Ayanna Pressley]], Massachusetts
+* [[Jimmy Gomez]], California
+* [[Mark DeSaulnier]], California 
+* [[Robin Kelly]], Illinois 
+* [[Mike Quigley (politician)|Mike Quigley]], Illinois (since April 14, 2021)
+|}
+Resolutions electing members: {{USBill|118|HRes|14}} (Chair), {{USBill|118|HRes|15}} (Ranking Member)
+
+;Subcommittees
+{| class="wikitable"
+|-
+! Subcommittee.<ref>{{Cite web|url=https://oversight.house.gov/news/press-releases/cummings-announces-subcommittee-chairs-and-full-committee-vice-chair|title=Cummings Announces Subcommittee Chairs and Full Committee Vice Chair|date=January 24, 2019|website=House Committee on Oversight and Reform|access-date=August 11, 2020}}</ref><ref>{{Cite web|url=https://oversight.house.gov/sites/democrats.oversight.house.gov/files/116th%20COR%20Sub.Cmt_.%20Assignments.pdf|title=Committee on Oversight and Reform: Subcommittees – 116th Congress|access-date=August 11, 2020}}</ref>
+! Chair
+! Ranking Member
+|-
+| [[United States House Oversight Subcommittee on Civil Rights and Civil Liberties|Civil Rights and Civil Liberties]]
+| [[Jamie Raskin]] (D-MD)
+| [[Nancy Mace]] (R-SC)
+|-
+| [[United States House Oversight Subcommittee on Economic and Consumer Policy|Economic and Consumer Policy]]
+| [[Raja Krishnamoorthi]] (D-IL)
+| [[Michael Cloud]] (R-TX)
+|-
+| [[United States House Oversight Subcommittee on Environment|Environment]]
+| [[Ro Khanna]] (D-CA)
+| [[Ralph Norman]] (R-SC)
+|-
+| [[United States House Oversight Subcommittee on Government Operations|Government Operations]]
+| [[Gerry Connolly]] (D-VA)
+| [[Jody Hice]] (R-GA)
+|-
+| [[United States House Oversight Subcommittee on National Security|National Security]]
+| [[Stephen Lynch (politician)|Stephen Lynch]] (D-MA)
+| [[Glenn Grothman]] (R-WI)
+|-
+| [[United States House Select Subcommittee on the Coronavirus Crisis|Coronavirus Crisis (Select)]]
+| [[Jim Clyburn]] (D-SC)
+| [[Steve Scalise]] (R-LA)
+|}-->
+
+=== 117th Congress ===
+{| class="wikitable"
+!Majority
+!Minority
+|-
+| {{party shading/Democratic}} valign=top |
+* [[Carolyn Maloney]], New York, ''Chair''
+* [[Eleanor Holmes Norton]], District of Columbia
+* [[Stephen Lynch (politician)|Stephen Lynch]], Massachusetts
+* [[Jim Cooper]], Tennessee
+* [[Gerry Connolly]], Virginia
+* [[Raja Krishnamoorthi]], Illinois
+* [[Jamie Raskin]], Maryland
+* [[Ro Khanna]], California
+* [[Kweisi Mfume]], Maryland
+* [[Alexandria Ocasio-Cortez]], New York
+* [[Rashida Tlaib]], Michigan
+* [[Katie Porter]], California
+* [[Cori Bush]], Missouri
+* [[Danny Davis (Illinois politician)|Danny Davis]], Illinois
+* [[Debbie Wasserman Schultz]], Florida
+* [[Peter Welch]], Vermont
+* [[Hank Johnson]], Georgia 
+* [[John Sarbanes]], Maryland
+* [[Jackie Speier]], California
+* [[Robin Kelly]], Illinois
+* [[Brenda Lawrence]], Michigan
+* [[Mark DeSaulnier]], California
+* [[Jimmy Gomez]], California, ''Vice Chair''
+* [[Ayanna Pressley]], Massachusetts
+* [[Shontel Brown]], Ohio (since December 1, 2021)
+
+| {{party shading/Republican}} valign=top |
+* [[James Comer (politician)|James Comer]], Kentucky, ''Ranking Member''
+* [[Jim Jordan]], Ohio
+* [[Paul Gosar]], Arizona (until November 12, 2021)
+* [[Virginia Foxx]], North Carolina
+* [[Jody Hice]], Georgia
+* [[Glenn Grothman]], Wisconsin
+* [[Michael Cloud]], Texas
+* [[Bob Gibbs]], Ohio
+* [[Clay Higgins]], Louisiana
+* [[Ralph Norman]], South Carolina
+* [[Pete Sessions]], Texas
+* [[Fred Keller (politician)|Fred Keller]], Pennsylvania
+* [[Andy Biggs]], Arizona
+* [[Andrew Clyde]], Georgia
+* [[Nancy Mace]], South Carolina 
+* [[Scott Franklin (politician)|Scott Franklin]], Florida
+* [[Jake LaTurner]], Kansas
+* [[Pat Fallon]], Texas
+* [[Yvette Herrell]], New Mexico
+* [[Byron Donalds]], Florida 
+* [[Mike Flood (politician)|Mike Flood]], Nebraska (since July 13, 2022)
+|}
+Sources: [https://www.congress.gov/bill/117th-congress/house-resolution/9 H.Res.9] (Chair), [https://www.congress.gov/bill/117th-congress/house-resolution/10 H.Res.10] (Ranking Member) [https://www.congress.gov/bill/117th-congress/house-resolution/62/text H.Res.62] (D), [https://www.congress.gov/bill/117th-congress/house-resolution/63 H.Res.63] (R), [https://www.congress.gov/bill/117th-congress/house-resolution/789/ H.Res.789] (Removing Paul Gosar), [https://www.congress.gov/bill/117th-congress/house-resolution/825 H.Res.825] (D - Shontel Brown), [https://www.congress.gov/bill/117th-congress/house-resolution/1225 H.Res.1225] (R - Mike Flood)
+
+===116th Congress===
+{| class=wikitable
+|-
+! Majority
+! Minority
+|-
+| {{party shading/Democratic}} valign=top |
+* [[Elijah Cummings]], Maryland, ''Chair''
+* [[Carolyn Maloney]], New York
+* [[Eleanor Holmes Norton]], District of Columbia
+* [[Lacy Clay]], Missouri
+* [[Stephen Lynch (politician)|Stephen Lynch]], Massachusetts
+* [[Jim Cooper]], Tennessee
+* [[Gerry Connolly]], Virginia
+* [[Raja Krishnamoorthi]], Illinois
+* [[Jamie Raskin]], Maryland
+* [[Harley Rouda]], California
+* [[Katie Hill]], California, ''Vice Chair''
+* [[Debbie Wasserman Schultz]], Florida
+* [[John Sarbanes]], Maryland
+* [[Peter Welch]], Vermont
+* [[Jackie Speier]], California
+* [[Robin Kelly]], Illinois
+* [[Mark DeSaulnier]], California
+* [[Brenda Lawrence]], Michigan
+* [[Stacey Plaskett]], U.S. Virgin Islands
+* [[Ro Khanna]], California
+* [[Jimmy Gomez]], California
+* [[Alexandria Ocasio-Cortez]], New York
+* [[Ayanna Pressley]], Massachusetts
+* [[Rashida Tlaib]], Michigan
+
+| {{party shading/Republican}} valign=top |
+* [[Jim Jordan]], Ohio, ''Ranking Member''
+* [[Justin Amash]], Michigan
+* [[Paul Gosar]], Arizona
+* [[Virginia Foxx]], North Carolina
+* [[Thomas Massie]], Kentucky
+* [[Mark Meadows (North Carolina politician)|Mark Meadows]], North Carolina
+* [[Jody Hice]], Georgia
+* [[Glenn Grothman]], Wisconsin
+* [[James Comer (politician)|James Comer]], Kentucky
+* [[Michael Cloud]], Texas
+* [[Bob Gibbs]], Ohio
+* [[Clay Higgins]], Louisiana
+* [[Ralph Norman]], South Carolina
+* [[Chip Roy]], Texas
+* [[Carol Miller (politician)|Carol Miller]], West Virginia
+* [[Mark Green (Tennessee politician)|Mark Green]], Tennessee
+* [[Kelly Armstrong]], North Dakota
+* [[Greg Steube]], Florida
+|}
+Sources: {{USBill|116|HRes|24}} (Chair), {{USBill|116|HRes|25}} (Ranking Member), {{USBill|116|HRes|67}} (D), {{USBill|116|HRes|68}} (R)
+
+====Membership changes====
+The Oversight and Government Reform Committee underwent numerous membership changes over the course of the [[116th United States Congress]].
+* July 10, 2019: [[Fred Keller (politician)|Fred Keller]] (R-PA) added to committee roster. {{USBill|116|HRes|481}}
+* October 17, 2019: Chairman [[Elijah Cummings]] (D-MD) passed away. Carolyn Maloney (D-NY) assumed acting Chairship.
+* November 3, 2019: Vice Chair [[Katie Hill]] (D-CA) resigned.<ref>{{cite web|url=https://www.politico.com/news/2019/10/27/rep-katie-hill-to-resign-amid-allegations-of-inappropriate-relationships-with-staffers-000301|title=Rep. Katie Hill to resign amid allegations of inappropriate relationships with staffers|first1=Heather|last1=Caygle|first2=John|last2=Bresnahan|first3=Kyle|last3=Cheney|date=October 27, 2019|access-date=February 16, 2021|work=[[Politico]]}}</ref>
+* November 20, 2019: Carolyn Maloney elected permanent chair.<ref>{{cite web|url=https://www.politico.com/news/2019/11/20/rep-carolyn-maloney-to-lead-house-oversight-committee-072214|title=Rep. Carolyn Maloney wins election to chair House Oversight Committee|date=November 20, 2019|access-date=February 16, 2021|first=Sarah|last=Ferris|work=[[Politico]]}}</ref> {{USBill|116|HRes|725}}
+* December 19, 2019: [[Katie Porter]] (D-CA) and [[Deb Haaland]] (D-NM) added to committee roster. {{USBill|116|HRes|773}}
+* February 27, 2020: [[Ro Khanna]] (D-CA) added to committee roster, ranking after Harley Rouda. {{USBill|116|HRes|870}}
+* March 21, 2020: Ranking Member [[Jim Jordan]] (R-OH) stepped down to assume the Ranking Membership of the [[United States House Committee on the Judiciary|Judiciary Committee]]; [[Mark Meadows (North Carolina politician)|Mark Meadows]] (R-NC) assumes Ranking Membership.<ref>{{cite web|url=https://thehill.com/homenews/house/481933-jim-jordan-selected-to-replace-doug-collins-on-judiciary-committee/|title=House Republicans move Jordan to Judiciary, Meadows to Oversight|first1=Olivia|last1=Beavers|first2=Julie Grace|last2=Brufke|date=February 6, 2020|access-date=February 16, 2021|work=[[The Hill (newspaper)|The Hill]]}}</ref>
+* March 30, 2020: [[Mark Meadows (North Carolina politician)|Mark Meadows]] (R-NC) resigned to become [[White House Chief of Staff]].<ref name=Meadows /> Jim Jordan resumes Ranking Membership temporarily.
+* May 8, 2020: [[Kweisi Mfume]] (D-MD) added to committee roster, ranking after Harley Rouda. {{USBill|116|HRes|954}}
+* June 29, 2020: [[James Comer (politician)|James Comer]] (R-KY) elected permanent Ranking Member.<ref>{{cite web|url=https://www.politico.com/news/2020/06/29/gop-james-comer-oversight-committee-344870|title=GOP panel picks James Comer as top Republican on Oversight Committee|date=June 29, 2020|access-date=February 16, 2021|first=Melanie|last=Zanona|work=[[Politico]]}}</ref>
+* July 1, 2020: [[Gary Palmer (politician)|Gary Palmer]] (R-AL) added to committee roster, ranking after Michael Cloud. {{USBill|116|HRes|1037}}
+
+;Subcommittees
+{| class="wikitable"
+|-
+! Subcommittee
+! Chair
+! Ranking Member
+|-
+| [[United States House Oversight Subcommittee on Civil Rights and Civil Liberties|Civil Rights and Civil Liberties]]
+| [[Jamie Raskin]] (D-MD)
+| [[Chip Roy]] (R-TX)
+|-
+| [[United States House Oversight Subcommittee on Economic and Consumer Policy|Economic and Consumer Policy]]
+| [[Raja Krishnamoorthi]] (D-IL)
+| [[Michael Cloud]] (R-TX)
+|-
+| [[United States House Oversight Subcommittee on Environment|Environment]]
+| [[Harley Rouda]] (D-CA)
+| [[James Comer (politician)|James Comer]] (R-KY)
+|-
+| [[United States House Oversight Subcommittee on Government Operations|Government Operations]]
+| [[Gerry Connolly]] (D-VA)
+| [[Mark Meadows (North Carolina politician)|Mark Meadows]] (R-NC)<ref name=Meadows />
+|-
+| [[United States House Oversight Subcommittee on National Security|National Security]]
+| [[Stephen Lynch (politician)|Stephen Lynch]] (D-MA)
+| [[Jody Hice]] (R-GA)
+|-
+| [[United States House Select Subcommittee on the Coronavirus Crisis|Coronavirus Crisis (Select)]]
+| [[Jim Clyburn]] (D-SC)
+| [[Steve Scalise]] (R-LA)
+|}
+
+===115th Congress===
+{| class=wikitable
+|-
+! Majority
+! Minority
+|-
+| {{party shading/Republican}} valign=top |
+* [[Trey Gowdy]], South Carolina, ''Chair''
+* [[Jimmy Duncan (U.S. politician)|Jimmy Duncan]], Tennessee
+* [[Darrell Issa]], California
+* [[Jim Jordan]], Ohio
+* [[Mark Sanford]], South Carolina
+* [[Justin Amash]], Michigan
+* [[Paul Gosar]], Arizona
+* [[Scott DesJarlais]], Tennessee
+* [[Michael Cloud]], Texas 
+* [[Virginia Foxx]], North Carolina
+* [[Thomas Massie]], Kentucky
+* [[Mark Meadows (North Carolina politician)|Mark Meadows]], North Carolina
+* [[Dennis A. Ross]], Florida
+* [[Mark Walker (North Carolina politician)|Mark Walker]], North Carolina
+* [[Rod Blum]], Iowa
+* [[Jody Hice]], Georgia
+* [[Steve Russell (politician)|Steve Russell]], Oklahoma
+* [[Glenn Grothman]], Wisconsin
+* [[Will Hurd]], Texas
+* [[Gary Palmer (politician)|Gary Palmer]], Alabama
+* [[James Comer (politician)|James Comer]], Kentucky
+* [[Paul Mitchell (politician)|Paul Mitchell]], Michigan
+* [[Greg Gianforte]], Montana
+| {{party shading/Democratic}} valign=top |
+* [[Elijah Cummings]], Maryland, ''Ranking Member''
+* [[Carolyn Maloney]], New York
+* [[Eleanor Holmes Norton]], District of Columbia
+* [[Lacy Clay]], Missouri
+* [[Stephen Lynch (politician)|Stephen Lynch]], Massachusetts
+* [[Jim Cooper]], Tennessee
+* [[Gerry Connolly]], Virginia, ''Vice Ranking Member''
+* [[Robin Kelly]], Illinois
+* [[Brenda Lawrence]], Michigan
+* [[Ted Lieu]], California
+* [[Bonnie Watson Coleman]], New Jersey
+* [[Stacey Plaskett]], U.S. Virgin Islands
+* [[Brendan Boyle]], Pennsylvania
+* [[Val Demings]], Florida
+* [[Raja Krishnamoorthi]], Illinois
+* [[Jamie Raskin]], Maryland
+* [[Jimmy Gomez]], California
+* [[Peter Welch]], Vermont
+* [[Matt Cartwright]], Pennsylvania
+* [[Mark DeSaulnier]], California
+* [[John Sarbanes]], Maryland
+|}
+Sources: {{USBill|115|HRes|6}} (Chair), {{USBill|115|HRes|7}} (Ranking Member), {{USBill|115|HRes|45}} (D) {{USBill|115|HRes|51}} (R), {{USBill|115|HRes|52}}, {{USBill|115|HRes|95}} and {{USBill|115|HRes|127}} (D)
+
+==See also==
+* [[List of current United States House of Representatives committees]]
+
+==References==
+{{reflist}}
+
+==External links==
+{{commons category}}
+*[https://oversight.house.gov/ House Oversight and Government Reform Committee] ([https://www.loc.gov/item/lcwa00hsgo00/ Archive])
+*[https://www.congress.gov/committee/house-oversight-and-government-reform/hsgo00 House Oversight and Government Reform Committee]. Legislation activity and reports, Congress.gov.
+*[https://www.congress.gov/committees/video/house-oversight-and-government-reform/hsgo00 House Oversight and Government Reform Committee Hearings and Meetings Video]. Congress.gov.
+*[https://web.archive.org/web/20130104170904/http://www.ombwatch.org/ OMB Watch] a government ethics and reform nonprofit agency
+*[https://www.govinfo.gov/collection/plum-book Plum Book], ''United States Government Policy Key Employees and Supporting Positions: About the Committee on Government Reform''
+* [https://www.archives.gov/legislative/guide/house/chapter-11.html Records of the Government Operations Committee and its Predecessors] at the [[National Archives and Records Administration]]
+
+{{United States congressional committees}}
+{{authority control}}
+
+[[Category:Committees of the United States House of Representatives|Oversight and Government Reform]]
+[[Category:1816 establishments in Washington, D.C.]]
+[[Category:Organizations established in 1816]]
+[[Category:Parliamentary committees on Justice]]

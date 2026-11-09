@@ -1,0 +1,712 @@
+{{Short description|Standing committee of the US House of Representatives}}
+{{Use mdy dates|date=October 2023}} {{Use American English|date=October 2023}}
+{{Infobox U.S. congressional committee
+| name               = House Transportation Committee
+| type               = standing
+| chamber            = house
+| congress           = 118th
+| status             = active
+| formed             = January 2, 1947
+| chair              = [[Sam Graves]] 
+| chair_party        = R
+| chair_since        = January 3, 2023
+| ranking_member     = [[Rick Larsen]]
+| rm_party           = D
+| rm_since           = January 3, 2023
+| seats              = 65
+| majority1          = R
+| majority1_seats    = 35
+| minority1          = D
+| minority1_seats    = 30
+| policy_areas       = 
+| oversight          = 
+| counterpart        = 
+| subcommittees      = 
+| meeting_place      = 
+| meeting_image      = 
+| meeting_img_size   = 
+| website            = {{url|transportation.house.gov}}
+}}
+{{United States House of Representatives}}
+The '''U.S. House Committee on Transportation and Infrastructure''' is a [[standing committee]] of the [[United States House of Representatives]].
+
+==History==
+The Committee on Transportation and Infrastructure was formerly known as the Committee on Public Works and Transportation from 1975 to 1994, and the [[United States House Committee on Public Works|Committee on Public Works]] between 1947 and 1974.
+
+Under the [[Legislative Reorganization Act of 1946]] the Committees on [[United States House Committee on Public Buildings and Grounds|Public Buildings and Grounds]] (1837–1946), [[United States House Committees on Rivers and Harbors|Rivers and Harbors]] (1883–1946), [[United States House Committee on Roads|Roads]] (1913–1946), and the [[United States House Committee on Flood Control|Flood Control]] (1916–1946) were combined to form the Committee on Public Works. Its jurisdiction from the beginning of the 80th Congress (1947–1948) through the 90th Congress (1967–1968) remained unchanged.<ref>[https://www.archives.gov/legislative/guide/house/chapter-17-public-works.html Chapter 17. Committee on Public Works (1947-68)], [[National Archives and Records Administration|National Archives]], Guide to the Records of the U.S. House of Representatives at the National Archives, 1789-1989 (Record Group 233) Based on ''Guide to the Records of the United States House of Representatives at the National Archives, 1789-1989: Bicentennial Edition (Doct. No. 100-245)''. By Charles E. Schamel, Mary Rephlo, Bob Ross, Rodney Ross, David Kepley, Robert W. Coren, and James Gregory Bradsher. Washington, DC: National Archives and Records Administration, 1989.</ref>
+
+While these four original committees retained their separate identities, they were reduced to subcommittees. Additional subcommittees were formed for issues on Beach Erosion, 80th Congress (1947–1948) and for Watershed Development, 86th–90th congresses (1959–1968). Special Subcommittees included those: to Investigate Questionable Trade Practices, 80th Congress; to Study Civil Works, 82nd Congress (1951–1952); on the Federal-Aid Highway Program, 86th–90th congresses; and on Economic Development Programs, 89th–90th congresses (1965–1968). Ad Hoc Committees were established on Montana Flood Damage, 88th Congress (1963–1964); on Appalachian Regional Development, 88th–90th congresses; and on the 1967 Alaska Exposition, 89th Congress.
+
+==Members, 118th Congress==
+[[File:Bruce Westerman - 6.9.20.jpg|thumb|A [[social distancing]] committee meeting during the [[COVID-19 pandemic]]]]
+{| class=wikitable style=nowrap
+! Majority
+! Minority
+|-
+
+| {{party shading/Republican}} valign=top |
+* [[Sam Graves]], Missouri, ''Chair''
+* [[Rick Crawford (politician)|Rick Crawford]], Arkansas
+* [[Daniel Webster (Florida politician)|Daniel Webster]], Florida
+* [[Thomas Massie]], Kentucky
+* [[Scott Perry (politician)|Scott Perry]], Pennsylvania 
+* [[Brian Babin]], Texas 
+* [[Garret Graves]], Louisiana
+* [[David Rouzer]], North Carolina 
+* [[Mike Bost]], Illinois 
+* [[Doug LaMalfa]], California
+* [[Bruce Westerman]], Arkansas
+* [[Brian Mast]], Florida
+* [[Jenniffer González]], Puerto Rico
+* [[Pete Stauber]], Minnesota
+* [[Tim Burchett]], Tennessee
+* [[Dusty Johnson]], South Dakota
+* [[Jeff Van Drew]], New Jersey, ''Vice Chair''
+* [[Troy Nehls]], Texas
+* [[Lance Gooden]], Texas
+* [[Tracey Mann]], Kansas
+* [[Burgess Owens]], Utah
+* [[Rudy Yakym]], Indiana
+* [[Lori Chavez-DeRemer]], Oregon
+* [[Chuck Edwards]], North Carolina (until December 6, 2023)
+* [[Thomas Kean Jr.]], New Jersey
+* [[Anthony D'Esposito]], New York
+* [[Eric Burlison]], Missouri
+* [[John James (Michigan politician)|John James]], Michigan
+* [[Derrick Van Orden]], Wisconsin
+* [[Brandon Williams (politician)|Brandon Williams]], New York
+* [[Marc Molinaro]], New York
+* [[Mike Collins (politician)|Mike Collins]], Georgia
+* [[Mike Ezell]], Mississippi
+* [[John Duarte (politician)|John Duarte]], California
+* [[Aaron Bean]], Florida
+* [[Celeste Maloy]], Utah (from December 6, 2023)
+* [[Kevin Kiley (politician)|Kevin Kiley]], California (from April 10, 2024)
+* [[Vince Fong]], California (from June 3, 2024)
+
+| {{party shading/Democratic}} valign=top |
+* [[Rick Larsen]], Washington, ''Ranking Member''
+* [[Eleanor Holmes Norton]], District of Columbia
+* [[Grace Napolitano]], California
+* [[Steve Cohen (politician)|Steve Cohen]], Tennessee
+* [[John Garamendi]], California
+* [[Hank Johnson]], Georgia
+* [[André Carson]], Indiana
+* [[Dina Titus]], Nevada
+* [[Jared Huffman]], California
+* [[Julia Brownley]], California
+* [[Frederica Wilson]], Florida
+* [[Donald Payne Jr.]], New Jersey (until April 24, 2024)
+* [[Mark DeSaulnier]], California
+* [[Salud Carbajal]], California
+* [[Greg Stanton]], Arizona, ''Vice Ranking Member''
+* [[Colin Allred]], Texas
+* [[Sharice Davids]], Kansas
+* [[Chuy García]], Illinois
+* [[Chris Pappas (American politician)|Chris Pappas]], New Hampshire
+* [[Seth Moulton]], Massachusetts
+* [[Jake Auchincloss]], Massachusetts
+* [[Marilyn Strickland]], Washington
+* [[Troy Carter (politician)|Troy Carter]], Louisiana
+* [[Pat Ryan (politician)|Pat Ryan]], New York
+* [[Mary Peltola]], Alaska
+* [[Rob Menendez]], New Jersey
+* [[Val Hoyle]], Oregon
+* [[Emilia Sykes]], Ohio
+* [[Hillary Scholten]], Michigan
+* [[Valerie Foushee]], North Carolina
+|}
+Resolutions electing members: {{USBill|118|HRes|14}} (Chair), {{USBill|118|HRes|15}} (Ranking Member), {{USBill|118|HRes|79}} (D), {{USBill|118|HRes|80}} (R), {{USBill|118|HRes|913}} (R)
+
+== Subcommittees==
+There are six subcommittees:
+{| class="wikitable"
+! Subcommittee
+! Chair<ref>{{Cite web |title=Graves Announces T&I Subcommittee Chairs for 118th Congress {{!}} Transportation and Infrastructure Committee |url=https://transportation.house.gov/news/documentsingle.aspx?DocumentID=406045 |access-date=2023-01-28 |website=transportation.house.gov |language=en}}</ref>
+! Ranking Member<ref>{{Cite web |title=Graves, Larsen Announce T&I Subcommittee Rosters for the 118th Congress {{!}} The House Committee on Transportation and Infrastructure |url=https://democrats-transportation.house.gov/news/press-releases/graves-larsen-announce-tandi-subcommittee-rosters-for-the-118th-congress- |access-date=2023-02-01 |website=democrats-transportation.house.gov |language=en}}</ref>
+|-
+| [[United States House Transportation Subcommittee on Aviation|Aviation]]
+| [[Garret Graves]] (R-LA)
+|[[Steve Cohen (politician)|Steve Cohen]] (D-TN)
+|-
+| [[United States House Transportation Subcommittee on Coast Guard and Maritime Transportation|Coast Guard and Maritime Transportation]]
+| [[Daniel Webster (Florida politician)|Daniel Webster]] (R-FL)
+|[[Salud Carbajal]] (D-CA)
+|-
+| [[United States House Transportation Subcommittee on Economic Development, Public Buildings and Emergency Management|Economic Development, Public Buildings and Emergency Management]]
+| [[Scott Perry (politician)|Scott Perry]] (R-PA)
+|[[Dina Titus]] (D-NV)
+|-
+| [[United States House Transportation Subcommittee on Highways and Transit|Highways and Transit]]
+| [[Rick Crawford (politician)|Rick Crawford]] (R-AR)
+|[[Eleanor Holmes Norton]] (D-DC)
+|-
+| [[United States House Transportation Subcommittee on Railroads, Pipelines, and Hazardous Materials|Railroads, Pipelines, and Hazardous Materials]]
+| [[Troy Nehls]] (R-TX)
+|[[Donald Payne Jr.]] (D-NJ) (until April 24, 2024)<br>[[Frederica Wilson]] (D-FL) (from May 7, 2024)
+|-
+| [[United States House Transportation Subcommittee on Water Resources and Environment|Water Resources and Environment]]
+| [[David Rouzer]] (R-NC)
+|[[Grace Napolitano]] (D-CA)
+|}
+
+==Chairs==
+{| class=wikitable
+! Chairs
+! Party
+! State
+! Years
+|-
+| [[George Anthony Dondero|George A. Dondero]]
+| {{party shading/Republican}} | Republican
+| [[Michigan]]
+| 1947–1949
+|-
+| [[William Madison Whittington|William M. Whittington]]
+| {{party shading/Democratic}} | Democratic
+| [[Mississippi]]
+| 1949–1951
+|-
+| [[Charles A. Buckley]]
+| {{party shading/Democratic}} | Democratic
+| [[New York (state)|New York]]
+| 1951–1953
+|-
+| [[George Anthony Dondero|George A. Dondero]]
+| {{party shading/Republican}} | Republican
+| [[Michigan]]
+| 1953–1955
+|-
+| [[Charles A. Buckley]]
+| {{party shading/Democratic}} | Democratic
+| [[New York (state)|New York]]
+| 1955–1965
+|-
+| [[George Hyde Fallon]]
+| {{party shading/Democratic}} | Democratic
+| [[Maryland]]
+| 1965–1971
+|-
+| [[John Blatnik]]
+| {{party shading/Democratic}} | Democratic
+| [[Minnesota]]
+| 1971–1974
+|-
+| [[Robert E. Jones Jr.]]
+| {{party shading/Democratic}} | Democratic
+| [[Alabama]]
+| 1975–1977
+|-
+| [[Harold T. Johnson]]
+| {{party shading/Democratic}} | Democratic
+| [[California]]
+| 1977–1981
+|-
+| [[James J. Howard]]
+| {{party shading/Democratic}} | Democratic
+| [[New Jersey]]
+| 1981–1988
+|-
+| [[Glenn M. Anderson]]
+| {{party shading/Democratic}} | Democratic
+| [[California]]
+| 1988–1991
+|-
+| [[Robert A. Roe]]
+| {{party shading/Democratic}} | Democratic
+| [[New Jersey]]
+| 1991–1993
+|-
+| [[Norman Mineta]]
+| {{party shading/Democratic}} | Democratic
+| [[California]]
+| 1993–1995
+|-
+| [[Bud Shuster]]
+| {{party shading/Republican}} | Republican
+| [[Pennsylvania]]
+| 1995–2001
+|-
+| [[Don Young]]
+| {{party shading/Republican}} | Republican
+| [[Alaska]]
+| 2001–2007
+|-
+| [[Jim Oberstar]]
+| {{party shading/Democratic}} | Democratic
+| [[Minnesota]]
+| 2007–2011
+|-
+| [[John Mica]]
+| {{party shading/Republican}} | Republican
+| [[Florida]]
+| 2011–2013
+|-
+| [[Bill Shuster]]
+| {{party shading/Republican}} | Republican
+| [[Pennsylvania]]
+| 2013–2019
+|-
+| [[Peter DeFazio]]
+| {{party shading/Democratic}} | Democratic
+| [[Oregon]]
+| 2019–2023
+|-
+| [[Sam Graves]]
+| {{party shading/Republican}} | Republican
+| [[Missouri]]
+| 2023–present
+|}
+
+==Historical membership rosters==
+[[File:Julia Brownley - 2020-01-16.jpg|thumb|Congresswoman [[Julia Brownley]] during a Committee meeting in January 2020]]
+===117th Congress===
+{| class=wikitable style=nowrap
+! Majority
+! Minority
+|-
+| {{party shading/Democratic}} valign=top |
+* [[Peter DeFazio]], Oregon, ''Chairman''
+* [[Eleanor Holmes Norton]], District of Columbia
+* [[Eddie Bernice Johnson]], Texas
+* [[Rick Larsen]], Washington
+* [[Grace Napolitano]], California
+* [[Steve Cohen (politician)|Steve Cohen]], Tennessee
+* [[Albio Sires]], New Jersey
+* [[John Garamendi]], California
+* [[Hank Johnson]], Georgia
+* [[André Carson]], Indiana
+* [[Dina Titus]], Nevada
+* [[Sean Patrick Maloney]], New York
+* [[Jared Huffman]], California
+* [[Julia Brownley]], California
+* [[Frederica Wilson]], Florida
+* [[Donald Payne Jr.]], New Jersey
+* [[Alan Lowenthal]], California
+* [[Mark DeSaulnier]], California
+* [[Stephen F. Lynch]], Massachusetts
+* [[Salud Carbajal]], California
+* [[Anthony Brown (Maryland politician)|Anthony Brown]], Maryland
+* [[Tom Malinowski]], New Jersey
+* [[Greg Stanton]], Arizona
+* [[Colin Allred]], Texas
+* [[Sharice Davids]], Kansas, ''Vice Chair''
+* [[Chuy Garcia]], Illinois
+* [[Antonio Delgado (politician)|Antonio Delgado]], New York (until May 25, 2022)
+* [[Chris Pappas (American politician)|Chris Pappas]], New Hampshire
+* [[Conor Lamb]], Pennsylvania
+* [[Seth Moulton]], Massachusetts
+* [[Jake Auchincloss]], Massachusetts
+* [[Carolyn Bourdeaux]], Georgia
+* [[Kai Kahele]], Hawaii
+* [[Marilyn Strickland]], Washington
+* [[Nikema Williams]], Georgia
+* [[Marie Newman]], Illinois
+* [[Troy Carter (politician)|Troy Carter]], Louisiana (since May 12, 2021)
+* [[Sheila Cherfilus-McCormick]], Florida (since June 14, 2022)
+
+| {{party shading/Republican}} valign=top |
+* [[Sam Graves]], Missouri, ''Ranking Member''
+* [[Don Young]], Alaska (until March 18, 2022)
+* [[Rick Crawford (politician)|Rick Crawford]], Arkansas
+* [[Bob Gibbs]], Ohio
+* [[Daniel Webster (Florida politician)|Daniel Webster]], Florida
+* [[Thomas Massie]], Kentucky
+* [[Scott Perry (politician)|Scott Perry]], Pennsylvania 
+* [[Rodney Davis (politician)|Rodney Davis]], Illinois
+* [[John Katko]], New York
+* [[Brian Babin]], Texas 
+* [[Garret Graves]], Louisiana
+* [[David Rouzer]], North Carolina 
+* [[Mike Bost]], Illinois 
+* [[Randy Weber]], Texas
+* [[Doug LaMalfa]], California
+* [[Bruce Westerman]], Arkansas
+* [[Brian Mast]], Florida
+* [[Mike Gallagher (American politician)|Mike Gallagher]], Wisconsin
+* [[Brian Fitzpatrick (American politician)|Brian Fitzpatrick]], Pennsylvania
+* [[Jenniffer González]], Puerto Rico
+* [[Troy Balderson]], Ohio
+* [[Pete Stauber]], Minnesota
+* [[Tim Burchett]], Tennessee
+* [[Dusty Johnson]], South Dakota
+* [[Jeff Van Drew]], New Jersey
+* [[Michael Guest (politician)|Michael Guest]], Mississippi
+* [[Troy Nehls]], Texas
+* [[Nancy Mace]], South Carolina
+* [[Nicole Malliotakis]], New York
+* [[Beth Van Duyne]], Texas
+* [[Carlos A. Giménez|Carlos Giménez]], Florida
+* [[Michelle Steel]], California
+|}
+Resolutions electing members: {{USBill|117|HRes|9}} (Chair), {{USBill|117|HRes|10}} (Ranking Member), {{USBill|117|HRes|62}} (D), {{USBill|117|HRes|63}} (R), {{USBill|117|HRes|384}} (D), {{USBill|117|HRes|1173}} (D)
+
+;Subcommittees
+{| class="wikitable"
+! Subcommittee
+! Chair<ref name=sub117>[https://transportation.house.gov/news/press-releases/chair-defazio-and-ranking-member-graves-announce-subcommittee-rosters_for-the-117th-congress Chair DeFazio and Ranking Member Graves Announce Subcommittee Rosters for the 117th Congress]</ref>
+! Ranking Member<ref name=sub117 />
+|-
+| [[United States House Transportation Subcommittee on Aviation|Aviation]]
+| [[Rick Larsen]] (D-WA)
+| [[Garret Graves]] (R-LA)
+|-
+| [[United States House Transportation Subcommittee on Coast Guard and Maritime Transportation|Coast Guard and Maritime Transportation]]
+| [[Salud Carbajal]] (D-CA)
+| [[Bob Gibbs]] (R-OH)
+|-
+| [[United States House Transportation Subcommittee on Economic Development, Public Buildings and Emergency Management|Economic Development, Public Buildings and Emergency Management]]
+| [[Dina Titus]] (D-NV)
+| [[Daniel Webster (Florida politician)|Daniel Webster]] (R-FL)
+|-
+| [[United States House Transportation Subcommittee on Highways and Transit|Highways and Transit]]
+| [[Eleanor Holmes Norton]] (D-DC)
+| [[Rodney Davis (politician)|Rodney Davis]] (R-IL)
+|-
+| [[United States House Transportation Subcommittee on Railroads, Pipelines, and Hazardous Materials|Railroads, Pipelines, and Hazardous Materials]]
+| [[Donald Payne Jr.]] (D-NJ)
+| [[Rick Crawford (politician)|Rick Crawford]] (R-AR)
+|-
+| [[United States House Transportation Subcommittee on Water Resources and Environment|Water Resources and Environment]]
+| [[Grace Napolitano]] (D-CA)
+| [[David Rouzer]] (R-NC)
+|}
+
+===116th Congress===
+{| class=wikitable style=nowrap
+! Majority
+! Minority
+|-
+| {{party shading/Democratic}} valign=top |
+* [[Peter DeFazio]], Oregon, ''Chairman''
+* [[Eleanor Holmes Norton]], District of Columbia
+* [[Eddie Bernice Johnson]], Texas
+* [[Rick Larsen]], Washington
+* [[Grace Napolitano]], California
+* [[Daniel Lipinski]], Illinois
+* [[Steve Cohen (politician)|Steve Cohen]], Tennessee
+* [[Albio Sires]], New Jersey
+* [[John Garamendi]], California
+* [[Hank Johnson]], Georgia
+* [[André Carson]], Indiana
+* [[Dina Titus]], Nevada
+* [[Sean Patrick Maloney]], New York
+* [[Jared Huffman]], California
+* [[Julia Brownley]], California
+* [[Frederica Wilson]], Florida
+* [[Donald Payne Jr.]], New Jersey
+* [[Alan Lowenthal]], California
+* [[Mark DeSaulnier]], California
+* [[Stacey Plaskett]], U.S. Virgin Islands
+* [[Stephen Lynch (politician)|Stephen Lynch]], Massachusetts
+* [[Salud Carbajal]], California, ''Vice Chair''
+* [[Anthony Brown (Maryland politician)|Anthony Brown]], Maryland
+* [[Adriano Espaillat]], New York
+* [[Tom Malinowski]], New Jersey
+* [[Greg Stanton]], Arizona
+* [[Debbie Mucarsel-Powell]], Florida
+* [[Lizzie Pannill Fletcher]], Texas
+* [[Colin Allred]], Texas
+* [[Sharice Davids]], Kansas
+* [[Abby Finkenauer]], Iowa
+* [[Chuy Garcia]], Illinois
+* [[Antonio Delgado (politician)|Antonio Delgado]], New York
+* [[Chris Pappas (American politician)|Chris Pappas]], New Hampshire
+* [[Angie Craig]], Minnesota
+* [[Harley Rouda]], California
+* [[Conor Lamb]], Pennsylvania (since November 19, 2019)
+
+| {{party shading/Republican}} valign=top |
+* [[Sam Graves]], Missouri, ''Ranking Member''
+* [[Don Young]], Alaska
+* [[Rick Crawford (politician)|Rick Crawford]], Arkansas
+* [[Bob Gibbs]], Ohio
+* [[Daniel Webster (Florida politician)|Daniel Webster]], Florida
+* [[Thomas Massie]], Kentucky
+* [[Mark Meadows (North Carolina politician)|Mark Meadows]], North Carolina 
+* [[Scott Perry (politician)|Scott Perry]], Pennsylvania 
+* [[Rodney Davis (politician)|Rodney Davis]], Illinois
+* [[Rob Woodall]], Georgia
+* [[John Katko]], New York
+* [[Brian Babin]], Texas 
+* [[Garret Graves]], Louisiana
+* [[David Rouzer]], North Carolina 
+* [[Mike Bost]], Illinois 
+* [[Randy Weber]], Texas
+* [[Doug LaMalfa]], California
+* [[Bruce Westerman]], Arkansas
+* [[Lloyd Smucker]], Pennsylvania
+* [[Paul Mitchell (politician)|Paul Mitchell]], Michigan
+* [[Brian Mast]], Florida
+* [[Mike Gallagher (American politician)|Mike Gallagher]], Wisconsin
+* [[Gary Palmer (politician)|Gary Palmer]], Alabama
+* [[Brian Fitzpatrick (American politician)|Brian Fitzpatrick]], Pennsylvania
+* [[Jenniffer González]], Puerto Rico
+* [[Troy Balderson]], Ohio
+* [[Ross Spano]], Florida
+* [[Pete Stauber]], Minnesota
+* [[Carol Miller (politician)|Carol Miller]], West Virginia
+* [[Greg Pence]], Indiana
+* [[Mike Garcia (politician)|Mike Garcia]], California (since July 1, 2020)
+|}
+
+Sources: {{USBill|116|HRes|24}} (Chair), {{USBill|116|HRes|25}} (Ranking Member), {{USBill|116|HRes|57}} (D), {{USBill|116|HRes|68}} (R), {{USBill|116|HRes|712}} (D), {{USBill|116|HRes|1037}} (R)
+
+;Subcommittees
+{| class="wikitable"
+! Subcommittee
+! Chair<ref>[https://transportation.house.gov/news/press-releases/chairman-defazio-announces-subcommittee-chairs-for-the-116th-congress Chairman DeFazio Announces Subcommittee Chairs for the 116th Congress]</ref>
+! Ranking Member<ref>[https://republicans-transportation.house.gov/news/documentsingle.aspx?DocumentID=402958 Graves Announces Subcommittee Ranking Members for the 116th Congress]</ref>
+|-
+| [[United States House Transportation Subcommittee on Aviation|Aviation]]
+| [[Rick Larsen]] (D-WA)
+| [[Garret Graves]] (R-LA)
+|-
+| [[United States House Transportation Subcommittee on Coast Guard and Maritime Transportation|Coast Guard and Maritime Transportation]]
+| [[Sean Patrick Maloney]] (D-CA)
+| [[Bob Gibbs]] (R-OH)
+|-
+| [[United States House Transportation Subcommittee on Economic Development, Public Buildings and Emergency Management|Economic Development, Public Buildings and Emergency Management]]
+| [[Dina Titus]] (D-NV)
+| [[Mark Meadows (North Carolina politician)|Mark Meadows]] (R-NC)
+|-
+| [[United States House Transportation Subcommittee on Highways and Transit|Highways and Transit]]
+| [[Eleanor Holmes Norton]] (D-DC)
+| [[Rodney Davis (politician)|Rodney Davis]] (R-IL)
+|-
+| [[United States House Transportation Subcommittee on Railroads, Pipelines, and Hazardous Materials|Railroads, Pipelines, and Hazardous Materials]]
+| [[Daniel Lipinski]] (D-IL)
+| [[Rick Crawford (politician)|Rick Crawford]] (R-AR)
+|-
+| [[United States House Transportation Subcommittee on Water Resources and Environment|Water Resources and Environment]]
+| [[Grace Napolitano]] (D-CA)
+| [[Bruce Westerman]] (R-AR)
+|}
+
+===115th Congress===
+{| class=wikitable style=nowrap
+! Majority
+! Minority
+|-
+| {{party shading/Republican}} valign=top |
+* [[Bill Shuster]], Pennsylvania, ''Chair''
+* [[Don Young]], Alaska
+* [[Jimmy Duncan (U.S. politician)|Jimmy Duncan]], Tennessee, ''Vice Chair''
+* [[Frank LoBiondo]], New Jersey
+* [[Sam Graves]], Missouri
+* [[Duncan D. Hunter]], California
+* [[Rick Crawford (politician)|Rick Crawford]], Arkansas
+* [[Lou Barletta]], Pennsylvania
+* [[Bob Gibbs]], Ohio
+* [[Daniel Webster (Florida politician)|Daniel Webster]], Florida
+* [[Jeff Denham]], California
+* [[Thomas Massie]], Kentucky
+* [[Mark Meadows (North Carolina politician)|Mark Meadows]], North Carolina 
+* [[Scott Perry (politician)|Scott Perry]], Pennsylvania 
+* [[Rodney L. Davis]], Illinois
+* [[Mark Sanford]], South Carolina
+* [[Rob Woodall]], Georgia
+* [[Todd Rokita]], Indiana
+* [[John Katko]], New York 
+* [[Brian Babin]], Texas 
+* [[Garret Graves]], Louisiana
+* [[Barbara Comstock]], Virginia 
+* [[David Rouzer]], North Carolina 
+* [[Mike Bost]], Illinois 
+* [[Randy Weber]], Texas
+* [[Doug LaMalfa]], California
+* [[Bruce Westerman]], Arkansas
+* [[Lloyd Smucker]], Pennsylvania
+* [[Paul Mitchell (politician)|Paul Mitchell]], Michigan
+* [[John Faso]], New York
+* [[Drew Ferguson (politician)|Drew Ferguson]], Georgia
+* [[Brian Mast]], Florida
+* [[Jason Lewis (congressman)|Jason Lewis]], Minnesota
+| {{party shading/Democratic}} valign=top |
+* [[Peter DeFazio]], Oregon, ''Ranking Member''
+* [[Eleanor Holmes Norton]], District of Columbia
+* [[Eddie Bernice Johnson]], Texas
+* [[Elijah Cummings]], Maryland
+* [[Rick Larsen]], Washington
+* [[Mike Capuano]], Massachusetts
+* [[Grace Napolitano]], California
+* [[Daniel Lipinski]], Illinois
+* [[Steve Cohen (politician)|Steve Cohen]], Tennessee
+* [[Albio Sires]], New Jersey
+* [[John Garamendi]], California
+* [[Hank Johnson]], Georgia
+* [[André Carson]], Indiana
+* [[Rick Nolan]], Minnesota
+* [[Dina Titus]], Nevada
+* [[Sean Patrick Maloney]], New York
+* [[Elizabeth Esty]], Connecticut, ''Vice Ranking Member''
+* [[Lois Frankel]], Florida
+* [[Cheri Bustos]], Illinois
+* [[Jared Huffman]], California
+* [[Julia Brownley]], California
+* [[Frederica Wilson]], Florida
+* [[Donald Payne Jr.]], New Jersey
+* [[Alan Lowenthal]], California
+* [[Brenda Lawrence]], Michigan
+* [[Mark DeSaulnier]], California
+* [[Stacey Plaskett]], U.S. Virgin Islands
+|}
+
+Sources: {{USBill|115|HRes|6}} (Chair), {{USBill|115|HRes|45}} (D), {{USBill|115|HRes|51}} (R)
+
+===114th Congress===
+{| class=wikitable
+! Majority
+! Minority
+|-
+| {{party shading/Republican}} valign=top |
+* [[Bill Shuster]], Pennsylvania, ''Chairman''
+* [[Don Young]], Alaska
+* [[Jimmy Duncan (U.S. politician)|Jimmy Duncan]], Tennessee
+* [[John Mica]], Florida
+* [[Frank LoBiondo]], New Jersey
+* [[Sam Graves]], Missouri
+* [[Candice Miller]], Michigan
+* [[Duncan D. Hunter]], California
+* [[Rick Crawford (politician)|Rick Crawford]], Arkansas
+* [[Lou Barletta]], Pennsylvania
+* [[Blake Farenthold]], Texas
+* [[Bob Gibbs]], Ohio
+* [[Richard L. Hanna]], New York
+* [[Daniel Webster (Florida politician)|Daniel Webster]], Florida
+* [[Jeff Denham]], California
+* [[Reid Ribble]], Wisconsin
+* [[Thomas Massie]], Kentucky
+* [[Mark Meadows (North Carolina politician)|Mark Meadows]], North Carolina 
+* [[Scott Perry (politician)|Scott Perry]], Pennsylvania 
+* [[Rodney L. Davis]], Illinois
+* [[Mark Sanford]], South Carolina
+* [[Rob Woodall]], Georgia
+* [[Todd Rokita]], Indiana
+* [[John Katko]], New York
+* [[Brian Babin]], Texas
+* [[Cresent Hardy]], Nevada
+* [[Ryan Costello]], Pennsylvania
+* [[Garret Graves]], Louisiana
+* [[Mimi Walters]], California
+* [[Barbara Comstock]], Virginia
+* [[Carlos Curbelo (politician)|Carlos Curbelo]], Florida
+* [[David Rouzer]], North Carolina
+* [[Lee Zeldin]], New York
+* [[Mike Bost]], Illinois
+| {{party shading/Democratic}} valign=top |
+* [[Peter DeFazio]], Oregon, ''Ranking Member''
+* [[Eleanor Holmes Norton]], District of Columbia
+* [[Jerrold Nadler]], New York
+* [[Corrine Brown]], Florida
+* [[Eddie Bernice Johnson]], Texas
+* [[Elijah Cummings]], Maryland
+* [[Rick Larsen]], Washington
+* [[Mike Capuano]], Massachusetts
+* [[Grace Napolitano]], California
+* [[Daniel Lipinski]], Illinois
+* [[Steve Cohen (politician)|Steve Cohen]], Tennessee
+* [[Albio Sires]], New Jersey
+* [[Donna Edwards]], Maryland
+* [[John Garamendi]], California
+* [[Andre Carson]], Indiana
+* [[Janice Hahn]], California
+* [[Rick Nolan]], Minnesota
+* [[Ann Kirkpatrick]], Arizona
+* [[Dina Titus]], Nevada
+* [[Sean Patrick Maloney]], New York
+* [[Elizabeth Esty]], Connecticut
+* [[Lois Frankel]], Florida
+* [[Cheri Bustos]], Illinois
+* [[Jared Huffman]], California
+* [[Julia Brownley]], California
+|}
+
+===112th Congress===
+{| class=wikitable
+! Majority
+! Minority
+|-
+| {{party shading/Republican}} valign=top |
+* [[John Mica]], Florida, ''Chairman''
+* [[Don Young]], Alaska
+* [[Tom Petri]], Wisconsin
+* [[Howard Coble]], North Carolina
+* [[Jimmy Duncan (U.S. politician)|Jimmy Duncan]], Tennessee
+* [[Frank LoBiondo]], New Jersey
+* [[Gary Miller (politician)|Gary Miller]], California
+* [[Tim Johnson (Illinois politician)|Timothy V. Johnson]], Illinois
+* [[Sam Graves]], Missouri
+* [[Bill Shuster]], Pennsylvania
+* [[Shelley Moore Capito]], West Virginia
+* [[Jean Schmidt]], Ohio
+* [[Candice Miller]], Michigan
+* [[Duncan D. Hunter]], California
+* [[Andrew P. Harris]], Maryland
+* [[Rick Crawford (politician)|Rick Crawford]], Arkansas
+* [[Jaime Herrera Beutler]], Washington
+* [[Frank Guinta]], New Hampshire
+* [[Randy Hultgren]], Illinois
+* [[Lou Barletta]], Pennsylvania
+* [[Chip Cravaack]], Minnesota
+* [[Blake Farenthold]], Texas
+* [[Larry Bucshon]], Indiana
+* [[Billy Long]], Missouri
+* [[Bob Gibbs]], Ohio
+* [[Pat Meehan]], Pennsylvania
+* [[Richard L. Hanna]], New York
+* [[Jeff Landry]], Louisiana
+* [[Steve Southerland (Florida)|Steve Southerland]], Florida
+* [[Jeff Denham]], California
+* [[James Lankford]], Oklahoma
+* [[Reid Ribble]], Wisconsin
+* [[Chuck Fleischmann]], Tennessee
+| {{party shading/Democratic}} valign=top |
+* [[Nick Rahall]], West Virginia, ''Ranking Member''
+* [[Peter DeFazio]], Oregon
+* [[Jerry Costello]], Illinois
+* [[Eleanor Holmes Norton]], District of Columbia
+* [[Jerrold Nadler]], New York
+* [[Corrine Brown]], Florida
+* [[Bob Filner]], California
+* [[Eddie Bernice Johnson]], Texas
+* [[Elijah Cummings]], Maryland
+* [[Leonard Boswell]], Iowa
+* [[Tim Holden]], Pennsylvania
+* [[Rick Larsen]], Washington
+* [[Mike Capuano]], Massachusetts
+* [[Tim Bishop]], New York
+* [[Mike Michaud]], Maine
+* [[Russ Carnahan]], Missouri
+* [[Grace Napolitano]], California
+* [[Daniel Lipinski]], Illinois
+* [[Mazie Hirono]], Hawaii
+* [[Jason Altmire]], Pennsylvania
+* [[Tim Walz]], Minnesota
+* [[Heath Shuler]], North Carolina
+* [[Steve Cohen (politician)|Steve Cohen]], Tennessee
+* [[Laura Richardson]], California
+* [[Albio Sires]], New Jersey
+* [[Donna Edwards]], Maryland	
+|}
+* Resolutions electing Republican members ({{USBill|112|HRes|6}}, {{USBill|112|HRes|33}})
+* Resolutions electing Democratic members ({{USBill|112|HRes|7}}, {{USBill|112|HRes|39}})
+
+==See also==
+* [[List of current United States House of Representatives committees]]
+
+==References==
+{{reflist}}
+
+==External links==
+{{commons category|United States House Committee on Transportation and Infrastructure}}
+* [https://transportation.house.gov/ Committee website] ([https://www.loc.gov/item/lcwa00hspw00/ Archive]) 
+* [https://www.congress.gov/committee/house-transportation-and-infrastructure/hspw00 House Transportation and Infrastructure Committee]. Legislation activity and reports, Congress.gov. 
+* [https://www.congress.gov/committees/video/house-transportation-and-infrastructure/hspw00 House Transportation and Infrastructure Committee Hearings and Meetings Video]. [[Congress.gov]].
+
+{{United States congressional committees}}
+
+[[Category:Transportation government agencies of the United States|House Committee on Transportation and Infrastructure]]
+[[Category:Committees of the United States House of Representatives|Transportation]]
+[[Category:1842 establishments in Washington, D.C.]]
+[[Category:Organizations established in 1842]]

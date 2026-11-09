@@ -1,0 +1,862 @@
+{{short description|Standing committee of the United States House of Representatives}}
+{{update|date=January 2019}}
+{{Infobox U.S. congressional committee
+| name               = House Energy and Commerce Committee
+| type               = standing
+| chamber            = house
+| congress           = 118th
+| parent             = 
+| image              = USCoEaC Committee Seal Small.jpg
+| image_size         =
+| caption            = U.S. House Committee on Energy and Commerce official Seal
+| status             = active
+| formed             = December 14, 1795
+| disbanded          =
+| succeeded          =
+| preceded           =
+| merged             =
+| former_names       =
+| chair              = [[Cathy McMorris Rodgers]]
+| chair_party        = R
+| chair_since        = January 3, 2023
+| ranking_member     = [[Frank Pallone]]
+| rm_party           = D
+| rm_since           = January 3, 2023
+| vice_chair         = 
+| vc_party           = 
+| vc_since           = 
+| chair_emeritus     = 
+| ce_party           = 
+| ce_since           =
+| seats              = 52
+| majority1          = R
+| majority1_seats    = 29
+| minority1          = D
+| minority1_seats    = 23
+| purpose            =
+| policy_areas       = 
+| oversight          = 
+| counterpart        =
+| subcommittees      = <!-- use {{bulleted list|list_style=text-align:left|}} for formatting -->
+| meeting_place      = 
+| meeting_image      =
+| meeting_img_size   =
+| website            = [https://energycommerce.house.gov energycommerce.house.gov]
+| minority_website   =
+| chamber_rules      =
+| committee_rules    =
+| notes              =
+}}
+{{United States House of Representatives}}
+The '''Committee on Energy and Commerce''' is one of the oldest [[standing committee (United States Congress)|standing committees]] of the [[United States House of Representatives]]. Established in 1795, it has operated continuously—with various name changes and jurisdictional changes—for more than 200 years. The two other House standing committees with such continuous operation are the [[United States House Committee on Ways and Means|House Ways and Means Committee]] and the [[United States House Committee on Rules|House Rules Committee]]. The committee has served as the principal guide for the House in matters relating to the promotion of commerce and to the public's health and marketplace interests, with the relatively recent addition of energy considerations among them. Due to its broad jurisdiction, it is considered one of the most powerful committees in the House.<ref>{{cite web | url=https://www.politico.com/news/2020/12/08/ocasio-cortez-kathleen-rice-house-energy-commerce-443743 | title=AOC, Rice face off for powerful committee post | website=[[Politico]] | date=8 December 2020 }}</ref>
+
+==Role of the committee==
+The House Committee on Energy and Commerce has developed what is arguably the broadest (non-tax-oriented) jurisdiction of any congressional committee. The committee maintains principal responsibility for legislative oversight relating to telecommunications, [[consumer protection]], food and drug safety, public health, air quality and environmental health, the supply and delivery of energy, and interstate and foreign commerce.<ref>{{Cite web|url=https://energycommerce.house.gov/about-ec|title=About E&C|date=December 19, 2013|website=Democrats, Energy and Commerce Committee}}</ref> This jurisdiction extends over five Cabinet-level departments and seven independent agencies—from the Department of Energy, Health and Human Services, the Transportation Department to the Federal Trade Commission, Food and Drug Administration, and [[Federal Communications Commission]]—and sundry quasi-governmental organizations.
+
+== Jurisdiction ==
+The Energy and Commerce Committee has the broadest jurisdiction of any authorizing committee in Congress. It legislates on a wide variety of issues, including:<ref>{{Cite web|date=2014-01-06|title=Jurisdiction|url=https://energycommerce.house.gov/about-ec/jurisdiction|access-date=2021-03-02|website=Democrats, Energy and Commerce Committee|language=en}}</ref>
+
+* health care, including mental health and substance abuse
+* health insurance, including Medicare and Medicaid
+* biomedical research and development
+* food, drug, device and cosmetic safety
+* environmental protection 
+* clean air and climate change
+* safe drinking water
+* toxic chemicals and hazardous waste
+* national energy policy
+* renewable energy and conservation
+* nuclear facilities
+* electronic communications and the internet
+* broadcast and cable television
+* privacy, cybersecurity and data security
+* consumer protection and product safety
+* motor vehicle safety
+* travel, tourism and sports   
+* interstate and foreign commerce
+
+==Members, 118th Congress==
+{| class=wikitable
+! Majority
+! Minority
+|-
+
+| {{party shading/Republican}} valign=top |
+* [[Cathy McMorris Rodgers]], Washington, ''Chair''
+* [[Michael C. Burgess]], Texas
+* [[Bob Latta]], Ohio
+* [[Brett Guthrie]], Kentucky
+* [[Morgan Griffith]], Virginia
+* [[Gus Bilirakis]], Florida
+* [[Bill Johnson (Ohio politician)|Bill Johnson]], Ohio (until January 21, 2024)
+* [[Larry Bucshon]], Indiana  
+* [[Richard Hudson (U.S. politician)|Richard Hudson]], North Carolina
+* [[Tim Walberg]], Michigan
+* [[Buddy Carter]], Georgia
+* [[Jeff Duncan (politician)|Jeff Duncan]], South Carolina
+* [[Gary Palmer (politician)|Gary Palmer]], Alabama
+* [[Neal Dunn]], Florida
+* [[John Curtis (Utah politician)|John Curtis]], Utah 
+* [[Debbie Lesko]], Arizona 
+* [[Greg Pence]], Indiana
+* [[Dan Crenshaw]], Texas
+* [[John Joyce (American politician)|John Joyce]], Pennsylvania
+* [[Kelly Armstrong]], North Dakota, ''Vice Chair''
+* [[Randy Weber]], Texas
+* [[Rick Allen (politician)|Rick Allen]], Georgia
+* [[Troy Balderson]], Ohio
+* [[Russ Fulcher]], Idaho
+* [[August Pfluger]], Texas
+* [[Diana Harshbarger]], Tennessee
+* [[Mariannette Miller-Meeks]], Iowa
+* [[Kat Cammack]], Florida
+* [[Jay Obernolte]], California
+* [[John James (Michigan politician)|John James]], Michigan
+
+| {{party shading/Democratic}} valign=top |
+* [[Frank Pallone]], New Jersey, ''Ranking Member''
+* [[Anna Eshoo]], California
+* [[Diana DeGette]], Colorado
+* [[Jan Schakowsky]], Illinois
+* [[Doris Matsui]], California
+* [[Kathy Castor]], Florida
+* [[John Sarbanes]], Maryland
+* [[Paul Tonko]], New York 
+* [[Yvette Clarke]], New York
+* [[Tony Cárdenas]], California
+* [[Raul Ruiz (politician)|Raul Ruiz]], California
+* [[Scott Peters (politician)|Scott Peters]], California
+* [[Debbie Dingell]], Michigan
+* [[Marc Veasey]], Texas
+* [[Annie Kuster]], New Hampshire
+* [[Robin Kelly]], Illinois
+* [[Nanette Barragán]], California
+* [[Lisa Blunt Rochester]], Delaware
+* [[Darren Soto]], Florida
+* [[Angie Craig]], Minnesota
+* [[Kim Schrier]], Washington, ''Vice Ranking Member''
+* [[Lori Trahan]], Massachusetts
+* [[Lizzie Fletcher]], Texas
+|}
+Resolutions electing members: {{USBill|118|HRes|14}} (Chair), {{USBill|118|HRes|15}} (Ranking Member), {{USBill|118|HRes|56}} (R), {{USBill|118|HRes|57}} (D), {{USBill|118|HRes|1133}} (R)
+
+==Subcommittees==
+To manage the wide variety of issues it encounters, the committee relies on the front-line work of six subcommittees, one more than during the [[111th Congress]]. During the 111th Congress, Chairman Henry Waxman combined the traditionally separate energy and environment subcommittees into a single subcommittee.<ref>{{cite web |url=http://energycommerce.house.gov/index.php?option=com_content&task=view&id=1462&Itemid=93 |title=House Energy and Commerce Committee announces Subcommittee Chairs and Membership |date=January 8, 2009 |publisher=Energy and Commerce Committee Press Release |access-date=January 8, 2009}}</ref> New Chairman Fred Upton restored them as separate subcommittees at the start of the 112th Congress, and they have been retained to this day.
+{| class="wikitable"
+! Subcommittee
+! Chair<ref>{{Cite web |title=Chair Rodgers Announces Energy and Commerce Committee Leadership, Subcommittee Membership for the 118th Congress |url=https://energycommerce.house.gov/posts/chair-rodgers-announces-energy-and-commerce-committee-leadership-subcommittee-membership-for-the-118th-congress |access-date=2023-01-27 |website=House Committee on Energy and Commerce |language=en}}</ref>
+! Ranking Member<ref>{{Cite web |date=2023-01-27 |title=Pallone Announces Energy & Commerce Subcommittee Ranking Members and Democratic Roster |url=https://democrats-energycommerce.house.gov/newsroom/press-releases/pallone-announces-energy-commerce-subcommittee-ranking-members-and |access-date=2023-01-28 |website=Democrats, Energy and Commerce Committee |language=en}}</ref>
+|-
+| [[United States House Energy Subcommittee on Communications and Technology|Communications and Technology]]
+| [[Bob Latta]] (R-OH)
+|[[Doris Matsui]] (D-CA)
+|-
+| [[United States House Energy Subcommittee on Energy, Climate, and Grid Security|Energy, Climate and Grid Security]]
+| [[Jeff Duncan (politician)|Jeff Duncan]] (R-SC)
+|[[Diana DeGette]] (D-CO)
+|-
+| [[United States House Energy Subcommittee on Environment, Manufacturing and Critical Minerals|Environment, Manufacturing and Critical Minerals]]
+| [[Bill Johnson (Ohio politician)|Bill Johnson]] (R-OH)
+|[[Paul Tonko]] (D-NY)
+|-
+| [[United States House Energy Subcommittee on Health|Health]]
+| [[Brett Guthrie]] (R-KY)
+|[[Anna G. Eshoo]] (D-CA)
+|-
+| [[United States House Energy Subcommittee on Innovation, Data, and Commerce|Innovation, Data and Commerce]]
+| [[Gus Bilirakis]] (R-FL)
+|[[Jan Schakowsky]] (D-IL)
+|-
+| [[United States House Energy Subcommittee on Oversight and Investigations|Oversight and Investigations]]
+| [[Morgan Griffith]] (R-VA)
+|[[Kathy Castor]] (D-FL)
+|}
+
+==Historical membership rosters==
+===117th Congress===
+{| class=wikitable
+! Majority
+! Minority
+|-
+| {{party shading/Democratic}} valign=top |
+* [[Frank Pallone]], New Jersey, ''Chair''
+* [[Bobby Rush]], Illinois
+* [[Anna Eshoo]], California
+* [[Diana DeGette]], Colorado
+* [[Mike Doyle (American politician)|Mike Doyle]], Pennsylvania
+* [[Jan Schakowsky]], Illinois
+* [[G. K. Butterfield]], North Carolina
+* [[Doris Matsui]], California
+* [[Kathy Castor]], Florida
+* [[John Sarbanes]], Maryland
+* [[Jerry McNerney]], California 
+* [[Peter Welch]], Vermont
+* [[Paul Tonko]], New York 
+* [[Yvette Clarke]], New York
+* [[Kurt Schrader]], Oregon
+* [[Tony Cárdenas]], California
+* [[Raul Ruiz (politician)|Raul Ruiz]], California
+* [[Scott Peters (politician)|Scott Peters]], California
+* [[Debbie Dingell]], Michigan
+* [[Marc Veasey]], Texas
+* [[Ann McLane Kuster]], New Hampshire
+* [[Robin Kelly]], Illinois, ''Vice Chair''<ref>{{Cite web|url=https://energycommerce.house.gov/newsroom/press-releases/pallone-announces-energy-commerce-subcommittee-chairs-and-democratic-roster|title=Pallone Announces Energy & Commerce Subcommittee Chairs and Democratic Roster|date=15 January 2021}}</ref>
+* [[Nanette Barragán]], California
+* [[Donald McEachin]], Virginia (until November 28, 2022)
+* [[Lisa Blunt Rochester]], Delaware
+* [[Darren Soto]], Florida
+* [[Tom O'Halleran]], Arizona
+* [[Kathleen Rice]], New York
+* [[Angie Craig]], Minnesota
+* [[Kim Schrier]], Washington
+* [[Lori Trahan]], Massachusetts
+* [[Lizzie Fletcher]], Texas
+
+| {{party shading/Republican}} valign=top |
+* [[Cathy McMorris Rodgers]], Washington, ''Ranking Member''
+* [[Fred Upton]], Michigan
+* [[Michael C. Burgess]], Texas
+* [[Steve Scalise]], Louisiana
+* [[Bob Latta]], Ohio
+* [[Brett Guthrie]], Kentucky
+* [[David McKinley]], West Virginia
+* [[Adam Kinzinger]], Illinois
+* [[Morgan Griffith]], Virginia
+* [[Gus Bilirakis]], Florida
+* [[Bill Johnson (Ohio politician)|Bill Johnson]], Ohio
+* [[Billy Long]], Missouri
+* [[Larry Bucshon]], Indiana  
+* [[Markwayne Mullin]], Oklahoma
+* [[Richard Hudson (U.S. politician)|Richard Hudson]], North Carolina
+* [[Tim Walberg]], Michigan
+* [[Buddy Carter]], Georgia
+* [[Jeff Duncan (politician)|Jeff Duncan]], South Carolina
+* [[Gary Palmer (politician)|Gary Palmer]], Alabama
+* [[Neal Dunn]], Florida
+* [[John Curtis (Utah politician)|John Curtis]], Utah 
+* [[Debbie Lesko]], Arizona 
+* [[Greg Pence]], Indiana
+* [[Dan Crenshaw]], Texas
+* [[John Joyce (American politician)|John Joyce]], Pennsylvania
+* [[Kelly Armstrong]], North Dakota
+|}
+Resolutions electing members: {{USBill|117|HRes|9}} (Chair), {{USBill|117|HRes|10}} (Ranking Member), {{USBill|117|HRes|62}} (D), {{USBill|117|HRes|63}} (R)
+
+;Subcommittees
+{| class="wikitable"
+! Subcommittee<ref>{{Cite web|url=https://republicans-energycommerce.house.gov/news/rodgers-announces-energy-and-commerce-republican-subcommittee-leaders-and-republican-roster/|title = Rodgers Announces Energy and Commerce Republican Subcommittee Leaders and Republican Roster|date = 21 January 2021}}</ref><ref>{{Cite web|url=https://energycommerce.house.gov/newsroom/press-releases/pallone-announces-energy-commerce-subcommittee-chairs-and-democratic-roster|title=Pallone Announces Energy & Commerce Subcommittee Chairs and Democratic Roster|date=15 January 2021}}</ref>
+! Chair
+! Ranking Member
+|-
+| [[United States House Energy Subcommittee on Communications and Technology|Communications and Technology]]
+| [[Mike Doyle (American politician)|Mike Doyle]] (D-PA)
+| [[Bob Latta]] (R-OH)
+|-
+| [[United States House Energy Subcommittee on Consumer Protection and Commerce|Consumer Protection and Commerce]]
+| [[Jan Schakowsky]] (D-IL)
+| [[Gus Bilirakis]] (R-FL)
+|-
+| [[United States House Energy Subcommittee on Energy|Energy]]
+| [[Bobby Rush]] (D-IL)
+| [[Fred Upton]] (R-MI)
+|-
+| [[United States House Energy Subcommittee on Environment and Climate Change|Environment and Climate Change]]
+| [[Paul Tonko]] (D-NY)
+| [[David McKinley]] (R-WV)
+|-
+| [[United States House Energy Subcommittee on Health|Health]]
+| [[Anna G. Eshoo]] (D-CA)
+| [[Brett Guthrie]] (R-KY)
+|-
+| [[United States House Energy Subcommittee on Oversight and Investigations|Oversight and Investigations]]
+| [[Diana DeGette]] (D-CO)
+| [[Morgan Griffith]] (R-VA)
+|}
+
+=== 116th Congress ===
+{| class=wikitable
+! Majority
+! Minority
+|-
+| {{party shading/Democratic}} valign=top |
+* [[Frank Pallone]], New Jersey, ''Chair''
+* [[Bobby Rush]], Illinois
+* [[Anna Eshoo]], California
+* [[Eliot Engel]], New York
+* [[Diana DeGette]], Colorado
+* [[Mike Doyle (American politician)|Mike Doyle]], Pennsylvania
+* [[Jan Schakowsky]], Illinois
+* [[G. K. Butterfield]], North Carolina
+* [[Doris Matsui]], California
+* [[Kathy Castor]], Florida
+* [[John Sarbanes]], Maryland
+* [[Jerry McNerney]], California 
+* [[Peter Welch]], Vermont
+* [[Ben Ray Luján]], New Mexico 
+* [[Paul Tonko]], New York 
+* [[Yvette Clarke]], New York, ''Vice Chair''
+* [[Dave Loebsack]], Iowa
+* [[Kurt Schrader]], Oregon
+* [[Joe Kennedy III]], Massachusetts
+* [[Tony Cárdenas]], California
+* [[Raul Ruiz (politician)|Raul Ruiz]], California
+* [[Scott Peters (politician)|Scott Peters]], California
+* [[Debbie Dingell]], Michigan
+* [[Marc Veasey]], Texas
+* [[Ann McLane Kuster]], New Hampshire
+* [[Robin Kelly]], Illinois
+* [[Nanette Barragán]], California
+* [[Donald McEachin]], Virginia
+* [[Lisa Blunt Rochester]], Delaware
+* [[Darren Soto]], Florida
+* [[Tom O'Halleran]], Arizona
+
+| {{party shading/Republican}} valign=top |
+* [[Greg Walden]], Oregon, ''Ranking Member''
+* [[Fred Upton]], Michigan
+* [[John Shimkus]], Illinois
+* [[Michael C. Burgess]], Texas
+* [[Steve Scalise]], Louisiana
+* [[Bob Latta]], Ohio
+* [[Cathy McMorris Rodgers]], Washington
+* [[Brett Guthrie]], Kentucky
+* [[Pete Olson]], Texas
+* [[David McKinley]], West Virginia
+* [[Adam Kinzinger]], Illinois
+* [[Morgan Griffith]], Virginia
+* [[Gus Bilirakis]], Florida
+* [[Bill Johnson (Ohio politician)|Bill Johnson]], Ohio
+* [[Billy Long]], Missouri
+* [[Larry Bucshon]], Indiana  
+* [[Bill Flores]], Texas
+* [[Susan Brooks]], Indiana
+* [[Markwayne Mullin]], Oklahoma
+* [[Richard Hudson (U.S. politician)|Richard Hudson]], North Carolina
+* [[Tim Walberg]], Michigan
+* [[Buddy Carter]], Georgia
+* [[Jeff Duncan (politician)|Jeff Duncan]], South Carolina
+* [[Greg Gianforte]], Montana
+|}
+Sources: {{USBill|116|HRes|7}} (Chair), {{USBill|115|HRes|8}} (Ranking Member), {{USBill|116|HRes|42}} (D), {{USBill|116|HRes|68}} (R)
+
+;Subcommittees
+{| class="wikitable"
+! Subcommittee<ref>{{Cite web|url=https://republicans-energycommerce.house.gov/news/rodgers-announces-energy-and-commerce-republican-subcommittee-leaders-and-republican-roster/|title = Rodgers Announces Energy and Commerce Republican Subcommittee Leaders and Republican Roster|date = 21 January 2021}}</ref><ref>{{Cite web|url=https://energycommerce.house.gov/newsroom/press-releases/pallone-announces-energy-commerce-subcommittee-chairs-and-democratic-roster|title=Pallone Announces Energy & Commerce Subcommittee Chairs and Democratic Roster|date=15 January 2021}}</ref>
+! Chair
+! Ranking Member
+|-
+| [[United States House Energy Subcommittee on Communications and Technology|Communications and Technology]]
+| [[Mike Doyle (American politician)|Mike Doyle]] (D-PA)
+| [[Bob Latta]] (R-OH)
+|-
+| [[United States House Energy Subcommittee on Consumer Protection and Commerce|Consumer Protection and Commerce]]
+| [[Jan Schakowsky]] (D-IL)
+| [[Gus Bilirakis]] (R-FL)
+|-
+| [[United States House Energy Subcommittee on Energy|Energy]]
+| [[Bobby Rush]] (D-IL)
+| [[Fred Upton]] (R-MI)
+|-
+| [[United States House Energy Subcommittee on Environment and Climate Change|Environment and Climate Change]]
+| [[Paul Tonko]] (D-NY)
+| [[David McKinley]] (R-WV)
+|-
+| [[United States House Energy Subcommittee on Health|Health]]
+| [[Anna G. Eshoo|Anna Eshoo]] (D-CA)
+| [[Brett Guthrie]] (R-KY)
+|-
+| [[United States House Energy Subcommittee on Oversight and Investigations|Oversight and Investigations]]
+| [[Diana DeGette]] (D-CO)
+| [[Morgan Griffith]] (R-VA)
+|}
+
+===115th Congress===
+{| class="wikitable"
+! Majority
+! Minority
+|-
+| {{party shading/Republican}} valign="top" |
+* [[Greg Walden]], Oregon, ''Chair''
+* [[Joe Barton]], Texas, ''Vice Chair''
+* [[Fred Upton]], Michigan
+* [[John Shimkus]], Illinois
+* [[Michael C. Burgess]], Texas
+* [[Marsha Blackburn]], Tennessee
+* [[Steve Scalise]], Louisiana
+* [[Bob Latta]], Ohio
+* [[Cathy McMorris Rodgers]], Washington
+* [[Gregg Harper]], Mississippi
+* [[Leonard Lance]], New Jersey
+* [[Brett Guthrie]], Kentucky
+* [[Pete Olson]], Texas
+* [[David McKinley]], West Virginia
+* [[Adam Kinzinger]], Illinois
+* [[Morgan Griffith]], Virginia
+* [[Gus Bilirakis]], Florida
+* [[Bill Johnson (Ohio politician)|Bill Johnson]], Ohio
+* [[Billy Long]], Missouri
+* [[Larry Bucshon]], Indiana
+* [[Bill Flores]], Texas
+* [[Susan Brooks]], Indiana
+* [[Markwayne Mullin]], Oklahoma
+* [[Richard Hudson (U.S. politician)|Richard Hudson]], North Carolina
+* [[Kevin Cramer]], North Dakota
+* [[Tim Walberg]], Michigan
+* [[Mimi Walters]], California
+* [[Ryan Costello]], Pennsylvania
+* [[Buddy Carter]], Georgia
+* [[Chris Collins (New York politician)|Chris Collins]], New York (removed August 8, 2018)
+
+| {{party shading/Democratic}} valign="top" |
+* [[Frank Pallone]], New Jersey, ''Ranking Member''
+* [[Bobby Rush]], Illinois
+* [[Anna Eshoo]], California
+* [[Eliot Engel]], New York
+* [[Gene Green]],  Texas
+* [[Diana DeGette]], Colorado
+* [[Mike Doyle (American politician)|Mike Doyle]], Pennsylvania
+* [[Jan Schakowsky]], Illinois
+* [[G. K. Butterfield]], North Carolina
+* [[Doris Matsui]], California
+* [[Kathy Castor]], Florida, ''Vice Ranking Member''
+* [[John Sarbanes]], Maryland
+* [[Jerry McNerney]], California
+* [[Peter Welch]], Vermont
+* [[Ben Ray Luján]], New Mexico
+* [[Paul Tonko]], New York
+* [[Yvette Clarke]], New York
+* [[Dave Loebsack]], Iowa
+* [[Kurt Schrader]], Oregon
+* [[Joe Kennedy III]], Massachusetts
+* [[Tony Cárdenas]], California
+* [[Raul Ruiz (politician)|Raul Ruiz]], California
+* [[Scott Peters (politician)|Scott Peters]], California
+* [[Debbie Dingell]], Michigan
+|}
+
+Sources: {{USBill|115|HRes|6}} (Chair), {{USBill|115|HRes|7}} (Ranking Member), {{USBill|115|HRes|29}} (R) and {{USBill|115|HRes|45}} (D).
+
+=== 114th Congress ===
+{| class="wikitable"
+! Majority
+! Minority
+|-
+| {{party shading/Republican}} valign="top" |
+* [[Fred Upton]], Michigan, ''Chair''
+*[[Joe Barton]], Texas
+*[[Marsha Blackburn]], Tennessee, ''Vice Chair''
+*[[James Comer (politician)|James Comer]], Kentucky
+* [[John Shimkus]], Illinois
+*[[Joe Pitts (Pennsylvania politician)|Joseph Pitts]], Pennsylvania
+*[[Greg Walden]], Oregon
+*[[Tim Murphy (American politician)|Tim Murphy]], Pennsylvania
+* [[Michael C. Burgess]], Texas
+* [[Steve Scalise]], Louisiana
+* [[Bob Latta]], Ohio
+* [[Cathy McMorris Rodgers]], Washington
+* [[Gregg Harper]], Mississippi
+* [[Leonard Lance]], New Jersey
+* [[Brett Guthrie]], Kentucky
+* [[Pete Olson]], Texas
+* [[David McKinley]], West Virginia
+*[[Mike Pompeo]], Kansas
+* [[Adam Kinzinger]], Illinois
+* [[Morgan Griffith]], Virginia
+* [[Gus Bilirakis]], Florida
+* [[Bill Johnson (Ohio politician)|Bill Johnson]], Ohio
+*[[Renee Ellmers]], North Carolina
+* [[Larry Bucshon]], Indiana
+* [[Bill Flores]], Texas
+* [[Susan Brooks]], Indiana
+* [[Markwayne Mullin]], Oklahoma
+* [[Richard Hudson (U.S. politician)|Richard Hudson]], North Carolina
+*[[Chris Collins (New York politician)|Chris Collins]], New York 
+* [[Kevin Cramer]], North Dakota
+
+| {{party shading/Democratic}} valign="top" |
+* [[Frank Pallone]], New Jersey, ''Ranking Member''
+* [[Bobby Rush]], Illinois
+* [[Anna Eshoo]], California
+* [[Eliot Engel]], New York
+* [[Gene Green]],  Texas
+* [[Diana DeGette]], Colorado
+*[[Lois Capps]], California
+* [[Mike Doyle (American politician)|Mike Doyle]], Pennsylvania
+* [[Jan Schakowsky]], Illinois
+* [[G. K. Butterfield]], North Carolina
+* [[Doris Matsui]], California
+* [[Kathy Castor]], Florida
+* [[John Sarbanes]], Maryland
+* [[Jerry McNerney]], California
+* [[Peter Welch]], Vermont
+* [[Ben Ray Luján]], New Mexico
+* [[Paul Tonko]], New York
+* [[Yvette Clarke]], New York
+* [[Dave Loebsack]], Iowa
+* [[Kurt Schrader]], Oregon
+* [[Joe Kennedy III]], Massachusetts
+* [[Tony Cárdenas]], California
+|}
+
+==History==
+The committee was originally formed as the '''Committee on Commerce and Manufactures''' on December 14, 1795. Prior to this, legislation was drafted in the Committee of the Whole or in special ad hoc committees, appointed for specific limited purposes. However the growing demands of the new nation required that Congress establish a permanent committee to manage its constitutional authority under the [[Commerce Clause]] to "regulate Commerce with foreign Nations, and among the several States."
+
+From this time forward, as the nation grew and Congress dealt with new public policy concerns and created new committees, the Energy and Commerce Committee has maintained its central position as Congress's monitor of commercial progress—a focus reflected in its changing jurisdiction, both in name and practice.
+
+In 1819, the committee's name was changed to the '''Committee on Commerce''', reflecting the creation of a separate Manufacturers Committee and also the increasing scope of and complexity of American commercial activity, which was expanding the committee's jurisdiction from navigational aids and the nascent general health service to foreign trade and [[tariff]]s. [[Thomas J. Bliley]], who chaired the committee from 1995 to 2000, chose to use this traditional name, which underscores the committee's role for Congress on this front.
+
+In 1891, in emphasis of the committee's evolving activities, the name was again changed to the '''Committee on Interstate and Foreign Commerce'''—a title it maintained until 1981, when, under incoming Chairman [[John Dingell]], the committee first assumed what is now its present name to emphasize its lead role in guiding the energy policy of the United States. Dingell regained chairmanship of the committee in 2007 after having served as [[ranking member]] since 1995. In late 2008, [[Henry Waxman]] initiated a successful challenge to unseat Dingell as chairman. His challenge was unusual as the party caucus traditionally elects chairmen based on committee seniority. Waxman formally became chairman at the start of the [[111th United States Congress|111th Congress]].<ref name=HRes8>{{USBill|111|HRes|8}}</ref>
+
+==Previous chairs==
+===Committee on Commerce and Manufactures===
+{| class=wikitable
+|-
+! Chairman !! Party !! State !! Years
+|-{{Party shading/Federalist}}
+| [[Benjamin Goodhue]]
+| [[Federalist Party (United States)|Federalist]]
+| [[Massachusetts]]
+| 1795–1796
+|-{{Party shading/Democratic-Republican}}
+| [[John Swanwick]]
+| [[Democratic-Republican Party|Democratic-Republican]]
+| [[Pennsylvania]]
+| 1796–1797
+|-{{Party shading/Democratic-Republican}}
+| [[Edward Livingston]]
+| [[Democratic-Republican Party|Democratic-Republican]]
+| [[New York (state)|New York]]
+| 1797–1798
+|-{{Party shading/Democratic-Republican}}
+| [[Samuel Smith (Maryland politician)|Samuel Smith]]
+| [[Democratic-Republican Party|Democratic-Republican]]
+| [[Maryland]]
+| 1798–1803
+|-{{Party shading/Democratic-Republican}}
+| [[Samuel L. Mitchill]]
+| [[Democratic-Republican Party|Democratic-Republican]]
+| [[New York (state)|New York]]
+| 1803–1805
+|-{{Party shading/Democratic-Republican}}
+| [[Jacob Crowninshield]]
+| [[Democratic-Republican Party|Democratic-Republican]]
+| [[Massachusetts]]
+| 1805–1806
+|-{{Party shading/Democratic-Republican}}
+| [[Gurdon S. Mumford]]
+| [[Democratic-Republican Party|Democratic-Republican]]
+| [[New York (state)|New York]]
+| 1806–1807
+|-{{Party shading/Democratic-Republican}}
+| [[Thomas Newton Jr.]]
+| [[Democratic-Republican Party|Democratic-Republican]]
+| [[Virginia]]
+| 1807–1819
+|}
+
+===Committee on Commerce===
+{| class=wikitable
+|-
+! Chairman !! Party !! State !! Years
+|-{{Party shading/Democratic-Republican}}
+| [[Thomas Newton Jr.]]
+| [[Democratic-Republican Party|Democratic-Republican]]
+| [[Virginia]]
+| 1819–1827
+|-{{Party shading/Democratic}}
+| [[Churchill C. Cambreleng]]
+| [[Democratic Party (United States)|Democratic]]
+| [[New York (state)|New York]]
+| 1827–1833
+|-{{Party shading/Democratic}}
+| [[Joel Barlow Sutherland|Joel B. Sutherland]]
+| [[Democratic Party (United States)|Democratic]]
+| [[Pennsylvania]]
+| 1833–1837
+|-{{Party shading/Democratic}}
+| [[Francis Ormand Jonathan Smith|Francis O. J. Smith]]
+| [[Democratic Party (United States)|Democratic]]
+| [[Maine]]
+| 1837–1838
+|-{{Party shading/Democratic}}
+| [[Samuel Cushman]]
+| [[Democratic Party (United States)|Democratic]]
+| [[New Hampshire]]
+| 1838–1839
+|-{{Party shading/Whig}}
+| [[Edward Curtis (politician)|Edward Curtis]]
+| [[Whig Party (United States)|Whig]]
+| [[New York (state)|New York]]
+| 1839–1841
+|-{{Party shading/Whig}}
+| [[John P. Kennedy]]
+| [[Whig Party (United States)|Whig]]
+| [[Maryland]]
+| 1841–1843
+|-{{Party shading/Democratic}}
+| [[Isaac E. Holmes]]
+| [[Democratic Party (United States)|Democratic]]
+| [[South Carolina]]
+| 1843–1845
+|-{{Party shading/Democratic}}
+| [[Robert McClelland (American politician)|Robert McClelland]]
+| [[Democratic Party (United States)|Democratic]]
+| [[Michigan]]
+| 1845–1847
+|-{{Party shading/Whig}}
+| [[Washington Hunt]]
+| [[Whig Party (United States)|Whig]]
+| [[New York (state)|New York]]
+| 1847–1849
+|-{{Party shading/Democratic}}
+| [[Robert Milligan McLane]]
+| [[Democratic Party (United States)|Democratic]]
+| [[Maryland]]
+| 1849–1851
+|-{{Party shading/Democratic}}
+| [[David L. Seymour]]
+| [[Democratic Party (United States)|Democratic]]
+| [[New York (state)|New York]]
+| 1851–1853
+|-{{Party shading/Democratic}}
+| [[Thomas J. D. Fuller]]
+| [[Democratic Party (United States)|Democratic]]
+| [[Maine]]
+| 1853–1855
+|-{{Party shading/Republican}}
+| [[Elihu B. Washburne]]
+| [[Republican Party (United States)|Republican]]
+| [[Illinois]]
+| 1855–1857
+|-{{Party shading/Democratic}}
+| [[John Cochrane (politician)|John Cochrane]]
+| [[Democratic Party (United States)|Democratic]]
+| [[New York (state)|New York]]
+| 1857–1859
+|-{{Party shading/Republican}}
+| [[Elihu B. Washburne]]
+| [[Republican Party (United States)|Republican]]
+| [[Illinois]]
+| 1859–1868
+|-{{Party shading/Republican}}
+| [[Thomas D. Eliot]]
+| [[Republican Party (United States)|Republican]]
+| [[Massachusetts]]
+| 1868–1869
+|-{{Party shading/Republican}}
+| [[Nathan F. Dixon II]]
+| [[Republican Party (United States)|Republican]]
+| [[Rhode Island]]
+| 1869–1871
+|-{{Party shading/Republican}}
+| [[Samuel Shellabarger (congressman)|Samuel Shellabarger]]
+| [[Republican Party (United States)|Republican]]
+| [[Ohio]]
+| 1871–1873
+|-{{Party shading/Republican}}
+| [[William A. Wheeler]]
+| [[Republican Party (United States)|Republican]]
+| [[New York (state)|New York]]
+| 1873–1875
+|-{{Party shading/Democratic}}
+| [[Frank Hereford (politician)|Frank Hereford]]
+| [[Democratic Party (United States)|Democratic]]
+| [[West Virginia]]
+| 1875–1877
+|-{{Party shading/Democratic}}
+| [[Elijah Ward]]
+| [[Democratic Party (United States)|Democratic]]
+| [[New York (state)|New York]]
+| 1877
+|-{{Party shading/Democratic}}
+| [[John Henninger Reagan|John H. Reagan]]
+| [[Democratic Party (United States)|Democratic]]
+| [[Texas]]
+| 1877–1881
+|-{{Party shading/Republican}}
+| [[Horace F. Page]]
+| [[Republican Party (United States)|Republican]]
+| [[California]]
+| 1881–1883
+|-{{Party shading/Democratic}}
+| [[John Henninger Reagan|John H. Reagan]]
+| [[Democratic Party (United States)|Democratic]]
+| [[Texas]]
+| 1883–1887
+|-{{Party shading/Democratic}}
+| [[Martin L. Clardy]]
+| [[Democratic Party (United States)|Democratic]]
+| [[Missouri]]
+| 1887–1889
+|-{{Party shading/Republican}}
+| [[Charles S. Baker]]
+| [[Republican Party (United States)|Republican]]
+| [[New York (state)|New York]]
+| 1889–1891
+|}
+
+===Committee on Interstate and Foreign Commerce===
+{| class=wikitable
+|-
+! Chairman !! Party !! State !! Years
+|-{{Party shading/Democratic}}
+| [[Roger Q. Mills]]
+| [[Democratic Party (United States)|Democratic]]
+| [[Texas]]
+| 1891–1892
+|-{{Party shading/Democratic}}
+| [[George D. Wise (politician)|George D. Wise]]
+| [[Democratic Party (United States)|Democratic]]
+| [[Virginia]]
+| 1892–1895
+|-{{Party shading/Republican}}
+| [[William Peters Hepburn]]
+| [[Republican Party (United States)|Republican]]
+| [[Iowa]]
+| 1895–1909
+|-{{Party shading/Republican}}
+| [[James Robert Mann (Illinois)|James Robert Mann]]
+| [[Republican Party (United States)|Republican]]
+| [[Illinois]]
+| 1909–1911
+|-{{Party shading/Democratic}}
+| [[William C. Adamson]]
+| [[Democratic Party (United States)|Democratic]]
+| [[Georgia (U.S. state)|Georgia]]
+| 1911–1917
+|-{{Party shading/Democratic}}
+| [[Thetus W. Sims]]
+| [[Democratic Party (United States)|Democratic]]
+| [[Tennessee]]
+| 1917–1919
+|-{{Party shading/Republican}}
+| [[John J. Esch]]
+| [[Republican Party (United States)|Republican]]
+| [[Wisconsin]]
+| 1919–1921
+|-{{Party shading/Republican}}
+| [[Samuel Winslow]]
+| [[Republican Party (United States)|Republican]]
+| [[Massachusetts]]
+| 1921–1925
+|-{{Party shading/Republican}}
+| [[James S. Parker]]
+| [[Republican Party (United States)|Republican]]
+| [[New York (state)|New York]]
+| 1925–1931
+|-{{Party shading/Democratic}}
+| [[Sam Rayburn]]
+| [[Democratic Party (United States)|Democratic]]
+| [[Texas]]
+| 1931–1937
+|-{{Party shading/Democratic}}
+| [[Clarence F. Lea]]
+| [[Democratic Party (United States)|Democratic]]
+| [[California]]
+| 1937–1947
+|-{{Party shading/Republican}}
+| [[Charles A. Wolverton]]
+| [[Republican Party (United States)|Republican]]
+| [[New Jersey]]
+| 1947–1949
+|-{{Party shading/Democratic}}
+| [[Robert Crosser]]
+| [[Democratic Party (United States)|Democratic]]
+| [[Ohio]]
+| 1949–1953
+|-{{Party shading/Republican}}
+| [[Charles A. Wolverton]]
+| [[Republican Party (United States)|Republican]]
+| [[New Jersey]]
+| 1953–1955
+|-{{Party shading/Democratic}}
+| [[Percy Priest]]
+| [[Democratic Party (United States)|Democratic]]
+| [[Tennessee]]
+| 1955–1956
+|-{{Party shading/Democratic}}
+| [[Oren Harris]]
+| [[Democratic Party (United States)|Democratic]]
+| [[Arkansas]]
+| 1957–1966
+|-{{Party shading/Democratic}}
+| [[Harley Orrin Staggers]]
+| [[Democratic Party (United States)|Democratic]]
+| [[West Virginia]]
+| 1966–1981
+|}
+
+===Committee on Energy and Commerce===
+{| class=wikitable
+|-
+! Chairman !! Party !! State !! Years
+|-{{Party shading/Democratic}}
+| [[John Dingell]]
+| [[Democratic Party (United States)|Democratic]]
+| [[Michigan]]
+| 1981–1995
+|-{{Party shading/Republican}}
+| [[Thomas J. Bliley Jr.|Thomas Bliley]]
+| [[Republican Party (United States)|Republican]]
+| [[Virginia]]
+| 1995–2001
+|-{{Party shading/Republican}}
+| [[Billy Tauzin]]
+| [[Republican Party (United States)|Republican]]
+| [[Louisiana]]
+| 2001–2004
+|-{{Party shading/Republican}}
+| [[Joe Barton]]
+| [[Republican Party (United States)|Republican]]
+| [[Texas]]
+| 2004–2007
+|-{{Party shading/Democratic}}
+| [[John Dingell]]
+| [[Democratic Party (United States)|Democratic]]
+| [[Michigan]]
+| 2007–2009
+|-{{Party shading/Democratic}}
+| [[Henry Waxman]]
+| [[Democratic Party (United States)|Democratic]]
+| [[California]]
+| 2009–2011
+|-{{Party shading/Republican}}
+| [[Fred Upton]]
+| [[Republican Party (United States)|Republican]]
+| [[Michigan]]
+| 2011–2017
+|-{{Party shading/Republican}}
+| [[Greg Walden]]
+| [[Republican Party (United States)|Republican]]
+| [[Oregon]]
+| 2017–2019
+|-{{Party shading/Democratic}}
+| [[Frank Pallone]]
+| [[Democratic Party (United States)|Democratic]]
+| [[New Jersey]]
+| 2019–2023
+|-{{Party shading/Republican}}
+| [[Cathy McMorris Rodgers]]
+| [[Republican Party (United States)|Republican]]
+| [[Washington (state)|Washington]]
+| 2023–
+|}
+
+==See also==
+* [[List of current United States House of Representatives committees]]
+
+==References==
+{{reflist}}
+
+==External links==
+{{Commons category|United States House Committee on Energy and Commerce}}
+*{{Official|http://energycommerce.house.gov/ }} ([https://www.loc.gov/item/lcwa00hsif00/ Archive])
+*[https://www.congress.gov/committee/house-energy-and-commerce/hsif00 House Energy and Commerce Committee]. Legislation activity and reports, Congress.gov.
+*[https://www.congress.gov/committees/video/house-energy-and-commerce/hsif00 House Energy and Commerce Committee Hearings and Meetings Video]. Congress.gov
+
+{{United States congressional committees}}
+
+[[Category:Committees of the United States House of Representatives|Energy]]
+[[Category:Energy in the United States]]
+[[Category:1795 establishments in the United States]]
+[[Category:Organizations established in 1795]]

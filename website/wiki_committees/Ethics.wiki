@@ -1,0 +1,251 @@
+{{Short description|Standing committee of the United States House of Representatives}}
+{{Infobox U.S. congressional committee
+| name               = House Committee on Ethics
+| type               = standing
+| chamber            = house
+| congress           = 118th
+| parent             = 
+| image              = 
+| image_size         =
+| caption            =
+| status             = active
+| formed             = 1967
+| disbanded          =
+| succeeded          =
+| preceded           =
+| merged             =
+| former_names       =
+| chair              = [[Michael Guest (politician)|Michael Guest]]
+| chair_party        = R
+| chair_since        = {{start date|2023|01|3}}
+| ranking_member     = [[Susan Wild]]
+| rm_party           = D
+| rm_since           = {{start date|2023|01|3}}
+| vice_chair         = 
+| vc_party           = 
+| vc_since           = 
+| chair_emeritus     = 
+| ce_party           = 
+| ce_since           =
+| seats              = 10
+| majority1          = R
+| majority1_seats    = 5
+| minority1          = D
+| minority1_seats    = 5
+| purpose            = "to administer travel, gift, financial disclosure, outside income, and other regulations; advise members and staff; issue advisory opinions and investigate potential ethics violations"
+| policy_areas       = [[Ethics]]
+| oversight          = 
+| counterpart        = [[United States Senate Select Committee on Ethics]]
+| subcommittees      = <!-- use {{bulleted list|list_style=text-align:left|}} for formatting -->
+| meeting_place      = 
+| meeting_image      =
+| meeting_img_size   =
+| website            = {{URL|https://ethics.house.gov}}
+| minority_website   = 
+| chamber_rules      = Rule X.1(o), Rules of the House of Representatives
+| committee_rules    = [https://ethics.house.gov/about/committee-rules Ethics Committee Rules]
+| notes              =
+}}
+{{United States House of Representatives}}
+The '''U.S. House Committee on Ethics''', often known simply as the '''Ethics Committee''', is one of the [[United States House of Representatives committees|committees]] of the [[United States House of Representatives]]. Before the [[112th Congress]], it was known as the '''Committee on Standards of Official Conduct'''.<ref>{{cite web|last=Hooper|first=Molly K.|url=https://thehill.com/homenews/house/78078-new-gop-rules-will-make-it-tougher-for-house-to-raise-ceiling-on-federal-debt/|title=New GOP rules will make it tougher for House to raise debt ceiling|work=The Hill|date=December 22, 2010|access-date=2011-01-06}}</ref>
+
+The House Ethics Committee has often received criticism.<ref>{{cite news| url=https://www.cbsnews.com/news/a-double-standard-for-house-ethics/ | work=CBS News | first=Sharyl | last=Attkisson | title=A Double Standard for House Ethics? | date=October 25, 2010}}</ref><ref>{{cite news| url=http://thecaucus.blogs.nytimes.com/2010/12/07/waters-calls-for-investigation-of-house-ethics-committee/ | work=The New York Times | first=Ashley | last=Parker | title=Waters Calls for Investigation of House Ethics Committee | date=December 7, 2010}}</ref><ref>{{cite news| url=https://www.washingtonpost.com/wp-dyn/content/article/2010/12/06/AR2010120605768.html | newspaper=The Washington Post | first=Ben | last=Pershing | title=Despite critics, Hill ethics office likely to survive | date=December 7, 2010}}</ref><ref>{{cite web|last=Wang |first=Marian |url=https://www.propublica.org/blog/item/investigating-the-investigators-how-the-house-ethics-committee-works-311 |title=Investigating the Investigators: How the House Ethics Committee Works |publisher=ProPublica |date=March 11, 2010 |access-date=February 22, 2012}}</ref> In response to criticism, the House created the [[Office of Congressional Ethics]] (OCE), an independent non-partisan entity established to monitor ethical conduct in the House.
+
+==Members==
+The committee has an equal number of members from each [[political party|party]], unlike the rest of the committees, which are constituted with the majority of members and the committee chair coming from the party that controls the House. This even split has limited its power by giving either political party an effective [[veto]] over the actions of the committee. Members may not serve more than three terms on the committee, unless they serve as chair in their fourth term.
+
+===Members, 118th Congress===
+{| class=wikitable
+|-
+! Majority
+! Minority
+|-
+| {{party shading/Republican}} valign=top |
+* [[Michael Guest (politician)|Michael Guest]], Mississippi, ''Chair''
+* [[David Joyce (politician)|David Joyce]], Ohio
+* [[John Rutherford (Florida politician)|John Rutherford]], Florida
+* [[Andrew Garbarino]], New York
+* [[Michelle Fischbach]], Minnesota
+
+| {{party shading/Democratic}} valign=top |
+* [[Susan Wild]], Pennsylvania, ''Ranking Member''
+* [[Veronica Escobar]], Texas
+* [[Mark DeSaulnier]], California
+* [[Deborah K. Ross]], North Carolina
+* [[Glenn Ivey]], Maryland
+|}
+Resolutions electing members: {{USBill|118|HRes|79}} (D), {{USBill|118|HRes|80}} (R), {{USBill|118|HRes|84}} (chair)
+
+==Past committee rosters==
+===117th Congress===
+{| class=wikitable
+|-
+! Majority
+! Minority
+|-
+| {{party shading/Democratic}} valign=top |
+* [[Ted Deutch]], Florida, ''Chair'' (until September 30, 2022)
+* [[Susan Wild]], Pennsylvania ''Chair'' (from September 30, 2022)
+* [[Dean Phillips]], Minnesota
+* [[Veronica Escobar]], Texas
+* [[Mondaire Jones]], New York
+
+| {{party shading/Republican}} valign=top |
+* [[Jackie Walorski]], Indiana, ''Ranking Member'' (until August 3, 2022)
+* [[Michael Guest (politician)|Michael Guest]], Mississippi, ''Ranking Member'' (from August 19, 2022)
+* [[David Joyce (politician)|David Joyce]], Ohio
+* [[John Rutherford (Florida politician)|John Rutherford]], Florida
+* [[Kelly Armstrong]], North Dakota
+|}
+Resolutions electing members: {{USBill|117|HRes|9}} (chair), {{USBill|117|HRes|10}} (Ranking Member), {{USBill|117|HRes|62}} (D), {{USBill|117|HRes|63}} (R), {{USBill|117|HRes|95}} (R)
+
+===116th Congress===
+{| class=wikitable
+|-
+! Majority
+! Minority
+|-
+| {{party shading/Democratic}} valign=top |
+* [[Ted Deutch]], Florida, ''Chair''
+* [[Grace Meng]], New York
+* [[Susan Wild]], Pennsylvania
+* [[Dean Phillips]], Minnesota
+* [[Anthony Brown (Maryland politician)|Anthony Brown]], Maryland
+
+| {{party shading/Republican}} valign=top |
+* [[Kenny Marchant]], Texas, ''Ranking Member''
+* [[John Ratcliffe (American politician)|John Ratcliffe]], Texas (until May 22, 2020)
+* [[George Holding]], North Carolina
+* [[Jackie Walorski]], Indiana
+* [[Michael Guest (politician)|Michael Guest]], Mississippi
+|}
+Sources: {{USBill|116|HRes|31}} (chair), {{USBill|116|HRes|32}} (Ranking Member), {{USBill|116|HRes|113}} (R), {{USBill|116|HRes|125}} (D), {{USBill|116|HRes|148}} (D)
+
+===115th Congress===
+{| class=wikitable
+|-
+! Majority
+! Minority
+|-
+| {{party shading/Republican}} valign=top |
+* [[Susan Brooks]], Indiana, ''Chairwoman''
+* [[Pat Meehan]], Pennsylvania, until January 2018
+* [[Kenny Marchant]], Texas
+* [[Leonard Lance]], New Jersey
+* [[Mimi Walters]], California
+* [[John Ratcliffe (American politician)|John Ratcliffe]], Texas, from January 2018
+| {{party shading/Democratic}} valign=top |
+* [[Ted Deutch]], Florida, ''Ranking Member''
+* [[Yvette Clarke]], New York
+* [[Jared Polis]], Colorado
+* [[Anthony Brown (Maryland politician)|Anthony Brown]], Maryland
+* [[Steve Cohen (politician)|Steve Cohen]], Tennessee
+|}
+Sources: {{USBill|115|HRes|6}} (R), {{USBill|115|HRes|56}}, {{USBill|115|HRes|127}} (D), {{USBill|115|HRes|685}} (R)
+
+===114th Congress===
+{| class=wikitable
+|-
+! Majority
+! Minority
+|-
+| {{party shading/Republican}} valign=top |
+* [[Charlie Dent]], Pennsylvania, ''Chairman''
+* [[Pat Meehan]], Pennsylvania 
+* [[Trey Gowdy]], South Carolina 
+* [[Susan Brooks]], Indiana
+* [[Kenny Marchant]], Texas
+| {{party shading/Democratic}} valign=top |
+* [[Linda Sánchez]], California, ''Ranking Member''
+* [[Mike Capuano]], Massachusetts
+* [[Yvette Clarke]], New York
+* [[Ted Deutch]], Florida
+* [[John B. Larson]], Connecticut
+|}
+Sources: {{USBill|114|HRes|6}} (R), {{USBill|114|HRes|30}}, {{USBill|114|HRes|71}} (D)
+
+===113th Congress===
+{| class=wikitable
+|-
+! Majority
+! Minority
+|-
+| {{party shading/Republican}} valign=top |
+* [[Mike Conaway]], Texas, ''Chairman''
+* [[Charlie Dent]], Pennsylvania
+* [[Pat Meehan]], Pennsylvania 
+* [[Trey Gowdy]], South Carolina 
+* [[Susan Brooks]], Indiana 
+| {{party shading/Democratic}} valign=top |
+* [[Linda Sánchez]], California, ''Ranking Member''
+* [[Pedro Pierluisi]], Puerto Rico
+* [[Mike Capuano]], Massachusetts
+* [[Yvette Clarke]], New York
+* [[Ted Deutch]], Florida
+|}
+
+Sources: {{USBill|113|HRes|6}} (R), {{USBill|113|HRes|7}}, {{USBill|113|HRes|42}} (D)
+
+===112th Congress===
+{| class=wikitable
+|-
+! Majority
+! Minority
+|-
+| {{party shading/Republican}} valign=top |
+* [[Jo Bonner]], Alabama, ''Chairman''
+* [[Michael McCaul]], Texas
+* [[Mike Conaway]], Texas
+* [[Charlie Dent]], Pennsylvania
+* [[Gregg Harper]], Mississippi
+| {{party shading/Democratic}} valign=top |
+* [[Linda Sánchez]], California, ''Ranking Member''
+* [[John Yarmuth]], Kentucky
+* [[Donna Edwards]], Maryland
+* [[Pedro Pierluisi]], Puerto Rico
+* [[Joe Courtney (politician)|Joe Courtney]], Connecticut
+|}
+
+Source: 
+* Resolutions ({{USBill|112|HRes|6}} and {{USBill|112|HRes|62}}) electing members to certain standing committees of the House of Representatives.
+
+==Function==
+The Ethics Committee has many functions, but they all revolve around the standards of ethical conduct for members of the House. Under this authority, it:
+
+*Agrees on a set of rules that regulate what behavior is considered ethical for members (rules relating to gifts, travel, campaign activities, treatment of staff,  conflicts of interest, etc. are typical)
+*Conducts investigations into whether members have violated these standards
+*Makes recommendations to the whole House on what action, if any, should be taken as a result of the investigations (e.g. censure, [[Expulsion from the United States Congress|expulsion]] from the House, or nothing if the member is found not to be violating a rule)
+*Provides advice to members before they (the members) take action, so as to avoid uncertainty over ethical culpability.
+
+==History==
+The committee has a long history; the first matter it handled was on January 30, 1798, when Rep. [[Matthew Lyon]] of [[Vermont]] was accused of "gross indecency" after he spat on Rep. [[Roger Griswold]] of [[Connecticut]] after an exchange of insults (a week later, another complaint was filed against Lyon, this time for "gross indecency of language in his defense before this House"). Since the early days of the House, the committee's reports have gotten much more technical, delving into the details of [[campaign finance]] and other financial arcana.
+
+As a result of the criminal investigation of Majority Leader [[Tom DeLay]] (R-TX), and lobbyist [[Jack Abramoff]], there was pressure on the Ethics Committee to take action to admonish members involved in their activities. However, action was slow and the responsibility for impeding its progress was attributed to then-[[Speaker of the United States House of Representatives]] [[Dennis Hastert]]. When the committee did admonish Tom DeLay for a third time, Hastert removed three Republicans from the panel, including chairman [[Joel Hefley]], (R-CO). Hastert had his own personal ethical problems, such as when he failed to take action when warned about [[Mark Foley]]'s sexual relationships with young congressional pages.<ref>Norm Ornstein, [https://www.theatlantic.com/politics/archive/2015/06/dennis-hastert-scandal/394754/ This Isn't Dennis Hastert's First Scandal], ''The Atlantic'' (June 3, 2015).</ref> The new chairman, [[Doc Hastings]] (R-WA), acted to rein in the panel, leading to a Democratic boycott and preventing a quorum. The stalemate lasted three months until Hastings backed down. By then the committee was left broken and unable to take action in the DeLay case, the full [[Jack Abramoff Indian lobbying scandal]], or other cases such as that of ranking Ethics Committee Democrat [[Jim McDermott]] (D-WA), who revealed violations by [[Newt Gingrich]] without authorization to the press.<ref>{{cite book |title=The Broken Branch |pages=190–191 |last=Mann |first=Thomas E. |author2=Ornstein, Norman J.  |year=2006 |publisher=Oxford University Press |isbn=0195368711 }}</ref><ref>{{cite web|first=Jay |last=Bookman |url=http://blogs.ajc.com/jay-bookman-blog/2010/08/02/rangel-waters-ethics-cases-represent-laudable-progress/ |title=Rangel, Waters ethics cases represent laudable progress |publisher=The Atlanta Journal-Constitution |date=August 2, 2010 |access-date=February 22, 2012}}</ref><ref>{{cite web|url=http://www.commoncause.org/site/pp.asp?c=dkLNK1MQIwG&b=476747 |title=Tom DeLay's Transgressions: A Pattern of Misbehavior |publisher=Common Cause |access-date=February 22, 2012}}</ref>
+
+On November 16, 2010, [[Charles Rangel]] (D-NY) was found guilty on 11 of the 12 charges against him by the adjudicatory subcommittee of the House Ethics Committee. They included solicitation of funds and donations for the non-profit Rangel Center from those with business before the Ways and Means Committee and the improper use of Congressional letterhead and other House resources in those solicitations; for submitting incomplete and inaccurate financial disclosures, for using an apartment as an office despite having Congressional dealings with its landlord and for failing to pay taxes on a Dominican villa.<ref>{{cite news|url=http://cityroom.blogs.nytimes.com/2010/11/16/rangel-found-to-have-violated-multiple-ethics-rules/|title=Rangel's Ethics Violations|author=Newman, Andy|newspaper=The New York Times|date=November 16, 2010}}</ref><ref>{{Cite news|url=https://abcnews.go.com/Politics/rep-charles-rangel-ethics-trial-house-panel-deliberates/story?id=12159790|title=Rep. Charles Rangel Convicted of Violating House Ethics Rules|publisher=ABC News|date=November 16, 2010|first=Ariane|last=de Vogue}}</ref><ref>{{cite news|url=https://www.nytimes.com/2010/11/17/nyregion/17rangel.html|title=Rangel Found Guilty By Ethics Panel|author=Kocieniewski, David|newspaper=The New York Times|date=November 16, 2010|page=A24}}</ref>
+
+On March 29, 2010, the OCE released a report dated January 28, 2010, that concluded Rep. [[Nathan Deal]] (R-GA) appeared to have improperly used his office staff to pressure Georgia officials to continue the exclusive, no-bid state vehicle inspection program that generated hundreds of thousands of dollars a year for his family's auto salvage business, Gainesville Salvage & Disposal.<ref>{{cite news|first=Eric|last=Lipton|url=https://www.nytimes.com/2010/03/30/us/30ethics.html|title=Ethics Report Faults Ex-Congressman|work=The New York Times|access-date= January 5, 2017 | date=March 29, 2010}}</ref>
+The Ethics Committee never reported or commented on any investigation of Deal.<ref>{{cite web|author=OCE|url=http://oce.house.gov/disclosures/Review_No_09-022_Referral_to_Standards.pdf|title=Review No. 09-1022|date=March 26, 2010}}</ref> On March 1, 2010, Deal resigned his seat saying he was concentrating on a run for governor, which excluded him from the Office of Congressional Ethics' jurisdiction.<ref>{{cite web|first=Justin|last=Elliott|url=http://talkingpointsmemo.com/muckraker/did-gop-rep-resign-to-squelch-ethics-probe|title=Did GOP Rep Resign To Squelch Ethics Probe?|publisher=Tpmmuckraker.talkingpointsmemo.com|date=March 1, 2010|access-date=January 5, 2017}}</ref><ref>{{cite web|url=http://www.ajc.com/news/state--regional-govt--politics/deal-sells-controversial-salvage-yard-prepares-for-2014-election/IP7mgQJQNqN2wRTJRrYD3I/ |title=Deal sells controversial salvage yard as he prepares for 2014 election |first=Greg|last=Bluestein|publisher=The Atlanta Journal-Constitution |date=July 3, 2013 |access-date=January 5, 2017}}</ref> Besides Deal, another Georgia Republican, Rep. [[Paul Broun]], accused of paying a consultant with taxpayer funds in his 2014 bid for a U.S. Senate race, avoided answering to charges by losing that primary and leaving office.<ref>[http://politics.blog.ajc.com/2017/01/04/embattled-congressional-ethics-office-had-targeted-nathan-deal-paul-broun/ Embattled congressional ethics office previously probed Nathan Deal, Paul Broun], ''[[The Atlanta Journal-Constitution]]'', Tamar Hallerman, January 4, 2017. Retrieved 5 January 2017.</ref><ref>[http://www.myajc.com/news/rep-broun-leaves-congress-with-ethics-case-hanging/XQ4k1HsGhGUCSdGZbFW13I/ Rep. Broun leaves congress with ethics case hanging], ''[[The Atlanta Journal-Constitution]]'', Bret Schrade, January 10, 2015. Retrieved 5 January 2017.</ref>
+
+The OCE discovered, via a difficult investigation, that a 2013 trip nine members took to Azerbaijan was paid for by funds laundered for the purpose from the Azerbaijani government. The Ethics committee had asked the OCE to drop the case, only approving release of a summary finding in 2015, deeming the full report "not appropriate for release because the referral followed the OCE Board’s decision not to cease its investigations."<ref>[http://www.huffingtonpost.com/entry/office-of-congressional-ethics-azerbaijan-investigation_us_586d8f22e4b0c4be0af2e08a House GOP’s Blueprint To Gut Ethics Office Looks Like It Was Copied From Azerbaijan Scandal], ''[[The Huffington Post]]'', Laura Barron-Lopez, January 4, 2016. Retrieved 5 January 2016.</ref>
+
+On January 2, 2017, one day before the [[115th United States Congress]] was scheduled to convene for its first session, the House Republican majority voted 119–74 to effectively place the OCE under direct control of the House Ethics Committee, making any subsequent reviews of possible violations of criminal law by Congressional members dependent upon approval following referral to the Ethics Committee itself, or to federal law enforcement agencies. The new rules would have prevented the OCE from independently releasing public statements on pending or completed investigations.<ref>{{Cite news|url=https://www.nytimes.com/2017/01/02/us/politics/with-no-warning-house-republicans-vote-to-hobble-independent-ethics-office.html|title=With No Warning, House Republicans Vote to Gut Independent Ethics Office|last=Lipton|first=Eric|date=2017-01-02|newspaper=The New York Times|issn=0362-4331|access-date=2017-01-04}}</ref><ref>{{Cite web|url=http://www.cnn.com/2017/01/02/politics/office-of-congressional-ethics-oversight-of-ethics-committee-amendment/index.html|title=House GOP guts ethics panel|first1=Deirdre|last1=Walsh|first2=Daniella|last2=Diaz|website=CNN|date=3 January 2017 |access-date=2017-01-04}}</ref> House Judiciary Committee chair [[Bob Goodlatte]] (R-Va.) defended the action on the rules amendment saying it "builds upon and strengthens the existing Office of Congressional Ethics by maintaining its primary area of focus of accepting and reviewing complaints from the public and referring them, if appropriate, to the Committee on Ethics."<ref>{{cite web|last1=Cassata|first1=Donna|title=House GOP votes to gut independent ethics office|url=http://customwire.ap.org/dynamic/stories/U/US_HOUSE_REPUBLICANS_ETHICS?SITE=VANOV&SECTION=HOME&TEMPLATE=DEFAULT&CTIME=2017-01-02-21-37-00|website=Pilotonline.com|access-date=3 January 2017}}</ref> House Republicans reversed their plan to gut the OCE less than 24 hours after the initial vote, under bipartisan pressure from Representatives, their constituents and the president-elect, [[Donald Trump]].<ref name="NYT_reversal_OCE">{{cite news |url=https://www.nytimes.com/2017/01/03/us/politics/trump-house-ethics-office.html |title=House Republicans Back Down on Bid to Gut Ethics Office |date=January 3, 2016 |access-date=January 4, 2016 |work=[[The New York Times]] |location=Washington, DC}}</ref> In addition to negative Trump [[Twitter|tweets]], criticism was widespread including from [[Judicial Watch]], the [[Project on Government Oversight]], former Representative [[Bob Ney]] (R-OH), who was convicted of receiving bribes, and Abramoff, the lobbyist who provided such bribes.<ref>[https://www.npr.org/2017/01/03/508043376/after-trump-tweets-criticism-house-gop-drops-weakening-of-house-ethics-office After Backlash, Including From Trump, House GOP Drops Weakening Of Ethics Office], ''[[National Public Radio]]'', Susan Davis & Brian Naylor, January 3, 2016. Retrieved 4 January 2016.</ref>
+
+==See also==
+* [[United States Senate Select Committee on Ethics]]
+* [[List of current United States House of Representatives committees]]
+
+==References==
+{{reflist}}
+
+==External links==
+*[https://ethics.house.gov/ Committee on Ethics], official site ([https://www.loc.gov/item/lcwa00hsso00/ Archive])
+*[https://www.congress.gov/committee/house-ethics/hsso00 House Ethics Committee]. Legislation activity and reports, Congress.gov.
+
+{{United States congressional committees}}
+
+[[Category:Committees of the United States House of Representatives|Ethics]]
+[[Category:Ethics organizations]]
+[[Category:1798 establishments in the United States|1798 establishments in the United States]]
+[[Category:Organizations established in 1798]]
+[[Category:Parliamentary committees on Justice]]

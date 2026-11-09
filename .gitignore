@@ -1,0 +1,16 @@
+﻿.venv/
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+
+data/raw/
+.env
+data/*/voteview/
+data/*/text/
+
+# cosponsorship raw bulk downloads (rebuild with build_cosponsor.py)
+cosponsorship/data/raw/
+
+# raw Congressional Record speeches: never commit
+DONOTUPLOAD_PARQUET_FILE/
+crec_parsed/

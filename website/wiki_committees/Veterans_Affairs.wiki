@@ -1,0 +1,361 @@
+{{Short description|Standing committee of the United States House of Representatives}}
+{{Infobox U.S. congressional committee
+| name               = House Veterans' Affairs Committee
+| type               = standing
+| chamber            = house
+| congress           = 118th
+| status             = active
+| formed             = January 3, 1947
+| chair              = [[Mike Bost]]
+| chair_party        = R
+| chair_since        = January 3, 2023
+| ranking_member     = [[Mark Takano]]
+| rm_party           = D
+| rm_since           = January 3, 2023
+| seats              = 26
+| majority1          = R
+| majority1_seats    = 15
+| minority1          = D
+| minority1_seats    = 11
+| policy_areas       = 
+| oversight          = [[United States Department of Veterans Affairs|Department of Veterans Affairs]]
+| counterpart        = [[United States Senate Committee on Veterans' Affairs|Senate Veterans' Affairs Committee]]
+| subcommittees      = 
+| meeting_place      = 
+| meeting_image      = 
+| meeting_img_size   = 
+| website            = {{url|veterans.house.gov}}
+}}
+{{United States House of Representatives}}
+The [[standing committee|standing]] '''Committee on Veterans' Affairs''' in the [[United States House of Representatives]] oversees agencies, reviews current legislation, and recommends new [[Act of Congress|bill]]s or amendments concerning U.S. military veterans. Jurisdiction<ref name=":0">{{Cite web|url=https://veterans.house.gov/our-jurisdiction|title=House Committee on Veterans Affairs|website=veterans.house.gov|language=en-US|access-date=2017-04-07}}</ref> includes retiring and disability [[pension]]s, [[life insurance]], education (including the [[G.I. Bill]]), vocational training, [[medicine|medical]] care, and home [[loan]] guarantees. The committee oversees the [[United States Department of Veterans Affairs|Department of Veterans Affairs]] (VA), veterans' [[hospital]]s, and veterans' [[cemetery|cemeteries]], except cemeteries under the [[United States Secretary of the Interior|Secretary of the Interior]].
+
+The Veterans' Affairs Committee does not have legislative jurisdiction<ref name=":0" /> over the following issues:
+* Tax status of veterans benefits and contributions to Veterans Service Organizations ([[United States House Committee on Ways and Means|Committee on Ways and Means]]);
+* Military retiree issues, including COLA's and disability pay ([[United States House Committee on Armed Services|Committee on Armed Services]]);
+* CHAMPUS and Tri-Care ([[United States House Committee on Armed Services|Committee on Armed Services]]);
+* Survivor Benefit Program ([[United States House Committee on Armed Services|Committee on Armed Services]]);
+* Veterans Preference in Federal civil service hiring practice ([[United States House Committee on Oversight and Government Reform|Committee on Government Reform and Oversight]]);
+* Congressional charters for veterans service organizations ([[United States House Committee on the Judiciary|Committee on Judiciary]]);
+* Immigration issues relating to veterans ([[United States House Committee on the Judiciary|Committee on Judiciary]]); and
+* Issues dealing with [[Prisoner of war|Prisoners of War]] (POWs) and service members [[missing in action]] (MIAs) ([[United States House Committee on Armed Services|Committee on Armed Services]])
+The committee was created by Section 121(a) of the [[Legislative Reorganization Act of 1946]] ([[Act of Congress|Public Law]] [[Seventy-ninth United States Congress|79]]-601), which authorized a standing committee of 27 members.
+
+== Past and current chairs ==
+
+* 1947–1949: [[Edith Nourse Rogers]] (R-MA)
+* 1949–1953: [[John Elliott Rankin]] (D-MS)
+* 1953–1955: Edith Nourse Rogers (R-MA)
+* 1955–1973: [[Olin E. Teague]] (D-TX)
+* 1973–1975: [[William Jennings Bryan Dorn]] (D-SC)
+* 1975–1981: [[Ray Roberts (politician)|Herbert Ray Roberts]] (D-TX)
+* 1981–1995: [[Gillespie V. Montgomery]] (D-MS)
+* 1995–2001: [[Bob Stump]] (R-AZ)
+* 2001–2005: [[Chris Smith (New Jersey politician)|Chris Smith]] (R-NJ)
+* 2005–2007: [[Steve Buyer]] (R-IN)
+* 2007–2011: [[Bob Filner]] (D-CA)
+* 2011–2017: [[Jeff Miller (Florida politician)|Jeff Miller]] (R-FL)
+* 2017–2019: [[Phil Roe (politician)|Phil Roe]] (R-TN)
+* 2019–2023: [[Mark Takano]] (D-CA)
+* 2023–present: [[Mike Bost]] (R-IL)
+
+==Members, 118th Congress==
+{| class=wikitable
+! Majority
+! Minority
+|-
+| {{party shading/Republican}} valign=top |
+* [[Mike Bost]], Illinois, ''Chair''
+* [[Amata Coleman Radewagen]], American Samoa
+* [[Jack Bergman]], Michigan
+* [[Nancy Mace]], South Carolina
+* [[Matt Rosendale]], Montana
+* [[Mariannette Miller-Meeks]], Iowa
+* [[Greg Murphy (politician)|Greg Murphy]], North Carolina
+* [[Scott Franklin (politician)|Scott Franklin]], Florida
+* [[Derrick Van Orden]], Wisconsin
+* [[Morgan Luttrell]], Texas
+* [[Juan Ciscomani]], Arizona
+* [[Eli Crane]], Arizona
+* [[Keith Self]], Texas
+* [[Jen Kiggans]], Virginia
+
+| {{party shading/Democratic}} valign=top |
+* [[Mark Takano]], California, ''Ranking Member''
+* [[Julia Brownley]], California
+* [[Mike Levin]], California
+* [[Chris Pappas (American politician)|Chris Pappas]], New Hampshire
+* [[Frank J. Mrvan]], Indiana
+* [[Sheila Cherfilus-McCormick]], Florida
+* [[Chris Deluzio]], Pennsylvania, ''Vice Ranking Member''
+* [[Morgan McGarvey]], Kentucky
+* [[Delia Ramirez]], Illinois
+* [[Greg Landsman]], Ohio
+* [[Nikki Budzinski]], Illinois
+|}
+Resolutions electing members: {{USBill|118|HRes|14}} (Chair), {{USBill|118|HRes|15}} (Ranking Member), {{USBill|118|HRes|79}} (D), {{USBill|118|HRes|80}} (R)<!--
+
+According to committee members' official online biographies, ten (Banks, Bergman, Brown, Ellzey, Gallego, Lamb, Luria, Miller-Meeks, Nehls and Sablan) of the thirty-one members are veterans.-->
+
+== Subcommittees ==
+{| class="wikitable"
+! Subcommittee
+! Chair<ref>{{Cite web |date=January 30, 2023 |title=Chairman Bost Announces 118th Congress Veterans' Affairs Subcommittee Chairs |url=https://veterans.house.gov/news/documentsingle.aspx?DocumentID=6088 |access-date=January 31, 2023 |website=House Committee on Veterans Affairs}}</ref>
+! Ranking Member<ref>{{Cite web |title=Ranking Member Takano Announces Vice Ranking Member and Subcommittee Assignments and Ranking Members for the 118th Congress {{!}} The House Committee on Veterans' Affairs |url=https://democrats-veterans.house.gov/news/press-releases/ranking-member-takano-announces-vice-ranking-member-and-subcommittee-assignments-and-ranking-members-for-the-118th-congress |access-date=2023-02-03 |website=democrats-veterans.house.gov |language=en}}</ref>
+|-
+| [[United States House Veterans' Affairs Subcommittee on Disability Assistance and Memorial Affairs|Disability Assistance and Memorial Affairs]]
+| [[Morgan Luttrell]] (R-TX)
+|[[Chris Pappas (American politician)|Chris Pappas]] (D-NH)
+|-
+| [[United States House Veterans' Affairs Subcommittee on Economic Opportunity|Economic Opportunity]]
+| [[Derrick Van Orden]] (R-WI)
+|[[Mike Levin]] (D-CA)
+|-
+|[[United States House Veterans' Affairs Subcommittee on Health|Health]]
+| [[Mariannette Miller-Meeks]] (R-IA)
+|[[Julia Brownley]] (D-CA)
+|-
+|[[United States House Veterans' Affairs Subcommittee on Oversight and Investigations|Oversight and Investigations]]
+| [[Jen Kiggans]] (R-VA)
+|[[Frank J. Mrvan]] (D-IN)
+|-
+|[[United States House Veterans' Affairs Subcommittee on Technology Modernization|Technology Modernization]]
+| [[Matt Rosendale]] (R-MT) 
+|[[Sheila Cherfilus-McCormick]] (D-FL)
+|}
+==Past committee rosters==
+===117th Congress===
+{| class=wikitable
+! Majority
+! Minority
+|-
+| {{party shading/Democratic}} valign=top |
+* [[Mark Takano]], California, ''Chair''
+* [[Julia Brownley]], California
+* [[Conor Lamb]], Pennsylvania
+* [[Mike Levin]], California, ''Vice Chair''
+* [[Chris Pappas (American politician)|Chris Pappas]], New Hampshire
+* [[Elaine Luria]], Virginia
+* [[Frank J. Mrvan]], Indiana
+* [[Sheila Cherfilus-McCormick]], Florida (since February 2, 2022)
+* <span {{Party shading/Independent}}>[[Gregorio Sablan]], Northern Mariana Islands</span>
+* [[Lauren Underwood]], Illinois
+* [[Colin Allred]], Texas
+* [[Lois Frankel]], Florida
+* [[Anthony Brown (Maryland politician)|Anthony Brown]], Maryland
+* [[Elissa Slotkin]], Michigan
+* [[David Trone]], Maryland
+* [[Raul Ruiz (politician)|Raul Ruiz]], California
+* [[Ruben Gallego]], Arizona
+
+| {{party shading/Republican}} valign=top |
+* [[Mike Bost]], Illinois, ''Ranking Member''
+* [[Amata Coleman Radewagen]], American Samoa<!--, ''Vice Ranking Member''-->
+* [[Jack Bergman]], Michigan
+* [[Jim Banks]], Indiana
+* [[Chip Roy]], Texas
+* [[Greg Murphy (politician)|Greg Murphy]], North Carolina
+* [[Tracey Mann]], Kansas
+* [[Barry Moore (Alabama politician)|Barry Moore]], Alabama
+* [[Nancy Mace]], South Carolina
+* [[Madison Cawthorn]], North Carolina
+* [[Troy Nehls]], Texas
+* [[Matt Rosendale]], Montana
+* [[Mariannette Miller-Meeks]], Iowa
+* [[Jake Ellzey]], Texas (since August 24, 2021)
+* [[Connie Conway]], California
+|}
+Resolutions electing members: {{USBill|117|HRes|9}} (Chair), {{USBill|117|HRes|10}} (Ranking Member), {{USBill|117|HRes|62}} (D), {{USBill|117|HRes|63}} (R), {{USBill|117|HRes|92}} (D), {{USBill|117|HRes|111}} (D), {{USBill|117|HRes|602}} (R), {{USBill|117|HRes|902}} (D), {{USBill|117|HRes|1197}} (R)
+
+According to committee members' official online biographies, ten (Banks, Bergman, Brown, Ellzey, Gallego, Lamb, Luria, Miller-Meeks, Nehls and Sablan) of the thirty-one members are veterans.
+
+;Subcommittees
+{|class=wikitable
+! Subcommittee
+! Chair
+! Ranking Member
+|-
+| [[United States House Veterans' Affairs Subcommittee on Disability Assistance and Memorial Affairs|Disability Assistance and Memorial Affairs]]
+| [[Elaine Luria]] (D-VA)
+| [[Troy Nehls]] (R-TX) 
+|-
+| [[United States House Veterans' Affairs Subcommittee on Economic Opportunity|Economic Opportunity]]
+| [[Mike Levin]] (D-CA)
+| [[Barry Moore (Alabama politician)|Barry Moore]] (R-AL)
+|-
+|[[United States House Veterans' Affairs Subcommittee on Health|Health]]
+| [[Julia Brownley]] (D-CA)
+| [[Jack Bergman]] (R-MI)
+|-
+|[[United States House Veterans' Affairs Subcommittee on Oversight and Investigations|Oversight and Investigations]]
+| [[Chris Pappas (American politician)|Chris Pappas]] (D-NH)
+| [[Tracey Mann]] (R-KS)
+|-
+|[[United States House Veterans' Affairs Subcommittee on Technology Modernization|Technology Modernization]]
+| [[Frank J. Mrvan]] (D-IN) 
+| [[Matt Rosendale]] (R-MT)
+|}
+===116th Congress===
+{| class=wikitable
+! Majority
+! Minority
+|-
+| {{party shading/Democratic}} valign=top |
+* [[Mark Takano]], California, ''Chair''
+* [[Julia Brownley]], California
+* [[Kathleen Rice]], New York
+* [[Conor Lamb]], Pennsylvania, ''Vice Chair''
+* [[Mike Levin]], California
+* [[Max Rose (politician)|Max Rose]], New York
+* [[Chris Pappas (American politician)|Chris Pappas]], New Hampshire
+* [[Elaine Luria]], Virginia
+* [[Susie Lee]], Nevada
+* [[Joe Cunningham (American politician)|Joe Cunningham]], South Carolina
+* [[Gil Cisneros]], California
+* [[Collin Peterson]], Minnesota
+* <span {{Party shading/Independent}}>[[Gregorio Sablan]], Northern Mariana Islands</span>
+* [[Colin Allred]], Texas
+* [[Lauren Underwood]], Illinois
+* [[Anthony Brindisi]], New York (since November 19, 2019)
+
+| {{party shading/Republican}} valign=top |
+* [[Phil Roe (politician)|Phil Roe]], Tennessee, ''Ranking Member''
+* [[Gus Bilirakis]], Florida
+* [[Amata Coleman Radewagen]], American Samoa, ''Vice Ranking Member''
+* [[Mike Bost]], Illinois
+* [[Neal Dunn]], Florida
+* [[Jack Bergman]], Michigan
+* [[Jim Banks]], Indiana
+* [[Andy Barr (American politician)|Andy Barr]], Kentucky
+* [[Dan Meuser]], Pennsylvania
+* [[Steve Watkins (politician)|Steve Watkins]], Kansas
+* [[Chip Roy]], Texas
+* [[Greg Steube]], Florida
+|}
+Sources: {{USBill|116|HRes|24}} (Chair), {{USBill|116|HRes|25}} (Ranking Member), {{USBill|116|HRes|57}} (D), {{USBill|116|HRes|68}} (R), {{USBill|116|HRes|148}} (D),  {{USBill|116|HRes|712}} (D)
+
+According to committee members' official online biographies, thirteen (Banks, Bergman, Bost, Cisneros, Dunn, Lamb, Luria, Peterson, Roe, Rose, Sablan, Steube, Watkins) of the twenty-eight members are veterans.
+
+;Subcommittees
+{|class=wikitable
+! Subcommittee
+! Chair
+! Ranking Member
+|-
+| [[United States House Veterans' Affairs Subcommittee on Disability Assistance and Memorial Affairs|Disability Assistance and Memorial Affairs]]
+| [[Elaine Luria]] (D-VA)
+| [[Mike Bost]] (R-IL) 
+|-
+| [[United States House Veterans' Affairs Subcommittee on Economic Opportunity|Economic Opportunity]]
+| [[Mike Levin]] (D-CA)
+| [[Gus Bilirakis]] (R-FL)
+|-
+|[[United States House Veterans' Affairs Subcommittee on Health|Health]]
+| [[Julia Brownley]] (D-CA)
+| [[Neal Dunn]] (R-FL)
+|-
+|[[United States House Veterans' Affairs Subcommittee on Oversight and Investigations|Oversight and Investigations]]
+| [[Chris Pappas (American politician)|Chris Pappas]] (D-NH)
+| [[Jack Bergman]] (R-MI)
+|-
+|[[United States House Veterans' Affairs Subcommittee on Technology Modernization|Technology Modernization]]
+|[[Susie Lee]] (D-NV) 
+|[[Jim Banks]] (R-IN)
+|}
+
+===115th Congress===
+{| class=wikitable
+! Majority
+! Minority
+|-
+| {{party shading/Republican}} valign=top |
+* [[Phil Roe (politician)|Phil Roe]], Tennessee, ''Chair''
+* [[Gus Bilirakis]], Florida, ''Vice Chair''
+* [[Mike Coffman]], Colorado
+* [[Brad Wenstrup]], Ohio
+* [[Amata Coleman Radewagen]], American Samoa
+* [[Mike Bost]], Illinois
+* [[Bruce Poliquin]], Maine
+* [[Neal Dunn]], Florida
+* [[Jodey Arrington]], Texas
+* [[John Rutherford (Florida politician)|John Rutherford]], Florida
+* [[Clay Higgins]], Louisiana
+* [[Jack Bergman]], Michigan
+* [[Jim Banks]], Indiana
+* [[Jenniffer González]], Puerto Rico
+| {{party shading/Democratic}} valign=top |
+* [[Tim Walz]], Minnesota, ''Ranking Member''
+* [[Mark Takano]], California, ''Vice Ranking Member''
+* [[Julia Brownley]], California
+* [[Ann McLane Kuster]], New Hampshire
+* [[Beto O'Rourke]], Texas
+* [[Kathleen Rice]], New York
+* [[Lou Correa]], California
+* [[Conor Lamb]], Pennsylvania (from April 17, 2018)
+* <span {{Party shading/Independent}}>[[Gregorio Sablan]], Northern Marianas Islands</span>
+* [[Elizabeth Esty]], Connecticut
+* [[Scott Peters (politician)|Scott Peters]], California
+|}
+
+Sources: {{USBill|115|HRes|6}} (Chair), {{USBill|115|HRes|45}} (D), {{USBill|115|HRes|51}} (R), {{USBill|115|HRes|52}} (D), {{USBill|115|HRes|833}} (D)
+
+According to committee members' official online biographies, eleven (Banks, Bergman, Bost, Coffman, Dunn, Higgins, Lamb, Roe, Sablan, Walz, Wenstrup) of the twenty-five members are veterans.
+
+===114th Congress===
+{| class=wikitable
+! Majority
+! Minority
+|-
+| {{party shading/Republican}} valign=top |
+* [[Jeff Miller (Florida politician)|Jeff Miller]], Florida, ''Chairman''
+* [[Doug Lamborn]], Colorado
+* [[Gus Bilirakis]], Florida, ''Vice Chair''
+* [[Phil Roe (politician)|Phil Roe]], Tennessee
+* [[Dan Benishek]], Michigan  
+* [[Tim Huelskamp]], Kansas
+* [[Mike Coffman]], Colorado
+* [[Brad Wenstrup]], Ohio
+* [[Jackie Walorski]], Indiana
+* [[Ralph Abraham (politician)|Ralph Abraham]], Louisiana
+* [[Lee Zeldin]], New York
+* [[Ryan Costello]], Pennsylvania
+* [[Amata Coleman Radewagen]], American Samoa
+* [[Mike Bost]], Illinois
+| {{party shading/Democratic}} valign=top |
+* [[Mark Takano]], California, ''Ranking Member''<ref>{{cite news|last1=Horseman|first1=Jeff|title=CONGRESS: Corrine Brown indictment makes Mark Takano ranking Democrat on veterans' affairs committee|url=http://www.pe.com/articles/house-807957-riverside-mark.html|access-date=14 July 2016|publisher=The Press-Enterprise|date=11 July 2016}}</ref>
+* [[Corrine Brown]], Florida
+* [[Julia Brownley]], California
+* [[Dina Titus]], Nevada
+* [[Raul Ruiz (politician)|Raul Ruiz]], California
+* [[Ann McLane Kuster]], New Hampshire
+* [[Beto O'Rourke]], Texas
+* [[Kathleen Rice]], New York
+* [[Tim Walz]], Minnesota
+* [[Jerry McNerney]], California
+|}
+
+Resolutions electing Republican members: {{USBill|113|HRes|6}} (Chairs)<br>Resolutions electing Democratic members: {{USBill|114|HRes|7}}, {{USBill|114|HRes|30}}, {{USBill|114|HRes|40}} and {{USBill|114|HRes|77}}
+
+==See also==
+* [[United States Senate Committee on Veterans' Affairs]]
+* [[United States Department of Veterans Affairs]]
+* [[List of current United States House of Representatives committees]]
+
+==References==
+{{Reflist}}
+
+== External links ==
+{{commons category|United States House Committee on Veterans' Affairs}}
+* [https://veterans.house.gov/ House Committee on Veterans' Affairs] ([https://www.loc.gov/item/lcwa00hsvr00/ Archive])
+* [https://www.congress.gov/committee/house-veterans-affairs/hsvr00 House Veterans' Affairs Committee]. Legislation activity and reports, Congress.gov.
+* [https://www.va.gov/ United States Department of Veterans' Affairs]
+* [https://congress.gov/committees/video/house-veterans-affairs/hsvr00][http://www.va.gov/index.htm House Veterans' Affairs Committee Hearings and Meetings Videos]
+* Active legislation passing through the Committee on Veterans' Affairs can be found [https://congress.gov/committee/house-veterans-affairs/hsvr00 here]
+
+{{House VA Chairmen}}
+{{United States congressional committees}}
+
+[[Category:1947 establishments in Washington, D.C.]]
+[[Category:Committees of the United States House of Representatives]]
+[[Category:Military-related organizations]]
+[[Category:Organizations established in 1947]]
+[[Category:Veterans' affairs in the United States]]
