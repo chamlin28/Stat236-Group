@@ -55,6 +55,7 @@ nav a{display:block;font:500 .88rem var(--body);color:var(--ink-2);text-decorati
 nav a:hover{background:var(--tint);color:var(--ink)}
 nav a[aria-current="page"]{background:var(--ink);color:var(--bg)}
 
+.warn{background:var(--tint);border-bottom:1px solid var(--rule);padding:12px max(16px, env(safe-area-inset-left, 0px));font-size:.92rem;color:var(--ink)}
 .page{padding-block:8px 24px}
 .pagehead{padding-block:36px 24px;display:flex;flex-direction:column;gap:12px}
 
@@ -245,8 +246,8 @@ footer ol{padding-left:1.2em;margin:8px 0 0}
 @media (prefers-reduced-motion: reduce){*{transition:none!important;animation:none!important;scroll-behavior:auto!important}}
 </style>
 
-<script src="https://cdnjs.cloudflare.com/ajax/libs/plotly.js/2.35.0/plotly.min.js"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/wordcloud2.js/1.2.2/wordcloud2.min.js"></script>
+<script>__PLOTLY__</script>
+<script>__WORDCLOUD__</script>
 
 <header class="mast gut">
   <div class="wide">
@@ -262,6 +263,8 @@ footer ol{padding-left:1.2em;margin:8px 0 0}
   </div>
 </header>
 
+<noscript><div class="warn">This page needs JavaScript. Open it in a regular web browser such as Chrome, Safari, Edge or Firefox, not in a file preview.</div></noscript>
+<div class="warn" id="libwarn" hidden></div>
 <main class="gut">
 
 <!-- ======================= HOME ======================= -->
@@ -583,6 +586,13 @@ footer ol{padding-left:1.2em;margin:8px 0 0}
 const D = JSON.parse(document.getElementById('data').textContent);
 const M = D.members, meta = D.meta;
 const $ = s => document.querySelector(s);
+const libsOK = typeof Plotly!=='undefined' && typeof WordCloud!=='undefined';
+if(!libsOK){                                             // keep the search, filters and lists working even if a library failed to load
+  window.Plotly = window.Plotly || {react(){},restyle(){},relayout(){return Promise.resolve()},purge(){}};
+  window.WordCloud = window.WordCloud || function(){};
+  const w=$('#libwarn'); w.hidden=false; w.textContent='Some charts could not load in this browser. Try Chrome, Safari, Edge or Firefox, and open the file directly instead of through a preview.';
+}
+const webglOK = (()=>{try{const c=document.createElement('canvas');return !!(window.WebGLRenderingContext&&(c.getContext('webgl')||c.getContext('experimental-webgl')))}catch(e){return false}})();
 const css = v => getComputedStyle(document.documentElement).getPropertyValue(v).trim();
 const VN = ["Progressive Democrats","Pragmatic Democrats","Governing Republicans","Freedom-wing Republicans"];
 const VC = () => [css('--v1'),css('--v2'),css('--v3'),css('--v4')];
@@ -649,7 +659,36 @@ function memberCard(m){
 function legend(){
   $('#legend').innerHTML=`<span><i style="background:${css('--dem')}"></i>Democrat</span><span><i style="background:${css('--rep')}"></i>Republican</span>`;
 }
+function drawTetra2D(){
+  const vc=VC(), ink=css('--ink-3'), V2=VT.map(v=>proj(v)), P2=M.map(m=>proj(pos3(m.pi)));
+  const gm=groupMembers(), hi=gm?new Set(gm.map(m=>m.b)):null, all=M.map((_,i)=>i);
+  const edges=[[0,1],[1,2],[2,3],[3,0],[0,2],[1,3]], ex=[], ey=[];
+  edges.forEach(([a,b])=>{ex.push(V2[a][0],V2[b][0],null);ey.push(V2[a][1],V2[b][1],null)});
+  const mk=(idx,opa,size)=>({type:'scatter',mode:'markers',x:idx.map(i=>P2[i][0]),y:idx.map(i=>P2[i][1]),customdata:idx,
+    text:idx.map(i=>`${M[i].n} (${M[i].p}-${M[i].s})`),hovertemplate:'%{text}<extra></extra>',
+    marker:{size,color:idx.map(i=>partyC(M[i].p)),opacity:opa,line:{width:0}}});
+  const traces=[{type:'scatter',mode:'lines',x:ex,y:ey,line:{color:ink,width:1.5},hoverinfo:'skip'},
+    {type:'scatter',mode:'text',x:V2.map(v=>v[0]*1.1),y:V2.map(v=>v[1]*1.1),text:VN.map((n,k)=>`<b>V${k+1}</b> ${n}`),textfont:{color:vc,size:13},hoverinfo:'skip'}];
+  if(hi){
+    traces.push(mk(all.filter(i=>!hi.has(M[i].b)),.12,5)); traces.push(mk(all.filter(i=>hi.has(M[i].b)),.95,9));
+    const q=proj(pos3(meanPi(gm)));
+    traces.push({type:'scatter',mode:'markers',x:[q[0]],y:[q[1]],hoverinfo:'skip',marker:{size:13,symbol:'diamond',color:css('--focus'),line:{color:css('--surface'),width:2}}});
+  } else traces.push(mk(all,.8,7));
+  const rq=pinned?proj(pos3(pinned.pi)):null;
+  ringIdx=traces.length;
+  traces.push({type:'scatter',mode:'markers',x:rq?[rq[0]]:[],y:rq?[rq[1]]:[],hoverinfo:'skip',marker:{size:14,color:'rgba(0,0,0,0)',line:{color:css('--ink'),width:3}}});
+  Plotly.react('tetra',traces,Object.assign(baseLayout(),{margin:{l:10,r:10,t:10,b:10},showlegend:false,dragmode:false,
+    xaxis:{visible:false,fixedrange:true},yaxis:{visible:false,fixedrange:true,scaleanchor:'x'}}),cfg);
+  const el=$('#tetra');
+  if(!el._wired2){el._wired2=true;
+    el.on('plotly_hover',e=>{const p=e.points[0];if(p.customdata==null)return;if(!pinned)memberCard(M[p.customdata])});
+    el.on('plotly_click',e=>{const p=e.points[0];if(!p||p.customdata==null)return;const i=p.customdata;
+      setTimeout(()=>{try{pick(M[i])}catch(err){console.error(err)}jumpToMember()},0)});
+  }
+  legend(); renderSummary();
+}
 function drawTetra(){
+  if(!webglOK) return drawTetra2D();
   const vc=VC(), ink=css('--ink-3'), VT3=VT.map(T3);
   const edges=[[0,1],[1,2],[2,3],[3,0],[0,2],[1,3]];
   const ex=[],ey=[],ez=[]; edges.forEach(([a,b])=>{ex.push(VT3[a][0],VT3[b][0],null);ey.push(VT3[a][1],VT3[b][1],null);ez.push(VT3[a][2],VT3[b][2],null)});
@@ -698,6 +737,7 @@ function drawTetra(){
 }
 let zoomPending=1, zoomRaf=0;
 function zoomBy(f){
+  if(!webglOK) return;
   zoomPending*=f;
   if(zoomRaf) return;
   zoomRaf=requestAnimationFrame(()=>{zoomRaf=0;const k=zoomPending;zoomPending=1;
@@ -710,9 +750,10 @@ $('#tetra').parentElement.addEventListener('wheel',e=>{
   e.preventDefault();                                   // also stops the browser's own page zoom
   zoomBy(Math.exp(Math.max(-60,Math.min(60,e.deltaY))*0.0035));
 },{passive:false,capture:true});
+if(!webglOK){const z=document.querySelector('.zoom');if(z)z.hidden=true;const h=document.querySelector('.stage + .hint');if(h)h.textContent='This browser has WebGL turned off, so the graph is shown flat instead of in 3D. Click a dot for that member\'s words.'}
 $('#infoBtn').onclick=()=>$('#info').classList.toggle('open');
 $('#zIn').onclick=()=>zoomBy(.82); $('#zOut').onclick=()=>zoomBy(1.22);
-$('#zReset').onclick=()=>{cam={eye:{...EYE0},up:{...UP},center:{x:0,y:0,z:0}};Plotly.relayout('tetra',{'scene.camera':cam})};
+$('#zReset').onclick=()=>{if(!webglOK)return;cam={eye:{...EYE0},up:{...UP},center:{x:0,y:0,z:0}};Plotly.relayout('tetra',{'scene.camera':cam})};
 /* ---- filter: pick how to group members, then which group ---- */
 const byB=Object.fromEntries(M.map(m=>[m.b,m]));
 const G=D.groups||{caucus:{},vertex:{},committee:{}};
@@ -778,8 +819,10 @@ function renderSummary(){
   renderCloud(cv,gw.pos,col,'this group','everyone else');
 }
 function moveRing(){
-  const rp=pinned?T3(pos3(pinned.pi)):null;
-  try{Plotly.restyle('tetra',{x:[rp?[rp[0]]:[]],y:[rp?[rp[1]]:[]],z:[rp?[rp[2]]:[]]},[ringIdx])}catch(err){}
+  try{
+    if(webglOK){const rp=pinned?T3(pos3(pinned.pi)):null;Plotly.restyle('tetra',{x:[rp?[rp[0]]:[]],y:[rp?[rp[1]]:[]],z:[rp?[rp[2]]:[]]},[ringIdx])}
+    else{const q=pinned?proj(pos3(pinned.pi)):null;Plotly.restyle('tetra',{x:[q?[q[0]]:[]],y:[q?[q[1]]:[]]},[ringIdx])}
+  }catch(err){}
 }
 function pin(m){if(!m)return;pinned=m;memberCard(m);moveRing()}
 function jumpToMember(){
@@ -969,6 +1012,6 @@ route();
 let rt; addEventListener('resize',()=>{clearTimeout(rt);rt=setTimeout(()=>{if(current==='communities')drawClouds();if(current==='home')renderSummary()},250)});
 const redraw=()=>PAGES[current]&&PAGES[current]();
 new MutationObserver(redraw).observe(document.documentElement,{attributes:true,attributeFilter:['data-theme']});
-matchMedia('(prefers-color-scheme: dark)').addEventListener('change',redraw);
+(()=>{const mq=matchMedia('(prefers-color-scheme: dark)');if(mq.addEventListener)mq.addEventListener('change',redraw);else if(mq.addListener)mq.addListener(redraw)})();
 })();
 </script>
