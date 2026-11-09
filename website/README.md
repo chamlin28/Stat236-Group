@@ -1,7 +1,7 @@
 # Project webpage
 
-`index.html` is the finished, self-contained demo page (data inlined; Plotly and wordcloud2 load from cdnjs).
-Open it in a browser or upload it as-is to the course site.
+`congress_is_non-binary.html` is the finished, self-contained demo page (data, Plotly, wordcloud2 and the report PDF are all built in).
+Open it in a browser or upload it as-is to the course site. (The old `index.html` is a leftover copy and is no longer updated.)
 
 | File | What it is |
 |---|---|

@@ -228,6 +228,13 @@ details .fx{display:block;margin-top:10px;line-height:1.8;overflow-x:auto;white-
 .fxblock .fx{display:block;white-space:nowrap;margin:0}
 .subsub{font:400 1.25rem/1.3 var(--display);color:var(--ink-2)}
 .subsub b{font-weight:400;color:var(--ink)}
+.reflabel{font:500 .72rem var(--mono);letter-spacing:.1em;text-transform:uppercase;margin:20px 0 10px}
+.refs{list-style:none;margin:0;padding:0;display:grid;gap:7px;font-size:.82rem;line-height:1.5;color:var(--ink-3)}
+.refs li{padding-left:1.6em;text-indent:-1.6em}
+.refs a{color:var(--ink-3);text-underline-offset:2px}
+.refs a:hover{color:var(--ink)}
+.refs-page{font-size:.95rem;color:var(--ink-2);max-width:78ch;gap:12px}
+.refs-page a{color:var(--v1)}
 footer{border-top:1px solid var(--rule);padding-block:28px 40px;font-size:.85rem;color:var(--ink-3)}
 footer ol{padding-left:1.2em;margin:8px 0 0}
 
@@ -259,6 +266,7 @@ footer ol{padding-left:1.2em;margin:8px 0 0}
       <li><a href="#words">Word explorer</a></li>
       <li><a href="#findings">Findings</a></li>
       <li><a href="#links">Links</a></li>
+      <li><a href="#references">References</a></li>
     </ul></nav>
   </div>
 </header>
@@ -348,6 +356,7 @@ footer ol{padding-left:1.2em;margin:8px 0 0}
       <a href="#communities"><b>The four communities</b><span>Who sits at each corner and which words set each community apart.</span></a>
       <a href="#words"><b>Word explorer</b><span>Type any common floor word and see which community says it most.</span></a>
       <a href="#method"><b>How we built it</b><span>From 360 roll calls and 20,000 floor speeches to a membership mix for every member.</span></a>
+      <a href="report.pdf" data-report target="_blank" rel="noopener"><b>Read the report</b><span>The full STAT 236 write-up, with the method, results and discussion.</span></a>
     </div>
   </section>
 </div>
@@ -375,11 +384,11 @@ footer ol{padding-left:1.2em;margin:8px 0 0}
     </div>
 
     <h3>Speeches</h3>
-    <p>Floor speeches come from the daily edition of the Congressional Record on GovInfo, with parsing code adapted from the boundaries-congress package (van der Does and Kolchinsky, 2021). We kept House speeches that carry a member identifier, run at least 250 characters and were given before 1 November 2024, so nothing said after the election is used. That leaves <span id="mSpeeches">20,513</span> speeches from members in the model.</p>
-    <p>Each member's speeches are embedded with a sentence model and reduced to five principal components. These enter the model as node covariates. Members with under 1,000 words after cleaning stay in the model through their votes, but they get no word list, which leaves <span id="mWords">373</span> members with word statistics.</p>
+    <p>Floor speeches come from the daily edition of the Congressional Record on GovInfo, with parsing code adapted from the boundaries-congress package (van der Does and Kolchinsky, 2021). We kept House speeches that carry a member identifier, run at least 250 characters and were given before 1 November 2024, so nothing said after the election is used. That reduces 97,817 House and Senate speeches to 28,914.</p>
+    <p>Each retained speech is embedded with BAAI/bge-small-en-v1.5 (Xiao et al., 2023). The embeddings are averaged to the member level, weighted by word count, and reduced to five principal components, which are fit on the 115th and 116th Congresses and applied to the 118th. These enter the model as node covariates. The covariates include Extensions of Remarks, while the word analysis leaves them out, which leaves <span id="mSpeeches">20,513</span> speeches. Members with under 1,000 words after cleaning stay in the model through their votes but get no word list, which leaves <span id="mWords">373</span> members with word statistics.</p>
 
     <h3>An outside check</h3>
-    <p>The left–right score on member cards and in the Findings is the first dimension of DW-NOMINATE, from the <span class="mono">nominate_dim1</span> column of Voteview's 118th-Congress member file. Voteview fits it to each member's votes over a whole career, so it does not depend on our 360 bills. We never feed it into the model.</p>
+    <p>The left–right score on member cards and in the Findings is the first dimension of DW-NOMINATE, from the <span class="mono">nominate_dim1</span> column of Voteview's 118th-Congress member file. Voteview estimates it from every roll-call vote, so it does not depend on our 360 bills. We never feed it into the model.</p>
   </section>
 
   <section class="block stack article">
@@ -563,24 +572,42 @@ footer ol{padding-left:1.2em;margin:8px 0 0}
   <section class="block stack">
     <div class="next">
       <a href="https://github.com/chamlin28/Stat236-Group" target="_blank" rel="noopener"><b>Code on GitHub</b><span>The data pipeline, the Mixed-SCORE fit, the word statistics and the source for this site.</span></a>
-      <a href="report.pdf" target="_blank" rel="noopener"><b>The report</b><span>The full STAT 236 write-up of the method and results.</span></a>
+      <a href="report.pdf" data-report target="_blank" rel="noopener"><b>The report</b><span>The full STAT 236 write-up of the method and results.</span></a>
     </div>
   </section>
 </div>
 
+<!-- ======================= REFERENCES ======================= -->
+<div class="page wide" data-page="references" hidden>
+  <div class="pagehead col">
+    <span class="eyebrow">References</span>
+    <h1>References</h1>
+  </div>
+  <section class="block stack">
+  <ul class="refs refs-page">
+    <li>Ji, P., Jin, J., Ke, Z. T., and Li, W. (2022). Co-citation and co-authorship networks of statisticians. <i>Journal of Business &amp; Economic Statistics</i>, 40(2), 469–485. <a href="https://doi.org/10.1080/07350015.2021.1978469" target="_blank" rel="noopener">doi:10.1080/07350015.2021.1978469</a></li>
+    <li>Jin, J. (2015). Fast community detection by SCORE. <i>The Annals of Statistics</i>, 43(1), 57–89. <a href="https://doi.org/10.1214/14-AOS1265" target="_blank" rel="noopener">doi:10.1214/14-AOS1265</a></li>
+    <li>Jin, J., Ke, Z. T., and Luo, S. (2021). Improvements on SCORE, especially for weak signals. <i>Sankhya A</i>, 1–36.</li>
+    <li>Jin, J., Ke, Z. T., and Luo, S. (2024). Mixed membership estimation for social networks. <i>Journal of Econometrics</i>, 239(2), 105369. <a href="https://doi.org/10.1016/j.jeconom.2022.12.003" target="_blank" rel="noopener">doi:10.1016/j.jeconom.2022.12.003</a></li>
+    <li>Lewis, J. B., Poole, K., Rosenthal, H., Boche, A., Rudkin, A., and Sonnet, L. (2025). <i>Voteview: Congressional roll-call votes database</i>. <a href="https://voteview.com" target="_blank" rel="noopener">voteview.com</a></li>
+    <li>Monroe, B. L., Colaresi, M. P., and Quinn, K. M. (2008). Fightin' words: Lexical feature selection and evaluation for identifying the content of political conflict. <i>Political Analysis</i>, 16(4), 372–403. <a href="https://doi.org/10.1093/pan/mpn018" target="_blank" rel="noopener">doi:10.1093/pan/mpn018</a></li>
+    <li>Poole, K. T., and Rosenthal, H. (1985). A spatial model for legislative roll call analysis. <i>American Journal of Political Science</i>, 29(2), 357–384. <a href="https://doi.org/10.2307/2111172" target="_blank" rel="noopener">doi:10.2307/2111172</a></li>
+    <li>Poole, K. T., and Rosenthal, H. (1997). <i>Congress: A Political-Economic History of Roll Call Voting</i>. Oxford University Press.</li>
+    <li>van der Does, T., and Kolchinsky, A. (2021). <i>boundaries_congress</i>. GitHub repository. <a href="https://github.com/tamaravdd/boundaries_congress" target="_blank" rel="noopener">github.com/tamaravdd/boundaries_congress</a></li>
+    <li>Xiao, S., Liu, Z., Zhang, P., and Muennighoff, N. (2023). C-Pack: Packaged resources to advance general Chinese embedding.</li>
+    <li>Zhao, M. Y. (2025). <i>Words Speak As Loudly As Actions: Deep Learning Methods for Stance-Based Ideal Points from Congressional Speeches</i>. Bachelor's thesis, Harvard University.</li>
+  </ul>
+  </section>
+</div>
+
 <footer class="wide">
-  <p><b>Congress is Non-binary: A Mixed Membership Exploration of the 118th Congress.</b> Cyrus Hamlin, Margaret Lee, Mateo Quintero · STAT 236, Harvard, Fall 2026 · Code: <a href="https://github.com/chamlin28/Stat236-Group" target="_blank" rel="noopener">github.com/chamlin28/Stat236-Group</a></p>
-  <ol>
-    <li>Jin, Ke &amp; Luo. Mixed membership estimation for social networks (Mixed-SCORE).</li>
-    <li>Ji &amp; Jin. Community detection with node covariates (embedding [R, τH]).</li>
-    <li>Monroe, Colaresi &amp; Quinn (2008). Fightin' Words. <i>Political Analysis</i>.</li>
-    <li>Lewis et al. Voteview (voteview.com): roll-call votes and DW-NOMINATE scores (Poole &amp; Rosenthal). Congressional Record via GovInfo; parsing adapted from van der Does &amp; Kolchinsky (2021).</li>
-  </ol>
+  <p><b>Congress is Non-binary: A Mixed Membership Exploration of the 118th Congress.</b> Cyrus Hamlin, Margaret Lee and Mateo Quintero. STAT 236, Harvard, Fall 2026.</p>
 </footer>
 </main>
 <div id="tip" hidden></div>
 
 <script id="data" type="application/json">__DATA__</script>
+<script id="reportpdf" type="text/plain">__REPORTPDF__</script>
 <script>
 (function(){
 const D = JSON.parse(document.getElementById('data').textContent);
@@ -994,10 +1021,29 @@ function drawNom(){
     xaxis:axis({title:{text:'Left–right score (DW-NOMINATE dimension 1): liberal ← → conservative',font:{size:11}},zeroline:true}),yaxis:{visible:false,range:[-.6,3.6]}}),cfg);
 }
 
+/* ================= REPORT (the PDF is embedded in this page, so the link works from a single file) ================= */
+function openReport(e){
+  const el=document.getElementById('reportpdf'), b64=el?el.textContent.trim():'';
+  if(!b64) return;                                       // not embedded: follow the plain href
+  e.preventDefault();
+  try{
+    const bin=atob(b64), u8=new Uint8Array(bin.length);
+    for(let i=0;i<bin.length;i++) u8[i]=bin.charCodeAt(i);
+    const url=URL.createObjectURL(new Blob([u8],{type:'application/pdf'}));
+    const w=window.open(url,'_blank');
+    if(!w){                                              // popup blocked or sandboxed: save the file instead
+      const a=document.createElement('a'); a.href=url; a.download='STAT236_Congress_is_Non-binary.pdf';
+      document.body.appendChild(a); a.click(); a.remove();
+    }
+    setTimeout(()=>URL.revokeObjectURL(url),120000);
+  }catch(err){ window.location.href='report.pdf'; }
+}
+document.querySelectorAll('a[data-report]').forEach(a=>a.addEventListener('click',openReport));
+
 /* ================= ROUTER (one page visible at a time; charts draw when their page is shown) ================= */
 const startMember=M.find(m=>m.n==='Chip Roy')||M[0];
 const PAGES={home:()=>{renderFilterUI();drawTetra();memberCard(pinned||startMember)},
-  method:()=>{fillMethod();drawHeat();drawScree()}, communities:()=>{drawVerts();drawClouds()}, words:drawWord, findings:drawFindings, links:()=>{}};
+  method:()=>{fillMethod();drawHeat();drawScree()}, communities:()=>{drawVerts();drawClouds()}, words:drawWord, findings:drawFindings, links:()=>{}, references:()=>{}};
 function route(){
   const name=(location.hash||'#home').slice(1);
   const page=PAGES[name]?name:'home';

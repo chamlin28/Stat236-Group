@@ -283,10 +283,15 @@ head = ('<!doctype html>\n<html lang="en">\n<head>\n<meta charset="utf-8">\n'
         '<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">\n')
 # standalone document, so it works when uploaded to the course site as-is
 page = head + tpl.replace("__DATA__", blob) + "\n</html>\n"
+# the report PDF is embedded (base64) so the link works even when only index.html is shared
+import base64
+pdf = HERE / "report.pdf"
+page = page.replace("__REPORTPDF__", base64.b64encode(pdf.read_bytes()).decode("ascii") if pdf.exists() else "")
 # Plotly and wordcloud2 are inlined (from website/vendor), so the page works with no network and in locked-down browsers
 for token, fname in (("__PLOTLY__", "plotly.min.js"), ("__WORDCLOUD__", "wordcloud2.min.js")):
     js = (HERE / "vendor" / fname).read_text(encoding="utf-8").replace("</script", "<\\/script")
     i = page.index(token)
     page = page[:i] + js + page[i + len(token):]
-(HERE / "index.html").write_text(page, encoding="utf-8")
-print(f"wrote index.html ({(HERE / 'index.html').stat().st_size / 1e6:.2f} MB)")
+OUT_HTML = HERE / "congress_is_non-binary.html"           # the published page
+OUT_HTML.write_text(page, encoding="utf-8")
+print(f"wrote {OUT_HTML.name} ({OUT_HTML.stat().st_size / 1e6:.2f} MB)")
